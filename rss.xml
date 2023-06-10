@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://weekly.nnxx.me/weekly-vuepress/rss.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://weekly.nnxx.me/rss.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://weekly.nnxx.me/weekly-vuepress/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://weekly.nnxx.me/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Weekly</title>
-    <link>https://weekly.nnxx.me/weekly-vuepress/</link>
+    <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 10 Jun 2023 10:25:25 GMT</pubDate>
-    <lastBuildDate>Sat, 10 Jun 2023 10:25:25 GMT</lastBuildDate>
+    <pubDate>Sat, 10 Jun 2023 10:39:49 GMT</pubDate>
+    <lastBuildDate>Sat, 10 Jun 2023 10:39:49 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
     <item>
       <title>06-10-逸趣横生</title>
-      <link>https://weekly.nnxx.me/weekly-vuepress/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html</link>
-      <guid>https://weekly.nnxx.me/weekly-vuepress/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html</guid>
-      <source url="https://weekly.nnxx.me/weekly-vuepress/rss.xml">06-10-逸趣横生</source>
+      <link>https://weekly.nnxx.me/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html</link>
+      <guid>https://weekly.nnxx.me/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">06-10-逸趣横生</source>
       <description>思维开拓 在线地址：https://joeprevite.com/ (https://joeprevite.com/) webdev, indie hacking and web3 思考的价值：https://thinking.tomotoes.com/ (https://thinking.tomotoes.com/) 技能树：Jimmy’s work...</description>
       <category>周报</category>
       <pubDate>Sat, 10 Jun 2023 00:00:00 GMT</pubDate>
@@ -90,13 +90,13 @@ UI 比较好看的chatGPT项目</p>
     </item>
     <item>
       <title>2023 周刊</title>
-      <link>https://weekly.nnxx.me/weekly-vuepress/2023/</link>
-      <guid>https://weekly.nnxx.me/weekly-vuepress/2023/</guid>
-      <source url="https://weekly.nnxx.me/weekly-vuepress/rss.xml">2023 周刊</source>
+      <link>https://weekly.nnxx.me/2023/</link>
+      <guid>https://weekly.nnxx.me/2023/</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">2023 周刊</source>
       <description>2023 06-10-逸趣横生 (06/逸趣横生.md);</description>
       <content:encoded><![CDATA[<h3> 2023</h3>
 <ul>
-<li><a href="/weekly-vuepress/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html" target="blank">06-10-逸趣横生</a></li>
+<li><a href="/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html" target="blank">06-10-逸趣横生</a></li>
 </ul>
 ]]></content:encoded>
     </item>

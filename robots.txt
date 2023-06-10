@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://weekly.nnxx.me/weekly-vuepress/sitemap.xml
+Sitemap: https://weekly.nnxx.me/sitemap.xml
