@@ -3,7 +3,7 @@
   <id>https://weekly.nnxx.me/</id>
   <title>Weekly</title>
   <subtitle>行动胜于空谈</subtitle>
-  <updated>2023-06-10T12:19:56.874Z</updated>
+  <updated>2023-06-10T14:01:36.813Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://weekly.nnxx.me/atom.xml"/>
   <link rel="alternate" href="https://weekly.nnxx.me/"/>
@@ -12,7 +12,7 @@
     <title type="text">06-10-逸趣横生</title>
     <id>https://weekly.nnxx.me/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html</id>
     <link href="https://weekly.nnxx.me/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html"/>
-    <updated>2023-06-10T12:19:56.922Z</updated>
+    <updated>2023-06-10T14:01:36.876Z</updated>
     <summary type="html"><![CDATA[<h2> 思维开拓</h2>
 <blockquote>
 <p>在线地址：<a href="https://joeprevite.com/" target="_blank" rel="noopener noreferrer">https://joeprevite.com/</a></p>
@@ -32,6 +32,10 @@
 <blockquote>
 <p>技能树：<a href="https://jimmylv.notion.site/Wiki-Links-634566182c0d4a5cacecadec2bdf152f" target="_blank" rel="noopener noreferrer">Jimmy’s working notes</a></p>
 <p>在线地址：<a href="https://jimmylv.noto.so/" target="_blank" rel="noopener noreferrer">https://jimmylv.noto.so/</a></p>
+</blockquote>
+<blockquote>
+<p>在线地址：<a href="https://blog.jimmylv.info/" target="_blank" rel="noopener noreferrer">https://blog.jimmylv.info/</a></p>
+<p>项目地址：<a href="https://github.com/JimmyLv/jekyll-blog" target="_blank" rel="noopener noreferrer">https://github.com/JimmyLv/jekyll-blog</a></p>
 </blockquote>
 <h2> GPT - AI</h2>
 <p>周报生成助手</p>
@@ -75,6 +79,11 @@
 </blockquote>
 <figure><figcaption></figcaption></figure>
 <blockquote>
+<p>项目地址：<a href="https://github.com/ademilter/homepage" target="_blank" rel="noopener noreferrer">https://github.com/ademilter/homepage</a></p>
+<p>在线地址：<a href="https://ademilter.com/" target="_blank" rel="noopener noreferrer">https://ademilter.com/</a></p>
+</blockquote>
+<figure><figcaption>image-20230610202651424</figcaption></figure>
+<blockquote>
 <p>项目地址：<a href="https://github.com/craftzdog/craftzdog-homepage" target="_blank" rel="noopener noreferrer">craftzdog-homepage</a></p>
 <p>在线地址：<a href="https://www.craftz.dog" target="_blank" rel="noopener noreferrer">https://www.craftz.dog</a></p>
 </blockquote>
@@ -83,6 +92,11 @@
 <p>项目地址：<a href="https://github.com/bastienwirtz/homer" target="_blank" rel="noopener noreferrer">https://github.com/bastienwirtz/homer</a></p>
 <p>在线地址：<a href="https://homer-demo.netlify.app/" target="_blank" rel="noopener noreferrer">https://homer-demo.netlify.app/</a></p>
 </blockquote>
+<blockquote>
+<p>项目地址： <a href="https://github.com/AyagawaSeirin/ThreebodySpace" target="_blank" rel="noopener noreferrer">https://github.com/AyagawaSeirin/ThreebodySpace</a></p>
+<p>在线地址：<a href="https://threebody.space/" target="_blank" rel="noopener noreferrer">https://threebody.space/</a></p>
+</blockquote>
+<figure><figcaption>image-20230610203210183</figcaption></figure>
 <h2> Github 推荐</h2>
 <blockquote>
 <p>Github用户：<a href="https://github.com/surmon-china" target="_blank" rel="noopener noreferrer">https://github.com/surmon-china</a></p>
@@ -96,7 +110,7 @@
     <title type="text">2023 周刊</title>
     <id>https://weekly.nnxx.me/2023/</id>
     <link href="https://weekly.nnxx.me/2023/"/>
-    <updated>2023-06-10T12:19:56.924Z</updated>
+    <updated>2023-06-10T14:01:36.881Z</updated>
     <summary type="html"><![CDATA[<h3> 2023</h3>
 <ul>
 <li><a href="/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html" target="blank">06-10-逸趣横生</a></li>

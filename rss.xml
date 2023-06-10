@@ -6,8 +6,8 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 10 Jun 2023 12:19:56 GMT</pubDate>
-    <lastBuildDate>Sat, 10 Jun 2023 12:19:56 GMT</lastBuildDate>
+    <pubDate>Sat, 10 Jun 2023 14:01:36 GMT</pubDate>
+    <lastBuildDate>Sat, 10 Jun 2023 14:01:36 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
@@ -30,6 +30,10 @@
 <blockquote>
 <p>技能树：<a href="https://jimmylv.notion.site/Wiki-Links-634566182c0d4a5cacecadec2bdf152f" target="_blank" rel="noopener noreferrer">Jimmy’s working notes</a></p>
 <p>在线地址：<a href="https://jimmylv.noto.so/" target="_blank" rel="noopener noreferrer">https://jimmylv.noto.so/</a></p>
+</blockquote>
+<blockquote>
+<p>在线地址：<a href="https://blog.jimmylv.info/" target="_blank" rel="noopener noreferrer">https://blog.jimmylv.info/</a></p>
+<p>项目地址：<a href="https://github.com/JimmyLv/jekyll-blog" target="_blank" rel="noopener noreferrer">https://github.com/JimmyLv/jekyll-blog</a></p>
 </blockquote>
 <h2> GPT - AI</h2>
 <p>周报生成助手</p>
@@ -73,6 +77,11 @@
 </blockquote>
 <figure><figcaption></figcaption></figure>
 <blockquote>
+<p>项目地址：<a href="https://github.com/ademilter/homepage" target="_blank" rel="noopener noreferrer">https://github.com/ademilter/homepage</a></p>
+<p>在线地址：<a href="https://ademilter.com/" target="_blank" rel="noopener noreferrer">https://ademilter.com/</a></p>
+</blockquote>
+<figure><figcaption>image-20230610202651424</figcaption></figure>
+<blockquote>
 <p>项目地址：<a href="https://github.com/craftzdog/craftzdog-homepage" target="_blank" rel="noopener noreferrer">craftzdog-homepage</a></p>
 <p>在线地址：<a href="https://www.craftz.dog" target="_blank" rel="noopener noreferrer">https://www.craftz.dog</a></p>
 </blockquote>
@@ -81,6 +90,11 @@
 <p>项目地址：<a href="https://github.com/bastienwirtz/homer" target="_blank" rel="noopener noreferrer">https://github.com/bastienwirtz/homer</a></p>
 <p>在线地址：<a href="https://homer-demo.netlify.app/" target="_blank" rel="noopener noreferrer">https://homer-demo.netlify.app/</a></p>
 </blockquote>
+<blockquote>
+<p>项目地址： <a href="https://github.com/AyagawaSeirin/ThreebodySpace" target="_blank" rel="noopener noreferrer">https://github.com/AyagawaSeirin/ThreebodySpace</a></p>
+<p>在线地址：<a href="https://threebody.space/" target="_blank" rel="noopener noreferrer">https://threebody.space/</a></p>
+</blockquote>
+<figure><figcaption>image-20230610203210183</figcaption></figure>
 <h2> Github 推荐</h2>
 <blockquote>
 <p>Github用户：<a href="https://github.com/surmon-china" target="_blank" rel="noopener noreferrer">https://github.com/surmon-china</a></p>
