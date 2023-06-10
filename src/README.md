@@ -46,9 +46,6 @@ highlights:
     image: /assets/image/blog.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
-    bgImageStyle:
-      width: 12rem;
-      margin: 2rem 4rem;
     features:
       - title:
         # icon: blog
