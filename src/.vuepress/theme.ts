@@ -4,7 +4,7 @@ import sidebar from "./sidebar.js";
 
 
 const hostname =
-  process.env.HOSTNAME || 'https://weekly.nnxx.me';
+  process.env.HOSTNAME || 'https://weekly.nnxx.me' || 'https://blog.lxip.top/weekly-vuepress';
 
 export default hopeTheme({
   hostname,
@@ -162,7 +162,7 @@ export default hopeTheme({
     // 关闭sitemap插件
     sitemap: true,
     seo:
-      hostname === "https://weekly.nnxx.me"
+      hostname === "https://weekly.nnxx.me" || "https://blog.lxip.top/weekly-vuepress"
         ? {}
         : { canonical: "https://weekly.nnxx.me" },
   },
