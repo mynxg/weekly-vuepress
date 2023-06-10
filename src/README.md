@@ -28,7 +28,7 @@ highlights:
       background-size: initial
     features:
       - title: 个人博客
-        icon: note
+        icon: pen-to-square
         details: 编程学习
         link: https://blog.lxip.top/
 
@@ -38,7 +38,7 @@ highlights:
         link: https://nnxx.me/
 
       - title: CSDN
-        icon: debug
+        icon: bug
         details: bug记录
         link: https://blog.csdn.net/nxg0916
 
@@ -49,7 +49,7 @@ highlights:
 
       - title: chatgpt
         icon: box-archive 
-        details: web
+        details: openAI API
         link: https://chat.nnxx.me/
         
   - header: 
