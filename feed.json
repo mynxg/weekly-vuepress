@@ -1,18 +1,18 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Weekly",
-  "home_page_url": "https://weekly.nnxx.me/",
-  "feed_url": "https://weekly.nnxx.me/feed.json",
+  "home_page_url": "https://weekly.nnxx.me/weekly-vuepress/",
+  "feed_url": "https://weekly.nnxx.me/weekly-vuepress/feed.json",
   "description": "行动胜于空谈",
   "items": [
     {
       "title": "06-10-逸趣横生",
-      "url": "https://weekly.nnxx.me/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html",
-      "id": "https://weekly.nnxx.me/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html",
+      "url": "https://weekly.nnxx.me/weekly-vuepress/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html",
+      "id": "https://weekly.nnxx.me/weekly-vuepress/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html",
       "summary": "思维开拓 在线地址：https://joeprevite.com/ (https://joeprevite.com/) webdev, indie hacking and web3 思考的价值：https://thinking.tomotoes.com/ (https://thinking.tomotoes.com/) 技能树：Jimmy’s work...",
       "content_html": "<h2> 思维开拓</h2>\n<blockquote>\n<p>在线地址：<a href=\"https://joeprevite.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://joeprevite.com/</a>\nwebdev, indie hacking and web3</p>\n</blockquote>\n<blockquote>\n<p>思考的价值：<a href=\"https://thinking.tomotoes.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://thinking.tomotoes.com/</a></p>\n</blockquote>\n<blockquote>\n<p>技能树：<a href=\"https://jimmylv.notion.site/Wiki-Links-634566182c0d4a5cacecadec2bdf152f\" target=\"_blank\" rel=\"noopener noreferrer\">Jimmy’s working notes</a>\n在线地址：<a href=\"https://jimmylv.noto.so/\" target=\"_blank\" rel=\"noopener noreferrer\">https://jimmylv.noto.so/</a></p>\n</blockquote>\n<h2> GPT - AI</h2>\n<p>周报生成助手</p>\n<blockquote>\n<p>项目地址： <a href=\"https://github.com/guaguaguaxia/weekly_report\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/guaguaguaxia/weekly_report</a>\n可部署在vercel中，使用openAI API</p>\n</blockquote>\n<p>ChatGPT</p>\n<blockquote>\n<p>项目地址：<a href=\"https://github.com/GPTGenius/chatgpt-vercel\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/GPTGenius/chatgpt-vercel</a>\n在线地址：<a href=\"https://chatgpt-vercel-sample.vercel.app/\" target=\"_blank\" rel=\"noopener noreferrer\">chatgpt-vercel</a>\nUI 比较好看的chatGPT项目</p>\n</blockquote>\n<figure><figcaption></figcaption></figure>\n<p>ChatGPT</p>\n<blockquote>\n<p>项目地址：<a href=\"https://github.com/Yidadaa/ChatGPT-Next-Web\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/Yidadaa/ChatGPT-Next-Web</a>\n在线地址：<a href=\"https://chatgpt.nextweb.fun/\" title=\"https://chatgpt.nextweb.fun\" target=\"_blank\" rel=\"noopener noreferrer\">chatgpt.nextweb.fun</a></p>\n</blockquote>\n<figure><figcaption></figcaption></figure>\n<p>ChatGPT</p>\n<blockquote>\n<p>项目地址：<a href=\"https://github.com/ourongxing/chatgpt-vercel\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/ourongxing/chatgpt-vercel</a>\n在线地址：<a href=\"https://vercel-chatgpt-github.vercel.app/\" target=\"_blank\" rel=\"noopener noreferrer\">vercel-chatgpt</a>\n可同时配置多个API key</p>\n</blockquote>\n<figure><figcaption></figcaption></figure>\n<h2> 个人主页</h2>\n<blockquote>\n<p>项目地址：<a href=\"https://github.com/Tomotoes/HomePage\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/Tomotoes/HomePage</a>\n在线地址：<a href=\"https://tomotoes.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://tomotoes.com/</a></p>\n</blockquote>\n<figure><figcaption></figcaption></figure>\n<blockquote>\n<p>项目地址：<a href=\"https://github.com/imsyy/home\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/imsyy/home</a>\n在线地址：<a href=\"https://www.imsyy.top/\" title=\"https://www.imsyy.top\" target=\"_blank\" rel=\"noopener noreferrer\">www.imsyy.top</a></p>\n</blockquote>\n<figure><figcaption></figcaption></figure>\n<blockquote>\n<p>项目地址：<a href=\"https://github.com/benphelps/homepage\" target=\"_blank\" rel=\"noopener noreferrer\">homepage</a></p>\n</blockquote>\n<figure><figcaption></figcaption></figure>\n<blockquote>\n<p>项目地址：<a href=\"https://github.com/craftzdog/craftzdog-homepage\" target=\"_blank\" rel=\"noopener noreferrer\">craftzdog-homepage</a>\n在线地址：<a href=\"https://www.craftz.dog\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.craftz.dog</a></p>\n</blockquote>\n<figure><figcaption></figcaption></figure>\n<blockquote>\n<p>项目地址：<a href=\"https://github.com/bastienwirtz/homer\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/bastienwirtz/homer</a>\n在线地址：<a href=\"https://homer-demo.netlify.app/\" target=\"_blank\" rel=\"noopener noreferrer\">https://homer-demo.netlify.app/</a></p>\n</blockquote>\n<h2> Github 推荐</h2>\n<blockquote>\n<p>Github用户：<a href=\"https://github.com/surmon-china\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/surmon-china</a></p>\n</blockquote>\n<figure><figcaption></figcaption></figure>\n",
       "date_published": "2023-06-10T00:00:00.000Z",
-      "date_modified": "2023-06-10T10:13:28.508Z",
+      "date_modified": "2023-06-10T10:20:52.689Z",
       "authors": [],
       "tags": [
         "周报"
@@ -20,11 +20,11 @@
     },
     {
       "title": "2023 周刊",
-      "url": "https://weekly.nnxx.me/2023/",
-      "id": "https://weekly.nnxx.me/2023/",
+      "url": "https://weekly.nnxx.me/weekly-vuepress/2023/",
+      "id": "https://weekly.nnxx.me/weekly-vuepress/2023/",
       "summary": "2023 06-10-逸趣横生 (06/逸趣横生.md);",
-      "content_html": "<h3> 2023</h3>\n<ul>\n<li><a href=\"/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html\" target=\"blank\">06-10-逸趣横生</a></li>\n</ul>\n",
-      "date_modified": "2023-06-10T10:13:28.513Z",
+      "content_html": "<h3> 2023</h3>\n<ul>\n<li><a href=\"/weekly-vuepress/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html\" target=\"blank\">06-10-逸趣横生</a></li>\n</ul>\n",
+      "date_modified": "2023-06-10T10:20:52.691Z",
       "authors": [],
       "tags": []
     }

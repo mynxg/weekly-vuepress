@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://weekly.nnxx.me/atom.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://weekly.nnxx.me/weekly-vuepress/atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-  <id>https://weekly.nnxx.me/</id>
+  <id>https://weekly.nnxx.me/weekly-vuepress/</id>
   <title>Weekly</title>
   <subtitle>行动胜于空谈</subtitle>
-  <updated>2023-06-10T10:13:28.461Z</updated>
+  <updated>2023-06-10T10:20:52.639Z</updated>
   <generator>vuepress-plugin-feed2</generator>
-  <link rel="self" href="https://weekly.nnxx.me/atom.xml"/>
-  <link rel="alternate" href="https://weekly.nnxx.me/"/>
+  <link rel="self" href="https://weekly.nnxx.me/weekly-vuepress/atom.xml"/>
+  <link rel="alternate" href="https://weekly.nnxx.me/weekly-vuepress/"/>
   <category term="周报"/>
   <entry>
     <title type="text">06-10-逸趣横生</title>
-    <id>https://weekly.nnxx.me/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html</id>
-    <link href="https://weekly.nnxx.me/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html"/>
-    <updated>2023-06-10T10:13:28.508Z</updated>
+    <id>https://weekly.nnxx.me/weekly-vuepress/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html</id>
+    <link href="https://weekly.nnxx.me/weekly-vuepress/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html"/>
+    <updated>2023-06-10T10:20:52.689Z</updated>
     <summary type="html"><![CDATA[<h2> 思维开拓</h2>
 <blockquote>
 <p>在线地址：<a href="https://joeprevite.com/" target="_blank" rel="noopener noreferrer">https://joeprevite.com/</a>
@@ -94,17 +94,17 @@ UI 比较好看的chatGPT项目</p>
   </entry>
   <entry>
     <title type="text">2023 周刊</title>
-    <id>https://weekly.nnxx.me/2023/</id>
-    <link href="https://weekly.nnxx.me/2023/"/>
-    <updated>2023-06-10T10:13:28.513Z</updated>
+    <id>https://weekly.nnxx.me/weekly-vuepress/2023/</id>
+    <link href="https://weekly.nnxx.me/weekly-vuepress/2023/"/>
+    <updated>2023-06-10T10:20:52.691Z</updated>
     <summary type="html"><![CDATA[<h3> 2023</h3>
 <ul>
-<li><a href="/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html" target="blank">06-10-逸趣横生</a></li>
+<li><a href="/weekly-vuepress/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html" target="blank">06-10-逸趣横生</a></li>
 </ul>
 ]]></summary>
     <content type="html"><![CDATA[<h3> 2023</h3>
 <ul>
-<li><a href="/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html" target="blank">06-10-逸趣横生</a></li>
+<li><a href="/weekly-vuepress/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html" target="blank">06-10-逸趣横生</a></li>
 </ul>
 ]]></content>
   </entry>
