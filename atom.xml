@@ -3,7 +3,7 @@
   <id>https://weekly.nnxx.me/</id>
   <title>Weekly</title>
   <subtitle>行动胜于空谈</subtitle>
-  <updated>2023-06-10T14:01:36.813Z</updated>
+  <updated>2023-06-17T07:33:15.125Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://weekly.nnxx.me/atom.xml"/>
   <link rel="alternate" href="https://weekly.nnxx.me/"/>
@@ -12,7 +12,7 @@
     <title type="text">06-10-逸趣横生</title>
     <id>https://weekly.nnxx.me/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html</id>
     <link href="https://weekly.nnxx.me/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html"/>
-    <updated>2023-06-10T14:01:36.876Z</updated>
+    <updated>2023-06-17T07:33:15.171Z</updated>
     <summary type="html"><![CDATA[<h2> 思维开拓</h2>
 <blockquote>
 <p>在线地址：<a href="https://joeprevite.com/" target="_blank" rel="noopener noreferrer">https://joeprevite.com/</a></p>
@@ -110,7 +110,7 @@
     <title type="text">2023 周刊</title>
     <id>https://weekly.nnxx.me/2023/</id>
     <link href="https://weekly.nnxx.me/2023/"/>
-    <updated>2023-06-10T14:01:36.881Z</updated>
+    <updated>2023-06-17T07:33:15.175Z</updated>
     <summary type="html"><![CDATA[<h3> 2023</h3>
 <ul>
 <li><a href="/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html" target="blank">06-10-逸趣横生</a></li>
@@ -120,6 +120,162 @@
 <ul>
 <li><a href="/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html" target="blank">06-10-逸趣横生</a></li>
 </ul>
+]]></content>
+  </entry>
+  <entry>
+    <title type="text"></title>
+    <id>https://weekly.nnxx.me/2023/06/%E4%B8%80%E6%9B%B2%E5%BE%88%E5%B0%91.html</id>
+    <link href="https://weekly.nnxx.me/2023/06/%E4%B8%80%E6%9B%B2%E5%BE%88%E5%B0%91.html"/>
+    <updated>2023-06-17T07:33:15.186Z</updated>
+    <summary type="html"><![CDATA[<blockquote>
+<p>2023-06-17</p>
+</blockquote>
+<h2> AI</h2>
+<blockquote>
+<p>chatgpt 镜像：<a href="https://chat.wuguokai.cn/" target="_blank" rel="noopener noreferrer">https://chat.wuguokai.cn/</a></p>
+</blockquote>
+<h3> Pandora-Vercel</h3>
+<blockquote>
+<p>项目地址：<a href="https://github.com/AngelOver/pandora-vercel" target="_blank" rel="noopener noreferrer">https://github.com/AngelOver/pandora-vercel</a></p>
+<p>在线地址：<a href="https://pandora-vercel-mauve.vercel.app/" title="https://pandora-vercel-mauve.vercel.app" target="_blank" rel="noopener noreferrer">pandora-vercel-mauve.vercel.app</a></p>
+<p><a href="https://pandora-vercel-mauve.vercel.app/auth/login" target="_blank" rel="noopener noreferrer">https://pandora-vercel-mauve.vercel.app/auth/login</a></p>
+</blockquote>]]></summary>
+    <content type="html"><![CDATA[<blockquote>
+<p>2023-06-17</p>
+</blockquote>
+<h2> AI</h2>
+<blockquote>
+<p>chatgpt 镜像：<a href="https://chat.wuguokai.cn/" target="_blank" rel="noopener noreferrer">https://chat.wuguokai.cn/</a></p>
+</blockquote>
+<h3> Pandora-Vercel</h3>
+<blockquote>
+<p>项目地址：<a href="https://github.com/AngelOver/pandora-vercel" target="_blank" rel="noopener noreferrer">https://github.com/AngelOver/pandora-vercel</a></p>
+<p>在线地址：<a href="https://pandora-vercel-mauve.vercel.app/" title="https://pandora-vercel-mauve.vercel.app" target="_blank" rel="noopener noreferrer">pandora-vercel-mauve.vercel.app</a></p>
+<p><a href="https://pandora-vercel-mauve.vercel.app/auth/login" target="_blank" rel="noopener noreferrer">https://pandora-vercel-mauve.vercel.app/auth/login</a></p>
+</blockquote>
+<p>
+</p>
+<blockquote>
+<p>在线案例：</p>
+<ol>
+<li><a href="http://chatgpt-site.zhaoyeqing.cn/#/home" target="_blank" rel="noopener noreferrer">照夜清的AI小宇宙 — ChatGPT 网站！</a></li>
+<li><a href="https://chat-shared2.zhile.io/" target="_blank" rel="noopener noreferrer">共享ChatGPT账号-we端直接使用</a></li>
+</ol>
+</blockquote>
+<h3> new bing镜像：</h3>
+<blockquote>
+<p>项目地址：<a href="https://github.com/adams549659584/go-proxy-bingai" target="_blank" rel="noopener noreferrer">用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用</a></p>
+</blockquote>
+<p>在线地址：<a href="https://bing.vcanbb.top/web/#/" target="_blank" rel="noopener noreferrer">BingAI - 聊天 (vcanbb.top)</a></p>
+<blockquote>
+<p>使用教程：<a href="https://pinqmsof0xj.feishu.cn/docx/QL4vd0kdhoB3nIx44x4cQDN3nKf" target="_blank" rel="noopener noreferrer">Docs (feishu.cn)</a></p>
+</blockquote>
+<figure><figcaption></figcaption></figure>
+<h3> ChatAll</h3>
+<blockquote>
+<p>项目地址：<a href="https://github.com/sunner/ChatALL" target="_blank" rel="noopener noreferrer">sunner/ChatAll</a></p>
+<p>支持：Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers</p>
+<p>多个大型语言模型（LLMs）的 AI 机器人</p>
+</blockquote>
+<figure><figcaption></figcaption></figure>
+<h3> ChatGPT+Midjourney</h3>
+<p>ChatGPT-Midjourney: &nbsp;ChatGPT+Midjourney 网页应用</p>
+<blockquote>
+<p>项目地址: <a href="https://github.com/Licoy/ChatGPT-Midjourney" target="_blank" rel="noopener noreferrer">https://github.com/Licoy/ChatGPT-Midjourney</a></p>
+<p>一键免费部署你的私人 ChatGPT+Midjourney 网页应用。集成了ChatGPT的网页聊天+Midjourney的图片生成服务。</p>
+</blockquote>
+<figure><figcaption></figcaption></figure>
+<h3> FlowGPT</h3>
+<blockquote>
+<p>项目地址：<a href="https://flowgpt.com/" target="_blank" rel="noopener noreferrer">https://flowgpt.com/</a></p>
+<p>Prompt 集合社区</p>
+</blockquote>
+<h2> 局域网</h2>
+<p>局域网文件传输文件：</p>
+<blockquote>
+<p>在线地址：<a href="https://snapdrop.net/" target="_blank" rel="noopener noreferrer">https://snapdrop.net/</a></p>
+</blockquote>
+<figure><figcaption></figcaption></figure>
+<p>其他工具：</p>
+<blockquote>
+<p>localsend : <a href="https://localsend.org/" target="_blank" rel="noopener noreferrer">https://localsend.org/</a></p>
+<p>传输速度比较慢</p>
+<p>飞秋：<a href="http://www.feiq18.com/" target="_blank" rel="noopener noreferrer">http://www.feiq18.com/</a></p>
+</blockquote>
+<p>HandBrake 视频格式处理工具</p>
+<blockquote>
+<p>在线地址：<a href="https://handbrake.fr/" target="_blank" rel="noopener noreferrer">https://handbrake.fr/</a></p>
+<p>「免费开源的视频格式万能处理工具HandBrake」，可以几乎将视频从任何格式转换为主流平台的视频格式，并压缩到合适的大小，做得挺好的，很方便。</p>
+</blockquote>
+<figure><figcaption></figcaption></figure>
+<h2> 学习</h2>
+<h3> go-demo</h3>
+<blockquote>
+<p>项目地址：<a href="https://github.com/pibigstar/go-demo" target="_blank" rel="noopener noreferrer">https://github.com/pibigstar/go-demo</a></p>
+<p>Go语言实例教程从入门到进阶，包括基础库使用、设计模式、面试易错点、工具类、对接第三方等。</p>
+</blockquote>
+<h3> BoxCoding</h3>
+<blockquote>
+<p>项目地址：<a href="https://avabucks.it/index" target="_blank" rel="noopener noreferrer">https://avabucks.it/index</a></p>
+<p>前端初学者的工具网站「BoxCoding」，有不少使用原生HTML/CSS/JavaScript实现的常用效果，做得很精致，同时代码实现挺不错，也适合突然想找某个 Ui 的实现场景。</p>
+</blockquote>
+<h3> 正则表达式</h3>
+<blockquote>
+<p>项目地址：<a href="https://regex101.com" target="_blank" rel="noopener noreferrer">https://regex101.com</a></p>
+<p>写正则表达式</p>
+</blockquote>
+<h2> 扩展</h2>
+<h3> Docker-OSX</h3>
+<blockquote>
+<p>项目地址：<a href="https://github.com/sickcodes/Docker-OSX" target="_blank" rel="noopener noreferrer">https://github.com/sickcodes/Docker-OSX</a></p>
+<p>一个运行 macOS 虚拟机的 Docker 镜像。</p>
+</blockquote>
+<h3> PLExtension: 一个图床上传浏览器扩展</h3>
+<blockquote>
+<p>项目地址：<a href="https://github.com/ZenEcho/PLExtension" target="_blank" rel="noopener noreferrer">https://github.com/ZenEcho/PLExtension</a></p>
+<p>一款免费的上传扩展程序提供兰空图床,简单图床,chevereto,阿里云oss,AWS S3,GitHub等程序的文件上传。开源代码，支持粘贴、拖拽、右键上传。</p>
+</blockquote>
+<h3> Progress-一个命令行工具</h3>
+<blockquote>
+<p>项目地址：<a href="https://github.com/Xfennec/progress" target="_blank" rel="noopener noreferrer">https://github.com/Xfennec/progress</a></p>
+<p>Progress 可以显示当前一些耗时操作的进度，比如 大文件的 cp/mv/dd, &nbsp;甚至还可以显示下载进度等等。它还提供了一个类似 top 的界面，可以全面监控各种进度。</p>
+</blockquote>
+<h3> 黑苹果 折腾指南</h3>
+<blockquote>
+<p>现在有 #OpenCore 保驾护航，即使 #macOS 大版本更新也无忧，如今技术不断进步， #Github 上有他人分享的EFI，购买硬件和组装变得更加简单。分享几个黑果技术网站，组装出自己的黑苹果电脑。</p>
+</blockquote>
+<ul>
+<li>
+<p>OpenCore 中文安装指南：<a href="https://sumingyd.github.io/OpenCore-Install-Guide/" target="_blank" rel="noopener noreferrer">https://sumingyd.github.io/OpenCore-Install-Guide/</a></p>
+</li>
+<li>
+<p>黑果小兵：<a href="https://blog.daliansky.net/" target="_blank" rel="noopener noreferrer">https://blog.daliansky.net/</a></p>
+</li>
+<li>
+<p>远景论坛：<a href="https://bbs.pcbeta.com/forum.php?gid=86" target="_blank" rel="noopener noreferrer">https://bbs.pcbeta.com/forum.php?gid=86</a></p>
+</li>
+<li>
+<p>国光OpenCore配置教程：<a href="https://apple.sqlsec.com/" target="_blank" rel="noopener noreferrer">https://apple.sqlsec.com/</a></p>
+</li>
+<li>
+<p>Github搜索EFI：<a href="https://github.com/search?q=EFI" target="_blank" rel="noopener noreferrer">https://github.com/search?q=EFI</a></p>
+</li>
+<li>
+<p>Github搜索Hackintosh：<a href="https://github.com/search?q=Hackintosh" target="_blank" rel="noopener noreferrer">https://github.com/search?q=Hackintosh</a></p>
+</li>
+<li>
+<p>GeQ1an的EFI：<a href="https://github.com/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI" target="_blank" rel="noopener noreferrer">https://github.com/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI</a></p>
+</li>
+</ul>
+<h2> 项目推荐</h2>
+<blockquote>
+<p>开发设计资源</p>
+</blockquote>
+<p><a href="https://github.com/bradtraversy/design-resources-for-developers" target="_blank" rel="noopener noreferrer">https://github.com/bradtraversy/design-resources-for-developers</a></p>
+<blockquote>
+<p>五十个项目</p>
+</blockquote>
+<p><a href="https://github.com/bradtraversy/50projects50days" target="_blank" rel="noopener noreferrer">https://github.com/bradtraversy/50projects50days</a></p>
 ]]></content>
   </entry>
 </feed>
