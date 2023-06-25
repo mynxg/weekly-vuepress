@@ -3,7 +3,7 @@
   <id>https://weekly.nnxx.me/</id>
   <title>Weekly</title>
   <subtitle>行动胜于空谈</subtitle>
-  <updated>2023-06-17T07:37:53.920Z</updated>
+  <updated>2023-06-25T15:54:36.936Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://weekly.nnxx.me/atom.xml"/>
   <link rel="alternate" href="https://weekly.nnxx.me/"/>
@@ -12,7 +12,7 @@
     <title type="text">06-17-一曲很少</title>
     <id>https://weekly.nnxx.me/2023/06/%E4%B8%80%E6%9B%B2%E5%BE%88%E5%B0%91.html</id>
     <link href="https://weekly.nnxx.me/2023/06/%E4%B8%80%E6%9B%B2%E5%BE%88%E5%B0%91.html"/>
-    <updated>2023-06-17T07:37:53.988Z</updated>
+    <updated>2023-06-25T15:54:36.989Z</updated>
     <summary type="html"><![CDATA[<h2> AI</h2>
 <blockquote>
 <p>chatgpt 镜像：<a href="https://chat.wuguokai.cn/" target="_blank" rel="noopener noreferrer">https://chat.wuguokai.cn/</a></p>
@@ -164,7 +164,7 @@
     <title type="text">06-10-逸趣横生</title>
     <id>https://weekly.nnxx.me/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html</id>
     <link href="https://weekly.nnxx.me/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html"/>
-    <updated>2023-06-17T07:37:53.998Z</updated>
+    <updated>2023-06-25T15:54:36.998Z</updated>
     <summary type="html"><![CDATA[<h2> 思维开拓</h2>
 <blockquote>
 <p>在线地址：<a href="https://joeprevite.com/" target="_blank" rel="noopener noreferrer">https://joeprevite.com/</a></p>
@@ -262,7 +262,7 @@
     <title type="text">2023 周刊</title>
     <id>https://weekly.nnxx.me/2023/</id>
     <link href="https://weekly.nnxx.me/2023/"/>
-    <updated>2023-06-17T07:37:53.999Z</updated>
+    <updated>2023-06-25T15:54:36.999Z</updated>
     <summary type="html"><![CDATA[<h3> 2023</h3>
 <ul>
 <li><a href="/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html" target="blank">06-10-逸趣横生</a></li>
@@ -273,5 +273,54 @@
 <li><a href="/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html" target="blank">06-10-逸趣横生</a></li>
 </ul>
 ]]></content>
+  </entry>
+  <entry>
+    <title type="text">06-17-一曲很少</title>
+    <id>https://weekly.nnxx.me/2023/06/%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0.html</id>
+    <link href="https://weekly.nnxx.me/2023/06/%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0.html"/>
+    <updated>2023-06-25T15:54:37.002Z</updated>
+    <summary type="html"><![CDATA[<h2> 看板</h2>
+<h3> ServerStatus-Rust</h3>
+<blockquote>
+<p>多服务器监控</p>
+<p>项目地址：<a href="https://github.com/zdz/ServerStatus-Rust" target="_blank" rel="noopener noreferrer">zdz/ServerStatus-Rust: ✨ Rust 版 ServerStatus 探针、威力加强版 (github.com)</a></p>
+<p>在线地址：<a href="https://ssr.rs/" target="_blank" rel="noopener noreferrer">ServerStatus (ssr.rs)</a></p>
+<p>官方教程：<a href="https://doc.ssr.rs/rapid_deploy/" target="_blank" rel="noopener noreferrer">快速部署 - Rust 版 ServerStatus 云探针 (ssr.rs)</a></p>
+<p>搭建教程：<a href="https://iocky.com/archives/13/" target="_blank" rel="noopener noreferrer">ServerStatus-Rust 服务器探针搭建使用全指南/保姆级教程 - 星笙月煜 (iocky.com)</a></p>
+</blockquote>]]></summary>
+    <content type="html"><![CDATA[<h2> 看板</h2>
+<h3> ServerStatus-Rust</h3>
+<blockquote>
+<p>多服务器监控</p>
+<p>项目地址：<a href="https://github.com/zdz/ServerStatus-Rust" target="_blank" rel="noopener noreferrer">zdz/ServerStatus-Rust: ✨ Rust 版 ServerStatus 探针、威力加强版 (github.com)</a></p>
+<p>在线地址：<a href="https://ssr.rs/" target="_blank" rel="noopener noreferrer">ServerStatus (ssr.rs)</a></p>
+<p>官方教程：<a href="https://doc.ssr.rs/rapid_deploy/" target="_blank" rel="noopener noreferrer">快速部署 - Rust 版 ServerStatus 云探针 (ssr.rs)</a></p>
+<p>搭建教程：<a href="https://iocky.com/archives/13/" target="_blank" rel="noopener noreferrer">ServerStatus-Rust 服务器探针搭建使用全指南/保姆级教程 - 星笙月煜 (iocky.com)</a></p>
+</blockquote>
+<figure><figcaption></figcaption></figure>
+<blockquote>
+<p>更多搭建教程：<a href="https://blog.laoda.de/archives/ward-serverstatus-install" target="_blank" rel="noopener noreferrer">https://blog.laoda.de/archives/ward-serverstatus-install</a></p>
+</blockquote>
+<h2> 扩展</h2>
+<blockquote>
+<p>AI决定：<a href="https://eitherchoice.com/" target="_blank" rel="noopener noreferrer">https://eitherchoice.com/</a></p>
+</blockquote>
+<blockquote>
+<p>央企招聘平台：<a href="https://cujiuye.iguopin.com/" target="_blank" rel="noopener noreferrer">https://cujiuye.iguopin.com/</a></p>
+</blockquote>
+<blockquote>
+<p>心理测试：<a href="https://types.yuzeli.com/survey" target="_blank" rel="noopener noreferrer">https://types.yuzeli.com/survey</a></p>
+<p>提供了各种类型的心理测试，比如心理健康测试、16型人格测试、趣味心理测试、职业规划测试……一个54个类别的心理测试</p>
+</blockquote>
+<blockquote>
+<p>chatgpt 1000次试用：<a href="https://abb5-chat.gptdos.com/" target="_blank" rel="noopener noreferrer">GPTDOS - GPT Disk Operating System</a></p>
+</blockquote>
+<blockquote>
+<p>考试资源网：<a href="http://daxuesheng123.ysepan.com/" target="_blank" rel="noopener noreferrer">http://daxuesheng123.ysepan.com/</a></p>
+<p>各类资源共享：<a href="https://dwz.date/fxmN" target="_blank" rel="noopener noreferrer">https://dwz.date/fxmN</a></p>
+<p>游戏资源：<a href="https://dwz.date/fxmP" target="_blank" rel="noopener noreferrer">https://dwz.date/fxmP</a></p>
+</blockquote>
+]]></content>
+    <category term="周报"/>
   </entry>
 </feed>
