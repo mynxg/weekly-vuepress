@@ -3,7 +3,7 @@
   <id>https://weekly.nnxx.me/</id>
   <title>Weekly</title>
   <subtitle>行动胜于空谈</subtitle>
-  <updated>2023-06-25T15:54:36.936Z</updated>
+  <updated>2023-06-25T18:10:58.340Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://weekly.nnxx.me/atom.xml"/>
   <link rel="alternate" href="https://weekly.nnxx.me/"/>
@@ -12,7 +12,7 @@
     <title type="text">06-17-一曲很少</title>
     <id>https://weekly.nnxx.me/2023/06/%E4%B8%80%E6%9B%B2%E5%BE%88%E5%B0%91.html</id>
     <link href="https://weekly.nnxx.me/2023/06/%E4%B8%80%E6%9B%B2%E5%BE%88%E5%B0%91.html"/>
-    <updated>2023-06-25T15:54:36.989Z</updated>
+    <updated>2023-06-25T18:10:58.408Z</updated>
     <summary type="html"><![CDATA[<h2> AI</h2>
 <blockquote>
 <p>chatgpt 镜像：<a href="https://chat.wuguokai.cn/" target="_blank" rel="noopener noreferrer">https://chat.wuguokai.cn/</a></p>
@@ -164,7 +164,7 @@
     <title type="text">06-10-逸趣横生</title>
     <id>https://weekly.nnxx.me/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html</id>
     <link href="https://weekly.nnxx.me/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html"/>
-    <updated>2023-06-25T15:54:36.998Z</updated>
+    <updated>2023-06-25T18:10:58.420Z</updated>
     <summary type="html"><![CDATA[<h2> 思维开拓</h2>
 <blockquote>
 <p>在线地址：<a href="https://joeprevite.com/" target="_blank" rel="noopener noreferrer">https://joeprevite.com/</a></p>
@@ -262,23 +262,38 @@
     <title type="text">2023 周刊</title>
     <id>https://weekly.nnxx.me/2023/</id>
     <link href="https://weekly.nnxx.me/2023/"/>
-    <updated>2023-06-25T15:54:36.999Z</updated>
+    <updated>2023-06-25T18:10:58.422Z</updated>
     <summary type="html"><![CDATA[<h3> 2023</h3>
 <ul>
-<li><a href="/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html" target="blank">06-10-逸趣横生</a></li>
-</ul>
-]]></summary>
+<li>
+<p><a href="/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html" target="blank">06-10-逸趣横生</a></p>
+</li>
+<li>
+<p><a href="/2023/06/%E4%B8%80%E6%9B%B2%E5%BE%88%E5%B0%91.html" target="blank">06-17-一曲很少</a></p>
+</li>
+<li>
+<p><a href="/2023/06/%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0.html" target="blank">06-25-推陈出新</a></p>
+</li>
+</ul>]]></summary>
     <content type="html"><![CDATA[<h3> 2023</h3>
 <ul>
-<li><a href="/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html" target="blank">06-10-逸趣横生</a></li>
+<li>
+<p><a href="/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html" target="blank">06-10-逸趣横生</a></p>
+</li>
+<li>
+<p><a href="/2023/06/%E4%B8%80%E6%9B%B2%E5%BE%88%E5%B0%91.html" target="blank">06-17-一曲很少</a></p>
+</li>
+<li>
+<p><a href="/2023/06/%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0.html" target="blank">06-25-推陈出新</a></p>
+</li>
 </ul>
 ]]></content>
   </entry>
   <entry>
-    <title type="text">06-17-一曲很少</title>
+    <title type="text">06-25-推陈出新</title>
     <id>https://weekly.nnxx.me/2023/06/%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0.html</id>
     <link href="https://weekly.nnxx.me/2023/06/%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0.html"/>
-    <updated>2023-06-25T15:54:37.002Z</updated>
+    <updated>2023-06-25T18:10:58.427Z</updated>
     <summary type="html"><![CDATA[<h2> 看板</h2>
 <h3> ServerStatus-Rust</h3>
 <blockquote>
