@@ -9,13 +9,13 @@ export default sidebar({
       prefix: "06/",
       children: "structure",
     },
-    {
-      text: "2023",
-      // icon: "laptop-code",
-      collapsible: true,
-      prefix: "07/",
-      children: "structure",
-    },
+    // {
+    //   text: "2023",
+    //   // icon: "laptop-code",
+    //   collapsible: true,
+    //   prefix: "07/",
+    //   children: "structure",
+    // },
     // {
     //   text: "2023",
     //   // icon: "laptop-code",
