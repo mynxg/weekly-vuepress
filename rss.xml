@@ -6,16 +6,16 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 10 Jul 2023 08:08:50 GMT</pubDate>
-    <lastBuildDate>Mon, 10 Jul 2023 08:08:50 GMT</lastBuildDate>
+    <pubDate>Mon, 10 Jul 2023 08:49:06 GMT</pubDate>
+    <lastBuildDate>Mon, 10 Jul 2023 08:49:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
     <category>工具</category>
     <item>
       <title>07-09-若有所思</title>
-      <link>https://weekly.nnxx.me/2023/07/%E8%8B%A5%E6%9C%89%E6%89%80%E6%80%9D.html</link>
-      <guid>https://weekly.nnxx.me/2023/07/%E8%8B%A5%E6%9C%89%E6%89%80%E6%80%9D.html</guid>
+      <link>https://weekly.nnxx.me/2023/06/%E8%8B%A5%E6%9C%89%E6%89%80%E6%80%9D.html</link>
+      <guid>https://weekly.nnxx.me/2023/06/%E8%8B%A5%E6%9C%89%E6%89%80%E6%80%9D.html</guid>
       <source url="https://weekly.nnxx.me/rss.xml">07-09-若有所思</source>
       <description>github数据展示：https://github.com/pingcap/ossinsight-lite (https://github.com/pingcap/ossinsight-lite) 使用ossinsight-lite搭建的github主页信息展示表 图表组件都很酷! 在线地址： https://oss-widgets.changwei....</description>
       <category>周报</category>
@@ -436,7 +436,7 @@ ChatGPT神器Code Interpreter，</p>
       <link>https://weekly.nnxx.me/2023/</link>
       <guid>https://weekly.nnxx.me/2023/</guid>
       <source url="https://weekly.nnxx.me/rss.xml">2023 周刊</source>
-      <description>2023 06-10-逸趣横生 (06/逸趣横生.md); 06-17-一曲很少 (06/一曲很少.md); 06-25-推陈出新 (06/推陈出新.md);</description>
+      <description>2023 06-10-逸趣横生 (06/逸趣横生.md); 06-17-一曲很少 (06/一曲很少.md); 06-25-推陈出新 (06/推陈出新.md); 07-01-化杂为简 (06/化杂为简.md); 07-09-若有所思 (06/若有所思.md);</description>
       <content:encoded><![CDATA[<h3> 2023</h3>
 <ul>
 <li>
@@ -447,6 +447,12 @@ ChatGPT神器Code Interpreter，</p>
 </li>
 <li>
 <p><a href="/2023/06/%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0.html" target="blank">06-25-推陈出新</a></p>
+</li>
+<li>
+<p><a href="/2023/06/%E5%8C%96%E6%9D%82%E4%B8%BA%E7%AE%80.html" target="blank">07-01-化杂为简</a></p>
+</li>
+<li>
+<p><a href="/2023/06/%E8%8B%A5%E6%9C%89%E6%89%80%E6%80%9D.html" target="blank">07-09-若有所思</a></p>
 </li>
 </ul>
 ]]></content:encoded>
