@@ -6,12 +6,100 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 10 Jul 2023 08:49:06 GMT</pubDate>
-    <lastBuildDate>Mon, 10 Jul 2023 08:49:06 GMT</lastBuildDate>
+    <pubDate>Sun, 16 Jul 2023 03:12:49 GMT</pubDate>
+    <lastBuildDate>Sun, 16 Jul 2023 03:12:49 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
     <category>工具</category>
+    <item>
+      <title>07-15-好水不硬</title>
+      <link>https://weekly.nnxx.me/2023/06/07-15-%E5%A5%BD%E6%B0%B4%E4%B8%8D%E7%A1%AC.html</link>
+      <guid>https://weekly.nnxx.me/2023/06/07-15-%E5%A5%BD%E6%B0%B4%E4%B8%8D%E7%A1%AC.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">07-15-好水不硬</source>
+      <description>今麦郎 好水不硬才养人 工具 中文网字计划 在线地址：https://chinese-font.netlify.app/ (https://chinese-font.netlify.app/) 「中文网字计划」，收录众多中文字体并通过 Web Font 的形式为网站开发者提供美丽字体，比如说你的博客或网站想引入霞鹜文楷这种好看的字体，很简单去复制 CD...</description>
+      <category>周报</category>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>今麦郎 好水不硬才养人</p>
+</blockquote>
+<h2> 工具</h2>
+<p>中文网字计划</p>
+<blockquote>
+<p>在线地址：<a href="https://chinese-font.netlify.app/" target="_blank" rel="noopener noreferrer">https://chinese-font.netlify.app/</a></p>
+<p>「中文网字计划」，收录众多中文字体并通过 Web Font 的形式为网站开发者提供美丽字体，比如说你的博客或网站想引入霞鹜文楷这种好看的字体，很简单去复制 CDN 地址加到代码即可
+</p>
+</blockquote>
+<blockquote>
+<ol>
+<li>
+<p>降低使用门槛，即为周期笔记和 PARA 的提供查询视图，将所有复杂的查询语句屏蔽；</p>
+</li>
+<li>
+<p>单一事实来源，用户只需要设置元信息，插件负责读取；</p>
+</li>
+<li>
+<p>关系图谱优化，即在 PARA 目录下支持 <a href="">http://XXX.README.md</a> 作为索引，否则所有的节点都将是 README；
+</p>
+</li>
+</ol>
+</blockquote>
+<p>脚本</p>
+<blockquote>
+<p>在线地址：<a href="https://github.com/yeahwu/v2ray-wss" target="_blank" rel="noopener noreferrer">https://github.com/yeahwu/v2ray-wss</a></p>
+<p>reality 脚本偷的是这三个网址，也就是说这三个网址，
+客户端可以任意切换：
+<a href="http://amazon.com" target="_blank" rel="noopener noreferrer">http://amazon.com</a></p>
+<p><a href="http://addons.mozilla.org" target="_blank" rel="noopener noreferrer">http://addons.mozilla.org</a></p>
+<p><a href="http://tesla.com" target="_blank" rel="noopener noreferrer">http://tesla.com</a></p>
+</blockquote>
+<p>PAL2</p>
+<blockquote>
+<p>在线地址：<a href="https://www.hayo.com/entry/3137" target="_blank" rel="noopener noreferrer">https://www.hayo.com/entry/3137</a></p>
+<p>PaLM 2 是下一代大型语言模型，它建立在 Google 在机器学习和负责任的 AI 领域突破性研究的基础上。
+它<a href="https://ai.google/static/documents/palm2techreport.pdf" target="_blank" rel="noopener noreferrer">擅长</a>高级推理任务，包括代码和数学、分类和问答、翻译和多语言能力以及自然语言生成，比我们之前最先进的法学硕士（包括 PaLM）更好。它之所以能够完成这些任务，是因为它的构建方式——将计算最优扩展、改进的数据集混合和模型架构改进结合在一起。</p>
+</blockquote>
+<blockquote>
+<p>RealChar——一个全能的开源代码库!
+@llama_index、@LangChainAI、@elevenlabsio、@trychroma、@openaiGPT3.5/4、@AnthropicAI Claude2</p>
+</blockquote>
+<h2> 资料</h2>
+<blockquote>
+<p>在线地址：<a href="http://pdfdrive.com" target="_blank" rel="noopener noreferrer">书籍下载</a></p>
+<p>近7700万本书籍，包括期刊、杂志、指南等各种类型的书籍，并支持PDF、epub和mobi格式的下载</p>
+</blockquote>
+<h2> 扩展</h2>
+<blockquote>
+<p>在线地址：<a href="https://www.appinn.com/guxiang/" target="_blank" rel="noopener noreferrer">https://www.appinn.com/guxiang/</a></p>
+<p>明日故乡：中国版数字游民指南，用 AI 来寻找有星巴克、麦当劳，全年雨天小于 60 天，最高气温低于 30 度的城市，目前包括 2206 个城市数据。</p>
+</blockquote>
+<p>直播实时翻译插件：</p>
+<blockquote>
+<p>直播翻译：<a href="https://chrome.google.com/webstore/detail/felo-subtitles-chatgpt-li/ponokiofkijoolhebggofhhibnafebna?hl=zh-CN" target="_blank" rel="noopener noreferrer">https://chrome.google.com/webstore/detail/felo-subtitles-chatgpt-li/ponokiofkijoolhebggofhhibnafebna?hl=zh-CN</a></p>
+<p>视频翻译：<a href="https://chrome.google.com/webstore/detail/youtube-dual-subtitles/hkbdddpiemdeibjoknnofflfgbgnebcm/related" target="_blank" rel="noopener noreferrer">https://chrome.google.com/webstore/detail/youtube-dual-subtitles/hkbdddpiemdeibjoknnofflfgbgnebcm/related</a>
+YouTube视频还是直播，都能实时翻译</p>
+</blockquote>
+<p>快速搭建博客</p>
+<blockquote>
+<p>在线地址：<a href="https://cali.so/blog/guide-for-cloning-my-site" target="_blank" rel="noopener noreferrer">如何复刻本网站，零氪快速建博客</a></p>
+</blockquote>
+<h2> 后端</h2>
+<p>mysql 的所有 buffer</p>
+<blockquote>
+<p>在线地址：<a href="https://heapdump.cn/article/4583227" target="_blank" rel="noopener noreferrer">https://heapdump.cn/article/4583227</a></p>
+<p>总结 mysql 的所有 buffer</p>
+</blockquote>
+<blockquote>
+<p>在线地址：[提问的智慧](<a href="https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md%EF%BC%89" target="_blank" rel="noopener noreferrer">https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md）</a></p>
+<p>《提问的智慧》，原文叫做 How To Ask Questions The Smart Way</p>
+</blockquote>
+<h2> 有趣的项目</h2>
+<blockquote>
+<p>项目地址：<a href="https://github.com/unixzii/revue" target="_blank" rel="noopener noreferrer">https://github.com/unixzii/revue</a></p>
+<p>一个把 React 组件丝滑桥接到 Vue 的小玩具</p>
+</blockquote>
+]]></content:encoded>
+    </item>
     <item>
       <title>07-09-若有所思</title>
       <link>https://weekly.nnxx.me/2023/06/%E8%8B%A5%E6%9C%89%E6%89%80%E6%80%9D.html</link>
