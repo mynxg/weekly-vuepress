@@ -35,7 +35,7 @@ highlights:
       - title: Mr.keney
         icon: blog
         details: 兴趣使然
-        link: https://nnxx.me/
+        link: https://blog.nnxx.me/
 
       - title: CSDN
         icon: bug
