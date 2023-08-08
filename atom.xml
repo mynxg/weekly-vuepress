@@ -3,17 +3,125 @@
   <id>https://weekly.nnxx.me/</id>
   <title>Weekly</title>
   <subtitle>行动胜于空谈</subtitle>
-  <updated>2023-07-30T13:48:24.535Z</updated>
+  <updated>2023-08-08T09:16:25.903Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://weekly.nnxx.me/atom.xml"/>
   <link rel="alternate" href="https://weekly.nnxx.me/"/>
   <category term="周报"/>
   <category term="工具"/>
   <entry>
+    <title type="text">08-05-峰回路转</title>
+    <id>https://weekly.nnxx.me/2023/06/08-05-%E5%B3%B0%E5%9B%9E%E8%B7%AF%E8%BD%AC.html</id>
+    <link href="https://weekly.nnxx.me/2023/06/08-05-%E5%B3%B0%E5%9B%9E%E8%B7%AF%E8%BD%AC.html"/>
+    <updated>2023-08-08T09:16:25.948Z</updated>
+    <summary type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/wdvhlu.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2> 在线工具</h2>
+<p>画图工具：<a href="https://handraw.top/" target="_blank" rel="noopener noreferrer">https://handraw.top/</a></p>]]></summary>
+    <content type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/wdvhlu.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2> 在线工具</h2>
+<p>画图工具：<a href="https://handraw.top/" target="_blank" rel="noopener noreferrer">https://handraw.top/</a></p>
+<blockquote>
+<p>项目地址：<a href="https://github.com/korbinzhao/excalidraw-cn" target="_blank" rel="noopener noreferrer">https://github.com/korbinzhao/excalidraw-cn</a></p>
+<p>可画流程图、打草稿等</p>
+</blockquote>
+<h2> 资料</h2>
+<p>《TypeScript 教程》</p>
+<blockquote>
+<p>在线地址：<a href="https://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html" target="_blank" rel="noopener noreferrer">https://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html</a></p>
+<p>github仓库：<a href="https://github.com/wangdoc/typescript-tutorial" target="_blank" rel="noopener noreferrer">https://github.com/wangdoc/typescript-tutorial</a></p>
+<p>阅读地址：<a href="https://wangdoc.com/typescript/" target="_blank" rel="noopener noreferrer">https://wangdoc.com/typescript/</a></p>
+<p>网道包含有HTML、JS、ES6、WebAPI等</p>
+</blockquote>
+<p>书单导航</p>
+<blockquote>
+<p>在线地址：<a href="https://box123.io/sites/1142.html" target="_blank" rel="noopener noreferrer">https://box123.io/sites/1142.html</a></p>
+<p>什么值得读（<a href="https://shenmezhidedu.com/" target="_blank" rel="noopener noreferrer">shenmezhidedu.com</a>）是一个提供各种书籍推荐的网站。网站上有各种类型的书籍，包括小说、理财、名人传记、个人成长、心理、增长黑客、设计、产品经理和运营等。</p>
+</blockquote>
+<p>电子书籍下载</p>
+<blockquote>
+<p>1、鸠摩搜书：<a href="http://jiumodiary.com" target="_blank" rel="noopener noreferrer">http://jiumodiary.com</a>
+这个还是能找到不少书籍的</p>
+<p>2、无名图书：<a href="http://book123.info" target="_blank" rel="noopener noreferrer">http://book123.info</a> 电子书搜索下载网站，有上万本书籍，提供pdf、epub等格式，免费、无需注册登录，直接就能下载</p>
+<p>3、莫若书单：<a href="http://mrsd.top" target="_blank" rel="noopener noreferrer">http://mrsd.top</a> 以pdf、epub格式为主，数量丰富，可以直接下载</p>
+<p>4、Project Gutenberg：<a href="http://gutenberg.org" target="_blank" rel="noopener noreferrer">http://gutenberg.org</a> 收集了超过70000本电子书，所有书籍均为志愿者分享</p>
+<p>5、ManyBooks：<a href="http://manybooks.net" target="_blank" rel="noopener noreferrer">http://manybooks.net</a> 收集了50000多本电子书，并提供多种格式供用户下载</p>
+<p>6、Forgotten Books：<a href="http://forgottenbooks.com" target="_blank" rel="noopener noreferrer">http://forgottenbooks.com</a> 目前已有129多万册外文书籍，涵盖多个领域，可在线阅读或下载</p>
+<p>7、PDFDrive：<a href="http://pdfdrive.com" target="_blank" rel="noopener noreferrer">http://pdfdrive.com</a> 提供8400多万本电子书籍，其中有不少中文书籍，无下载限制</p>
+<p>8、Planet eBook：<a href="http://forgottenbooks.com" target="_blank" rel="noopener noreferrer">http://forgottenbooks.com</a> 主要提供古典文学著作，可以在线阅读或下载</p>
+<p>9、Loyal Books：<a href="http://loyalbooks.com" target="_blank" rel="noopener noreferrer">http://loyalbooks.com</a> 提供了7000多书籍供用户下载，包括有声书和电子书！主要有儿童读物、小说、诗歌、历史等！都是免费的</p>
+<p>10、Freebookcentre：<a href="http://freebookcentre.net" target="_blank" rel="noopener noreferrer">http://freebookcentre.net</a> 免费下载数千本技术类书籍，包括计算机科学、编程语言、物理学、医学、化学、数学、商业金融等种类</p>
+<p>11、搬书匠：<a href="http://banshujiang.cn" target="_blank" rel="noopener noreferrer">http://banshujiang.cn</a> 提供编程开发类书籍，免费下载</p>
+<p>12、SaltTiger：<a href="http://salttiger.com" target="_blank" rel="noopener noreferrer">http://salttiger.com</a> 编程类书籍下载网站，数量挺丰富</p>
+</blockquote>
+<p>经济学人、纽约客等英语外刊杂志</p>
+<blockquote>
+<p>在线地址：<a href="https://github.com/hehonghui/awesome-english-ebooks" target="_blank" rel="noopener noreferrer">https://github.com/hehonghui/awesome-english-ebooks</a></p>
+<p>经济学人、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等杂志的免费下载和订阅（支持kindle推送）</p>
+<p>并且每周都有更新 GitHub 6000 星</p>
+<ul>
+<li>经济学人 – 周刊, 点击这里下载最新一期&nbsp;, 每周五十一点更新</li>
+<li>纽约客 – 周刊, 点击这里下载最新一期&nbsp;, 每周六上午更新</li>
+<li>卫报 – 每周两期, 每周三、周日更新</li>
+<li>The Atlantic – 月刊, 每月2号更新</li>
+<li>Wired – 月刊, 每月2号更新</li>
+</ul>
+</blockquote>
+<h2> AI</h2>
+<p>绘画利器</p>
+<blockquote>
+<p>在线地址：<a href="https://www.whee.com/" target="_blank" rel="noopener noreferrer">https://www.whee.com/</a></p>
+</blockquote>
+<figure><figcaption></figcaption></figure>
+<p>OpenAI Key 分发管理</p>
+<blockquote>
+<p>在线地址：<a href="https://github.com/songquanpeng/one-api" target="_blank" rel="noopener noreferrer">https://github.com/songquanpeng/one-api</a></p>
+<p>直接把自己OpenAI账号下的API Key分享给别人又担心被滥用误用，用它搭建了一个OpenAI接口代理&amp;API Key二次分发系统，再搭配Chatbot-UI和ChatGPT-Next-Web使用</p>
+</blockquote>
+<figure><figcaption></figcaption></figure>
+<p>Merlin</p>
+<blockquote>
+<p>在线地址：<a href="https://merlin.foyer.work/" target="_blank" rel="noopener noreferrer">https://merlin.foyer.work/</a>
+Merlin是一款免费的终极 AI 工具：</p>
+<p>使用Merlin上的聊天GPT在Gmail上的瞬间写邮件或回复邮件；</p>
+<p>在Twitter上，您可以使用Merlin生成独具一格的推文；</p>
+<p>Merlin可以在几秒钟内摘要任何文章、博客、文章、文档等，并为您提供要点；</p>
+<p>使用Merlin快速摘要任何YouTube视频；</p>
+<p>Merlin AI Chatbot中的WebChat功能允许您使用ChatGPT摘要或与任何网站聊天；</p>
+<p>Merlin可帮助您在LinkedIn上创建独特的职位帖子、摘要、描述和消息；</p>
+<p>使用Merlin，您可以与网站交流或摘要信息；</p>
+<p>Merlin为您提供免费访问ChatGPT，它具有GPT-4的高级功能；</p>
+<p>使用Merlin AI Chatbot，您可以使用ChatGPT与任何PDF或文档聊天，或使用DocChat获得准确的摘要；</p>
+<p>Merlin使用具有互联网访问的ChatGPT，为您提供最新和相关的答案；</p>
+</blockquote>
+<h2> 扩展</h2>
+<p>Chrome 浏览器运行原理</p>
+<blockquote>
+<p>在线地址：<a href="https://mp.weixin.qq.com/s/wjrcO2Ej7BEThWVsCnXEtA" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/wjrcO2Ej7BEThWVsCnXEtA</a></p>
+</blockquote>
+<h2> Github推荐</h2>
+<blockquote>
+<p>在线地址：<a href="https://github.com/JasonkayZK" target="_blank" rel="noopener noreferrer">JasonkayZK (Jasonkay) (github.com)</a></p>
+</blockquote>
+<blockquote>
+<p>在线地址：<a href="https://github.com/zkeq" target="_blank" rel="noopener noreferrer">https://github.com/zkeq</a></p>
+<p>博客地址：<a href="https://icodeq.com/" target="_blank" rel="noopener noreferrer">https://icodeq.com/</a></p>
+<p>API、Code、Action</p>
+</blockquote>
+]]></content>
+    <category term="周报"/>
+    <published>2023-08-05T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">07-29-孤鹜齐飞</title>
     <id>https://weekly.nnxx.me/2023/06/07-29-%E5%AD%A4%E9%B9%9C%E9%BD%90%E9%A3%9E.html</id>
     <link href="https://weekly.nnxx.me/2023/06/07-29-%E5%AD%A4%E9%B9%9C%E9%BD%90%E9%A3%9E.html"/>
-    <updated>2023-07-30T13:48:24.578Z</updated>
+    <updated>2023-08-08T09:16:25.962Z</updated>
     <summary type="html"><![CDATA[<figure><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -161,7 +269,7 @@
     <title type="text">07-22-穿云破日</title>
     <id>https://weekly.nnxx.me/2023/06/07-22-%E7%A9%BF%E4%BA%91%E7%A0%B4%E6%97%A5.html</id>
     <link href="https://weekly.nnxx.me/2023/06/07-22-%E7%A9%BF%E4%BA%91%E7%A0%B4%E6%97%A5.html"/>
-    <updated>2023-07-30T13:48:24.607Z</updated>
+    <updated>2023-08-08T09:16:25.988Z</updated>
     <summary type="html"><![CDATA[<figure><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -358,7 +466,7 @@ CoWriter：AI辅助写作<br>
     <title type="text">07-15-好水不硬</title>
     <id>https://weekly.nnxx.me/2023/06/07-15-%E5%A5%BD%E6%B0%B4%E4%B8%8D%E7%A1%AC.html</id>
     <link href="https://weekly.nnxx.me/2023/06/07-15-%E5%A5%BD%E6%B0%B4%E4%B8%8D%E7%A1%AC.html"/>
-    <updated>2023-07-30T13:48:24.612Z</updated>
+    <updated>2023-08-08T09:16:26.003Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>今麦郎 好水不硬才养人</p>
 </blockquote>
@@ -455,7 +563,7 @@ YouTube视频还是直播，都能实时翻译</p>
     <title type="text">07-09-若有所思</title>
     <id>https://weekly.nnxx.me/2023/06/%E8%8B%A5%E6%9C%89%E6%89%80%E6%80%9D.html</id>
     <link href="https://weekly.nnxx.me/2023/06/%E8%8B%A5%E6%9C%89%E6%89%80%E6%80%9D.html"/>
-    <updated>2023-07-30T13:48:24.616Z</updated>
+    <updated>2023-08-08T09:16:26.009Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>github数据展示：<a href="https://github.com/pingcap/ossinsight-lite" target="_blank" rel="noopener noreferrer">https://github.com/pingcap/ossinsight-lite</a></p>
 <p>使用ossinsight-lite搭建的github主页信息展示表 图表组件都很酷!</p>
@@ -542,7 +650,7 @@ ChatGPT神器Code Interpreter，</p>
     <title type="text">07-01-化杂为简</title>
     <id>https://weekly.nnxx.me/2023/06/%E5%8C%96%E6%9D%82%E4%B8%BA%E7%AE%80.html</id>
     <link href="https://weekly.nnxx.me/2023/06/%E5%8C%96%E6%9D%82%E4%B8%BA%E7%AE%80.html"/>
-    <updated>2023-07-30T13:48:24.636Z</updated>
+    <updated>2023-08-08T09:16:26.021Z</updated>
     <summary type="html"><![CDATA[<h2> 在线测速和IP查询</h2>
 <blockquote>
 <p>在线测速和IP查询网站
@@ -664,7 +772,7 @@ ChatGPT神器Code Interpreter，</p>
     <title type="text">06-17-一曲很少</title>
     <id>https://weekly.nnxx.me/2023/06/%E4%B8%80%E6%9B%B2%E5%BE%88%E5%B0%91.html</id>
     <link href="https://weekly.nnxx.me/2023/06/%E4%B8%80%E6%9B%B2%E5%BE%88%E5%B0%91.html"/>
-    <updated>2023-07-30T13:48:24.645Z</updated>
+    <updated>2023-08-08T09:16:26.040Z</updated>
     <summary type="html"><![CDATA[<h2> AI</h2>
 <blockquote>
 <p>chatgpt 镜像：<a href="https://chat.wuguokai.cn/" target="_blank" rel="noopener noreferrer">https://chat.wuguokai.cn/</a></p>
@@ -816,7 +924,7 @@ ChatGPT神器Code Interpreter，</p>
     <title type="text">06-10-逸趣横生</title>
     <id>https://weekly.nnxx.me/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html</id>
     <link href="https://weekly.nnxx.me/2023/06/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html"/>
-    <updated>2023-07-30T13:48:24.653Z</updated>
+    <updated>2023-08-08T09:16:26.051Z</updated>
     <summary type="html"><![CDATA[<h2> 思维开拓</h2>
 <blockquote>
 <p>在线地址：<a href="https://joeprevite.com/" target="_blank" rel="noopener noreferrer">https://joeprevite.com/</a></p>
@@ -914,7 +1022,7 @@ ChatGPT神器Code Interpreter，</p>
     <title type="text">2023 周刊</title>
     <id>https://weekly.nnxx.me/2023/</id>
     <link href="https://weekly.nnxx.me/2023/"/>
-    <updated>2023-07-30T13:48:24.660Z</updated>
+    <updated>2023-08-08T09:16:26.058Z</updated>
     <summary type="html"><![CDATA[<h3> 2023</h3>
 <ul>
 <li>
@@ -957,7 +1065,7 @@ ChatGPT神器Code Interpreter，</p>
     <title type="text">06-25-推陈出新</title>
     <id>https://weekly.nnxx.me/2023/06/%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0.html</id>
     <link href="https://weekly.nnxx.me/2023/06/%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0.html"/>
-    <updated>2023-07-30T13:48:24.663Z</updated>
+    <updated>2023-08-08T09:16:26.078Z</updated>
     <summary type="html"><![CDATA[<h2> 看板</h2>
 <h3> ServerStatus-Rust</h3>
 <blockquote>
