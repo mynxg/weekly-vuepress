@@ -6,7 +6,7 @@ export default sidebar({
       text: "2023",
       // icon: "laptop-code",
       collapsible: true,
-      prefix: "06/",
+      prefix: "/",
       children: "structure",
     },
     // {
