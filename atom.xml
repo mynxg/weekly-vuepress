@@ -3,17 +3,140 @@
   <id>https://weekly.nnxx.me/</id>
   <title>Weekly</title>
   <subtitle>行动胜于空谈</subtitle>
-  <updated>2023-08-26T04:27:47.252Z</updated>
+  <updated>2023-09-02T11:25:44.568Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://weekly.nnxx.me/atom.xml"/>
   <link rel="alternate" href="https://weekly.nnxx.me/"/>
   <category term="周报"/>
   <category term="工具"/>
   <entry>
+    <title type="text">09-02-心驰神往</title>
+    <id>https://weekly.nnxx.me/2023/w/09-02-%E5%BF%83%E9%A9%B0%E7%A5%9E%E5%BE%80.html</id>
+    <link href="https://weekly.nnxx.me/2023/w/09-02-%E5%BF%83%E9%A9%B0%E7%A5%9E%E5%BE%80.html"/>
+    <updated>2023-09-02T11:25:44.596Z</updated>
+    <summary type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/wdvhm6.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<p>最近了解到  " dream big "，意思是远大的梦想，想想自己远大的梦想是什么？实在没有具体的梦想。</p>
+<h2> 前端</h2>
+<p>Tailwind CSS</p>
+<blockquote>
+<p>在线地址：<a href="https://tailwindcomponents.com/" target="_blank" rel="noopener noreferrer">https://tailwindcomponents.com/</a></p>
+<p>集成了用户上传的各种 tailwind.css 相关的组件，并且几乎所有的小组件都是响应性的，审美方面也不错。</p>
+</blockquote>]]></summary>
+    <content type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/wdvhm6.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<p>最近了解到  " dream big "，意思是远大的梦想，想想自己远大的梦想是什么？实在没有具体的梦想。</p>
+<h2> 前端</h2>
+<p>Tailwind CSS</p>
+<blockquote>
+<p>在线地址：<a href="https://tailwindcomponents.com/" target="_blank" rel="noopener noreferrer">https://tailwindcomponents.com/</a></p>
+<p>集成了用户上传的各种 tailwind.css 相关的组件，并且几乎所有的小组件都是响应性的，审美方面也不错。</p>
+</blockquote>
+<p>EpicEasing</p>
+<blockquote>
+<p>在线地址：<a href="https://epiceasing.com/?curve=0.470%2C0.000%2C0.745%2C0.715&amp;language=css" target="_blank" rel="noopener noreferrer">https://epiceasing.com/?curve=0.470%2C0.000%2C0.745%2C0.715&amp;language=css</a></p>
+<p>不迷路：<a href="https://meritt.me/" target="_blank" rel="noopener noreferrer">https://meritt.me/</a></p>
+<p>一款做得挺精致的 Easing 动画生成调试预览工具「EpicEasing」，通过预设效果或自定义动画曲线，支持 Ease、Spring、Bounce 各类动画效果，完成后可以导出 CSS、SCSS、Objective-C 和 Swift 代码直接使用。</p>
+</blockquote>
+<h2> AI</h2>
+<p>Memo AI</p>
+<blockquote>
+<p>在线地址：<a href="https://memo.ac/releases.html" target="_blank" rel="noopener noreferrer">https://memo.ac/releases.html</a></p>
+<p>Memo AI 的重磅更新。 Windows 设备下语音转文字支持启用 GPU 加速，A 卡、N卡都可以。 - 实测 3080Ti 显卡本地离线转换 30 分钟播客或视频只需要 2 分钟。 - 基于 whisper 模型，准确率业界数一数二</p>
+</blockquote>
+<blockquote>
+<p>在线地址：<a href="https://marketsy.ai/" target="_blank" rel="noopener noreferrer">https://marketsy.ai/</a></p>
+<p>输入你想卖的东西，几秒钟内就能给你建好一个电商网站</p>
+</blockquote>
+<p>AI导航</p>
+<blockquote>
+<p>在线地址：<a href="http://www.ainav.cn/" target="_blank" rel="noopener noreferrer">http://www.ainav.cn/</a></p>
+</blockquote>
+<h2> 工具</h2>
+<p>PDF 工具</p>
+<blockquote>
+<p>在线地址：<a href="https://www.pdftool.org/zh" target="_blank" rel="noopener noreferrer">https://www.pdftool.org/zh</a></p>
+<p>编辑 PDF 文件，集成隐私保护功能</p>
+</blockquote>
+<p>黑客工具</p>
+<blockquote>
+<p>在线地址：<a href="https://box123.io/archives/2593/" target="_blank" rel="noopener noreferrer">https://box123.io/archives/2593/</a></p>
+</blockquote>
+<p>开源阅读器</p>
+<blockquote>
+<p>项目地址：<a href="https://github.com/btpf/Alexandria" target="_blank" rel="noopener noreferrer">Alexandria</a></p>
+<p>支持平台： Windows 8+ (.exe, .msi)
+Linux (.AppImage, .deb)
+Android IOS &amp; OSx</p>
+<p>支持格式： EPUB (.epub, .epub3) Kindle (.azw, .azw3) and Mobipocket (.mobi) FictionBook (.fb2, .fb2.zip) Comic book archive (.cbr, .cbz, .cbt, .cb7)</p>
+</blockquote>
+<h2> 阅读</h2>
+<p>Web3.0通识课</p>
+<blockquote>
+<p>在线地址：<a href="https://j08v3n7cqq.feishu.cn/docs/doccnu8PLq5zJcaZJUzTaLyEOPc" target="_blank" rel="noopener noreferrer">https://j08v3n7cqq.feishu.cn/docs/doccnu8PLq5zJcaZJUzTaLyEOPc</a></p>
+</blockquote>
+<p>心晴网 - 免费的心理学书籍资源</p>
+<blockquote>
+<p>在线地址：<a href="http://www.ixinqing.com/" target="_blank" rel="noopener noreferrer">http://www.ixinqing.com/</a></p>
+<p>专注于心理学入门与自我成长，为热爱心理学的人提供了丰富的学习资源和互动平台。在这里，你可以找到超过7000本心理学书籍，而且这些书籍都可以免费在线阅读</p>
+</blockquote>
+<p>博客文章</p>
+<blockquote>
+<p><a href="https://justinyan.me/post/5790" title="Permalink to 每个人每天都只有24小时，希望我的选择真的是我的选择" target="_blank" rel="noopener noreferrer">每个人每天都只有24小时</a></p>
+</blockquote>
+<h2> 扩展</h2>
+<p>创业手册</p>
+<blockquote>
+<p>在线地址：<a href="https://waytoagi.feishu.cn/wiki/HCJvwh1kuih81hkSNdrcLmjWnTe" target="_blank" rel="noopener noreferrer">https://waytoagi.feishu.cn/wiki/HCJvwh1kuih81hkSNdrcLmjWnTe</a></p>
+<p>Sam Altman的《创业手册》</p>
+</blockquote>
+<p>1000 个知乎赚钱案例，某付费平台</p>
+<p>在线地址：<a href="https://pan.quark.cn/s/2b7c86e829fe#/list/share/3021b64db03f4af099e6a1aa157c3adb-%E8%B5%9A%E9%92%B1%E6%A1%88%E4%BE%8B.xlsl" target="_blank" rel="noopener noreferrer">https://pan.quark.cn/s/2b7c86e829fe#/list/share/3021b64db03f4af099e6a1aa157c3adb-%E8%B5%9A%E9%92%B1%E6%A1%88%E4%BE%8B.xlsl</a></p>
+<p>没在学习又没在赚钱，那你在干什么</p>
+<blockquote>
+<p>在线地址：<a href="https://www.bilibili.com/video/BV1VF411a7i3" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/video/BV1VF411a7i3</a></p>
+<p>硅谷华人风头大佬Garry Tan 谈伪装成功的坏处-要真正的做事--Get RICH or Sign Trying还有乔布斯的早年访谈</p>
+<p>如果你既没有在学习📑又没有在赚钱💰，那么是时候向前迈进了，因为你正在浪费你的生命！！</p>
+</blockquote>
+<p>中国法律快查手册 - 快速解决打工仔的法律难题</p>
+<blockquote>
+<p>在线地址：<a href="https://lawrefbook.github.io/" target="_blank" rel="noopener noreferrer">https://lawrefbook.github.io/</a></p>
+<p>再也不用为劳动合同、工资问题等问题发愁</p>
+</blockquote>
+<p>实用导航</p>
+<blockquote>
+<p>在线地址：<a href="https://immersivetranslate.com/docs/sites/" target="_blank" rel="noopener noreferrer">https://immersivetranslate.com/docs/sites/</a></p>
+<p>国内外一些实用导航 新闻杂志 新闻报道等等高质量和实用的站点</p>
+</blockquote>
+<h2> Github项目推荐</h2>
+<p>LLM-based Autonomous Agen</p>
+<blockquote>
+<p>项目地址：<a href="https://github.com/Paitesanshi/LLM-Agent-Survey#more-comprehensive-summarization" target="_blank" rel="noopener noreferrer">https://github.com/Paitesanshi/LLM-Agent-Survey#more-comprehensive-summarization</a></p>
+<p>在线地址：<a href="https://abyssinian-molybdenum-f76.notion.site/237e9f7515d543c0922c74f4c3012a77?v=0a309e53d6454afcbe7a5a7e169be0f9" target="_blank" rel="noopener noreferrer">LLM-based Autonomous Agent</a></p>
+</blockquote>
+<p>Rust打包桌面端</p>
+<blockquote>
+<p>项目地址：<a href="https://github.com/tw93/Pake" target="_blank" rel="noopener noreferrer">https://github.com/tw93/Pake</a></p>
+<p>利用 Rust 轻松构建轻量级多端桌面应用</p>
+</blockquote>
+<p>想法变成盈利的产品</p>
+<blockquote>
+<p>项目地址：<a href="https://github.com/easychen/stack-roadmap" target="_blank" rel="noopener noreferrer">https://github.com/easychen/stack-roadmap</a></p>
+<p>方糖全栈路线图聚焦于「<strong>如何将一个想法做成产品，将其商业化并获得收益</strong>」这一问题，并从大量的学习内容中进行精选，尝试让读者在短时间内补全包括商业模式、设计、开发、运营、增长在内的「最小可行技能栈」，帮助读者完成「从螺丝钉到一人企业」的蜕变。</p>
+</blockquote>
+]]></content>
+    <category term="周报"/>
+    <published>2023-09-02T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">08-26-空谷幽兰</title>
     <id>https://weekly.nnxx.me/2023/w/08-26-%E7%A9%BA%E8%B0%B7%E5%B9%BD%E5%85%B0.html</id>
     <link href="https://weekly.nnxx.me/2023/w/08-26-%E7%A9%BA%E8%B0%B7%E5%B9%BD%E5%85%B0.html"/>
-    <updated>2023-08-26T04:27:47.287Z</updated>
+    <updated>2023-09-02T11:25:44.606Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/wdvhbf.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -123,7 +246,7 @@
     <title type="text">08-19-一叶知秋</title>
     <id>https://weekly.nnxx.me/2023/w/08-19-%E4%B8%80%E5%8F%B6%E7%9F%A5%E7%A7%8B.html</id>
     <link href="https://weekly.nnxx.me/2023/w/08-19-%E4%B8%80%E5%8F%B6%E7%9F%A5%E7%A7%8B.html"/>
-    <updated>2023-08-26T04:27:47.307Z</updated>
+    <updated>2023-09-02T11:25:44.616Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/x3dazk.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -242,7 +365,7 @@
     <title type="text">08-13-锐意进取</title>
     <id>https://weekly.nnxx.me/2023/w/08-13-%E9%94%90%E6%84%8F%E8%BF%9B%E5%8F%96.html</id>
     <link href="https://weekly.nnxx.me/2023/w/08-13-%E9%94%90%E6%84%8F%E8%BF%9B%E5%8F%96.html"/>
-    <updated>2023-08-26T04:27:47.329Z</updated>
+    <updated>2023-09-02T11:25:44.622Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/wdvnf9.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -343,7 +466,7 @@ Alist网盘共享工具：</p>
     <title type="text">08-05-峰回路转</title>
     <id>https://weekly.nnxx.me/2023/w/08-05-%E5%B3%B0%E5%9B%9E%E8%B7%AF%E8%BD%AC.html</id>
     <link href="https://weekly.nnxx.me/2023/w/08-05-%E5%B3%B0%E5%9B%9E%E8%B7%AF%E8%BD%AC.html"/>
-    <updated>2023-08-26T04:27:47.335Z</updated>
+    <updated>2023-09-02T11:25:44.628Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/wdvhlu.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -451,7 +574,7 @@ Merlin是一款免费的终极 AI 工具：</p>
     <title type="text">07-29-孤鹜齐飞</title>
     <id>https://weekly.nnxx.me/2023/w/07-29-%E5%AD%A4%E9%B9%9C%E9%BD%90%E9%A3%9E.html</id>
     <link href="https://weekly.nnxx.me/2023/w/07-29-%E5%AD%A4%E9%B9%9C%E9%BD%90%E9%A3%9E.html"/>
-    <updated>2023-08-26T04:27:47.347Z</updated>
+    <updated>2023-09-02T11:25:44.660Z</updated>
     <summary type="html"><![CDATA[<figure><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -599,7 +722,7 @@ Merlin是一款免费的终极 AI 工具：</p>
     <title type="text">07-22-穿云破日</title>
     <id>https://weekly.nnxx.me/2023/w/07-22-%E7%A9%BF%E4%BA%91%E7%A0%B4%E6%97%A5.html</id>
     <link href="https://weekly.nnxx.me/2023/w/07-22-%E7%A9%BF%E4%BA%91%E7%A0%B4%E6%97%A5.html"/>
-    <updated>2023-08-26T04:27:47.368Z</updated>
+    <updated>2023-09-02T11:25:44.673Z</updated>
     <summary type="html"><![CDATA[<figure><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -796,7 +919,7 @@ CoWriter：AI辅助写作<br>
     <title type="text">07-15-好水不硬</title>
     <id>https://weekly.nnxx.me/2023/w/07-15-%E5%A5%BD%E6%B0%B4%E4%B8%8D%E7%A1%AC.html</id>
     <link href="https://weekly.nnxx.me/2023/w/07-15-%E5%A5%BD%E6%B0%B4%E4%B8%8D%E7%A1%AC.html"/>
-    <updated>2023-08-26T04:27:47.377Z</updated>
+    <updated>2023-09-02T11:25:44.677Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>今麦郎 好水不硬才养人</p>
 </blockquote>
@@ -893,7 +1016,7 @@ YouTube视频还是直播，都能实时翻译</p>
     <title type="text">07-09-若有所思</title>
     <id>https://weekly.nnxx.me/2023/w/%E8%8B%A5%E6%9C%89%E6%89%80%E6%80%9D.html</id>
     <link href="https://weekly.nnxx.me/2023/w/%E8%8B%A5%E6%9C%89%E6%89%80%E6%80%9D.html"/>
-    <updated>2023-08-26T04:27:47.383Z</updated>
+    <updated>2023-09-02T11:25:44.681Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>github数据展示：<a href="https://github.com/pingcap/ossinsight-lite" target="_blank" rel="noopener noreferrer">https://github.com/pingcap/ossinsight-lite</a></p>
 <p>使用ossinsight-lite搭建的github主页信息展示表 图表组件都很酷!</p>
@@ -980,7 +1103,7 @@ ChatGPT神器Code Interpreter，</p>
     <title type="text">07-01-化杂为简</title>
     <id>https://weekly.nnxx.me/2023/w/%E5%8C%96%E6%9D%82%E4%B8%BA%E7%AE%80.html</id>
     <link href="https://weekly.nnxx.me/2023/w/%E5%8C%96%E6%9D%82%E4%B8%BA%E7%AE%80.html"/>
-    <updated>2023-08-26T04:27:47.403Z</updated>
+    <updated>2023-09-02T11:25:44.687Z</updated>
     <summary type="html"><![CDATA[<h2> 在线测速和IP查询</h2>
 <blockquote>
 <p>在线测速和IP查询网站
@@ -1102,7 +1225,7 @@ ChatGPT神器Code Interpreter，</p>
     <title type="text">06-17-一曲很少</title>
     <id>https://weekly.nnxx.me/2023/w/%E4%B8%80%E6%9B%B2%E5%BE%88%E5%B0%91.html</id>
     <link href="https://weekly.nnxx.me/2023/w/%E4%B8%80%E6%9B%B2%E5%BE%88%E5%B0%91.html"/>
-    <updated>2023-08-26T04:27:47.414Z</updated>
+    <updated>2023-09-02T11:25:44.702Z</updated>
     <summary type="html"><![CDATA[<h2> AI</h2>
 <blockquote>
 <p>chatgpt 镜像：<a href="https://chat.wuguokai.cn/" target="_blank" rel="noopener noreferrer">https://chat.wuguokai.cn/</a></p>
@@ -1254,7 +1377,7 @@ ChatGPT神器Code Interpreter，</p>
     <title type="text">06-10-逸趣横生</title>
     <id>https://weekly.nnxx.me/2023/w/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html</id>
     <link href="https://weekly.nnxx.me/2023/w/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html"/>
-    <updated>2023-08-26T04:27:47.422Z</updated>
+    <updated>2023-09-02T11:25:44.709Z</updated>
     <summary type="html"><![CDATA[<h2> 思维开拓</h2>
 <blockquote>
 <p>在线地址：<a href="https://joeprevite.com/" target="_blank" rel="noopener noreferrer">https://joeprevite.com/</a></p>
@@ -1352,7 +1475,7 @@ ChatGPT神器Code Interpreter，</p>
     <title type="text">2023 周刊</title>
     <id>https://weekly.nnxx.me/2023/</id>
     <link href="https://weekly.nnxx.me/2023/"/>
-    <updated>2023-08-26T04:27:47.425Z</updated>
+    <updated>2023-09-02T11:25:44.712Z</updated>
     <summary type="html"><![CDATA[<h3> 2023</h3>
 <ul>
 <li>
@@ -1437,7 +1560,7 @@ ChatGPT神器Code Interpreter，</p>
     <title type="text">06-25-推陈出新</title>
     <id>https://weekly.nnxx.me/2023/w/%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0.html</id>
     <link href="https://weekly.nnxx.me/2023/w/%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0.html"/>
-    <updated>2023-08-26T04:27:47.439Z</updated>
+    <updated>2023-09-02T11:25:44.714Z</updated>
     <summary type="html"><![CDATA[<h2> 看板</h2>
 <h3> ServerStatus-Rust</h3>
 <blockquote>
