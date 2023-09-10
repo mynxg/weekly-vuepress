@@ -3,17 +3,176 @@
   <id>https://weekly.nnxx.me/</id>
   <title>Weekly</title>
   <subtitle>行动胜于空谈</subtitle>
-  <updated>2023-09-02T11:25:44.568Z</updated>
+  <updated>2023-09-10T09:23:56.067Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://weekly.nnxx.me/atom.xml"/>
   <link rel="alternate" href="https://weekly.nnxx.me/"/>
   <category term="周报"/>
   <category term="工具"/>
   <entry>
+    <title type="text">09-10-秋风落叶</title>
+    <id>https://weekly.nnxx.me/2023/w/09-10-%E7%A7%8B%E9%A3%8E%E8%90%BD%E5%8F%B6.html</id>
+    <link href="https://weekly.nnxx.me/2023/w/09-10-%E7%A7%8B%E9%A3%8E%E8%90%BD%E5%8F%B6.html"/>
+    <updated>2023-09-10T09:23:56.103Z</updated>
+    <summary type="html"><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<figure><figcaption></figcaption></figure>
+<blockquote>
+<p>图来自某tui</p>
+</blockquote>
+<h2> 资料</h2>
+<p>Nginx 的学习手册</p>
+<blockquote>
+<p>在线地址：<a href="https://mp.weixin.qq.com/s/Y3pV8K1JNNHvnH5bMTsEzg" target="_blank" rel="noopener noreferrer">神器 Nginx 的学习手册 ( 建议收藏 ) (qq.com)</a></p>
+<p>很详细</p>
+</blockquote>]]></summary>
+    <content type="html"><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<figure><figcaption></figcaption></figure>
+<blockquote>
+<p>图来自某tui</p>
+</blockquote>
+<h2> 资料</h2>
+<p>Nginx 的学习手册</p>
+<blockquote>
+<p>在线地址：<a href="https://mp.weixin.qq.com/s/Y3pV8K1JNNHvnH5bMTsEzg" target="_blank" rel="noopener noreferrer">神器 Nginx 的学习手册 ( 建议收藏 ) (qq.com)</a></p>
+<p>很详细</p>
+</blockquote>
+<p>Docker安装Jenkins，一键打包发包</p>
+<blockquote>
+<p>在线地址：<a href="https://mp.weixin.qq.com/s/5ntOervYJRJNe60jNXuAdQ" target="_blank" rel="noopener noreferrer">Docker安装Jenkins,一键打包发包【一步到胃】 (qq.com)</a></p>
+</blockquote>
+<p>深入架构原理与落地实践</p>
+<blockquote>
+<p>在线地址：<a href="https://www.thebyte.com.cn/" target="_blank" rel="noopener noreferrer">https://www.thebyte.com.cn/</a></p>
+<p>较完整地介绍了架构体系，贯穿 underlay网络、容器与云原生网络、网关实践、微服务与分布式、云原生、质量监测以及成本管理方面的主题，帮助工程师快速理解架构体系全貌</p>
+</blockquote>
+<p>Hello 算法</p>
+<blockquote>
+<p>项目地址：<a href="https://github.com/krahets/hello-algo" target="_blank" rel="noopener noreferrer">https://github.com/krahets/hello-algo</a></p>
+<p>在线地址：<a href="https://www.hello-algo.com/" target="_blank" rel="noopener noreferrer">https://www.hello-algo.com/</a></p>
+<p>这本书制作的非常精美，全部都有动画图解，支持直接在线观看以及下载 PDF，配有全代码示例，图片制作的也很精美，而且作者的文学功底很不错，由浅入深，娓娓道来，还很用心的有一些设计过的引言，读起来不是特别生涩。</p>
+</blockquote>
+<p><img src="https://www.hello-algo.com/index.assets/hello_algo_mindmap_tp.png" alt="" loading="lazy">
+电子书籍聚集：</p>
+<blockquote>
+<p>在线地址：<a href="https://ocxfa4l2ug.feishu.cn/sheets/GxzNsHow3hrzaltuIkAcQmv3nCb" target="_blank" rel="noopener noreferrer">https://ocxfa4l2ug.feishu.cn/sheets/GxzNsHow3hrzaltuIkAcQmv3nCb</a></p>
+</blockquote>
+<h2> 工具</h2>
+<p>notepal</p>
+<blockquote>
+<p>项目地址：<a href="github.com/djyde/notepal">github.com/djyde/notepal</a></p>
+<p>在线地址：<a href="https://notepal.randynamic.org/" target="_blank" rel="noopener noreferrer">Notepal - 同步读书笔记 (randynamic.org)</a></p>
+<p>作者 Randy Lu 是一个微信读书的用户，所以自己做了一个小工具，把微信读书的笔记上传到 Readwise, 粘帖微信读书导出的笔记，然后解析并输出为 Readwise 支持的 csv 格式。</p>
+<p>浏览器插件支持：</p>
+<p>微信读书导入 Readwise 配置</p>
+<p>微信读书导入 flomo 配置</p>
+<p>微信读书导入 Obsidian 配置</p>
+<p>微信读书导入 Logseq 配置</p>
+<p>微信读书导入 Notion 配置</p>
+</blockquote>
+<p>Feedful</p>
+<blockquote>
+<p>在线地址：<a href="https://feedful.app/" target="_blank" rel="noopener noreferrer">https://feedful.app/</a></p>
+<p>Feedful是一个tweetdeck风格的新闻阅读器。可以自定义显示列。Feedful目前支持Producthunt, Hackernews, Github趋势，Reddit, Youtube, Dribbble。RSS，谷歌新闻等。阅读和看很多新闻。跳转到多个不同的源总是一件痛苦的事情，把所有这些源以tweet甲板的方式放在一个地方会很棒。于是feedful诞生了。</p>
+</blockquote>
+<figure><img src="https://mmbiz.qpic.cn/mmbiz_png/G4umk62oPLre6w7N6vtBoL4XhoS1R1r7DSr4YbqicYMMhicPTGmXfR78ule0Q0vfU55WkoI5HUGXYkibTtSngfZsw/640?wx_fmt=png&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h1> AIX智能下载器</h1>
+<blockquote>
+<p>下载图片/视频/音乐/文档: <a href="https://chrome.google.com/webstore/detail/aix-downloaderpicturevide/ibdfeimkglcmdejppabkaidpippniiob?hl=zh-CN" target="_blank" rel="noopener noreferrer">https://chrome.google.com/webstore/detail/aix-downloaderpicturevide/ibdfeimkglcmdejppabkaidpippniiob?hl=zh-CN</a></p>
+<p>支持抖音、Bilibili、爱奇艺，腾讯视频、Facebook、Twitter、微博等视频网站的智能提取和下载。内置视频播放器让您在下载所需内容之前对其进行预览。智能获取网页中的视频，可选择不同分辨率视频进行下载。持续集成更多视频网站下载支持。</p>
+<p>AixDownloader功能强大，还有很多功能你可以去探索，<strong>完全免费，可以直接安装到谷歌Chrome浏览器、微软Edge浏览器上使用</strong>，有了它，你可以获取到网页上等任何资源。</p>
+<p>推荐插件地址：<a href="https://github.com/sushengbuhuo/blog/blob/48662ebf58cee7474a6429a3d05f71680395f8cb/docs/blog/chrome%E6%89%A9%E5%B1%95%E7%B3%BB%E5%88%97.md?plain=1#L1539" target="_blank" rel="noopener noreferrer">blog/docs/blog/chrome扩展系列.md at 48662ebf58cee7474a6429a3d05f71680395f8cb · sushengbuhuo/blog (github.com)</a></p>
+</blockquote>
+<figure><img src="https://mmbiz.qpic.cn/sz_mmbiz_gif/ec6X8gMaiaTZDE0bL7L2ESonZArPbMXhpjo8jtSERobnA4Bo4zNUXUD9ib4x8q8uczQfb1spibR3vpegibFePmGM5g/640?wx_fmt=gif&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>生成不同格式的纸张类</p>
+<blockquote>
+<p>在线地址：<a href="https://www.mygraphpaper.com/index.php?lang=zh-hans" target="_blank" rel="noopener noreferrer">https://www.mygraphpaper.com/index.php?lang=zh-hans</a></p>
+<p>在线地址：<a href="https://www.gridzzly.com/" target="_blank" rel="noopener noreferrer">https://www.gridzzly.com/</a></p>
+<p>可以生成不同格式的纸张类别：笔记本、康奈尔笔记、米字格、方格纸、网格纸、备忘录、漫画稿纸、五线谱、麦肯锡笔记等。</p>
+</blockquote>
+<h2> AI</h2>
+<p>text2cinemagraph：使用文本描述创建动态图像</p>
+<blockquote>
+<p>项目地址：<a href="github.com/text2cinemagraph/text2cinemagraph">github.com/text2cinemagraph/text2cinemagraph</a></p>
+<p>这是一个开源项目，利用现有的自然图像和视频数据集，我们可以准确地分割真实图像并预测给定语义信息的合理运动。</p>
+</blockquote>
+<figure><img src="https://mmbiz.qpic.cn/mmbiz_gif/G4umk62oPLptTqSzz4bp8QjibvESPwaicV5ibDDf1Vnn7m6rjbrt2PGursxk8UcG1AzqCdMwKjpibJic6pY0vFjeJEw/640?wx_fmt=gif&amp;wxfrom=5&amp;wx_lazy=1" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2> 扩展</h2>
+<p>了解 SaaS</p>
+<blockquote>
+<p>英文就是 Software-as-a-Service（软件即服务）
+文章地址：<a href="https://juejin.cn/post/7270864903014268962" target="_blank" rel="noopener noreferrer">https://juejin.cn/post/7270864903014268962</a></p>
+</blockquote>
+<p>免费快速获取HTTPS（SSL）证书</p>
+<blockquote>
+<p>在线地址：<a href="https://mp.weixin.qq.com/s/x-Y-_mTh_xhVo-WzQ0AbqQ" target="_blank" rel="noopener noreferrer">免费快速获取HTTPS（SSL）证书 (qq.com)</a></p>
+<p>在线地址：<a href="https://mp.weixin.qq.com/s/fiYt5ylG2DLskoFm4Fnz-g" target="_blank" rel="noopener noreferrer">使用长期免费的HTTPS数字证书 (qq.com)</a></p>
+</blockquote>
+<p>推荐一个过期监控工具</p>
+<blockquote>
+<p>项目地址：<a href="https://github.com/mouday/domain-admin/" target="_blank" rel="noopener noreferrer">https://github.com/mouday/domain-admin/</a></p>
+<p>基于Python + Vue3.js 技术栈实现的域名和SSL证书监测平台</p>
+</blockquote>
+<h2> Github项目推荐</h2>
+<p>WAF - 反向代理接入</p>
+<blockquote>
+<p>项目地址：<a href="https://github.com/chaitin/safeline" target="_blank" rel="noopener noreferrer">https://github.com/chaitin/safeline</a></p>
+<p>在线地址：<a href="https://waf-ce.chaitin.cn/" target="_blank" rel="noopener noreferrer">https://waf-ce.chaitin.cn/</a></p>
+<p>阅读地址：<a href="https://mp.weixin.qq.com/s/pbddfl5T_NDPFZE39pZKPQ" target="_blank" rel="noopener noreferrer">强烈推荐！一款足够简单、好用且免费的开源WAF，反向代理接入，保护你的网站不受黑客攻击 (qq.com)</a></p>
+</blockquote>
+<p>内网穿透、GUI、一键启动、不限速，内置日志</p>
+<blockquote>
+<p>项目地址：<a href="https://github.com/LiangXiaoWei1024/net-penetrate-http-and-https-simple" target="_blank" rel="noopener noreferrer">https://github.com/LiangXiaoWei1024/net-penetrate-http-and-https-simple</a></p>
+<p>•全新GUI界面，操作简单，一键安装，这是一个托盘系统要是觉得窗口碍事可以随时关闭打开</p>
+<p>•为你穿透端口绑定域名，不再是IP+端口裸奔访问</p>
+<p>•支持http/https等多种模式使用客户端网络代理上网，家里轻松访问公司网络</p>
+<p>•支持GET | POST | PUT | PATCH | DELETE</p>
+<p>•多用户支持，同时满足多人日常穿透需求•支持正常的数据交互，上传下载文件，重定向等等。</p>
+<p>•内置日志模块，方便开发测试。</p>
+<p>•常见应用：开发调试， 支付接口回调、微信接口、个人电脑搭建网站，远程办公等等。</p>
+<p>•支持自定义二级域名</p>
+</blockquote>
+<p>大屏设计器</p>
+<blockquote>
+<p>项目地址：<a href="https://github.com/gcpaas/DataRoom" target="_blank" rel="noopener noreferrer">https://github.com/gcpaas/DataRoom</a></p>
+<p>在线地址：<a href="http://gcpaas.gccloud.com/" title="http://gcpaas.gccloud.com/" target="_blank" rel="noopener noreferrer">gcpaas.gccloud.com/</a></p>
+<p>🔥基于SpringBoot、MyBatisPlus、ElementUI、G2Plot、Echarts等技术栈的大屏设计器，具备目录管理、DashBoard设计、预览能力，支持MySQL、Oracle、PostgreSQL、JSON等数据集接入，对于复杂数据处理还可以使用Groovy脚本数据集，使用简单，完全免费，代码开源。
+一站式大屏解决方案、使用简单、完全免费</p>
+<ul>
+<li>
+<p>一站式大屏解决方案，从数据处理-&gt;大屏设计-&gt;大屏预览-&gt;生产使用</p>
+</li>
+<li>
+<p>支持多种数据集接入，可用于生产</p>
+</li>
+<li>
+<p>支持独立部署，不对原有工程产生影响，适用于老项目</p>
+</li>
+<li>
+<p>支持嵌入式集成，与项目无缝融合，引入依赖包即可，无其他系统框架依赖，减少运维成本，适用于新项目</p>
+</li>
+<li>
+<p>支持组件在线、离线开发，在线开发简单组件、离线开发复杂组件</p>
+</li>
+<li>
+<p>支持自定义接口权限、数据权限，轻松对接Shiro、Security等认证框架，保证大屏数据安全</p>
+</li>
+</ul>
+</blockquote>
+<figure><img src="https://github.com/gcpaas/DataRoom/blob/master/doc/images/大屏管理.png?raw=true" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>最近想看几本书：《娱乐至死》-作者：尼尔·波兹曼（Neil Postman）、《社会心理学》</p>
+]]></content>
+    <category term="周报"/>
+    <published>2023-09-10T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">09-02-心驰神往</title>
     <id>https://weekly.nnxx.me/2023/w/09-02-%E5%BF%83%E9%A9%B0%E7%A5%9E%E5%BE%80.html</id>
     <link href="https://weekly.nnxx.me/2023/w/09-02-%E5%BF%83%E9%A9%B0%E7%A5%9E%E5%BE%80.html"/>
-    <updated>2023-09-02T11:25:44.596Z</updated>
+    <updated>2023-09-10T09:23:56.119Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/wdvhm6.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -136,7 +295,7 @@ Android IOS &amp; OSx</p>
     <title type="text">08-26-空谷幽兰</title>
     <id>https://weekly.nnxx.me/2023/w/08-26-%E7%A9%BA%E8%B0%B7%E5%B9%BD%E5%85%B0.html</id>
     <link href="https://weekly.nnxx.me/2023/w/08-26-%E7%A9%BA%E8%B0%B7%E5%B9%BD%E5%85%B0.html"/>
-    <updated>2023-09-02T11:25:44.606Z</updated>
+    <updated>2023-09-10T09:23:56.124Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/wdvhbf.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -246,7 +405,7 @@ Android IOS &amp; OSx</p>
     <title type="text">08-19-一叶知秋</title>
     <id>https://weekly.nnxx.me/2023/w/08-19-%E4%B8%80%E5%8F%B6%E7%9F%A5%E7%A7%8B.html</id>
     <link href="https://weekly.nnxx.me/2023/w/08-19-%E4%B8%80%E5%8F%B6%E7%9F%A5%E7%A7%8B.html"/>
-    <updated>2023-09-02T11:25:44.616Z</updated>
+    <updated>2023-09-10T09:23:56.132Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/x3dazk.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -365,7 +524,7 @@ Android IOS &amp; OSx</p>
     <title type="text">08-13-锐意进取</title>
     <id>https://weekly.nnxx.me/2023/w/08-13-%E9%94%90%E6%84%8F%E8%BF%9B%E5%8F%96.html</id>
     <link href="https://weekly.nnxx.me/2023/w/08-13-%E9%94%90%E6%84%8F%E8%BF%9B%E5%8F%96.html"/>
-    <updated>2023-09-02T11:25:44.622Z</updated>
+    <updated>2023-09-10T09:23:56.141Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/wdvnf9.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -466,7 +625,7 @@ Alist网盘共享工具：</p>
     <title type="text">08-05-峰回路转</title>
     <id>https://weekly.nnxx.me/2023/w/08-05-%E5%B3%B0%E5%9B%9E%E8%B7%AF%E8%BD%AC.html</id>
     <link href="https://weekly.nnxx.me/2023/w/08-05-%E5%B3%B0%E5%9B%9E%E8%B7%AF%E8%BD%AC.html"/>
-    <updated>2023-09-02T11:25:44.628Z</updated>
+    <updated>2023-09-10T09:23:56.154Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/wdvhlu.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -574,7 +733,7 @@ Merlin是一款免费的终极 AI 工具：</p>
     <title type="text">07-29-孤鹜齐飞</title>
     <id>https://weekly.nnxx.me/2023/w/07-29-%E5%AD%A4%E9%B9%9C%E9%BD%90%E9%A3%9E.html</id>
     <link href="https://weekly.nnxx.me/2023/w/07-29-%E5%AD%A4%E9%B9%9C%E9%BD%90%E9%A3%9E.html"/>
-    <updated>2023-09-02T11:25:44.660Z</updated>
+    <updated>2023-09-10T09:23:56.162Z</updated>
     <summary type="html"><![CDATA[<figure><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -722,7 +881,7 @@ Merlin是一款免费的终极 AI 工具：</p>
     <title type="text">07-22-穿云破日</title>
     <id>https://weekly.nnxx.me/2023/w/07-22-%E7%A9%BF%E4%BA%91%E7%A0%B4%E6%97%A5.html</id>
     <link href="https://weekly.nnxx.me/2023/w/07-22-%E7%A9%BF%E4%BA%91%E7%A0%B4%E6%97%A5.html"/>
-    <updated>2023-09-02T11:25:44.673Z</updated>
+    <updated>2023-09-10T09:23:56.179Z</updated>
     <summary type="html"><![CDATA[<figure><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -919,7 +1078,7 @@ CoWriter：AI辅助写作<br>
     <title type="text">07-15-好水不硬</title>
     <id>https://weekly.nnxx.me/2023/w/07-15-%E5%A5%BD%E6%B0%B4%E4%B8%8D%E7%A1%AC.html</id>
     <link href="https://weekly.nnxx.me/2023/w/07-15-%E5%A5%BD%E6%B0%B4%E4%B8%8D%E7%A1%AC.html"/>
-    <updated>2023-09-02T11:25:44.677Z</updated>
+    <updated>2023-09-10T09:23:56.197Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>今麦郎 好水不硬才养人</p>
 </blockquote>
@@ -1016,7 +1175,7 @@ YouTube视频还是直播，都能实时翻译</p>
     <title type="text">07-09-若有所思</title>
     <id>https://weekly.nnxx.me/2023/w/%E8%8B%A5%E6%9C%89%E6%89%80%E6%80%9D.html</id>
     <link href="https://weekly.nnxx.me/2023/w/%E8%8B%A5%E6%9C%89%E6%89%80%E6%80%9D.html"/>
-    <updated>2023-09-02T11:25:44.681Z</updated>
+    <updated>2023-09-10T09:23:56.201Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>github数据展示：<a href="https://github.com/pingcap/ossinsight-lite" target="_blank" rel="noopener noreferrer">https://github.com/pingcap/ossinsight-lite</a></p>
 <p>使用ossinsight-lite搭建的github主页信息展示表 图表组件都很酷!</p>
@@ -1103,7 +1262,7 @@ ChatGPT神器Code Interpreter，</p>
     <title type="text">07-01-化杂为简</title>
     <id>https://weekly.nnxx.me/2023/w/%E5%8C%96%E6%9D%82%E4%B8%BA%E7%AE%80.html</id>
     <link href="https://weekly.nnxx.me/2023/w/%E5%8C%96%E6%9D%82%E4%B8%BA%E7%AE%80.html"/>
-    <updated>2023-09-02T11:25:44.687Z</updated>
+    <updated>2023-09-10T09:23:56.207Z</updated>
     <summary type="html"><![CDATA[<h2> 在线测速和IP查询</h2>
 <blockquote>
 <p>在线测速和IP查询网站
@@ -1225,7 +1384,7 @@ ChatGPT神器Code Interpreter，</p>
     <title type="text">06-17-一曲很少</title>
     <id>https://weekly.nnxx.me/2023/w/%E4%B8%80%E6%9B%B2%E5%BE%88%E5%B0%91.html</id>
     <link href="https://weekly.nnxx.me/2023/w/%E4%B8%80%E6%9B%B2%E5%BE%88%E5%B0%91.html"/>
-    <updated>2023-09-02T11:25:44.702Z</updated>
+    <updated>2023-09-10T09:23:56.218Z</updated>
     <summary type="html"><![CDATA[<h2> AI</h2>
 <blockquote>
 <p>chatgpt 镜像：<a href="https://chat.wuguokai.cn/" target="_blank" rel="noopener noreferrer">https://chat.wuguokai.cn/</a></p>
@@ -1377,7 +1536,7 @@ ChatGPT神器Code Interpreter，</p>
     <title type="text">06-10-逸趣横生</title>
     <id>https://weekly.nnxx.me/2023/w/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html</id>
     <link href="https://weekly.nnxx.me/2023/w/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html"/>
-    <updated>2023-09-02T11:25:44.709Z</updated>
+    <updated>2023-09-10T09:23:56.222Z</updated>
     <summary type="html"><![CDATA[<h2> 思维开拓</h2>
 <blockquote>
 <p>在线地址：<a href="https://joeprevite.com/" target="_blank" rel="noopener noreferrer">https://joeprevite.com/</a></p>
@@ -1475,7 +1634,7 @@ ChatGPT神器Code Interpreter，</p>
     <title type="text">2023 周刊</title>
     <id>https://weekly.nnxx.me/2023/</id>
     <link href="https://weekly.nnxx.me/2023/"/>
-    <updated>2023-09-02T11:25:44.712Z</updated>
+    <updated>2023-09-10T09:23:56.224Z</updated>
     <summary type="html"><![CDATA[<h3> 2023</h3>
 <ul>
 <li>
@@ -1560,7 +1719,7 @@ ChatGPT神器Code Interpreter，</p>
     <title type="text">06-25-推陈出新</title>
     <id>https://weekly.nnxx.me/2023/w/%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0.html</id>
     <link href="https://weekly.nnxx.me/2023/w/%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0.html"/>
-    <updated>2023-09-02T11:25:44.714Z</updated>
+    <updated>2023-09-10T09:23:56.226Z</updated>
     <summary type="html"><![CDATA[<h2> 看板</h2>
 <h3> ServerStatus-Rust</h3>
 <blockquote>
