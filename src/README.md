@@ -14,8 +14,8 @@ actions:
     link: ./2023/
     type: primary
 
-  - text: RSS
-    link: ./rss.xml
+  - text: RSS 🐱
+    link: https://weekly.nnxx.me/rss.xml
 
 highlights:
   - header: 个人站点
