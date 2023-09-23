@@ -6,8 +6,8 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 23 Sep 2023 07:30:21 GMT</pubDate>
-    <lastBuildDate>Sat, 23 Sep 2023 07:30:21 GMT</lastBuildDate>
+    <pubDate>Sat, 23 Sep 2023 07:39:20 GMT</pubDate>
+    <lastBuildDate>Sat, 23 Sep 2023 07:39:20 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
@@ -137,6 +137,12 @@
 <p>官方文档：<a href="https://vitepress.dev/guide/getting-started" target="_blank" rel="noopener noreferrer">https://vitepress.dev/guide/getting-started</a></p>
 <p>项目地址：<a href="https://github.com/vuejs/vitepress" target="_blank" rel="noopener noreferrer">https://github.com/vuejs/vitepress</a></p>
 <p>可用于写文档、知识库等</p>
+</blockquote>
+<p>docsify</p>
+<blockquote>
+<p>官方文档：<a href="https://docsify.js.org/#/?id=docsify" target="_blank" rel="noopener noreferrer">https://docsify.js.org/#/?id=docsify</a></p>
+<p>项目地址：<a href="https://github.com/docsifyjs/docsify/" target="_blank" rel="noopener noreferrer">https://github.com/docsifyjs/docsify/</a></p>
+<p>神奇的文档网站生成器</p>
 </blockquote>
 <p>docusaurus</p>
 <blockquote>
