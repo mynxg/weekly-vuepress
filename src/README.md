@@ -14,8 +14,8 @@ actions:
     link: ./2023/
     type: primary
 
-  # - text: 文档
-  #   link: ./guide/
+  - text: RSS
+    link: rss.xml
 
 highlights:
   - header: 个人站点
