@@ -15,7 +15,7 @@ actions:
     type: primary
 
   - text: RSS
-    link: rss.xml
+    link: ./rss.xml
 
 highlights:
   - header: 个人站点
