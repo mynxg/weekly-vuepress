@@ -6,12 +6,135 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Oct 2023 06:47:42 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Oct 2023 06:47:42 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Oct 2023 16:03:00 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Oct 2023 16:03:00 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
     <category>工具</category>
+    <item>
+      <title>10-07-久宽遇逢</title>
+      <link>https://weekly.nnxx.me/2023/w/10-07-%E4%B9%85%E5%AE%BD%E9%81%87%E9%80%A2.html</link>
+      <guid>https://weekly.nnxx.me/2023/w/10-07-%E4%B9%85%E5%AE%BD%E9%81%87%E9%80%A2.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">10-07-久宽遇逢</source>
+      <description>分享、实用、有趣、共勉 前端 现代 Web 布局 案例（478个）： 在线地址：https://codepen.io/collection/KpvLeb?cursor=eyJwYWdlIjo0fQ== (https://codepen.io/collection/KpvLeb?cursor=eyJwYWdlIjo0fQ==) 现代 CSS 案例（973...</description>
+      <category>周报</category>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<figure><img src="https://api.hanximeng.com/bing/" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2> 前端</h2>
+<p>现代 Web 布局 案例（478个）：</p>
+<blockquote>
+<p>在线地址：<a href="https://codepen.io/collection/KpvLeb?cursor=eyJwYWdlIjo0fQ==" target="_blank" rel="noopener noreferrer">https://codepen.io/collection/KpvLeb?cursor=eyJwYWdlIjo0fQ==</a></p>
+</blockquote>
+<p>现代 CSS  案例（973个）：</p>
+<blockquote>
+<p>在线地址：<a href="https://codepen.io/collection/qOYgaP" target="_blank" rel="noopener noreferrer">https://codepen.io/collection/qOYgaP</a></p>
+</blockquote>
+<p>防御式 CSS 案例（418个）：</p>
+<blockquote>
+<p>在线地址：<a href="https://codepen.io/collection/wamkOL" target="_blank" rel="noopener noreferrer">https://codepen.io/collection/wamkOL</a></p>
+</blockquote>
+<h2> AI</h2>
+<p>Lepton AI</p>
+<blockquote>
+<p>在线地址：<a href="https://lepton.ai/playground" target="_blank" rel="noopener noreferrer">https://lepton.ai/playground</a></p>
+<p>Lepton AI（图二）：试玩各种开源 AI 模型，还允许一行语句在本地调用。</p>
+</blockquote>
+<p>openCat：</p>
+<blockquote>
+<p>在线地址：<a href="https://opencat.app/" target="_blank" rel="noopener noreferrer">https://opencat.app</a></p>
+<p>项目地址：<a href="https://github.com/waylybaye/opencat.app" target="_blank" rel="noopener noreferrer">https://github.com/waylybaye/opencat.app</a></p>
+<p>原生 AI 聊天客户端，提供更流畅、更快速的聊天体验，目前只支持ios</p>
+</blockquote>
+<p>AI 工具合集：</p>
+<blockquote>
+<p>在线地址：<a href="https://www.aitoolist.net/" target="_blank" rel="noopener noreferrer">https://www.aitoolist.net/</a></p>
+<p>有新闻、开源项目、工具等</p>
+</blockquote>
+<h2> 工具</h2>
+<p>时区换算小工具：</p>
+<blockquote>
+<p>在线地址：<a href="https://www.timezones.digital/" target="_blank" rel="noopener noreferrer">https://www.timezones.digital/</a></p>
+<p>可以创建、拖拽等</p>
+</blockquote>
+<p>google远程桌面：</p>
+<blockquote>
+<p>在线地址：<a href="https://remotedesktop.google.com/access" target="_blank" rel="noopener noreferrer">https://remotedesktop.google.com/access</a></p>
+</blockquote>
+<p>Jailer</p>
+<blockquote>
+<p>在线地址： <a href="https://github.com/Wisser/Jailer" target="_blank" rel="noopener noreferrer">https://github.com/Wisser/Jailer</a></p>
+<p>Jailer：一个跨平台的数据库桌面管理工具，可以显示关系模型。</p>
+</blockquote>
+<p>gitness</p>
+<blockquote>
+<p>在线地址：<a href="https://gitness.com" target="_blank" rel="noopener noreferrer">https://gitness.com</a></p>
+<p>GitHub 的开源替代品，用来自己搭建，托管代码。</p>
+</blockquote>
+<h2> 扩展</h2>
+<p>kafka-eagle (可视化工具)</p>
+<blockquote>
+<p>kafka可视化工具</p>
+<p>参考：<a href="https://blog.csdn.net/weixin_41212819/article/details/123722030" target="_blank" rel="noopener noreferrer">https://blog.csdn.net/weixin_41212819/article/details/123722030</a></p>
+<p>kafka-eagle下载地址：<a href="https://www.kafka-eagle.org/" target="_blank" rel="noopener noreferrer">https://www.kafka-eagle.org/</a></p>
+</blockquote>
+<p>SPL</p>
+<blockquote>
+<p>地址：<a href="https://mp.weixin.qq.com/s/LHSlD4OJ_k4E_6gbI5OTFg" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/LHSlD4OJ_k4E_6gbI5OTFg</a></p>
+<p>SPL 可用于数据处理，是一种方式，可以尝试了解了解</p>
+</blockquote>
+<p>flink</p>
+<blockquote>
+<p>在线地址：<a href="https://flink.fyi/" target="_blank" rel="noopener noreferrer">https://flink.fyi/</a></p>
+</blockquote>
+<p>怎样花两年时间去面试一个人</p>
+<blockquote>
+<p>在线地址：<a href="https://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/" target="_blank" rel="noopener noreferrer">https://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/</a></p>
+<p>里面提到了很多工程师本身能力竞争力的提升的建议，对于面试官和面试者均有不少可学习的地方，很值得一读。</p>
+</blockquote>
+<h2> 有趣的demo</h2>
+<p>相册：</p>
+<blockquote>
+<p>在线地址：<a href="https://codepen.io/airen/pen/zYyaOqm" target="_blank" rel="noopener noreferrer">https://codepen.io/airen/pen/zYyaOqm</a></p>
+</blockquote>
+<p>主题切换：</p>
+<blockquote>
+<p>在线地址：<a href="https://codepen.io/airen/pen/VwqEVvO" target="_blank" rel="noopener noreferrer">https://codepen.io/airen/pen/VwqEVvO</a></p>
+</blockquote>
+<p>图片切换：</p>
+<blockquote>
+<p>在线地址：<a href="https://codepen.io/airen/pen/yLGjXZe" target="_blank" rel="noopener noreferrer">https://codepen.io/airen/pen/yLGjXZe</a></p>
+</blockquote>
+<p>3D图片删除：</p>
+<blockquote>
+<p>在线地址：<a href="https://codepen.io/airen/pen/LYMgGqj" target="_blank" rel="noopener noreferrer">https://codepen.io/airen/pen/LYMgGqj</a></p>
+</blockquote>
+<p>有趣的 Emoji 合并的工具</p>
+<blockquote>
+<p>在线地址：<a href="https://tikolu.net/emojimix/%E2%98%81%EF%B8%8F+%E2%98%81%EF%B8%8F" target="_blank" rel="noopener noreferrer">https://tikolu.net/emojimix/%E2%98%81%EF%B8%8F+%E2%98%81%EF%B8%8F</a></p>
+<p>你可以直接随机选择两个合并成神奇的样子，也可以去看看当前合并的排行榜找找思路，挺好玩的，甚至有兴趣你可以做一个表情包玩玩。</p>
+</blockquote>
+<blockquote>
+<p>10个成为高效软件工程师的关键特质：</p>
+<ol>
+<li>关心用户及其需求</li>
+<li>擅长解决问题</li>
+<li>保持简单，同时关心质量</li>
+<li>能够和团队成员流畅沟通</li>
+<li>建立信任和自主性，积累社交资本</li>
+<li>清晰掌握团队的整体方向和策略</li>
+<li>能够明确任务的优先级，并独立完成</li>
+<li>有远见，考虑决策可能带来的长期影响</li>
+<li>让你参与的软件项目变得更加完善</li>
+<li>愿意接受新的挑战</li>
+</ol>
+</blockquote>
+]]></content:encoded>
+      <enclosure url="https://api.hanximeng.com/bing/" type="image/"/>
+    </item>
     <item>
       <title>09-30-清微淡远</title>
       <link>https://weekly.nnxx.me/2023/w/09-30-%E6%B8%85%E5%BE%AE%E6%B7%A1%E8%BF%9C.html</link>
