@@ -6,12 +6,138 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 22 Oct 2023 10:28:19 GMT</pubDate>
-    <lastBuildDate>Sun, 22 Oct 2023 10:28:19 GMT</lastBuildDate>
+    <pubDate>Sun, 29 Oct 2023 13:17:45 GMT</pubDate>
+    <lastBuildDate>Sun, 29 Oct 2023 13:17:45 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
     <category>工具</category>
+    <item>
+      <title>10-28-可有可无</title>
+      <link>https://weekly.nnxx.me/2023/w/10-28-%E5%8F%AF%E6%9C%89%E5%8F%AF%E6%97%A0.html</link>
+      <guid>https://weekly.nnxx.me/2023/w/10-28-%E5%8F%AF%E6%9C%89%E5%8F%AF%E6%97%A0.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">10-28-可有可无</source>
+      <description>分享、实用、有趣、共勉 前端 2D 物理 js 库 在线地址：https://brm.io/matter-js/ (https://brm.io/matter-js/) matter. js 一个高性能的 2D 物理 js 库 “当有了在 web 模拟物理世界的能力，你有什么新的 idea” Why I&amp;apos;m Using Next.js 在线地址：htt...</description>
+      <category>周报</category>
+      <pubDate>Sat, 28 Oct 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<figure><img src="https://img.nnxx.me/file/f13a3e385bb3bc50008f7.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2> 前端</h2>
+<p>2D 物理 js 库</p>
+<blockquote>
+<p>在线地址：<a href="https://brm.io/matter-js/" target="_blank" rel="noopener noreferrer">https://brm.io/matter-js/</a></p>
+<p>matter. js 一个高性能的 2D 物理 js 库 “当有了在 web 模拟物理世界的能力，你有什么新的 idea”</p>
+</blockquote>
+<p>Why I'm Using Next.js</p>
+<blockquote>
+<p>在线地址：<a href="https://leerob.io/blog/using-nextjs" target="_blank" rel="noopener noreferrer">https://leerob.io/blog/using-nextjs</a></p>
+</blockquote>
+<p>构建外脑 / 智变时代的个人知识管理</p>
+<blockquote>
+<p>在线地址：<a href="https://www.indigox.me/build-exobrain/" target="_blank" rel="noopener noreferrer">https://www.indigox.me/build-exobrain/</a></p>
+</blockquote>
+<p>新一代前端发展的困境与破局</p>
+<blockquote>
+<p>在线地址：<a href="https://tw93.fun/images/pdf/new-fe.pdf" target="_blank" rel="noopener noreferrer">https://tw93.fun/images/pdf/new-fe.pdf</a></p>
+<p>主要是在造轮子时代已经过去、国内环境很卷的情况下，工程师怎么用一种自己舒服的方式去成长的话题</p>
+</blockquote>
+<h2> 资料</h2>
+<p>数据科学</p>
+<blockquote>
+<p>在线地址：<a href="https://github.com/microsoft/Data-Science-For-Beginners" target="_blank" rel="noopener noreferrer">https://github.com/microsoft/Data-Science-For-Beginners</a></p>
+<p>微软发布的数据科学，机器学习和人工智能入门课</p>
+</blockquote>
+<p>Llama 入门指南</p>
+<blockquote>
+<p>在线地址：<a href="https://ai.meta.com/llama/get-started/" target="_blank" rel="noopener noreferrer">https://ai.meta.com/llama/get-started/</a></p>
+<p>Meta 发布的关于 Llama 入门指南也是个好东西啊，里面包括了想要使用和训练Llama的所有内容，包括模型的微调、量化、提示工程、推理和测试一整个链路。 并且在一些深入内容上也介绍了应该看的其他详细教程，如果有一些基础想要微调Llama的可以看一下这个教程。</p>
+</blockquote>
+<h2> 工具</h2>
+<p>Screen Studio 工具</p>
+<blockquote>
+<p>在线地址：<a href="https://gemoo.com/focusee/" target="_blank" rel="noopener noreferrer">https://gemoo.com/focusee/</a></p>
+<p>适合录制教程的 Screen Studio 工具吧，可能是定价挺高的，出现了一个竞品，亲测效果几乎一样，免费版本支持导出720p 60fps的视频</p>
+</blockquote>
+<p>Windows 内存清理工具</p>
+<blockquote>
+<p>在线地址：<a href="https://github.com/IgorMundstein/WinMemoryCleaner#windows-memory-cleaner" target="_blank" rel="noopener noreferrer">https://github.com/IgorMundstein/WinMemoryCleaner#windows-memory-cleaner</a></p>
+<p>仅有 213 KB 的免费 Windows 内存清理工具 Windows Memory Cleaner，拥有简约的界面和自动清理内存，无需安装绿色便携，支持紧凑模式、按时间段/可用内存优化、进程白名单、多语言、开机启动功能。</p>
+</blockquote>
+<p>MiniRenamer</p>
+<blockquote>
+<p>在线地址：<a href="https://abc100.net/106/" target="_blank" rel="noopener noreferrer">https://abc100.net/106/</a></p>
+<p>MiniRenamer – 支持实时预览的批量重命名工具，用户：此前20年收藏改名工具种种，至此可弃Win</p>
+</blockquote>
+<p>朋友圈转发截图生成:</p>
+<blockquote>
+<p>在线地址：<a href="https://ourboy.cn/dz/" target="_blank" rel="noopener noreferrer">https://ourboy.cn/dz/</a></p>
+<p><a href="https://akarin.dev/WechatMomentScreenshot/" target="_blank" rel="noopener noreferrer">https://akarin.dev/WechatMomentScreenshot/</a></p>
+</blockquote>
+<p>朋友圈集赞工具</p>
+<blockquote>
+<p>在线地址：<a href="https://blog.itakeo.com/blog/?p=915" target="_blank" rel="noopener noreferrer">https://blog.itakeo.com/blog/?p=915</a></p>
+</blockquote>
+<h2> 扩展</h2>
+<p>编程社区构想——代码厨房社区</p>
+<blockquote>
+<p>在线地址：<a href="https://codekitchen.community/" target="_blank" rel="noopener noreferrer">https://codekitchen.community/</a></p>
+</blockquote>
+<p>RSS订阅生成器</p>
+<blockquote>
+<p>在线地址：<a href="https://github.com/yllhwa/RSSWorker" target="_blank" rel="noopener noreferrer">https://github.com/yllhwa/RSSWorker</a></p>
+<p>在线地址：<a href="https://www.v2ex.com/t/981490" target="_blank" rel="noopener noreferrer">https://www.v2ex.com/t/981490</a></p>
+<p>运行在Cloudflare Worker上的RSS订阅生成器</p>
+</blockquote>
+<p>在线地址：<a href="https://ijust.cc/tools/canvas" target="_blank" rel="noopener noreferrer">https://ijust.cc/tools/canvas</a></p>
+<blockquote>
+<p>html-to-canvas 搞了一个在线页面</p>
+</blockquote>
+<p>动态 url</p>
+<blockquote>
+<p>在线地址：<a href="https://syntax.fm/" target="_blank" rel="noopener noreferrer">https://syntax.fm/</a></p>
+</blockquote>
+<p>MiSans</p>
+<blockquote>
+<p>在线地址：<a href="https://hyperos.mi.com/font" target="_blank" rel="noopener noreferrer">https://hyperos.mi.com/font</a></p>
+<p>MiSans —— 小米可变免费商用字体</p>
+</blockquote>
+<p>答疑</p>
+<blockquote>
+<p>在线地址：<a href="https://xiaobot.net/p/large-scale-sys" target="_blank" rel="noopener noreferrer">https://xiaobot.net/p/large-scale-sys</a></p>
+<p>DDIA 逐章答疑，广告。</p>
+</blockquote>
+<p>多角度视图</p>
+<blockquote>
+<p>在线地址：<a href="https://huggingface.co/spaces/sudo-ai/zero123plus-demo-space" target="_blank" rel="noopener noreferrer">https://huggingface.co/spaces/sudo-ai/zero123plus-demo-space</a></p>
+<p>只需一张照片即可生成多角度视图</p>
+</blockquote>
+<p>同步口型视频</p>
+<blockquote>
+<p>在线地址：<a href="https://huggingface.co/spaces/fffiloni/VideoRetalking" target="_blank" rel="noopener noreferrer">https://huggingface.co/spaces/fffiloni/VideoRetalking</a></p>
+<p>对同步口型视频感兴趣的可以看看在线演示</p>
+</blockquote>
+<p>Robius 开发者社区</p>
+<blockquote></blockquote>
+<p>在线地址：<a href="https://github.com/project-robius" target="_blank" rel="noopener noreferrer">https://github.com/project-robius</a></p>
+<p>规划表格</p>
+<blockquote>
+<p>在线地址：<a href="https://drive.google.com/drive/folders/1ykZwFGHDXrxCQtwHmAugBGYghh2R0gBo" target="_blank" rel="noopener noreferrer">https://drive.google.com/drive/folders/1ykZwFGHDXrxCQtwHmAugBGYghh2R0gBo</a></p>
+<p>规划表格来自B站up主：ElenaLin_青青</p>
+</blockquote>
+<p>AI资讯日报</p>
+<blockquote>
+<p>在线地址：<a href="https://gorden-sun.notion.site/527689cd2b294e60912f040095e803c5?v=4f6cc12006c94f47aee4dc909511aeb5" target="_blank" rel="noopener noreferrer">https://gorden-sun.notion.site/527689cd2b294e60912f040095e803c5?v=4f6cc12006c94f47aee4dc909511aeb5</a></p>
+</blockquote>
+<p>多家公司的财报</p>
+<blockquote>
+<p>在线地址：<a href="https://beebee.ai/" target="_blank" rel="noopener noreferrer">https://beebee.ai/</a></p>
+<p>汇集了2000多家公司的财报，点开直接问 AI 不用找资料 - 提供AI思维导图来理清结构 - 新版的首页还增加了AI榜单，从全网分析热议公司信息，发现交易机会</p>
+</blockquote>
+]]></content:encoded>
+      <enclosure url="https://img.nnxx.me/file/f13a3e385bb3bc50008f7.png" type="image/png"/>
+    </item>
     <item>
       <title>10-21-趋之若鹜</title>
       <link>https://weekly.nnxx.me/2023/w/10-21-%E8%B6%8B%E4%B9%8B%E8%8B%A5%E9%B9%9C.html</link>

@@ -3,17 +3,151 @@
   <id>https://weekly.nnxx.me/</id>
   <title>Weekly</title>
   <subtitle>行动胜于空谈</subtitle>
-  <updated>2023-10-22T10:28:19.337Z</updated>
+  <updated>2023-10-29T13:17:45.532Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://weekly.nnxx.me/atom.xml"/>
   <link rel="alternate" href="https://weekly.nnxx.me/"/>
   <category term="周报"/>
   <category term="工具"/>
   <entry>
+    <title type="text">10-28-可有可无</title>
+    <id>https://weekly.nnxx.me/2023/w/10-28-%E5%8F%AF%E6%9C%89%E5%8F%AF%E6%97%A0.html</id>
+    <link href="https://weekly.nnxx.me/2023/w/10-28-%E5%8F%AF%E6%9C%89%E5%8F%AF%E6%97%A0.html"/>
+    <updated>2023-10-29T13:17:45.568Z</updated>
+    <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/f13a3e385bb3bc50008f7.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2> 前端</h2>
+<p>2D 物理 js 库</p>
+<blockquote>
+<p>在线地址：<a href="https://brm.io/matter-js/" target="_blank" rel="noopener noreferrer">https://brm.io/matter-js/</a></p>
+<p>matter. js 一个高性能的 2D 物理 js 库 “当有了在 web 模拟物理世界的能力，你有什么新的 idea”</p>
+</blockquote>]]></summary>
+    <content type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/f13a3e385bb3bc50008f7.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2> 前端</h2>
+<p>2D 物理 js 库</p>
+<blockquote>
+<p>在线地址：<a href="https://brm.io/matter-js/" target="_blank" rel="noopener noreferrer">https://brm.io/matter-js/</a></p>
+<p>matter. js 一个高性能的 2D 物理 js 库 “当有了在 web 模拟物理世界的能力，你有什么新的 idea”</p>
+</blockquote>
+<p>Why I'm Using Next.js</p>
+<blockquote>
+<p>在线地址：<a href="https://leerob.io/blog/using-nextjs" target="_blank" rel="noopener noreferrer">https://leerob.io/blog/using-nextjs</a></p>
+</blockquote>
+<p>构建外脑 / 智变时代的个人知识管理</p>
+<blockquote>
+<p>在线地址：<a href="https://www.indigox.me/build-exobrain/" target="_blank" rel="noopener noreferrer">https://www.indigox.me/build-exobrain/</a></p>
+</blockquote>
+<p>新一代前端发展的困境与破局</p>
+<blockquote>
+<p>在线地址：<a href="https://tw93.fun/images/pdf/new-fe.pdf" target="_blank" rel="noopener noreferrer">https://tw93.fun/images/pdf/new-fe.pdf</a></p>
+<p>主要是在造轮子时代已经过去、国内环境很卷的情况下，工程师怎么用一种自己舒服的方式去成长的话题</p>
+</blockquote>
+<h2> 资料</h2>
+<p>数据科学</p>
+<blockquote>
+<p>在线地址：<a href="https://github.com/microsoft/Data-Science-For-Beginners" target="_blank" rel="noopener noreferrer">https://github.com/microsoft/Data-Science-For-Beginners</a></p>
+<p>微软发布的数据科学，机器学习和人工智能入门课</p>
+</blockquote>
+<p>Llama 入门指南</p>
+<blockquote>
+<p>在线地址：<a href="https://ai.meta.com/llama/get-started/" target="_blank" rel="noopener noreferrer">https://ai.meta.com/llama/get-started/</a></p>
+<p>Meta 发布的关于 Llama 入门指南也是个好东西啊，里面包括了想要使用和训练Llama的所有内容，包括模型的微调、量化、提示工程、推理和测试一整个链路。 并且在一些深入内容上也介绍了应该看的其他详细教程，如果有一些基础想要微调Llama的可以看一下这个教程。</p>
+</blockquote>
+<h2> 工具</h2>
+<p>Screen Studio 工具</p>
+<blockquote>
+<p>在线地址：<a href="https://gemoo.com/focusee/" target="_blank" rel="noopener noreferrer">https://gemoo.com/focusee/</a></p>
+<p>适合录制教程的 Screen Studio 工具吧，可能是定价挺高的，出现了一个竞品，亲测效果几乎一样，免费版本支持导出720p 60fps的视频</p>
+</blockquote>
+<p>Windows 内存清理工具</p>
+<blockquote>
+<p>在线地址：<a href="https://github.com/IgorMundstein/WinMemoryCleaner#windows-memory-cleaner" target="_blank" rel="noopener noreferrer">https://github.com/IgorMundstein/WinMemoryCleaner#windows-memory-cleaner</a></p>
+<p>仅有 213 KB 的免费 Windows 内存清理工具 Windows Memory Cleaner，拥有简约的界面和自动清理内存，无需安装绿色便携，支持紧凑模式、按时间段/可用内存优化、进程白名单、多语言、开机启动功能。</p>
+</blockquote>
+<p>MiniRenamer</p>
+<blockquote>
+<p>在线地址：<a href="https://abc100.net/106/" target="_blank" rel="noopener noreferrer">https://abc100.net/106/</a></p>
+<p>MiniRenamer – 支持实时预览的批量重命名工具，用户：此前20年收藏改名工具种种，至此可弃Win</p>
+</blockquote>
+<p>朋友圈转发截图生成:</p>
+<blockquote>
+<p>在线地址：<a href="https://ourboy.cn/dz/" target="_blank" rel="noopener noreferrer">https://ourboy.cn/dz/</a></p>
+<p><a href="https://akarin.dev/WechatMomentScreenshot/" target="_blank" rel="noopener noreferrer">https://akarin.dev/WechatMomentScreenshot/</a></p>
+</blockquote>
+<p>朋友圈集赞工具</p>
+<blockquote>
+<p>在线地址：<a href="https://blog.itakeo.com/blog/?p=915" target="_blank" rel="noopener noreferrer">https://blog.itakeo.com/blog/?p=915</a></p>
+</blockquote>
+<h2> 扩展</h2>
+<p>编程社区构想——代码厨房社区</p>
+<blockquote>
+<p>在线地址：<a href="https://codekitchen.community/" target="_blank" rel="noopener noreferrer">https://codekitchen.community/</a></p>
+</blockquote>
+<p>RSS订阅生成器</p>
+<blockquote>
+<p>在线地址：<a href="https://github.com/yllhwa/RSSWorker" target="_blank" rel="noopener noreferrer">https://github.com/yllhwa/RSSWorker</a></p>
+<p>在线地址：<a href="https://www.v2ex.com/t/981490" target="_blank" rel="noopener noreferrer">https://www.v2ex.com/t/981490</a></p>
+<p>运行在Cloudflare Worker上的RSS订阅生成器</p>
+</blockquote>
+<p>在线地址：<a href="https://ijust.cc/tools/canvas" target="_blank" rel="noopener noreferrer">https://ijust.cc/tools/canvas</a></p>
+<blockquote>
+<p>html-to-canvas 搞了一个在线页面</p>
+</blockquote>
+<p>动态 url</p>
+<blockquote>
+<p>在线地址：<a href="https://syntax.fm/" target="_blank" rel="noopener noreferrer">https://syntax.fm/</a></p>
+</blockquote>
+<p>MiSans</p>
+<blockquote>
+<p>在线地址：<a href="https://hyperos.mi.com/font" target="_blank" rel="noopener noreferrer">https://hyperos.mi.com/font</a></p>
+<p>MiSans —— 小米可变免费商用字体</p>
+</blockquote>
+<p>答疑</p>
+<blockquote>
+<p>在线地址：<a href="https://xiaobot.net/p/large-scale-sys" target="_blank" rel="noopener noreferrer">https://xiaobot.net/p/large-scale-sys</a></p>
+<p>DDIA 逐章答疑，广告。</p>
+</blockquote>
+<p>多角度视图</p>
+<blockquote>
+<p>在线地址：<a href="https://huggingface.co/spaces/sudo-ai/zero123plus-demo-space" target="_blank" rel="noopener noreferrer">https://huggingface.co/spaces/sudo-ai/zero123plus-demo-space</a></p>
+<p>只需一张照片即可生成多角度视图</p>
+</blockquote>
+<p>同步口型视频</p>
+<blockquote>
+<p>在线地址：<a href="https://huggingface.co/spaces/fffiloni/VideoRetalking" target="_blank" rel="noopener noreferrer">https://huggingface.co/spaces/fffiloni/VideoRetalking</a></p>
+<p>对同步口型视频感兴趣的可以看看在线演示</p>
+</blockquote>
+<p>Robius 开发者社区</p>
+<blockquote></blockquote>
+<p>在线地址：<a href="https://github.com/project-robius" target="_blank" rel="noopener noreferrer">https://github.com/project-robius</a></p>
+<p>规划表格</p>
+<blockquote>
+<p>在线地址：<a href="https://drive.google.com/drive/folders/1ykZwFGHDXrxCQtwHmAugBGYghh2R0gBo" target="_blank" rel="noopener noreferrer">https://drive.google.com/drive/folders/1ykZwFGHDXrxCQtwHmAugBGYghh2R0gBo</a></p>
+<p>规划表格来自B站up主：ElenaLin_青青</p>
+</blockquote>
+<p>AI资讯日报</p>
+<blockquote>
+<p>在线地址：<a href="https://gorden-sun.notion.site/527689cd2b294e60912f040095e803c5?v=4f6cc12006c94f47aee4dc909511aeb5" target="_blank" rel="noopener noreferrer">https://gorden-sun.notion.site/527689cd2b294e60912f040095e803c5?v=4f6cc12006c94f47aee4dc909511aeb5</a></p>
+</blockquote>
+<p>多家公司的财报</p>
+<blockquote>
+<p>在线地址：<a href="https://beebee.ai/" target="_blank" rel="noopener noreferrer">https://beebee.ai/</a></p>
+<p>汇集了2000多家公司的财报，点开直接问 AI 不用找资料 - 提供AI思维导图来理清结构 - 新版的首页还增加了AI榜单，从全网分析热议公司信息，发现交易机会</p>
+</blockquote>
+]]></content>
+    <category term="周报"/>
+    <published>2023-10-28T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">10-21-趋之若鹜</title>
     <id>https://weekly.nnxx.me/2023/w/10-21-%E8%B6%8B%E4%B9%8B%E8%8B%A5%E9%B9%9C.html</id>
     <link href="https://weekly.nnxx.me/2023/w/10-21-%E8%B6%8B%E4%B9%8B%E8%8B%A5%E9%B9%9C.html"/>
-    <updated>2023-10-22T10:28:19.366Z</updated>
+    <updated>2023-10-29T13:17:45.586Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/c990791047530ea7f114b.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -115,7 +249,7 @@
     <title type="text">10-14-如期所取</title>
     <id>https://weekly.nnxx.me/2023/w/10-14-%E5%A6%82%E6%9C%9F%E6%89%80%E5%8F%96.html</id>
     <link href="https://weekly.nnxx.me/2023/w/10-14-%E5%A6%82%E6%9C%9F%E6%89%80%E5%8F%96.html"/>
-    <updated>2023-10-22T10:28:19.389Z</updated>
+    <updated>2023-10-29T13:17:45.600Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/6eb0a460ba9cb84d00641.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -241,7 +375,7 @@
     <title type="text">10-07-久宽遇逢</title>
     <id>https://weekly.nnxx.me/2023/w/10-07-%E4%B9%85%E5%AE%BD%E9%81%87%E9%80%A2.html</id>
     <link href="https://weekly.nnxx.me/2023/w/10-07-%E4%B9%85%E5%AE%BD%E9%81%87%E9%80%A2.html"/>
-    <updated>2023-10-22T10:28:19.400Z</updated>
+    <updated>2023-10-29T13:17:45.609Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://api.hanximeng.com/bing/" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -371,7 +505,7 @@
     <title type="text">09-30-清微淡远</title>
     <id>https://weekly.nnxx.me/2023/w/09-30-%E6%B8%85%E5%BE%AE%E6%B7%A1%E8%BF%9C.html</id>
     <link href="https://weekly.nnxx.me/2023/w/09-30-%E6%B8%85%E5%BE%AE%E6%B7%A1%E8%BF%9C.html"/>
-    <updated>2023-10-22T10:28:19.425Z</updated>
+    <updated>2023-10-29T13:17:45.622Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/fc8464f48ce5084032a1c.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -586,7 +720,7 @@ Netdata可以提供有关服务器的磁盘I/O、CPU使用率、RAM使用率和�
     <title type="text">09-23-择善而行</title>
     <id>https://weekly.nnxx.me/2023/w/09-23-%E6%8B%A9%E5%96%84%E8%80%8C%E8%A1%8C.html</id>
     <link href="https://weekly.nnxx.me/2023/w/09-23-%E6%8B%A9%E5%96%84%E8%80%8C%E8%A1%8C.html"/>
-    <updated>2023-10-22T10:28:19.433Z</updated>
+    <updated>2023-10-29T13:17:45.632Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://api.hanximeng.com/bing/" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -761,7 +895,7 @@ Netdata可以提供有关服务器的磁盘I/O、CPU使用率、RAM使用率和�
     <title type="text">09-17-千变万化</title>
     <id>https://weekly.nnxx.me/2023/w/09-17-%E5%8D%83%E5%8F%98%E4%B8%87%E5%8C%96.html</id>
     <link href="https://weekly.nnxx.me/2023/w/09-17-%E5%8D%83%E5%8F%98%E4%B8%87%E5%8C%96.html"/>
-    <updated>2023-10-22T10:28:19.447Z</updated>
+    <updated>2023-10-29T13:17:45.660Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/wdvnf9.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -1059,7 +1193,7 @@ Netdata可以提供有关服务器的磁盘I/O、CPU使用率、RAM使用率和�
     <title type="text">09-10-秋风落叶</title>
     <id>https://weekly.nnxx.me/2023/w/09-10-%E7%A7%8B%E9%A3%8E%E8%90%BD%E5%8F%B6.html</id>
     <link href="https://weekly.nnxx.me/2023/w/09-10-%E7%A7%8B%E9%A3%8E%E8%90%BD%E5%8F%B6.html"/>
-    <updated>2023-10-22T10:28:19.455Z</updated>
+    <updated>2023-10-29T13:17:45.686Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -1215,7 +1349,7 @@ Netdata可以提供有关服务器的磁盘I/O、CPU使用率、RAM使用率和�
     <title type="text">09-02-心驰神往</title>
     <id>https://weekly.nnxx.me/2023/w/09-02-%E5%BF%83%E9%A9%B0%E7%A5%9E%E5%BE%80.html</id>
     <link href="https://weekly.nnxx.me/2023/w/09-02-%E5%BF%83%E9%A9%B0%E7%A5%9E%E5%BE%80.html"/>
-    <updated>2023-10-22T10:28:19.460Z</updated>
+    <updated>2023-10-29T13:17:45.690Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/wdvhm6.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -1338,7 +1472,7 @@ Android IOS &amp; OSx</p>
     <title type="text">08-26-空谷幽兰</title>
     <id>https://weekly.nnxx.me/2023/w/08-26-%E7%A9%BA%E8%B0%B7%E5%B9%BD%E5%85%B0.html</id>
     <link href="https://weekly.nnxx.me/2023/w/08-26-%E7%A9%BA%E8%B0%B7%E5%B9%BD%E5%85%B0.html"/>
-    <updated>2023-10-22T10:28:19.465Z</updated>
+    <updated>2023-10-29T13:17:45.695Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/wdvhbf.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -1448,7 +1582,7 @@ Android IOS &amp; OSx</p>
     <title type="text">08-19-一叶知秋</title>
     <id>https://weekly.nnxx.me/2023/w/08-19-%E4%B8%80%E5%8F%B6%E7%9F%A5%E7%A7%8B.html</id>
     <link href="https://weekly.nnxx.me/2023/w/08-19-%E4%B8%80%E5%8F%B6%E7%9F%A5%E7%A7%8B.html"/>
-    <updated>2023-10-22T10:28:19.470Z</updated>
+    <updated>2023-10-29T13:17:45.701Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/x3dazk.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -1567,7 +1701,7 @@ Android IOS &amp; OSx</p>
     <title type="text">08-13-锐意进取</title>
     <id>https://weekly.nnxx.me/2023/w/08-13-%E9%94%90%E6%84%8F%E8%BF%9B%E5%8F%96.html</id>
     <link href="https://weekly.nnxx.me/2023/w/08-13-%E9%94%90%E6%84%8F%E8%BF%9B%E5%8F%96.html"/>
-    <updated>2023-10-22T10:28:19.475Z</updated>
+    <updated>2023-10-29T13:17:45.708Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/wdvnf9.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -1668,7 +1802,7 @@ Alist网盘共享工具：</p>
     <title type="text">08-05-峰回路转</title>
     <id>https://weekly.nnxx.me/2023/w/08-05-%E5%B3%B0%E5%9B%9E%E8%B7%AF%E8%BD%AC.html</id>
     <link href="https://weekly.nnxx.me/2023/w/08-05-%E5%B3%B0%E5%9B%9E%E8%B7%AF%E8%BD%AC.html"/>
-    <updated>2023-10-22T10:28:19.480Z</updated>
+    <updated>2023-10-29T13:17:45.712Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/wdvhlu.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -1776,7 +1910,7 @@ Merlin是一款免费的终极 AI 工具：</p>
     <title type="text">07-29-孤鹜齐飞</title>
     <id>https://weekly.nnxx.me/2023/w/07-29-%E5%AD%A4%E9%B9%9C%E9%BD%90%E9%A3%9E.html</id>
     <link href="https://weekly.nnxx.me/2023/w/07-29-%E5%AD%A4%E9%B9%9C%E9%BD%90%E9%A3%9E.html"/>
-    <updated>2023-10-22T10:28:19.506Z</updated>
+    <updated>2023-10-29T13:17:45.718Z</updated>
     <summary type="html"><![CDATA[<figure><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -1924,7 +2058,7 @@ Merlin是一款免费的终极 AI 工具：</p>
     <title type="text">07-22-穿云破日</title>
     <id>https://weekly.nnxx.me/2023/w/07-22-%E7%A9%BF%E4%BA%91%E7%A0%B4%E6%97%A5.html</id>
     <link href="https://weekly.nnxx.me/2023/w/07-22-%E7%A9%BF%E4%BA%91%E7%A0%B4%E6%97%A5.html"/>
-    <updated>2023-10-22T10:28:19.523Z</updated>
+    <updated>2023-10-29T13:17:45.729Z</updated>
     <summary type="html"><![CDATA[<figure><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -2121,7 +2255,7 @@ CoWriter：AI辅助写作<br>
     <title type="text">07-15-好水不硬</title>
     <id>https://weekly.nnxx.me/2023/w/07-15-%E5%A5%BD%E6%B0%B4%E4%B8%8D%E7%A1%AC.html</id>
     <link href="https://weekly.nnxx.me/2023/w/07-15-%E5%A5%BD%E6%B0%B4%E4%B8%8D%E7%A1%AC.html"/>
-    <updated>2023-10-22T10:28:19.530Z</updated>
+    <updated>2023-10-29T13:17:45.748Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>今麦郎 好水不硬才养人</p>
 </blockquote>
@@ -2218,7 +2352,7 @@ YouTube视频还是直播，都能实时翻译</p>
     <title type="text">07-09-若有所思</title>
     <id>https://weekly.nnxx.me/2023/w/%E8%8B%A5%E6%9C%89%E6%89%80%E6%80%9D.html</id>
     <link href="https://weekly.nnxx.me/2023/w/%E8%8B%A5%E6%9C%89%E6%89%80%E6%80%9D.html"/>
-    <updated>2023-10-22T10:28:19.534Z</updated>
+    <updated>2023-10-29T13:17:45.752Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>github数据展示：<a href="https://github.com/pingcap/ossinsight-lite" target="_blank" rel="noopener noreferrer">https://github.com/pingcap/ossinsight-lite</a></p>
 <p>使用ossinsight-lite搭建的github主页信息展示表 图表组件都很酷!</p>
@@ -2305,7 +2439,7 @@ ChatGPT神器Code Interpreter，</p>
     <title type="text">07-01-化杂为简</title>
     <id>https://weekly.nnxx.me/2023/w/%E5%8C%96%E6%9D%82%E4%B8%BA%E7%AE%80.html</id>
     <link href="https://weekly.nnxx.me/2023/w/%E5%8C%96%E6%9D%82%E4%B8%BA%E7%AE%80.html"/>
-    <updated>2023-10-22T10:28:19.549Z</updated>
+    <updated>2023-10-29T13:17:45.780Z</updated>
     <summary type="html"><![CDATA[<h2> 在线测速和IP查询</h2>
 <blockquote>
 <p>在线测速和IP查询网站
@@ -2427,7 +2561,7 @@ ChatGPT神器Code Interpreter，</p>
     <title type="text">06-17-一曲很少</title>
     <id>https://weekly.nnxx.me/2023/w/%E4%B8%80%E6%9B%B2%E5%BE%88%E5%B0%91.html</id>
     <link href="https://weekly.nnxx.me/2023/w/%E4%B8%80%E6%9B%B2%E5%BE%88%E5%B0%91.html"/>
-    <updated>2023-10-22T10:28:19.561Z</updated>
+    <updated>2023-10-29T13:17:45.790Z</updated>
     <summary type="html"><![CDATA[<h2> AI</h2>
 <blockquote>
 <p>chatgpt 镜像：<a href="https://chat.wuguokai.cn/" target="_blank" rel="noopener noreferrer">https://chat.wuguokai.cn/</a></p>
@@ -2579,7 +2713,7 @@ ChatGPT神器Code Interpreter，</p>
     <title type="text">06-10-逸趣横生</title>
     <id>https://weekly.nnxx.me/2023/w/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html</id>
     <link href="https://weekly.nnxx.me/2023/w/%E9%80%B8%E8%B6%A3%E6%A8%AA%E7%94%9F.html"/>
-    <updated>2023-10-22T10:28:19.571Z</updated>
+    <updated>2023-10-29T13:17:45.801Z</updated>
     <summary type="html"><![CDATA[<h2> 思维开拓</h2>
 <blockquote>
 <p>在线地址：<a href="https://joeprevite.com/" target="_blank" rel="noopener noreferrer">https://joeprevite.com/</a></p>
@@ -2677,7 +2811,7 @@ ChatGPT神器Code Interpreter，</p>
     <title type="text">2023 周刊</title>
     <id>https://weekly.nnxx.me/2023/</id>
     <link href="https://weekly.nnxx.me/2023/"/>
-    <updated>2023-10-22T10:28:19.574Z</updated>
+    <updated>2023-10-29T13:17:45.804Z</updated>
     <summary type="html"><![CDATA[<h3> 2023</h3>
 <ul>
 <li>
@@ -2810,7 +2944,7 @@ ChatGPT神器Code Interpreter，</p>
     <title type="text">06-25-推陈出新</title>
     <id>https://weekly.nnxx.me/2023/w/%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0.html</id>
     <link href="https://weekly.nnxx.me/2023/w/%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0.html"/>
-    <updated>2023-10-22T10:28:19.578Z</updated>
+    <updated>2023-10-29T13:17:45.806Z</updated>
     <summary type="html"><![CDATA[<h2> 看板</h2>
 <h3> ServerStatus-Rust</h3>
 <blockquote>
