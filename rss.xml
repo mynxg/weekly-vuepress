@@ -6,12 +6,310 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 12 Nov 2023 07:31:19 GMT</pubDate>
-    <lastBuildDate>Sun, 12 Nov 2023 07:31:19 GMT</lastBuildDate>
+    <pubDate>Sun, 03 Dec 2023 07:21:25 GMT</pubDate>
+    <lastBuildDate>Sun, 03 Dec 2023 07:21:25 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
     <category>工具</category>
+    <item>
+      <title>12-03-绝有一览</title>
+      <link>https://weekly.nnxx.me/2023/w/12-03-%E7%BB%9D%E6%9C%89%E4%B8%80%E8%A7%88.html</link>
+      <guid>https://weekly.nnxx.me/2023/w/12-03-%E7%BB%9D%E6%9C%89%E4%B8%80%E8%A7%88.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">12-03-绝有一览</source>
+      <description>分享、实用、有趣、共勉 learn skills 【学英语】北大学姐的高效背单词法！不看亏大了！1小时竟能背100多个？ 在线地址：https://www.bilibili.com/video/BV1g7411T7Py (https://www.bilibili.com/video/BV1g7411T7Py) 从 0 开始学习英语语法 在线地址：htt...</description>
+      <category>周报</category>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2> learn skills</h2>
+<p>【学英语】北大学姐的高效背单词法！不看亏大了！1小时竟能背100多个？</p>
+<blockquote>
+<p>在线地址：<a href="https://www.bilibili.com/video/BV1g7411T7Py" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/video/BV1g7411T7Py</a></p>
+</blockquote>
+<p>从 0 开始学习英语语法</p>
+<blockquote>
+<p>在线地址：<a href="https://hzpt-inet-club.github.io/english-note/" target="_blank" rel="noopener noreferrer">https://hzpt-inet-club.github.io/english-note/</a></p>
+<p>这个项目通过图文、漫画的方式，通俗易懂地讲解了“词性、八大句子成分、5个句型、形容词/名词/副词”等英语语法内容。</p>
+</blockquote>
+<p>如何有效地学习英语：Antimoon</p>
+<blockquote>
+<p>在线地址：<a href="https://www.antimoon.com/" target="_blank" rel="noopener noreferrer">https://www.antimoon.com/</a></p>
+</blockquote>
+<p>介词
+<img src="https://img.nnxx.me/file/f8bb7094fd40e518bdbf1.png" alt="" loading="lazy"></p>
+<p>算法练习：</p>
+<blockquote>
+<p>在线地址：<a href="https://programmercarl.com/" target="_blank" rel="noopener noreferrer">https://programmercarl.com/</a></p>
+<p>一套完整的刷题计划：代码随想录</p>
+<p>帮助大家少走弯路，循序渐进学算法</p>
+</blockquote>
+<h2> technology</h2>
+<p>umi 最佳实践：</p>
+<blockquote>
+<p>在线地址：<a href="https://umijs.org/docs/guides/getting-started" target="_blank" rel="noopener noreferrer">https://umijs.org/docs/guides/getting-started</a></p>
+</blockquote>
+<p>rocket-api</p>
+<blockquote>
+<p>在线地址：<a href="https://gitee.com/alenfive/rocket-api" target="_blank" rel="noopener noreferrer">https://gitee.com/alenfive/rocket-api</a></p>
+<p>在线文档：<a href="https://www.yuque.com/alenfive/rocket-api/ze4gre" target="_blank" rel="noopener noreferrer">https://www.yuque.com/alenfive/rocket-api/ze4gre</a></p>
+<p>"Rocket-API" 基于spring boot 的API敏捷开发框架，服务端50%以上的功能只需要写SQL或者 mongodb原始执行脚本就能完成开发，另外30%也在不停的完善公共组件，比如文件上传，下载，导出，预览，分页等等通过一二行代码也能完成开发，剩下的20%也能依赖于动态编译技术生成class的形式，不需要发布部署，不需要重启来实现研发团队的快速编码，提测以及回归。<br>
+实现了服务端研发效率300%-500%的提升，人力成本减少了3倍</p>
+</blockquote>
+<p>AuthKit</p>
+<blockquote>
+<p>在线地址：<a href="https://www.authkit.com/" target="_blank" rel="noopener noreferrer">https://www.authkit.com/</a></p>
+<p>一体化登陆解决方案组件，使用 RadixUI</p>
+<p>集成目前市面上所有的登陆方案</p>
+<ul>
+<li>Email 密码 *</li>
+<li>各种 Oauth2</li>
+<li>单点登录</li>
+<li>双重验证</li>
+<li>Magic Link</li>
+<li>界面可以直接使用它的，也可以使用自定义的，支持 light/dark 两种模式</li>
+</ul>
+</blockquote>
+<h2> experience</h2>
+<p>日常实习经历 &amp; 必会工具</p>
+<blockquote>
+<p>在线地址：<a href="https://www.bilibili.com/video/BV1LM411D7vm" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/video/BV1LM411D7vm</a></p>
+<p>在线地址：<a href="https://www.bilibili.com/video/BV17G411D7SF" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/video/BV17G411D7SF</a></p>
+</blockquote>
+<p>在线地址：<a href="https://mp.weixin.qq.com/s?__biz=MzU0OTE4MzYzMw==&amp;mid=2247545794&amp;idx=2&amp;sn=88a3b1c73372006b49a43a6c133a10c3&amp;chksm=fbb1ba3cccc6332ae1f5e609ab5e37c32fe972b7ba3a18b1a92735c5f3e7c9300e2318ca2280&amp;scene=27" target="_blank" rel="noopener noreferrer">最强分布式锁工具：Redisson</a></p>
+<h2> 工具</h2>
+<p>UI设计工具：</p>
+<blockquote>
+<p>在线地址：<a href="https://pixso.cn/" target="_blank" rel="noopener noreferrer">https://pixso.cn/</a></p>
+<p>pixso免费使用，之前使用的是墨刀</p>
+</blockquote>
+<p>pdmaner 数据库表结构设计：</p>
+<blockquote>
+<p>在线地址：<a href="https://gitee.com/robergroup/pdmaner" target="_blank" rel="noopener noreferrer">https://gitee.com/robergroup/pdmaner</a></p>
+<p>官方文档：<a href="https://www.yuque.com/pdmaner/docs/pdmaner-manual#POADG" target="_blank" rel="noopener noreferrer">PDManer元数建模-v4-操作手册 (yuque.com)</a></p>
+<p>PDManer元数建模，是一款多操作系统开源免费的桌面版关系数据库模型建模工具，相对于PowerDesigner，他具备界面简洁美观，操作简单，上手容易等特点。支持Windows,Mac,Linux等操作系统，也能够支持国产操作系统。</p>
+</blockquote>
+<p>Obsidian 的微信读书插件</p>
+<blockquote>
+<p>在线地址：<a href="https://github.com/zhaohongxuan/obsidian-weread-plugin" target="_blank" rel="noopener noreferrer">https://github.com/zhaohongxuan/obsidian-weread-plugin</a></p>
+<p>自动同步书籍的元数据和划线笔记。</p>
+</blockquote>
+<p>电子邮箱Proton</p>
+<blockquote>
+<p>在线地址：<a href="https://proton.me/" target="_blank" rel="noopener noreferrer">https://proton.me/</a></p>
+<p>传说中最强的电子邮箱Proton，黑客都在用！真的是让我相见恨晚的宝藏！ 开源，免费，端到端加密（只有你和发件人才能看到小秘密），总部瑞士（最强安全避风港），而且无需电话号码什么的就能免费申请</p>
+</blockquote>
+<p>推荐一个检索和学习论文的强大工具--Aminer</p>
+<blockquote>
+<p>在线地址：<a href="https://aminer.cn" target="_blank" rel="noopener noreferrer">https://aminer.cn</a></p>
+<p>它是由清华大学计算机系研发的学术信息挖掘平台，可以很大程度帮助我们降低检索和学习论文的门槛，十分有用。</p>
+<p>可以在它的「必读论文」模块中找到对应的优质论文集，这些内容都是由 AI 初筛 + 学者复核后呈现出来的，可以为自己省去海量的信息挖掘时间。</p>
+</blockquote>
+<h2> 扩展</h2>
+<p>远程工作资料：</p>
+<blockquote>
+<p>在线地址：<a href="https://github.com/greatghoul/remote-working" target="_blank" rel="noopener noreferrer">https://github.com/greatghoul/remote-working</a></p>
+</blockquote>
+<p>筑造世界的工程</p>
+<blockquote>
+<p>在线地址：<a href="https://www.bilibili.com/bangumi/play/ss44507" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/bangumi/play/ss44507</a></p>
+</blockquote>
+<p>租房了解</p>
+<blockquote>
+<p>在线地址：<a href="https://www.bilibili.com/video/BV1ww411n7j5" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/video/BV1ww411n7j5</a></p>
+</blockquote>
+<p>羡慕一下优秀的博主：</p>
+<blockquote>
+<p><a href="https://github.com/liuzhihang" target="_blank" rel="noopener noreferrer">https://github.com/liuzhihang</a></p>
+<p><a href="https://github.com/Roozenlz" target="_blank" rel="noopener noreferrer">Roozenlz (Roozen) (github.com)</a></p>
+</blockquote>
+]]></content:encoded>
+      <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>11-25-月挽星回</title>
+      <link>https://weekly.nnxx.me/2023/w/11-25-%E6%9C%88%E6%8C%BD%E6%98%9F%E5%9B%9E.html</link>
+      <guid>https://weekly.nnxx.me/2023/w/11-25-%E6%9C%88%E6%8C%BD%E6%98%9F%E5%9B%9E.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">11-25-月挽星回</source>
+      <description>分享、实用、有趣、共勉 工具 ONEPDF - 免费的 PDF 转换器 在线地址：https://www.onepdf.online/ (https://www.onepdf.online/) ONEPDF 免费使用，无需登录，支持 30 多种文件格式，充分满足你的各种转换需求。 你只需上传文件，即可轻松实现 PDF 转换。 最 NB 的是，ONEPD...</description>
+      <category>周报</category>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<figure><img src="https://img.nnxx.me/file/3f40b5e181b54cf7ee5b3.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2> 工具</h2>
+<p>ONEPDF - 免费的 PDF 转换器</p>
+<blockquote>
+<p>在线地址：<a href="https://www.onepdf.online/" target="_blank" rel="noopener noreferrer">https://www.onepdf.online/</a></p>
+<p>ONEPDF 免费使用，无需登录，支持 30 多种文件格式，充分满足你的各种转换需求。 你只需上传文件，即可轻松实现 PDF 转换。 最 NB 的是，ONEPDF 还支持不超过 1G 的大文件，简直逆天~</p>
+</blockquote>
+<p>下载神器：Internet Download Manager 6.42.1 绿色特别版 (IDM)</p>
+<blockquote>
+<p>下载地址：<a href="https://www.aliyundrive.com/s/XEs4C99NZ7g" target="_blank" rel="noopener noreferrer">https://www.aliyundrive.com/s/XEs4C99NZ7g</a>
+<a href="https://pan.baidu.com/share/init?surl=TvoRgIar35MZbbOQwW4r6A&amp;pwd=zapu" target="_blank" rel="noopener noreferrer">https://pan.baidu.com/share/init?surl=TvoRgIar35MZbbOQwW4r6A&amp;pwd=zapu</a>  提取码: zapu</p>
+<p>教程：<a href="https://www.baiduyun.wiki/zh-cn/idm.html" target="_blank" rel="noopener noreferrer">https://www.baiduyun.wiki/zh-cn/idm.html</a></p>
+</blockquote>
+<p>Parallels mac 桌面工具</p>
+<blockquote>
+<p>在线地址：<a href="https://github.com/alsyundawy/Parallels/releases" target="_blank" rel="noopener noreferrer">https://github.com/alsyundawy/Parallels/releases</a></p>
+<p>新增一键搞定(闭源)，mac激活工具</p>
+</blockquote>
+<p>freepik</p>
+<blockquote>
+<p>在线地址：<a href="https://freepik.com/pikaso" target="_blank" rel="noopener noreferrer">https://freepik.com/pikaso</a></p>
+<p>让小朋友通过涂鸦方式生成精美图片的免费AI工具来了，
+实时生成人工智能数百万库存资源相结合，真的是所见即所得</p>
+<p>如果提示需要输入code，请输入“LINUS”，即可从免费访问 Pikaso。</p>
+</blockquote>
+<p>跑速工具</p>
+<blockquote>
+<p>在线地址：<a href="http://pacer.watch" target="_blank" rel="noopener noreferrer">http://pacer.watch</a></p>
+</blockquote>
+<p>一个自媒体人必备的效率工具 Podwise</p>
+<p>在线地址：<a href="https://podwise.xyz/" target="_blank" rel="noopener noreferrer">https://podwise.xyz/</a></p>
+<p>Podcast 播客可能是最后一片还没被大规模开垦地，大量精彩的内容只能用收听的方式来传播，这里其实有巨大的机会去整理和二次传播。如果你的内容专注在科技、创业、投资、加密货币等领域的话</p>
+<h2> 扩展</h2>
+<p>llamafile</p>
+<blockquote>
+<p>在线地址：<a href="https://github.com/Mozilla-Ocho/llamafile" target="_blank" rel="noopener noreferrer">https://github.com/Mozilla-Ocho/llamafile</a></p>
+<p>Andrej Karpathy刚说LLM本质是两个文件，就有人把他合并为一个了。 llamafile是将模型和执行程序合并为一个文件，运行直接启动web服务，既可以直接web对话也可以API调用</p>
+</blockquote>
+<p>Flask监控</p>
+<blockquote>
+<p>在线地址：<a href="https://github.com/greyli/flask-extension-status" target="_blank" rel="noopener noreferrer">https://github.com/greyli/flask-extension-status</a></p>
+<p>一个项目来监控 Flask 扩展的健康状态。主要的想法是，每天定时给一堆扩展跑 CI 看看是不是和最新版本的 Flask 和 Python 兼容，以此鼓励别人去看错误日志并帮忙修复。</p>
+</blockquote>
+<p>Andrej Karpathy 大语言模型视频</p>
+<blockquote>
+<p>原文：<a href="https://blog.oxen.ai/reading-list-for-andrej-karpathys-intro-to-large-language-models-video/" target="_blank" rel="noopener noreferrer">https://blog.oxen.ai/reading-list-for-andrej-karpathys-intro-to-large-language-models-video/</a></p>
+<p>译文：<a href="https://baoyu.io/translations/llm/reading-list-for-andrej-karpathys-intro-to-large-language-models-video" target="_blank" rel="noopener noreferrer">https://baoyu.io/translations/llm/reading-list-for-andrej-karpathys-intro-to-large-language-models-video</a></p>
+<p>《Reading List For Andrej Karpathy’s Intro to Large Language Models Video》 Andrej Karpathy 大语言模型视频入门的精选阅读清单 作者针对Andrej Karpathy前几天的视频教程，把相关的参考文章、论文都分门别类整理出来了。</p>
+</blockquote>
+<p>stable-diffusion-art小手册</p>
+<blockquote>
+<p>在线地址：<a href="https://stable-diffusion-art.com/beginners-guide/" target="_blank" rel="noopener noreferrer">https://stable-diffusion-art.com/beginners-guide/</a></p>
+<p>把这份小手册，读一读，自己上手练练，比啥999的大课，都好用
+大不了，跟我一样用笨办法，看到不懂的地方，就一一打上标签，挨个用下 跟当年冯春培一一回答 itpub 中所有 Oracle 问题一样，功不唐捐 !!</p>
+<p>每天可以免费生成100张：<a href="https://www.liblib.art/sd" target="_blank" rel="noopener noreferrer">https://www.liblib.art/sd</a></p>
+</blockquote>
+<p>MiniSearch</p>
+<blockquote>
+<p>在线地址：<a href="https://github.com/lucaong/minisearch" target="_blank" rel="noopener noreferrer">https://github.com/lucaong/minisearch</a></p>
+<p>MiniSearch：一个轻量级且功能强大的 JavaScript 全文搜索引擎。它支持多种搜索功能，如精确匹配，前缀搜索，模糊匹配，字段提升等。API 简洁，无外部依赖，支持浏览器和 Node.js 环境。
+最重要的一点：我发现它竟然支持中文（截图）</p>
+</blockquote>
+<h2> 随便看看</h2>
+<figure><img src="https://img.nnxx.me/file/f59d850086af43a0ccfeb.jpg" alt="圈" tabindex="0" loading="lazy"><figcaption>圈</figcaption></figure>
+<p>工程师图谱：</p>
+<figure><img src="https://img.nnxx.me/file/5581c0f52d06aa3de1667.jpg" alt="tech" tabindex="0" loading="lazy"><figcaption>tech</figcaption></figure>
+<p>🔥世界公认四大高效学习法
+⚡️费曼学习法——让你用输出倒逼输入
+❤️ 西蒙学习法——让你将学习这件事简单化
+🌈 SQ3R学习法——让你的阅读变得更高效
+🌻学习金字塔——让你了解自己学习的认知层级</p>
+<figure><img src="https://img.nnxx.me/file/12f15d367ee3e8cef3628.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+]]></content:encoded>
+      <enclosure url="https://img.nnxx.me/file/3f40b5e181b54cf7ee5b3.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>11-18-干货满满</title>
+      <link>https://weekly.nnxx.me/2023/w/11-18-%E5%B9%B2%E8%B4%A7%E6%BB%A1%E6%BB%A1.html</link>
+      <guid>https://weekly.nnxx.me/2023/w/11-18-%E5%B9%B2%E8%B4%A7%E6%BB%A1%E6%BB%A1.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">11-18-干货满满</source>
+      <description>分享、实用、有趣、共勉 Web 灵感类网站合集 在线地址：https://uxchi.notion.site/881b4c0179a74935a3f607ad3521cdb5 (https://uxchi.notion.site/881b4c0179a74935a3f607ad3521cdb5) 工程师工具 () 发现一个 Web/App/Email/...</description>
+      <category>周报</category>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<figure><img src="https://img.nnxx.me/file/495fbb53dee6f3770f14a.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2> Web</h2>
+<p>灵感类网站合集</p>
+<blockquote>
+<p>在线地址：<a href="https://uxchi.notion.site/881b4c0179a74935a3f607ad3521cdb5" target="_blank" rel="noopener noreferrer">https://uxchi.notion.site/881b4c0179a74935a3f607ad3521cdb5</a></p>
+<p><a href="">工程师工具</a> 发现一个 Web/App/Email/Others 灵感类网站合集，有可能是全网最全的，感谢 chi 的整理。</p>
+</blockquote>
+<p>2万多个图标</p>
+<blockquote>
+<p>在线地址：<a href="https://yesicon.app/" target="_blank" rel="noopener noreferrer">https://yesicon.app/</a></p>
+<p>一个非常Nice，体验感拉满，可以用各种母语搜索2万多个图标任意使用的网站，搭配好unplugin-auto-import这样的自动导入插件，复制过来就可以用了！上车！</p>
+</blockquote>
+<p>开源图标库</p>
+<blockquote>
+<p>在线地址：<a href="https://iconoir.com/" target="_blank" rel="noopener noreferrer">https://iconoir.com/</a></p>
+<p>一个免费的开源图标库，包含1500个图标，网站上可以直接下载SVG格式图标，支持在线调整图标颜色、图标尺寸、线条粗细。</p>
+</blockquote>
+<p>wft</p>
+<blockquote>
+<p>在线地址；<a href="https://github.com/denysdovhan/wtfjs/" target="_blank" rel="noopener noreferrer">https://github.com/denysdovhan/wtfjs/</a></p>
+<p>这个 What the f*ck JavaScript? 整理挺好玩，前端每年去看一遍你会发现很多 wft 的东西。</p>
+</blockquote>
+<p>浏览器快捷键js库</p>
+<blockquote>
+<p>在线地址：<a href="https://github.com/jaywcjlove/hotkeys-js" target="_blank" rel="noopener noreferrer">https://github.com/jaywcjlove/hotkeys-js</a></p>
+<p>一个非常轻量且强大的浏览器快捷键js库！我自己用过，非常好用，图3是具体用法，做复杂的快捷键组合，简直手到擒来！</p>
+</blockquote>
+<p>CSS 动画低代码工具</p>
+<blockquote>
+<p>在线地址：<a href="https://animotion.dev/" target="_blank" rel="noopener noreferrer">https://animotion.dev/</a></p>
+<p>一个挺有意思的 CSS 动画低代码工具，你可以通过拖动、调整大小、旋转、剪切等方式直观地创建 CSS 动画，包括关键帧编辑器，预制的动画合辑以及 29 个内置过渡效果。</p>
+</blockquote>
+<h2> 资料</h2>
+<p>SQL 自学教程网站</p>
+<blockquote>
+<p>在线地址：<a href="http://sqlmother.yupi.icu/#/learn" target="_blank" rel="noopener noreferrer">http://sqlmother.yupi.icu/#/learn</a></p>
+<p>学 SQL 可以像打游戏一样有趣？30多关卡，每一关都是新挑战，帮你从 0 到 1 掌握常用的 SQL 语法 知乎大 V 程序员鱼皮，开源的完全免费闯关式 SQL 自学教程网站，这东西真的是绝了，卷起来～</p>
+</blockquote>
+<p>总结 Excel 入门学习手册</p>
+<blockquote>
+<p>在线地址：<a href="https://www.yuque.com/94benyi/funeng" target="_blank" rel="noopener noreferrer">https://www.yuque.com/94benyi/funeng</a></p>
+</blockquote>
+<p>Awesome Database Learning</p>
+<blockquote>
+<p>在线地址：<a href="https://github.com/pingcap/awesome-database-learning" target="_blank" rel="noopener noreferrer">https://github.com/pingcap/awesome-database-learning</a></p>
+<p>一个挺不错数据库学习整理 Awesome Database Learning，包括课程、博客、访谈、paper 的整理，弄数据库的小伙伴可以查阅一下。</p>
+</blockquote>
+<p>跨国数据聚合网站</p>
+<blockquote>
+<p>在线地址：<a href="https://ourworldindata.org/atom.xml" target="_blank" rel="noopener noreferrer">https://ourworldindata.org/atom.xml</a></p>
+<p>Our World in Data 世界上最好的跨国数据聚合网站，月独立访问过千万。他们从论文、国际组织的 PDF 报告里把人类历史的长期趋势画出来，原始表格、矢量图免费下载，可以商用。</p>
+</blockquote>
+<h2> 扩展</h2>
+<p>互联网安全知识扫盲（第四期） 详解OSI七层模型 OSI 七层模型（Open Systems Interconnection Model），是一个描述计算机网络通信协议设计的概念模型。它由国际标准化组织（ISO）在1984年发布，用于帮助不同系统之间的通信。这个模型将网络通信过程分为七个层次，每一层都承担着特定的功能</p>
+<figure><img src="https://img.nnxx.me/file/be8617143709954d9a444.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>详细地址：<a href="https://www.yuque.com/hisnxg/su6gk1/fa9a4p77rdtdddml?singleDoc#" target="_blank" rel="noopener noreferrer">《详解OSI七层模型 OSI 七层模型》</a></p>
+<p>分析攻击对象和攻击手法</p>
+<blockquote>
+<p>在线地址：<a href="https://paper.seebug.org/3062/" target="_blank" rel="noopener noreferrer">https://paper.seebug.org/3062/</a></p>
+<p>这篇文章介绍了如何通过网络空间“行为测绘”和”交叉测绘”锁定攻击者身份和网络分布，进而分析攻击对象和攻击手法</p>
+</blockquote>
+<p>对抗软件复杂度的战争</p>
+<blockquote>
+<p>在线地址：<a href="https://mp.weixin.qq.com/s/f82GBadLcQJCiFHcGWzkCA" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/f82GBadLcQJCiFHcGWzkCA</a></p>
+<p>这篇文章讲的比较有意思，软件的复杂度会随着业务体量、用户体量和团队规模的增长而快速膨胀，其中包含了本质复杂度和偶然复杂度。</p>
+</blockquote>
+<p>《如何提供一个可信的AB测试解决方案》</p>
+<blockquote>
+<p>在线地址：<a href="https://tech.meituan.com/2023/08/24/ab-test-practice-in-meituan.html" target="_blank" rel="noopener noreferrer">https://tech.meituan.com/2023/08/24/ab-test-practice-in-meituan.html</a></p>
+<p>美团技术这篇《如何提供一个可信的AB测试解决方案》写得挺好的，值得一看。</p>
+</blockquote>
+<p>521Github镜像</p>
+<blockquote>
+<p>在线地址：<a href="https://521github.com/" target="_blank" rel="noopener noreferrer">https://521github.com/</a></p>
+<p>521Github镜像是一个免费高速稳定的GitHub镜像站，主要提供高速、稳定的镜像服务，解决某些地区访问GitHub缓慢上不去的问题，哪天急着用GitHub而又没有比较好的网络环境的同学可以缓解燃眉之急。</p>
+</blockquote>
+<p>傻瓜化的 Github 搜索工具</p>
+<blockquote>
+<p>在线地址：<a href="https://grep.app/" target="_blank" rel="noopener noreferrer">https://grep.app/</a></p>
+<p>比如搜在 G 站上笑来的书 《韭菜的自我修养》</p>
+</blockquote>
+<p>国产AI大模型：<a href="https://imnxg.notion.site/31466672e10a4143a3eed402b73b7148?pvs=4" target="_blank" rel="noopener noreferrer">188个可谓遥遥领先</a></p>
+]]></content:encoded>
+      <enclosure url="https://img.nnxx.me/file/495fbb53dee6f3770f14a.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>11-11-浅尝辄止</title>
       <link>https://weekly.nnxx.me/2023/w/11-11-%E6%B5%85%E5%B0%9D%E8%BE%84%E6%AD%A2.html</link>
@@ -2965,9 +3263,18 @@ ChatGPT神器Code Interpreter，</p>
       <link>https://weekly.nnxx.me/2023/</link>
       <guid>https://weekly.nnxx.me/2023/</guid>
       <source url="https://weekly.nnxx.me/rss.xml">2023 周刊</source>
-      <description>2023 11-11-浅尝辄止 (./w/11-11-浅尝辄止.md) ; 11-04-血色空间 (./w/11-04-血色空间.md); 10-28-可有可无 (./w/10-28-可有可无.md); 10-21-趋之若鹜 (./w/10-21-趋之若鹜.md); 10-14-如期所取 (./w/10-14-如期所取.md); 10-07-久宽遇逢 ...</description>
+      <description>2023 12-03-绝有一览 (./w/12-03-绝有一览.md); 11-25-月挽星回 (./w/11-25-月挽星回.md); 11-18-干货满满 (./w/11-18-干货满满.md); 11-11-浅尝辄止 (./w/11-11-浅尝辄止.md) ; 11-04-血色空间 (./w/11-04-血色空间.md); 10-28-可有可无 ...</description>
       <content:encoded><![CDATA[<h3> 2023</h3>
 <ul>
+<li>
+<p><a href="/2023/w/12-03-%E7%BB%9D%E6%9C%89%E4%B8%80%E8%A7%88.html" target="blank">12-03-绝有一览</a></p>
+</li>
+<li>
+<p><a href="/2023/w/11-25-%E6%9C%88%E6%8C%BD%E6%98%9F%E5%9B%9E.html" target="blank">11-25-月挽星回</a></p>
+</li>
+<li>
+<p><a href="/2023/w/11-18-%E5%B9%B2%E8%B4%A7%E6%BB%A1%E6%BB%A1.html" target="blank">11-18-干货满满</a></p>
+</li>
 <li>
 <p><a href="/2023/w/11-11-%E6%B5%85%E5%B0%9D%E8%BE%84%E6%AD%A2.html" target="blank">11-11-浅尝辄止</a></p>
 </li>
