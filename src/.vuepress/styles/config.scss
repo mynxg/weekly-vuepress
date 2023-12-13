@@ -1,7 +1,8 @@
 // you can change config here
 $colors: #c0392b, #d35400, #f39c12, #27ae60, #16a085, #2980b9, #8e44ad, #2c3e50,
   #7f8c8d !default;
-
+//主题颜色选择器
+$theme-colors: #3eaf7c,#2196f3, #f26d6d, #fb9b5f;
 /* Content Class */
 $content-class: ".theme-hope-content";
 
@@ -23,8 +24,8 @@ $tablet: 719px !default;
 $mobile: 419px !default;
 
 /* Color list */
-$colors: #cf1322, #fa541c, #f39c12, #2ecc71, #25a55b, #10a5a5, #096dd9, #aa6fe9,
-  #eb2f96 !default;
+// $colors: #cf1322, #fa541c, #f39c12, #2ecc71, #25a55b, #10a5a5, #096dd9, #aa6fe9,
+//   #eb2f96 !default;
 
 /* Code Block */
 // only available with shiki highlighter

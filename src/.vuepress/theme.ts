@@ -42,7 +42,6 @@ export default hopeTheme({
   metaLocales: {
     editLink: "在 GitHub 上编辑此页",
   },
-
   plugins: {
     //订阅插件SSR
     feed: {
@@ -60,28 +59,38 @@ export default hopeTheme({
       category: "Announcements",
       categoryId: "DIC_kwDOJtoalM4CXGyQ",
     },
-
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {
       align: true,
       attrs: true,
-      chart: true,
       codetabs: true,
       demo: true,
-      echarts: true,
       figure: true,
-      flowchart: true,
       gfm: true,
       imgLazyload: true,
       imgSize: true,
       include: true,
-      katex: true,
       mark: true,
-      mermaid: true,
       playground: {
         presets: ["ts", "vue"],
       },
-      presentation: ["highlight", "math", "search", "notes", "zoom"],
+      revealJs: {
+        plugins: ["highlight", "math", "search", "notes", "zoom"],
+        themes: [
+          "auto",
+          "beige",
+          "black",
+          "blood",
+          "league",
+          "moon",
+          "night",
+          "serif",
+          "simple",
+          "sky",
+          "solarized",
+          "white",
+        ],
+      },
       stylize: [
         {
           matcher: "Recommended",

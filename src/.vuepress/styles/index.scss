@@ -2,3 +2,7 @@
 .site-name {
     font-style: italic;
 }
+pre[class*="language-"] code {
+    padding: 0;
+    background: none;
+  }
