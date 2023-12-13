@@ -17,7 +17,6 @@
     "vuepress-plugin-search-pro": "^2.0.0-rc.4",
     "vuepress-theme-hope": "2.0.0-rc.4",
     "@vue/repl": "3.0.0",
-    "reveal.js": "5.0.2",
-    "nodejs-jieba": "0.1.2"
+    "reveal.js": "5.0.2"
   }
 }
