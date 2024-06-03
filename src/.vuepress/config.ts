@@ -1,8 +1,8 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 // import { cut } from "nodejs-jieba";
-import { searchProPlugin } from "vuepress-plugin-search-pro";
-import { sassPalettePlugin } from "vuepress-plugin-sass-palette";
+// import { searchProPlugin } from "vuepress-plugin-search-pro";
+// import { sassPalettePlugin } from "vuepress-plugin-sass-palette";
 
 export default defineUserConfig({
   base: "/",
@@ -43,30 +43,30 @@ export default defineUserConfig({
   // Enable it with pwa
   // shouldPrefetch: false,
   plugins: [
-    sassPalettePlugin({ id: "test" }),
-    searchProPlugin({
-      // 配置选项
-      //多语言支持
-      locales: {
-        "/": {
-          placeholder: "搜索本站",
-        },
-      },
-      // 索引全部内容
-      indexContent: true,
-      hotReload: true,
-      // 搜索结果的标题 路径 简介
-      customFields: [
-        {
-          getter: ({ frontmatter }) => frontmatter.tag as string[],
-          formatter: `Tag: $content`,
-        },
-      ],
-      // indexOptions: {
-      //   // 使用 nodejs-jieba 进行分词
-      //   tokenize: (text, fieldName) =>
-      //     fieldName === "id" ? [text] : cut(text, true),
-      // },
-    }),
+    // sassPalettePlugin({ id: "test" }),
+    // searchProPlugin({
+    //   // 配置选项
+    //   //多语言支持
+    //   locales: {
+    //     "/": {
+    //       placeholder: "搜索本站",
+    //     },
+    //   },
+    //   // 索引全部内容
+    //   indexContent: true,
+    //   hotReload: true,
+    //   // 搜索结果的标题 路径 简介
+    //   customFields: [
+    //     {
+    //       getter: ({ frontmatter }) => frontmatter.tag as string[],
+    //       formatter: `Tag: $content`,
+    //     },
+    //   ],
+    //   indexOptions: {
+    //     // 使用 nodejs-jieba 进行分词
+    //     tokenize: (text, fieldName) =>
+    //       fieldName === "id" ? [text] : cut(text, true),
+    //   },
+    // }),
   ],
 });

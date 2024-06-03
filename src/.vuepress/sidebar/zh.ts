@@ -1,6 +1,6 @@
 import { sidebar } from "vuepress-theme-hope";
 
-export default sidebar({
+export const zhSidebar = sidebar({
   "/2023/": [
     {
       text: "2023",
