@@ -37,7 +37,14 @@ export default defineUserConfig({
   </script> 
   <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
   <script>LA.init({id:"3EiiSsWg8gwKtBjC",ck:"3EiiSsWg8gwKtBjC",hashMode:true})</script>
-      `,
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-D9GDKK1N1T"></script>
+          <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-D9GDKK1N1T');
+        </script>    
+  `,
     ],
   ],
   // Enable it with pwa
@@ -69,4 +76,8 @@ export default defineUserConfig({
     //   },
     // }),
   ],
+  // Enable it with pwa
+  shouldPrefetch: false,
+  // Enable it with pwa
+  // shouldPrefetch: false,
 });

@@ -109,7 +109,7 @@ export default hopeTheme({
         },
       ],
     },
-    
+
     components: {
 
       // 在MD文件中启用的组件
@@ -157,6 +157,21 @@ export default hopeTheme({
       //   // ],
       // },
     },
+    // These features are enabled for demo, only preserve features you need here
+    markdownImage: {
+      figure: true,
+      lazyload: true,
+      size: true,
+    },
+    // markdownMath: {
+    //   // install katex before enabling it
+    //   type: "katex",
+    //   // or install mathjax-full before enabling it
+    //   type: "mathjax",
+    // },
+
+    // This features is enabled for demo, only preserve if you need it
+    markdownTab: true,
     //订阅插件SSR
     feed: {
       // 插件选项
@@ -177,21 +192,13 @@ export default hopeTheme({
       // 代码复制成功提示消息的时间-ms
       duration: 3000,
     },
-    photoSwipe: true,
     // MarkDown文件增强
+    // These features are enabled for demo, only preserve features you need here
     mdEnhance: {
       align: true,
       attrs: true,
-      codetabs: true,
       component: true,
       demo: true,
-      figure: true,
-      // 启用图片懒加载
-      imgLazyload: true,
-      // 启用图片标记
-      imgMark: true,
-      // 启用图片大小
-      imgSize: true,
       include: true,
       mark: true,
       plantuml: true,
@@ -211,9 +218,35 @@ export default hopeTheme({
       ],
       sub: true,
       sup: true,
-      tabs: true,
       tasklist: true,
       vPre: true,
+
+      // Install chart.js before enabling it
+      // chart: true,
+
+      // insert component easily
+
+      // Install echarts before enabling it
+      // echarts: true,
+
+      // Install flowchart.ts before enabling it
+      // flowchart: true,
+
+      // gfm requires mathjax-full to provide tex support
+      // gfm: true,
+
+      // Install mermaid before enabling it
+      // mermaid: true,
+
+      // playground: {
+      //   presets: ["ts", "vue"],
+      // },
+
+      // Install @vue/repl before enabling it
+      // vuePlayground: true,
+
+      // Install sandpack-vue3 before enabling it
+      // sandpack: true,
     },
     // uncomment these if you want a pwa
     // pwa: {
