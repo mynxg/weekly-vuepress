@@ -6,12 +6,71 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 06 Oct 2024 11:42:59 GMT</pubDate>
-    <lastBuildDate>Sun, 06 Oct 2024 11:42:59 GMT</lastBuildDate>
+    <pubDate>Sun, 06 Oct 2024 13:45:04 GMT</pubDate>
+    <lastBuildDate>Sun, 06 Oct 2024 13:45:04 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
     <category>工具</category>
+    <item>
+      <title>10-06-冬日可爱</title>
+      <link>https://weekly.nnxx.me/weekly/2024/10/10-06-%E5%86%AC%E6%97%A5%E5%8F%AF%E7%88%B1.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2024/10/10-06-%E5%86%AC%E6%97%A5%E5%8F%AF%E7%88%B1.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">10-06-冬日可爱</source>
+      <description>分享、实用、有趣、共勉 产品与设计 不错的Ui magicui magicui.design UI非常好看，它是一个全新思路的组件库，主打一个 Landing page 上面的动画视觉效果，完美适配 shadcn/ui Alyssa： https://www.alyssax.com/ 不错的UI主页 及时资讯 AI资讯： https://gorden-...</description>
+      <category>周报</category>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<figure><img src="https://img.nnxx.me/file/06fec41a7d2808196218b-a1ec39b9d1ee4f4098.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>产品与设计</h2>
+<blockquote>
+<p>不错的Ui</p>
+</blockquote>
+<p>magicui
+<a href="magicui.design">magicui.design</a></p>
+<blockquote>
+<p>UI非常好看，它是一个全新思路的组件库，主打一个 Landing page 上面的动画视觉效果，完美适配 shadcn/ui</p>
+</blockquote>
+<p>Alyssa：</p>
+<p><a href="https://www.alyssax.com/" target="_blank" rel="noopener noreferrer">https://www.alyssax.com/</a></p>
+<blockquote>
+<p>不错的UI主页</p>
+</blockquote>
+<h2>及时资讯</h2>
+<p>AI资讯：
+<a href="https://gorden-sun.notion.site/527689cd2b294e60912f040095e803c5?v=4f6cc12006c94f47aee4dc909511aeb5" target="_blank" rel="noopener noreferrer">https://gorden-sun.notion.site/527689cd2b294e60912f040095e803c5?v=4f6cc12006c94f47aee4dc909511aeb5</a></p>
+<blockquote>
+<p>个人收集的AI资讯</p>
+</blockquote>
+<figure><img src="https://img.nnxx.me/file/c1c719d3741dcd4f78cfe-bdf8ee6160a2a1fb64.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>博客</h2>
+<p><a href="https://learn.lianglianglee.com/" target="_blank" rel="noopener noreferrer">技术摘抄 (lianglianglee.com)</a></p>
+<h2>仓库</h2>
+<p>工具：
+JS版本的OCR库</p>
+<p><a href="https://tesseract.projectnaptha.com/" target="_blank" rel="noopener noreferrer">https://tesseract.projectnaptha.com/</a></p>
+<p>仓库地址：<a href="https://github.com/naptha/tesseract.js#tesseractjs" target="_blank" rel="noopener noreferrer">https://github.com/naptha/tesseract.js#tesseractjs</a></p>
+<blockquote>
+<p>一个JS版本的OCR库，效果不错！支持中英文识别</p>
+</blockquote>
+<p>爬虫库
+仓库地址：<a href="https://github.com/Algebra-FUN/WeReadScan" target="_blank" rel="noopener noreferrer">https://github.com/Algebra-FUN/WeReadScan</a></p>
+<blockquote>
+<p>一个用于的将微信读书上的图书扫描转换本地 PDF/HTML 的爬虫库</p>
+</blockquote>
+<h2>扩展</h2>
+<p>插件：
+Vimium</p>
+<p>ell
+<a href="https://docs.ell.so/" target="_blank" rel="noopener noreferrer">https://docs.ell.so/</a></p>
+<blockquote>
+<p>写文章，记录prompt</p>
+</blockquote>
+]]></content:encoded>
+      <enclosure url="https://img.nnxx.me/file/06fec41a7d2808196218b-a1ec39b9d1ee4f4098.png" type="image/png"/>
+    </item>
     <item>
       <title>09-29-此中三昧</title>
       <link>https://weekly.nnxx.me/weekly/2024/09/09-29-%E6%AD%A4%E4%B8%AD%E4%B8%89%E6%98%A7.html</link>
@@ -87,15 +146,15 @@
 新版本的哔哩助理（V2）内置了 BBDown 作为下载工具，也内置了 ffmpeg 作为混流工具，用户无需额外下载依赖，在视频播放下面点击下载按钮即可按需下载。</p>
 </blockquote>
 <figure><img src="https://github.com/Richasy/Bili.Copilot/blob/master/assets/screenshot.png?raw=true" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>阅读：
-CloudFlare 使用 Workers 和 Nextjs 的深度集成：
-<a href="https://baoyu.io/blog/cloudflare/cloudflare-workers-nextjs-deep-integration" target="_blank" rel="noopener noreferrer">https://baoyu.io/blog/cloudflare/cloudflare-workers-nextjs-deep-integration</a></p>
-<p>Google 的十年五代网络架构：
-<a href="https://www.kawabangga.com/posts/6624" target="_blank" rel="noopener noreferrer">https://www.kawabangga.com/posts/6624</a></p>
-<p>Professional Programming: The First 10 Years：
-<a href="https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/" target="_blank" rel="noopener noreferrer">https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/</a></p>
-<p>ios开发到实现收入关卡：
-<a href="https://drive.google.com/file/d/1JR5ikSrhcYpCz1tMI50kHUo8ufKUS6jA/view" target="_blank" rel="noopener noreferrer">https://drive.google.com/file/d/1JR5ikSrhcYpCz1tMI50kHUo8ufKUS6jA/view</a></p>
+<p>阅读：</p>
+<p>CloudFlare 使用 Workers 和 Nextjs 的深度集成：</p>
+<p><a href="https://baoyu.io/blog/cloudflare/cloudflare-workers-nextjs-deep-integration" target="_blank" rel="noopener noreferrer">https://baoyu.io/blog/cloudflare/cloudflare-workers-nextjs-deep-integration</a></p>
+<p>Google 的十年五代网络架构：</p>
+<p><a href="https://www.kawabangga.com/posts/6624" target="_blank" rel="noopener noreferrer">https://www.kawabangga.com/posts/6624</a></p>
+<p>Professional Programming: The First 10 Years：</p>
+<p><a href="https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/" target="_blank" rel="noopener noreferrer">https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/</a></p>
+<p>ios开发到实现收入关卡：</p>
+<p><a href="https://drive.google.com/file/d/1JR5ikSrhcYpCz1tMI50kHUo8ufKUS6jA/view" target="_blank" rel="noopener noreferrer">https://drive.google.com/file/d/1JR5ikSrhcYpCz1tMI50kHUo8ufKUS6jA/view</a></p>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/06fec41a7d2808196218b-a1ec39b9d1ee4f4098.png" type="image/png"/>
     </item>
@@ -160,10 +219,10 @@ CloudFlare 使用 Workers 和 Nextjs 的深度集成：
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
     </item>
     <item>
-      <title>2024-05-09-浅尝辄止</title>
+      <title>05-09-浅尝辄止</title>
       <link>https://weekly.nnxx.me/weekly/2024/05/05-09-%E6%B5%85%E5%B0%9D%E8%BE%84%E6%AD%A2.html</link>
       <guid>https://weekly.nnxx.me/weekly/2024/05/05-09-%E6%B5%85%E5%B0%9D%E8%BE%84%E6%AD%A2.html</guid>
-      <source url="https://weekly.nnxx.me/rss.xml">2024-05-09-浅尝辄止</source>
+      <source url="https://weekly.nnxx.me/rss.xml">05-09-浅尝辄止</source>
       <description>分享、实用、有趣、共勉 AI sider AI: https://sider.ai/ 功能有总结文档、pdf、ocr、翻译等，并支持浏览器插件、app、桌面端等 字典：https://dictionary.sider.ai/ 夸一夸：https://roast-vs-boast.sider.ai/ monica https://monica.im/ A...</description>
       <category>周报</category>
       <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
