@@ -1,34 +1,22 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export const zhSidebar = sidebar({
-  "/2023/": [
+  "/weekly/": [
     {
       text: "2023",
       // icon: "laptop-code",
       collapsible: true,
-      prefix: "w/",
+      prefix: "2023/",
+      link: "/weekly/2023/",
       children: "structure",
     },
-    // {
-    //   text: "2023",
-    //   // icon: "laptop-code",
-    //   collapsible: true,
-    //   prefix: "07/",
-    //   children: "structure",
-    // },
-    // {
-    //   text: "2023",
-    //   // icon: "laptop-code",
-    //   collapsible: true,
-    //   prefix: "08/",
-    //   children: "structure",
-    // },
-    // {
-    //   text: "2023",
-    //   // icon: "laptop-code",
-    //   collapsible: true,
-    //   prefix: "08/",
-    //   children: "structure",
-    // },
+    {
+      text: "2024",
+      // icon: "laptop-code",
+      collapsible: true,
+      prefix: "2024/",
+      link: "/weekly/2024/",
+      children: "structure",
+    },
   ],
 });

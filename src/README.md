@@ -11,7 +11,7 @@ heroText: Weekly
 tagline: 行动胜于空谈
 actions:
   - text: Weekly 💡
-    link: ./2023/
+    link: ./weekly/
     type: primary
 
   - text: RSS 🐱
