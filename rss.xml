@@ -6,8 +6,8 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 06 Oct 2024 15:29:52 GMT</pubDate>
-    <lastBuildDate>Sun, 06 Oct 2024 15:29:52 GMT</lastBuildDate>
+    <pubDate>Sun, 06 Oct 2024 17:14:26 GMT</pubDate>
+    <lastBuildDate>Sun, 06 Oct 2024 17:14:26 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
@@ -17,7 +17,7 @@
       <link>https://weekly.nnxx.me/weekly/2024/10/10-06-%E5%86%AC%E6%97%A5%E5%8F%AF%E7%88%B1.html</link>
       <guid>https://weekly.nnxx.me/weekly/2024/10/10-06-%E5%86%AC%E6%97%A5%E5%8F%AF%E7%88%B1.html</guid>
       <source url="https://weekly.nnxx.me/rss.xml">10-06-冬日可爱</source>
-      <description>分享、实用、有趣、共勉 产品与设计 不错的Ui magicui magicui.design UI非常好看，它是一个全新思路的组件库，主打一个 Landing page 上面的动画视觉效果，完美适配 shadcn/ui Alyssa： https://www.alyssax.com/ 不错的UI主页 及时资讯 AI资讯： https://gorden-...</description>
+      <description>分享、实用、有趣、共勉 产品与设计 不错的Ui magicui magicui.design UI非常好看，它是一个全新思路的组件库，主打一个 Landing page 上面的动画视觉效果，完美适配 shadcn/ui 可以用于：Magic UI 搭配 Shadcn CLI 一键集成，结合 Cursor 和 V0 提升网页开发效率 Alyssa： ht...</description>
       <category>周报</category>
       <pubDate>Sun, 06 Oct 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<figure><img src="https://img.nnxx.me/file/06fec41a7d2808196218b-a1ec39b9d1ee4f4098.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
@@ -31,7 +31,8 @@
 <p>magicui
 <a href="magicui.design">magicui.design</a></p>
 <blockquote>
-<p>UI非常好看，它是一个全新思路的组件库，主打一个 Landing page 上面的动画视觉效果，完美适配 shadcn/ui</p>
+<p>UI非常好看，它是一个全新思路的组件库，主打一个 Landing page 上面的动画视觉效果，完美适配 shadcn/ui
+可以用于：Magic UI 搭配 Shadcn CLI 一键集成，结合 Cursor 和 V0 提升网页开发效率</p>
 </blockquote>
 <p>Alyssa：</p>
 <p><a href="https://www.alyssax.com/" target="_blank" rel="noopener noreferrer">https://www.alyssax.com/</a></p>
@@ -39,6 +40,21 @@
 <p>不错的UI主页</p>
 </blockquote>
 <figure><img src="https://img.nnxx.me/file/e0b8736b09dee3a40563e-39c19ebc9216311c88.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>Preline UI</p>
+<p><a href="https://preline.co/" target="_blank" rel="noopener noreferrer">https://preline.co/</a></p>
+<blockquote>
+<p>Preline UI 是一款基于 Tailwind CSS 的开源组件库，适用于各种需求
+案例：<a href="https://evanlong.me/share" target="_blank" rel="noopener noreferrer">https://evanlong.me/share</a></p>
+</blockquote>
+<p>Minimals UI</p>
+<p><a href="https://minimals.cc/" target="_blank" rel="noopener noreferrer">https://minimals.cc/</a></p>
+<blockquote>
+<p>Minimals UI 是一款基于 MUI 的界面启动工具包，旨在帮助你更快、更好地构建应用。</p>
+</blockquote>
+<p><a href="https://mobbin.com/" target="_blank" rel="noopener noreferrer">https://mobbin.com/</a></p>
+<blockquote>
+<p>Mobbin的好处在于不用下载App，直接查看完整App的流程，免去自己一个个截图。把真实生产环节的App Screen 参考这个痛点solved了</p>
+</blockquote>
 <h2>及时资讯</h2>
 <p>AI资讯：
 <a href="https://gorden-sun.notion.site/527689cd2b294e60912f040095e803c5?v=4f6cc12006c94f47aee4dc909511aeb5" target="_blank" rel="noopener noreferrer">https://gorden-sun.notion.site/527689cd2b294e60912f040095e803c5?v=4f6cc12006c94f47aee4dc909511aeb5</a></p>
@@ -48,18 +64,68 @@
 <figure><img src="https://img.nnxx.me/file/c1c719d3741dcd4f78cfe-bdf8ee6160a2a1fb64.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <h2>博客</h2>
 <p><a href="https://learn.lianglianglee.com/" target="_blank" rel="noopener noreferrer">技术摘抄 (lianglianglee.com)</a></p>
+<p><a href="https://xblog.io/" target="_blank" rel="noopener noreferrer">https://xblog.io/</a></p>
+<blockquote>
+<p>架构师</p>
+</blockquote>
 <h2>仓库</h2>
 <p>工具：
 JS版本的OCR库</p>
-<p><a href="https://tesseract.projectnaptha.com/" target="_blank" rel="noopener noreferrer">https://tesseract.projectnaptha.com/</a></p>
+<p>官网：<a href="https://tesseract.projectnaptha.com/" target="_blank" rel="noopener noreferrer">https://tesseract.projectnaptha.com/</a></p>
 <p>仓库地址：<a href="https://github.com/naptha/tesseract.js#tesseractjs" target="_blank" rel="noopener noreferrer">https://github.com/naptha/tesseract.js#tesseractjs</a></p>
 <blockquote>
 <p>一个JS版本的OCR库，效果不错！支持中英文识别</p>
 </blockquote>
-<p>爬虫库
-仓库地址：<a href="https://github.com/Algebra-FUN/WeReadScan" target="_blank" rel="noopener noreferrer">https://github.com/Algebra-FUN/WeReadScan</a></p>
+<p>爬虫库</p>
+<p>仓库地址：<a href="https://github.com/Algebra-FUN/WeReadScan" target="_blank" rel="noopener noreferrer">https://github.com/Algebra-FUN/WeReadScan</a></p>
 <blockquote>
 <p>一个用于的将微信读书上的图书扫描转换本地 PDF/HTML 的爬虫库</p>
+</blockquote>
+<p>crawlProject</p>
+<p><a href="https://github.com/xishandong/crawlProject" target="_blank" rel="noopener noreferrer">https://github.com/xishandong/crawlProject</a></p>
+<blockquote>
+<p>python爬虫项目合集，从基础到js逆向，包含基础篇、自动化篇、进阶篇以及验证码篇。案例涵盖各大网站(xhs douyin weibo ins boss job，jd...)，你将会学到有关爬虫以及反爬虫、自动化和验证码的各方面知识</p>
+</blockquote>
+<p>learn_python3_spider</p>
+<p><a href="https://github.com/wistbean/learn_python3_spider" target="_blank" rel="noopener noreferrer">https://github.com/wistbean/learn_python3_spider</a></p>
+<blockquote>
+<p>python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用</p>
+</blockquote>
+<p>awesome-spider</p>
+<p><a href="https://github.com/facert/awesome-spider" target="_blank" rel="noopener noreferrer">https://github.com/facert/awesome-spider</a></p>
+<blockquote>
+<p>爬虫集合</p>
+</blockquote>
+<p>ProxyCat</p>
+<p><a href="https://github.com/honmashironeko/ProxyCat" target="_blank" rel="noopener noreferrer">https://github.com/honmashironeko/ProxyCat</a></p>
+<blockquote>
+<p>一款部署于云端或本地的代理池中间件，可将静态代理IP灵活运用成tunnelIP，提供固定request地址，一次部署终身使用</p>
+</blockquote>
+<p>spyder_tool</p>
+<p><a href="https://github.com/lartpang/spyder_tool" target="_blank" rel="noopener noreferrer">https://github.com/lartpang/spyder_tool</a></p>
+<blockquote>
+<p>常用有效、给力的pyhton爬虫工具集合</p>
+</blockquote>
+<p>出海开发相关技术栈及工具收录</p>
+<p>仓库：<a href="https://github.com/iAmCorey/awesome-indie-hacker-tools" target="_blank" rel="noopener noreferrer">https://github.com/iAmCorey/awesome-indie-hacker-tools</a></p>
+<blockquote>
+<p>持续收录<strong>独立开发/出海开发</strong>相关技术栈及工具</p>
+</blockquote>
+<p>Stripe  支付</p>
+<p><a href="https://github.com/yournextstore/yournextstore" target="_blank" rel="noopener noreferrer">https://github.com/yournextstore/yournextstore</a></p>
+<blockquote>
+<p>一个基于 Next.js 的开源独立站项目，体验下来非常丝滑，还内置了 Stripe 作为支付接口，非常方便二开，适合做跨境的</p>
+</blockquote>
+<p>开源免费下载工具</p>
+<p><a href="https://github.com/imfile-io/imfile-desktop" target="_blank" rel="noopener noreferrer">https://github.com/imfile-io/imfile-desktop</a></p>
+<blockquote>
+<p>一款功能颇为丰富的开源免费下载工具：imFile。 基于 Motrix 开发，界面简洁易用，支持下载 HTTP、FTP、BT、磁力链等资源。最高支持 10 个任务同时下载，自由设置下载限速。适用于 Windows、macOS、Linux 安装使用。</p>
+</blockquote>
+<p>音频转文本
+<a href="https://github.com/danilotpnta/Youtube-Whisper" target="_blank" rel="noopener noreferrer">https://github.com/danilotpnta/Youtube-Whisper</a></p>
+<blockquote>
+<p>一款轻量级的音频转文本开源免费工具：Youtube-Whisper。 只需输入 YouTube 视频链接，即可提取其中音频，并利用 OpenAI Whisper 模型进行语音转文本。
+体验地址:<a href="https://yt-whisper.danilotpnta.com/" target="_blank" rel="noopener noreferrer">https://yt-whisper.danilotpnta.com/</a></p>
 </blockquote>
 <h2>扩展</h2>
 <p>插件：
@@ -69,6 +135,33 @@ Vimium</p>
 <blockquote>
 <p>写文章，记录prompt</p>
 </blockquote>
+<p>临时邮箱</p>
+<p><a href="https://temp-mail-docs.awsl.uk/" target="_blank" rel="noopener noreferrer">https://temp-mail-docs.awsl.uk/</a></p>
+<p>仓库：<a href="https://github.com/dreamhunter2333/cloudflare_temp_email" target="_blank" rel="noopener noreferrer">https://github.com/dreamhunter2333/cloudflare_temp_email</a></p>
+<blockquote>
+<p>买一个超短或超好的域名，然后搭建 CloudFlare，让用户注册使用免费收发临时域名邮箱。 CF D1 作为数据库 使用 CF Pages 部署前端 使用 CF Workers 部署后端 email 转发使用 CF Email Routing</p>
+</blockquote>
+<p>Brevo 邮件发送</p>
+<p><a href="https://www.brevo.com/" target="_blank" rel="noopener noreferrer">https://www.brevo.com/</a></p>
+<blockquote>
+<p>一个recently发现的邮件发送服务商 Brevo</p>
+<p>每天 300 封邮件的额度，并且还有免费 WhatsApp 推送、网页在线客服等服务，是一个一站式解决方案</p>
+</blockquote>
+<p>出海推广工具</p>
+<p>官网：<a href="https://www.socialtargeter.com/" target="_blank" rel="noopener noreferrer">https://www.socialtargeter.com/</a></p>
+<blockquote>
+<p>可以帮助你most个性化地在reddit上找到你的产品/服务的客户，并自动生成引流回复</p>
+</blockquote>
+<p>Canva使用教程：
+<a href="https://www.canva.cn/learn/canva-101/" target="_blank" rel="noopener noreferrer">https://www.canva.cn/learn/canva-101/</a></p>
+<blockquote>
+<p>提供详尽的功能教学与design技巧，作为入门完全够用。</p>
+</blockquote>
+<p>长视频精华切片</p>
+<p><a href="https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator" target="_blank" rel="noopener noreferrer">https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator</a></p>
+<blockquote>
+<p>只要most精髓的那段切片，如何自动化cut出来</p>
+</blockquote>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/06fec41a7d2808196218b-a1ec39b9d1ee4f4098.png" type="image/png"/>
     </item>
@@ -77,7 +170,7 @@ Vimium</p>
       <link>https://weekly.nnxx.me/weekly/2024/09/09-29-%E6%AD%A4%E4%B8%AD%E4%B8%89%E6%98%A7.html</link>
       <guid>https://weekly.nnxx.me/weekly/2024/09/09-29-%E6%AD%A4%E4%B8%AD%E4%B8%89%E6%98%A7.html</guid>
       <source url="https://weekly.nnxx.me/rss.xml">09-29-此中三昧</source>
-      <description>分享、实用、有趣、共勉 AI bolt 官网：https://bolt.new 通过给提示帮你运行、编辑以及部署全栈网络应用程序 v0 官网：https://v0.dev/ V0是由Vercel推出的一款AI支持的生成式UI系统。该工具结合了前端开发的最佳实践和生成式AI的潜力，旨在帮助开发者低成本、快速构建产品的第一个版本。用户只需输入提示词(pro...</description>
+      <description>分享、实用、有趣、共勉 AI bolt 官网：https://bolt.new 通过给提示帮你运行、编辑以及部署全栈网络应用程序 https://github.com/stackblitz/bolt.new AI 代码工具 Bolt new 的项目开源仓库。 v0 官网：https://v0.dev/ V0是由Vercel推出的一款AI支持的生成式UI...</description>
       <category>周报</category>
       <pubDate>Sun, 29 Sep 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<figure><img src="https://img.nnxx.me/file/06fec41a7d2808196218b-a1ec39b9d1ee4f4098.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
@@ -91,10 +184,22 @@ Vimium</p>
 <p>通过给提示帮你运行、编辑以及部署全栈网络应用程序</p>
 </blockquote>
 <figure><img src="https://img.nnxx.me/file/896959a2d889dd038dbaa-4b18d2f63ccdb72184.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>v0
-官网：<a href="https://v0.dev/" target="_blank" rel="noopener noreferrer">https://v0.dev/</a></p>
+<p><a href="https://github.com/stackblitz/bolt.new" target="_blank" rel="noopener noreferrer">https://github.com/stackblitz/bolt.new</a></p>
+<blockquote>
+<p>AI 代码工具 Bolt new 的项目开源仓库。</p>
+</blockquote>
+<p>v0</p>
+<p>官网：<a href="https://v0.dev/" target="_blank" rel="noopener noreferrer">https://v0.dev/</a></p>
 <blockquote>
 <p>V0是由Vercel推出的一款AI支持的生成式UI系统。该工具结合了前端开发的最佳实践和生成式AI的潜力，旨在帮助开发者低成本、快速构建产品的第一个版本。用户只需输入提示词(prompt)，V0就会根据这些提示词生成相应的UI元素。</p>
+</blockquote>
+<p>sider AI:</p>
+<p>官网：<a href="https://sider.ai/" target="_blank" rel="noopener noreferrer">https://sider.ai/</a></p>
+<blockquote>
+<p>支持浏览器插件、app、桌面端等</p>
+<p>字典：<a href="https://dictionary.sider.ai/" target="_blank" rel="noopener noreferrer">https://dictionary.sider.ai/</a></p>
+<p>夸一夸：<a href="https://roast-vs-boast.sider.ai/" target="_blank" rel="noopener noreferrer">https://roast-vs-boast.sider.ai/</a></p>
+<p>图片赞美或吐槽：<a href="https://roastgram.sider.ai/" target="_blank" rel="noopener noreferrer">https://roastgram.sider.ai/</a></p>
 </blockquote>
 <h2>工具</h2>
 <p>酷鸭练习站</p>
@@ -116,11 +221,25 @@ Vimium</p>
 <blockquote>
 <p>还包括Youtube视频跟读、自定义脚本跟读、AI图片记单词、发音评估报告</p>
 </blockquote>
+<p>learning英语</p>
+<p>仓库：<a href="https://github.com/interaminense/learning-english?tab=readme-ov-file" target="_blank" rel="noopener noreferrer">https://github.com/interaminense/learning-english?tab=readme-ov-file</a></p>
+<blockquote>
+<p>一个learning英语的实用GitHub仓库，author总结了各种有用的资源链接可以帮助大家快乐学英语！</p>
+</blockquote>
+<p>单词闪卡的Bot</p>
+<p><a href="https://www.coze.cn/store/bot/7419875748158341146?bid=6dvpia6hc9009&amp;panel=1" target="_blank" rel="noopener noreferrer">https://www.coze.cn/store/bot/7419875748158341146?bid=6dvpia6hc9009&amp;panel=1</a></p>
+<p>ppt生成工具：</p>
+<p>官网：<a href="https://gezhe.com/" target="_blank" rel="noopener noreferrer">https://gezhe.com/</a></p>
 <p>仓库地址：<a href="https://github.com/ChrisTitusTech/linutil" target="_blank" rel="noopener noreferrer">https://github.com/ChrisTitusTech/linutil</a></p>
 <blockquote>
 <p>一个 Linux 工具箱，它的designed目的是简化用户在 Linux 系统上的日常操作，无论是installing应用程序还是优化系统配置</p>
 </blockquote>
 <figure><img src="https://img.nnxx.meundefined" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>PDF 在线工具：</p>
+<p>地址：<a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank" rel="noopener noreferrer">https://github.com/Stirling-Tools/Stirling-PDF</a></p>
+<blockquote>
+<p>一个很强大的开源 PDF 在线工具，拆分 PDF，压缩 PDF，PDF 转换等等，大家可以部署一个自己的 PDF 工具站去赚广告费</p>
+</blockquote>
 <h2>科普</h2>
 <p>主页：<a href="https://mntre.com/reform.html" target="_blank" rel="noopener noreferrer">https://mntre.com/reform.html</a></p>
 <p>仓库：<a href="https://source.mnt.re/reform/pocket-reform" target="_blank" rel="noopener noreferrer">https://source.mnt.re/reform/pocket-reform</a></p>
@@ -134,6 +253,13 @@ Vimium</p>
 <p>结合了 MAC 环境的热角功能和 Linux 的 i3wm 窗口管理器,为 Windows 用户提供了一个更加个性化和高效的开发环境，类似于archlinux中的hyprland桌面</p>
 </blockquote>
 <figure><img src="https://raw.githubusercontent.com/Cybecho/Windows_Setting_dotfiles/refs/heads/main/assets/example_slideover.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>Windows 小部件</p>
+<p><a href="https://github.com/runixe786/MD3-Windows" target="_blank" rel="noopener noreferrer">https://github.com/runixe786/MD3-Windows</a></p>
+<blockquote>
+<p>亮眼的 Windows 小部件</p>
+</blockquote>
+<p>远程工作的招聘网站</p>
+<p><a href="https://easynomad.cn/" target="_blank" rel="noopener noreferrer">https://easynomad.cn/</a></p>
 <h2>扩展</h2>
 <p>抖音自动发布助手</p>
 <p>仓库：<a href="https://github.com/withwz/douyin_upload" target="_blank" rel="noopener noreferrer">https://github.com/withwz/douyin_upload</a></p>
@@ -147,6 +273,19 @@ Vimium</p>
 新版本的哔哩助理（V2）内置了 BBDown 作为下载工具，也内置了 ffmpeg 作为混流工具，用户无需额外下载依赖，在视频播放下面点击下载按钮即可按需下载。</p>
 </blockquote>
 <figure><img src="https://github.com/Richasy/Bili.Copilot/blob/master/assets/screenshot.png?raw=true" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>汉语新解</p>
+<p>体验：<a href="https://texthuman.ai/" target="_blank" rel="noopener noreferrer">https://texthuman.ai/</a></p>
+<p>仓库：<a href="https://github.com/tonyljx/TextWordExplain" target="_blank" rel="noopener noreferrer">https://github.com/tonyljx/TextWordExplain</a></p>
+<blockquote>
+<p>一个 Prompt 带动在线卡片生成项目井喷效应</p>
+<p>体验：<a href="https://hanyuxinjie.com/" target="_blank" rel="noopener noreferrer">https://hanyuxinjie.com/</a></p>
+<p>sider对应的字典：<a href="https://dictionary.sider.ai/" target="_blank" rel="noopener noreferrer">https://dictionary.sider.ai/</a></p>
+</blockquote>
+<p>DB</p>
+<p><a href="https://neon.tech/" target="_blank" rel="noopener noreferrer">https://neon.tech/</a></p>
+<blockquote>
+<p>只有500m，没有D1那么好</p>
+</blockquote>
 <p>阅读：</p>
 <p>CloudFlare 使用 Workers 和 Nextjs 的深度集成：</p>
 <p><a href="https://baoyu.io/blog/cloudflare/cloudflare-workers-nextjs-deep-integration" target="_blank" rel="noopener noreferrer">https://baoyu.io/blog/cloudflare/cloudflare-workers-nextjs-deep-integration</a></p>
@@ -224,19 +363,17 @@ Vimium</p>
       <link>https://weekly.nnxx.me/weekly/2024/05/05-09-%E6%B5%85%E5%B0%9D%E8%BE%84%E6%AD%A2.html</link>
       <guid>https://weekly.nnxx.me/weekly/2024/05/05-09-%E6%B5%85%E5%B0%9D%E8%BE%84%E6%AD%A2.html</guid>
       <source url="https://weekly.nnxx.me/rss.xml">05-09-浅尝辄止</source>
-      <description>分享、实用、有趣、共勉 AI sider AI: https://sider.ai/ 功能有总结文档、pdf、ocr、翻译等，并支持浏览器插件、app、桌面端等 字典：https://dictionary.sider.ai/ 夸一夸：https://roast-vs-boast.sider.ai/ monica https://monica.im/ A...</description>
+      <description>分享、实用、有趣、共勉 AI sider AI: https://sider.ai/ 功能有总结文档、pdf、ocr、翻译等，并支持浏览器插件、app、桌面端等 monica https://monica.im/ AI搜索、pdf、写作、画图等 liblib https://www.liblib.art/sd 文生图、图生图、图生视频等 文档 next...</description>
       <category>周报</category>
       <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
 <h2>AI</h2>
-<p>sider AI:
-<a href="https://sider.ai/" target="_blank" rel="noopener noreferrer">https://sider.ai/</a></p>
+<p>sider AI:</p>
+<p><a href="https://sider.ai/" target="_blank" rel="noopener noreferrer">https://sider.ai/</a></p>
 <blockquote>
-<p>功能有总结文档、pdf、ocr、翻译等，并支持浏览器插件、app、桌面端等
-字典：<a href="https://dictionary.sider.ai/" target="_blank" rel="noopener noreferrer">https://dictionary.sider.ai/</a>
-夸一夸：<a href="https://roast-vs-boast.sider.ai/" target="_blank" rel="noopener noreferrer">https://roast-vs-boast.sider.ai/</a></p>
+<p>功能有总结文档、pdf、ocr、翻译等，并支持浏览器插件、app、桌面端等</p>
 </blockquote>
 <p>monica</p>
 <p><a href="https://monica.im/" target="_blank" rel="noopener noreferrer">https://monica.im/</a></p>
@@ -256,11 +393,29 @@ Vimium</p>
 <blockquote>
 <p>21 分钟 MySQL 基础入门</p>
 </blockquote>
-<p>编程课程
-<a href="https://www.theodinproject.com/" target="_blank" rel="noopener noreferrer">https://www.theodinproject.com/</a></p>
+<p>《快乐的 Linux 命令行》</p>
+<p><a href="https://billie66.github.io/TLCL/" target="_blank" rel="noopener noreferrer">https://billie66.github.io/TLCL/</a></p>
+<p>编程课程</p>
+<p><a href="https://www.theodinproject.com/" target="_blank" rel="noopener noreferrer">https://www.theodinproject.com/</a></p>
 <blockquote>
 <p>涵盖了计算机项目课程，有前端三件套：HTML、CSS、JavaScript</p>
 <p>适合编程初学者</p>
+</blockquote>
+<p>适合初学者的代码可视化学习工具：Python Tutor</p>
+<p><a href="https://pythontutor.com/" target="_blank" rel="noopener noreferrer">https://pythontutor.com/</a></p>
+<blockquote>
+<p>通过输入一段 Python 代码，在线可视化执行过程，帮助初学者更好学习并理解和调试代码</p>
+<p>除了 Python 外，还支持 Java、C、C++ 和 JavaScript 等编程语言。</p>
+</blockquote>
+<p>如何当好的提示词工程师</p>
+<blockquote>
+<p>教程：<a href="https://www.youtube.com/watch?v=T9aRN5JkmL8" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=T9aRN5JkmL8</a></p>
+<p>文档：<a href="https://zkv549gmz8.feishu.cn/wiki/AzFUwIwZNiTfOFkIjaJcTNaYnSc" target="_blank" rel="noopener noreferrer">https://zkv549gmz8.feishu.cn/wiki/AzFUwIwZNiTfOFkIjaJcTNaYnSc</a></p>
+</blockquote>
+<p>利用提示词</p>
+<p><a href="https://zkv549gmz8.feishu.cn/wiki/YRf2wb6BAil2j9kXMiVcfGBSnhd" target="_blank" rel="noopener noreferrer">https://zkv549gmz8.feishu.cn/wiki/YRf2wb6BAil2j9kXMiVcfGBSnhd</a></p>
+<blockquote>
+<p>利用提示词，稳定的生成精美的社交名片 or 个人简历</p>
 </blockquote>
 <h2>有趣的项目</h2>
 <p>我的系统点文件</p>
@@ -275,6 +430,15 @@ Vimium</p>
 <li>Zsh</li>
 </ul>
 </blockquote>
+<p>Cookie-share：Cookie分享管理工具</p>
+<p>下载：<a href="https://github.com/fangyuan99/cookie-share/releases" target="_blank" rel="noopener noreferrer">https://github.com/fangyuan99/cookie-share/releases</a></p>
+<p><a href="https://github.com/fangyuan99/cookie-share" target="_blank" rel="noopener noreferrer">https://github.com/fangyuan99/cookie-share</a></p>
+<blockquote>
+<p>免登录实现帐号共享 某星球、某艺、某L站均可用，可自行部署相应服务</p>
+<p>Cookie-share是一款基于Chrome/Edge 扩展的Cookie分享管理工具，免登录实现帐号共享，允许用户在不同设备或浏览器之间发送和接收 cookies，使用 Cloudflare Worker 作为后端来存储和检索 cookie 数据，例如知识星球、爱奇艺等等网站均测试可用。</p>
+<p><a href="https://linux.do/t/topic/115004" target="_blank" rel="noopener noreferrer">https://linux.do/t/topic/115004</a></p>
+<p>使用教程：<a href="https://www.ahhhhfs.com/62968/" target="_blank" rel="noopener noreferrer">https://www.ahhhhfs.com/62968/</a></p>
+</blockquote>
 <p>点亮城市项目</p>
 <p><a href="https://wp.iyou.city/" target="_blank" rel="noopener noreferrer">https://wp.iyou.city/</a></p>
 <blockquote>
@@ -282,6 +446,48 @@ Vimium</p>
 </blockquote>
 <p>推荐探索：
 <a href="https://github.com/xypnox" target="_blank" rel="noopener noreferrer">https://github.com/xypnox</a></p>
+<p>微信公众号聊天机器人管理模型</p>
+<p><a href="https://github.com/LIghtJUNction/ChatMemOllama" target="_blank" rel="noopener noreferrer">https://github.com/LIghtJUNction/ChatMemOllama</a></p>
+<blockquote>
+<p>一个个人微信公众号聊天机器人，使用本地ai模型（ollma提供），以及mem0管理记忆</p>
+</blockquote>
+<p>Tianji</p>
+<p><a href="https://tianji.msgbyte.com/" target="_blank" rel="noopener noreferrer">https://tianji.msgbyte.com/</a></p>
+<blockquote>
+<p>Tianji 是一款面向独立开发者与小型企业的，致力于打造All in One 的，集网页分析、监控、服务状态等功能于一身的服务数据中心</p>
+</blockquote>
+<p>清理垃圾脚本</p>
+<p><a href="https://github.com/mac-cleanup/mac-cleanup-py/releases/tag/v3.1.0" target="_blank" rel="noopener noreferrer">https://github.com/mac-cleanup/mac-cleanup-py/releases/tag/v3.1.0</a></p>
+<blockquote>
+<p>适用于 macOS 的 Python 清理脚本 mac-cleanup-py</p>
+</blockquote>
+<h2>扩展</h2>
+<p>dokploy</p>
+<p><a href="https://github.com/dokploy/dokploy" target="_blank" rel="noopener noreferrer">https://github.com/dokploy/dokploy</a></p>
+<blockquote>
+<p>dokploy是vercel和netlify的开源平替，可realize在服务器上部署和管理应用+数据库，并实现自动化部署、应用监控、域名绑定、certificate申请等全流程。</p>
+</blockquote>
+<p>一键生成证件照</p>
+<p>体验站：<a href="https://desktop.dashu.ai/#user/login" target="_blank" rel="noopener noreferrer">https://desktop.dashu.ai/#user/login</a></p>
+<p>仓库：<a href="https://swanhub.co/ZeYiLin/HivisionIDPhotos/tree/master" target="_blank" rel="noopener noreferrer">https://swanhub.co/ZeYiLin/HivisionIDPhotos/tree/master</a></p>
+<blockquote>
+<p>一个新的在线应用，一键生成证件照。之前我都是去微信小程序或者支付宝小程序里生成，还要收个 1-2 元，这个完全免费，应个急挺好用的</p>
+</blockquote>
+<p>阅后即焚 Enclosed</p>
+<p><a href="https://github.com/CorentinTh/enclosed" target="_blank" rel="noopener noreferrer">https://github.com/CorentinTh/enclosed</a></p>
+<blockquote>
+<p>阅后即焚 Enclosed - 这是一个专为发送端到端加密笔记和文件而designed的简约 Web 应用程序。这个工具很不错，我的使用场景是给国内朋友发送 AI-key 或ladder节点链接。via微信发送笔记，短信发送打开密码，然后开启阅读后delete，可以确保私密性和安全性。</p>
+</blockquote>
+<p>跨端程序解决方案</p>
+<p>taro
+<a href="https://docs.taro.zone/docs/" target="_blank" rel="noopener noreferrer">https://docs.taro.zone/docs/</a></p>
+<blockquote>
+<p>解决h5 和 小programs跨端问题</p>
+</blockquote>
+<p><a href="https://bestgeek.org/mail" target="_blank" rel="noopener noreferrer">https://bestgeek.org/mail</a></p>
+<blockquote>
+<p>极客世界、极客秘境、IT人必备、开发工具等</p>
+</blockquote>
 ]]></content:encoded>
     </item>
     <item>
