@@ -6,12 +6,149 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 06 Oct 2024 17:14:26 GMT</pubDate>
-    <lastBuildDate>Sun, 06 Oct 2024 17:14:26 GMT</lastBuildDate>
+    <pubDate>Sun, 13 Oct 2024 15:50:28 GMT</pubDate>
+    <lastBuildDate>Sun, 13 Oct 2024 15:50:28 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
     <category>工具</category>
+    <item>
+      <title>10-13-梦幻泡影</title>
+      <link>https://weekly.nnxx.me/weekly/2024/10/10-13-%E6%A2%A6%E5%B9%BB%E6%B3%A1%E5%BD%B1.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2024/10/10-13-%E6%A2%A6%E5%B9%BB%E6%B3%A1%E5%BD%B1.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">10-13-梦幻泡影</source>
+      <description>分享、实用、有趣、共勉 不错的产品 地址：https://huly.app/ 办公场景类 lazy 地址：https://lazy.so/ huly 地址：https://huly.io/ Huly 是一个开源平台，可作为 Linear、Jira、Slack 和 Notion 的一站式替代品。 在虚拟办公环境中，与远程团队协作很容易。在你的工作空间内享...</description>
+      <category>周报</category>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<figure><img src="https://api.paugram.com/bing" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>不错的产品</h2>
+<p>地址：<a href="https://huly.app/" target="_blank" rel="noopener noreferrer">https://huly.app/</a></p>
+<blockquote>
+<p>办公场景类</p>
+</blockquote>
+<p>lazy</p>
+<p>地址：<a href="https://lazy.so/" target="_blank" rel="noopener noreferrer">https://lazy.so/</a></p>
+<figure><img src="https://lazy.so/_next/static/media/grid-1-3x.adf00ec5.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>huly</p>
+<p>地址：<a href="https://huly.io/" target="_blank" rel="noopener noreferrer">https://huly.io/</a></p>
+<blockquote>
+<p>Huly 是一个开源平台，可作为 Linear、Jira、Slack 和 Notion 的一站式替代品。</p>
+<p>在虚拟办公环境中，与远程团队协作很容易。在你的工作空间内享受实时通信，无需额外的软件麻烦。
+<img src="https://huly.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-illustration.7100a376.jpg&amp;w=2048&amp;q=75" alt="" loading="lazy"></p>
+</blockquote>
+<p>地址：<a href="https://www.figma.com/community/file/1426161867268046394/opensource-shadcn-ui-kit-for-figma" target="_blank" rel="noopener noreferrer">https://www.figma.com/community/file/1426161867268046394/opensource-shadcn-ui-kit-for-figma</a></p>
+<blockquote>
+<p>shadcn ui 是一个美观且易用的前端组件库</p>
+</blockquote>
+<h2>有趣的东西</h2>
+<p>WebChat</p>
+<p>地址：<a href="https://github.com/molvqingtai/WebChat" target="_blank" rel="noopener noreferrer">https://github.com/molvqingtai/WebChat</a></p>
+<blockquote>
+<p>在任何网站上与任何人聊天</p>
+<p>这是一个去中心化且无服务器的匿名聊天浏览器扩展程序，利用 WebRTC 进行端到端加密通信。它优先考虑隐私，所有数据都存储在本地。其目的是为任何网站添加聊天室功能，让你再也不会感到孤单。</p>
+<p>案例：<a href="https://chromewebstore.google.com/detail/webchat/cpaedhbidlpnbdfegakhiamfpndhjpgf" target="_blank" rel="noopener noreferrer">webchat插件</a></p>
+</blockquote>
+<p>follow</p>
+<p>地址：<a href="https://app.follow.is" target="_blank" rel="noopener noreferrer">https://app.follow.is</a></p>
+<blockquote>
+<p>私有化信息订阅，可以接入bilibili、X、blog（RSS源）等</p>
+</blockquote>
+<p>预算管理<strong>ynab</strong></p>
+<p>地址：<a href="https://app.ynab.com" target="_blank" rel="noopener noreferrer">https://app.ynab.com</a></p>
+<blockquote>
+<p>一款不错的预算平台，有web、手机端</p>
+</blockquote>
+<p>代码截图美化工具</p>
+<p>地址：<a href="https://snappify.com/" target="_blank" rel="noopener noreferrer">https://snappify.com/</a></p>
+<p>生成emoji的AI</p>
+<p>地址：<a href="https://emojis.sh/" target="_blank" rel="noopener noreferrer">https://emojis.sh/</a></p>
+<p>仓库：<a href="https://github.com/pondorasti/emojis" target="_blank" rel="noopener noreferrer">https://github.com/pondorasti/emojis</a></p>
+<figure><img src="https://github.com/pondorasti/emojis/raw/main/public/_static/readme.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>LoRA模型</p>
+<p>地址：<a href="https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-One-Click-Creative-Template" target="_blank" rel="noopener noreferrer">https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-One-Click-Creative-Template</a></p>
+<blockquote>
+<p>LoRA模型可以生成创意照片，可以根据文字描述生成看起来像是由4张真实照片和1张卡通图组成的复合图像</p>
+</blockquote>
+<figure><img src="https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-One-Click-Creative-Template/resolve/main/images/f2cc649985648e57b9b9b14ca7a8744ac8e50d75b3a334ed4df0f368.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>flex3d</p>
+<p>地址：<a href="https://junlinhan.github.io/projects/flex3d/" target="_blank" rel="noopener noreferrer">https://junlinhan.github.io/projects/flex3d/</a></p>
+<blockquote>
+<p>Meta 推出 Flex3D！这是又一种能够从单张图像或文本提示中生成高质量 3D 资产的方法。</p>
+</blockquote>
+<p>DressRecon</p>
+<p>地址：<a href="https://jefftan969.github.io/dressrecon/" target="_blank" rel="noopener noreferrer">https://jefftan969.github.io/dressrecon/</a></p>
+<blockquote>
+<p>DressRecon：通过视频生成3D模型 输入视频即可构建出3D模型，并且能够还原复杂的服装和手持物品。</p>
+</blockquote>
+<h2>扩展</h2>
+<p>neon</p>
+<p>地址：<a href="https://neon.tech/" target="_blank" rel="noopener noreferrer">https://neon.tech/</a></p>
+<p>仓库地址：<a href="https://github.com/neondatabase/neon" target="_blank" rel="noopener noreferrer">https://github.com/neondatabase/neon</a></p>
+<blockquote>
+<p>Neon：无服务器 PostgreSQL。将存储和计算分离，以提供自动扩展、类似代码的数据库分支以及缩容至零。</p>
+</blockquote>
+<p>DNS.Surf</p>
+<p>地址：<a href="https://dns.surf/?name=www.sina.com&amp;type=A&amp;resolver=cloudflare" target="_blank" rel="noopener noreferrer">https://dns.surf/?name=www.sina.com&amp;type=A&amp;resolver=cloudflare</a></p>
+<blockquote>
+<p>地图展示，可以更直观的看 DNS 在全球各地的解析结果</p>
+</blockquote>
+<p>个人订阅跟踪工具Subs</p>
+<p>地址：<a href="https://subs.ajnart.fr/" title="https://subs.ajnart.fr/" target="_blank" rel="noopener noreferrer">subs.ajnart.fr/</a></p>
+<p>仓库地址：<a href="https://github.com/ajnart/subs" target="_blank" rel="noopener noreferrer">https://github.com/ajnart/subs</a></p>
+<blockquote>
+<p>其他工具：<strong>Wallos</strong></p>
+</blockquote>
+<figure><img src="https://private-user-images.githubusercontent.com/49837342/374940618-ffb88333-6c4d-46c9-9ca7-49602106e5f1.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg4MzM5NTUsIm5iZiI6MTcyODgzMzY1NSwicGF0aCI6Ii80OTgzNzM0Mi8zNzQ5NDA2MTgtZmZiODgzMzMtNmM0ZC00NmM5LTljYTctNDk2MDIxMDZlNWYxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDEzVDE1MzQxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY4MzM1ZmIzODM1MDllODRmNGMyYWE5MjE3ZTFiMTIyMTM2Y2I1MGFiOTVmY2ViN2Y1MmVlNjhmYjQwNTViYmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.GMJrvgONKADkya8mYR3tKZUH5Jb3x2VsqREdCpl2mKo" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>一次性邮箱域名黑名单</p>
+<p>仓库地址：<a href="https://github.com/disposable-email-domains/disposable-email-domains" target="_blank" rel="noopener noreferrer">https://github.com/disposable-email-domains/disposable-email-domains</a></p>
+<blockquote>
+<p>如果你的 SAAS 服务想要避免被临时邮箱薅羊毛，可以看看这个仓库，收集了 3000 多个一次性邮箱域名黑名单，也有 100 多白名单防止误伤</p>
+</blockquote>
+<p>自定义域名回源到指定端口</p>
+<p>地址：<a href="https://hyrikuma-akari.top/2024/04/07/cf-origin-rules/" target="_blank" rel="noopener noreferrer">https://hyrikuma-akari.top/2024/04/07/cf-origin-rules/</a></p>
+<blockquote>
+<p>可以抛弃 Nginx Proxy Manager 做反代了，每个域名可以创建 10 条规则</p>
+</blockquote>
+<p>Cloudflare 工具</p>
+<p>仓库：<a href="https://github.com/zhuima/awesome-cloudflare" target="_blank" rel="noopener noreferrer">https://github.com/zhuima/awesome-cloudflare</a></p>
+<blockquote>
+<p>精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表</p>
+</blockquote>
+<figure><img src="https://github.com/zhuima/awesome-cloudflare/raw/master/docs/awesome-cloudflare.svg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>飞书文档下载插件：</p>
+<p>地址：<a href="https://github.com/lujunji4113/cloud-document-converter" target="_blank" rel="noopener noreferrer">https://github.com/lujunji4113/cloud-document-converter</a></p>
+<blockquote>
+<p>将 Lark 文档转换为 Markdown 格式。</p>
+</blockquote>
+<p>AI网络爬虫工具：Crawl4AI</p>
+<p>仓库地址：<a href="https://github.com/unclecode/crawl4ai" target="_blank" rel="noopener noreferrer">https://github.com/unclecode/crawl4ai</a></p>
+<blockquote>
+<p>可以直接用于大语言模型和AI应用。性能超快，还能输出适合大语言模型的格式，比如JSON、清理过的HTML和markdown。它还支持同时爬取多个网址，能提取所有媒体标签（图片、音频、视频），以及所有内外部链接。可以自定义用户代理，还能给网页截图，甚至在爬取之前执行自定义JavaScript</p>
+<p>教程：<a href="https://crawl4ai.com/mkdocs/" target="_blank" rel="noopener noreferrer">https://crawl4ai.com/mkdocs/</a></p>
+</blockquote>
+<p>AI播客</p>
+<p>地址：<a href="https://postnitro.ai/zh" target="_blank" rel="noopener noreferrer">https://postnitro.ai/zh</a></p>
+<blockquote>
+<p>适用于 Instagram、LinkedIn 等的人工智能轮播生成器</p>
+</blockquote>
+<p>Telegram GPT Worker - 多功能 AI 助手</p>
+<p>仓库：<a href="https://github.com/snakeying/GPT-Telegram-Worker/" target="_blank" rel="noopener noreferrer">https://github.com/snakeying/GPT-Telegram-Worker</a></p>
+<blockquote>
+<p>一个基于 TypeScript 开发的高效 Telegram 机器人。它支持多种语言和 AI 模型，部署在 Cloudflare Workers 上，为用户提供快速、可扩展的服务体验。</p>
+</blockquote>
+<p>阅读：</p>
+<p>Reddit最佳实践：</p>
+<p>地址：<a href="https://juejin.cn/post/7396588085683355700" target="_blank" rel="noopener noreferrer">https://juejin.cn/post/7396588085683355700</a></p>
+<p>出海</p>
+<p><a href="https://mp.weixin.qq.com/s/4AIAr6Cl-wckQhGQNn8Zow" target="_blank" rel="noopener noreferrer">《早上被裁员，下午我注册了自己的公司》</a></p>
+<p>machines-of-loving-grace：</p>
+<p>地址：<a href="https://darioamodei.com/machines-of-loving-grace" target="_blank" rel="noopener noreferrer">https://darioamodei.com/machines-of-loving-grace</a></p>
+]]></content:encoded>
+      <enclosure url="https://api.paugram.com/bing" type="image/"/>
+    </item>
     <item>
       <title>10-06-冬日可爱</title>
       <link>https://weekly.nnxx.me/weekly/2024/10/10-06-%E5%86%AC%E6%97%A5%E5%8F%AF%E7%88%B1.html</link>
@@ -355,6 +492,12 @@ Vimium</p>
 <blockquote>
 <p>Google 桌面搜索最佳平替，强大的全文搜索引擎桌面工具 Anytxt Searcher</p>
 </blockquote>
+<p>search</p>
+<p>地址：<a href="https://search.luxirty.com/" target="_blank" rel="noopener noreferrer">https://search.luxirty.com/</a></p>
+<p>仓库：<a href="https://github.com/KoriIku/luxirty-search" target="_blank" rel="noopener noreferrer">https://github.com/KoriIku/luxirty-search</a></p>
+<blockquote>
+<p>一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快</p>
+</blockquote>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
     </item>
@@ -395,6 +538,13 @@ Vimium</p>
 </blockquote>
 <p>《快乐的 Linux 命令行》</p>
 <p><a href="https://billie66.github.io/TLCL/" target="_blank" rel="noopener noreferrer">https://billie66.github.io/TLCL/</a></p>
+<p>《Hello 算法》hello-algo</p>
+<p>地址：<a href="https://github.com/krahets/hello-algo" target="_blank" rel="noopener noreferrer">https://github.com/krahets/hello-algo</a></p>
+<p>在线地址：<a href="https://www.hello-algo.com/" title="https://www.hello-algo.com" target="_blank" rel="noopener noreferrer">www.hello-algo.com</a></p>
+<blockquote>
+<p>动画图解，可一键运行的数据结构与算法教程 动画图解，内容清晰易懂 学习曲线平缓 源代码可一键运行 多语言支持，Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart等</p>
+</blockquote>
+<figure><img src="https://camo.githubusercontent.com/16cf041508719b92f943c8dd718a7ac0edfe9db33385d18536e4cf58cb549184/68747470733a2f2f7777772e68656c6c6f2d616c676f2e636f6d2f696e6465782e6173736574732f68656c6c6f5f616c676f5f6865616465722e706e67" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>编程课程</p>
 <p><a href="https://www.theodinproject.com/" target="_blank" rel="noopener noreferrer">https://www.theodinproject.com/</a></p>
 <blockquote>
@@ -489,6 +639,7 @@ Vimium</p>
 <p>极客世界、极客秘境、IT人必备、开发工具等</p>
 </blockquote>
 ]]></content:encoded>
+      <enclosure url="https://camo.githubusercontent.com/16cf041508719b92f943c8dd718a7ac0edfe9db33385d18536e4cf58cb549184/68747470733a2f2f7777772e68656c6c6f2d616c676f2e636f6d2f696e6465782e6173736574732f68656c6c6f5f616c676f5f6865616465722e706e67" type="image/"/>
     </item>
     <item>
       <title>12-03-绝有一览</title>
