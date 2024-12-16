@@ -1,5 +1,5 @@
 ---
-title: 02-24-PC-SOFT
+title: 02-24-interest
 date: 2024-02-24
 category:
   - 周报
