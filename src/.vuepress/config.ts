@@ -44,6 +44,7 @@ export default defineUserConfig({
             gtag('js', new Date());
             gtag('config', 'G-D9GDKK1N1T');
         </script>    
+		<script src="https://analytics.ahrefs.com/analytics.js" data-key="33paAd59GWIcFdSX+IarGg" defer="true"></script>
   `,
     ],
   ],
