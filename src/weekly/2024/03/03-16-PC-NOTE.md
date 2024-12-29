@@ -46,6 +46,7 @@ bloghelper
 
 
 
+
 ## markdown笔记整理
 
 elog
@@ -63,6 +64,27 @@ Markdown 批量导出工具、开放式跨平台博客解决方案，随意组�
 大部分格式都支持。无痛导出.
 
 参考：[https://github.com/DeppWang/youdaonote-pull](https://github.com/DeppWang/youdaonote-pull)
+
+
+
+在线批量下载微信公众号文章:
+
+[https://github.com/jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter)
+
+[https://wechat-article-exporter.deno.dev/login](https://wechat-article-exporter.deno.dev/login)
+
+>在线批量下载微信公众号文章，支持阅读量、评论、内嵌音视频，无需搭建任何环境，可100%还原文章样式，支持私有部署
+
+![](https://github.com/jooooock/wechat-article-exporter/raw/master/assets/config-private-proxy.png)
+
+
+[https://github.com/microsoft/markitdown](https://github.com/microsoft/markitdown)
+
+>将各种文件格式（docx, xlsx, ppt，pdf, images, audio）等等转换为 markdown 格式，支持的格式非常丰富，假如是图片音频需要额外配置大模型，其他都是直接转换不需要任何依赖，源代码 python 写的
+>
+> Office 转 Markdown案例：[https://www.html.zone/markitdown/](https://www.html.zone/markitdown/)
+>案例2：[https://office2md.com/](https://office2md.com/)
+>案例3：[https://md.seimo.cn/](https://md.seimo.cn/)
 
 
 

@@ -39,7 +39,25 @@ htop
 ![](https://github.com/htop-dev/htop/raw/main/docs/images/screenshot.png?raw=true)
 
 
+##  下载
 
+>视频下载工具
+
+MediaGo
+
+[https://github.com/caorushizi/mediago](https://github.com/caorushizi/mediago)
+
+[https://downloader.caorushizi.cn/guides.html?form=github](https://downloader.caorushizi.cn/guides.html?form=github)
+
+>跨平台视频提取工具：支持流媒体下载、视频下载、m3u8 下载及 B站视频下载，提供 Windows 和 Mac 桌面客户端
+
+
+
+Cobalt - 全能极简视频下载神器
+
+[https://github.com/imputnet/cobalt](https://github.com/imputnet/cobalt)
+
+>开箱即用，无广告 支持的平台： - Bilibili - YouTube - Instagram - TikTok - Twitter/X - Reddit - Pinterest
 
 
 ## 逛一逛
@@ -64,6 +82,11 @@ https://orbstack.dev/
 > https://github.com/orbstack/orbstack
 
 
+PowerToys
+
+[https://github.com/microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+
+>Windows 系统的开源工具集 PowerToys ，支持窗口置顶、颜色选取、ORC 文本提取、批量文件重命名、裁剪锁定、窗口布局、图片批处理等等，Windows 系统实用程序以实现最大生产力。
 
 
 
