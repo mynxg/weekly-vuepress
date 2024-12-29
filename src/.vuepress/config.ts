@@ -45,6 +45,8 @@ export default defineUserConfig({
             gtag('config', 'G-D9GDKK1N1T');
         </script>    
 		<script src="https://analytics.ahrefs.com/analytics.js" data-key="33paAd59GWIcFdSX+IarGg" defer="true"></script>
+
+    <script defer src="https://umami.nnxx.me/script.js" data-website-id="86b3b60a-e4c9-4244-bb74-b2d8ef6fe65c"></script>
   `,
     ],
   ],
