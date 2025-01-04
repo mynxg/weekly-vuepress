@@ -6,8 +6,8 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 29 Dec 2024 13:21:52 GMT</pubDate>
-    <lastBuildDate>Sun, 29 Dec 2024 13:21:52 GMT</lastBuildDate>
+    <pubDate>Sat, 04 Jan 2025 07:26:47 GMT</pubDate>
+    <lastBuildDate>Sat, 04 Jan 2025 07:26:47 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
@@ -75,11 +75,11 @@
 <p>不错的点：定时抓取推文都github仓库</p>
 </blockquote>
 <p>Ghostty</p>
-<p><a href="https://github.com/ghostty-org/ghostty" target="_blank" rel="noopener noreferrer">https://github.com/ghostty-org/ghostty</a></p>
+<p>官网：<a href="https://ghostty.org/" target="_blank" rel="noopener noreferrer">https://ghostty.org/</a></p>
+<p>仓库：<a href="https://github.com/ghostty-org/ghostty" target="_blank" rel="noopener noreferrer">https://github.com/ghostty-org/ghostty</a></p>
 <blockquote>
 <p>Ghostty 是一款由 HashiCorp 创始人 Mitchell Hashimoto 撰写的新式终端机，支持分页、多窗口，使用原生 UI 设计以及 GPU 加速。</p>
 </blockquote>
-<p><a href="https://ghostty.org/" target="_blank" rel="noopener noreferrer">https://ghostty.org/</a></p>
 ]]></content:encoded>
       <enclosure url="https://raw.githubusercontent.com/mYu4N/mytracer/refs/heads/main/Linux%20%E6%95%B0%E6%8D%AE%E5%8C%85%E6%94%B6%E5%8F%91%E5%86%85%E6%A0%B8%E8%B7%AF%E5%BE%84%E5%9B%BE--0919.png" type="image/png"/>
     </item>
@@ -88,13 +88,22 @@
       <link>https://weekly.nnxx.me/weekly/2024/12/12-21-%E6%8A%BD%E8%B1%A1%E6%84%81%E7%BB%AA.html</link>
       <guid>https://weekly.nnxx.me/weekly/2024/12/12-21-%E6%8A%BD%E8%B1%A1%E6%84%81%E7%BB%AA.html</guid>
       <source url="https://weekly.nnxx.me/rss.xml">12-21-抽象愁绪</source>
-      <description>分享、实用、有趣、共勉 AI 随便看看 代码快速备份工具 https://github.com/TBXark/github-backup 每个小时自动备份到本地的gitea，然后gitea每天自动导出压缩包到网盘 https://github.com/AkashRajpurohit/git-sync 每个小时自动备份到本地的gitea，git-sync...</description>
+      <description>分享、实用、有趣、共勉 AI https://www.uneed.best/tool/zipic AI图标库 3分钟AI读书： https://3min.top/zh 3分钟AI读书，即使只有3分钟的热情，也能带来3分钟的回报。每天提高1%，一年后你的表现可以提高37倍。 随便看看 代码快速备份工具 https://github.com/TBXark/...</description>
       <category>周报</category>
       <pubDate>Sat, 21 Dec 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
 <h2>AI</h2>
+<p><a href="https://www.uneed.best/tool/zipic" target="_blank" rel="noopener noreferrer">https://www.uneed.best/tool/zipic</a></p>
+<blockquote>
+<p>AI图标库</p>
+</blockquote>
+<p>3分钟AI读书：</p>
+<p><a href="https://3min.top/zh" target="_blank" rel="noopener noreferrer">https://3min.top/zh</a></p>
+<blockquote>
+<p>3分钟AI读书，即使只有3分钟的热情，也能带来3分钟的回报。每天提高1%，一年后你的表现可以提高37倍。</p>
+</blockquote>
 <h2>随便看看</h2>
 <p>代码快速备份工具</p>
 <p><a href="https://github.com/TBXark/github-backup" target="_blank" rel="noopener noreferrer">https://github.com/TBXark/github-backup</a></p>
@@ -114,6 +123,12 @@
 <p><a href="https://idoubi.cv/" target="_blank" rel="noopener noreferrer">https://idoubi.cv/</a></p>
 <blockquote>
 <p>主页不错，内容也不错</p>
+</blockquote>
+<p>星选
+<a href="https://microsoftedge.microsoft.com/addons/detail/%E6%98%9F%E9%80%89/joklaiaibjkmapehhieeadohjojlfhkf" target="_blank" rel="noopener noreferrer">https://microsoftedge.microsoft.com/addons/detail/%E6%98%9F%E9%80%89/joklaiaibjkmapehhieeadohjojlfhkf</a></p>
+<blockquote>
+<p>星选辅助选号插件，告别粘贴复制，一键导出达人信息，解放你的双手</p>
+<p>支持：小红书</p>
 </blockquote>
 ]]></content:encoded>
     </item>
@@ -225,12 +240,33 @@
 <blockquote>
 <p>可以帮助你most个性化地在reddit上找到你的产品/服务的客户，并自动生成引流回复</p>
 </blockquote>
+<p>独立开发者出海工具收集站</p>
+<p><a href="https://github.com/yaolifeng0629/Awesome-independent-tools" target="_blank" rel="noopener noreferrer">https://github.com/yaolifeng0629/Awesome-independent-tools</a></p>
+<p><a href="https://www.indietools.work/" target="_blank" rel="noopener noreferrer">https://www.indietools.work/</a></p>
+<blockquote>
+<p>专注分享独立开发出海 精选、高质量工具。按 分类整理，再也不用大海捞针找工具了</p>
+</blockquote>
 <p>出海</p>
 <p><a href="https://mp.weixin.qq.com/s/4AIAr6Cl-wckQhGQNn8Zow" target="_blank" rel="noopener noreferrer">《早上被裁员，下午我注册了自己的公司》</a></p>
 <h2>随便看看</h2>
 <p>远程工作列表</p>
 <p><a href="https://github.com/greatghoul/remote-working" target="_blank" rel="noopener noreferrer">https://github.com/greatghoul/remote-working</a></p>
 <p>书籍：《你好呀，区块链》</p>
+<p>知识店铺 - 独立开发者的知识加油站:</p>
+<p><a href="https://indiehackertools.net/blog/knowledge-marketplace" target="_blank" rel="noopener noreferrer">https://indiehackertools.net/blog/knowledge-marketplace</a></p>
+<blockquote>
+<p>看着不错</p>
+</blockquote>
+<p>Awesome Cloudflare</p>
+<p><a href="https://cloudflare.chuhai.tools/" target="_blank" rel="noopener noreferrer">https://cloudflare.chuhai.tools/</a></p>
+<blockquote>
+<p>精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表.</p>
+<p>出海第一站，搞定工具栈, 一系列基于CloudFlare的开源工具 &amp; 技术栈, 旨在帮助独立开发者快速构建和发布SaaS产品.</p>
+</blockquote>
+<p><a href="https://debill.me/categories/Cloudflare%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/" target="_blank" rel="noopener noreferrer">https://debill.me</a></p>
+<blockquote>
+<p>Cloudflare从入门到精通</p>
+</blockquote>
 ]]></content:encoded>
     </item>
     <item>
@@ -947,13 +983,20 @@ Vimium</p>
 <blockquote>
 <p>V0是由Vercel推出的一款AI支持的生成式UI系统。该工具结合了前端开发的最佳实践和生成式AI的潜力，旨在帮助开发者低成本、快速构建产品的第一个版本。用户只需输入提示词(prompt)，V0就会根据这些提示词生成相应的UI元素。</p>
 </blockquote>
-<p>sider AI:</p>
+<p>Sider AI:</p>
 <p>官网：<a href="https://sider.ai/" target="_blank" rel="noopener noreferrer">https://sider.ai/</a></p>
 <blockquote>
-<p>支持浏览器插件、app、桌面端等</p>
+<p>支持浏览器插件、app、桌面端等，偏重于知识库</p>
 <p>字典：<a href="https://dictionary.sider.ai/" target="_blank" rel="noopener noreferrer">https://dictionary.sider.ai/</a></p>
 <p>夸一夸：<a href="https://roast-vs-boast.sider.ai/" target="_blank" rel="noopener noreferrer">https://roast-vs-boast.sider.ai/</a></p>
 <p>图片赞美或吐槽：<a href="https://roastgram.sider.ai/" target="_blank" rel="noopener noreferrer">https://roastgram.sider.ai/</a></p>
+</blockquote>
+<p>Monica</p>
+<p>官网：<a href="https://monica.im/zh_CN?index=1&amp;from=extension_nav" target="_blank" rel="noopener noreferrer">https://monica.im/zh_CN?index=1&amp;from=extension_nav</a></p>
+<blockquote>
+<p>支持浏览器插件，vscode插件、Idea插件等，偏重于音视频</p>
+<p>2024年终总结：<a href="https://my2024.monica.im/zh_CN" target="_blank" rel="noopener noreferrer">https://my2024.monica.im/zh_CN</a></p>
+<p>夸一夸：<a href="https://roast.monica.im/?locale=zh-CN" target="_blank" rel="noopener noreferrer">https://roast.monica.im/?locale=zh-CN</a></p>
 </blockquote>
 <h2>工具</h2>
 <p>酷鸭练习站</p>
@@ -1053,6 +1096,28 @@ Vimium</p>
       <enclosure url="https://img.nnxx.me/file/06fec41a7d2808196218b-a1ec39b9d1ee4f4098.png" type="image/png"/>
     </item>
     <item>
+      <title>09-22-风雨过后</title>
+      <link>https://weekly.nnxx.me/weekly/2024/09/09-22-%E9%A3%8E%E9%9B%A8%E8%BF%87%E5%90%8E.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2024/09/09-22-%E9%A3%8E%E9%9B%A8%E8%BF%87%E5%90%8E.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">09-22-风雨过后</source>
+      <description>分享、实用、有趣、共勉 随便看看 https://picaq.github.io/sarasa/ iterm2 + 更纱黑体, Sarasa Term SC, 中文网字计划 https://chinese-font.netlify.app/zh-cn/</description>
+      <category>周报</category>
+      <pubDate>Sun, 22 Sep 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<figure><img src="https://img.nnxx.me/file/06fec41a7d2808196218b-a1ec39b9d1ee4f4098.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>随便看看</h2>
+<p><a href="https://picaq.github.io/sarasa/" target="_blank" rel="noopener noreferrer">https://picaq.github.io/sarasa/</a></p>
+<blockquote>
+<p>iterm2 + 更纱黑体, Sarasa Term SC,</p>
+</blockquote>
+<p>中文网字计划</p>
+<p><a href="https://chinese-font.netlify.app/zh-cn/" target="_blank" rel="noopener noreferrer">https://chinese-font.netlify.app/zh-cn/</a></p>
+]]></content:encoded>
+      <enclosure url="https://img.nnxx.me/file/06fec41a7d2808196218b-a1ec39b9d1ee4f4098.png" type="image/png"/>
+    </item>
+    <item>
       <title>08-31-流式输出</title>
       <link>https://weekly.nnxx.me/weekly/2024/08/08-31-%E6%B5%81%E5%BC%8F%E8%BE%93%E5%87%BA.html</link>
       <guid>https://weekly.nnxx.me/weekly/2024/08/08-31-%E6%B5%81%E5%BC%8F%E8%BE%93%E5%87%BA.html</guid>
@@ -1125,7 +1190,7 @@ Vimium</p>
       <link>https://weekly.nnxx.me/weekly/2024/05/05-23-%E9%9A%8F%E5%BF%83%E8%B5%84%E6%96%99.html</link>
       <guid>https://weekly.nnxx.me/weekly/2024/05/05-23-%E9%9A%8F%E5%BF%83%E8%B5%84%E6%96%99.html</guid>
       <source url="https://weekly.nnxx.me/rss.xml">05-23-随心资料</source>
-      <description>分享、实用、有趣、共勉 英语学习 https://github.com/KyleBing/english-vocabulary 英文单词，英语单词，英语四六级、考研、SAT单词，txt 文件, json 文件，CET4 CET6，乱序，单词</description>
+      <description>分享、实用、有趣、共勉 英语学习 https://github.com/KyleBing/english-vocabulary 英文单词，英语单词，英语四六级、考研、SAT单词，txt 文件, json 文件，CET4 CET6，乱序，单词 https://github.com/kbtxwer/IELTS 免费雅思真题：从剑4到剑16,PDF版本的剑桥...</description>
       <category>周报</category>
       <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
@@ -1135,6 +1200,10 @@ Vimium</p>
 <p><a href="https://github.com/KyleBing/english-vocabulary" target="_blank" rel="noopener noreferrer">https://github.com/KyleBing/english-vocabulary</a></p>
 <blockquote>
 <p>英文单词，英语单词，英语四六级、考研、SAT单词，txt 文件, json 文件，CET4 CET6，乱序，单词</p>
+</blockquote>
+<p><a href="https://github.com/kbtxwer/IELTS" target="_blank" rel="noopener noreferrer">https://github.com/kbtxwer/IELTS</a></p>
+<blockquote>
+<p>免费雅思真题：从剑4到剑16,PDF版本的剑桥真题+听力音频</p>
 </blockquote>
 ]]></content:encoded>
     </item>
@@ -1346,7 +1415,7 @@ Vimium</p>
       <link>https://weekly.nnxx.me/weekly/2024/04/04-19-AI%E5%AD%A6%E4%B9%A0.html</link>
       <guid>https://weekly.nnxx.me/weekly/2024/04/04-19-AI%E5%AD%A6%E4%B9%A0.html</guid>
       <source url="https://weekly.nnxx.me/rss.xml">04-19-AI学习</source>
-      <description>分享、实用、有趣、共勉 提示词 提示词的使用： 👋 Welcome | Learning Prompt Prompt越狱手册 https://github.com/Acmesec/PromptJailbreakManual/ Prompt越狱手册 通往AGI之路 https://waytoagi.feishu.cn/wiki/QPe5w5g7Uisb...</description>
+      <description>分享、实用、有趣、共勉 提示词 提示词的使用： 👋 Welcome | Learning Prompt Prompt越狱手册 https://github.com/Acmesec/PromptJailbreakManual/ Prompt越狱手册 精选最好的 AI 提示词： https://www.waytoagi.com/zh/prompts 通往...</description>
       <category>周报</category>
       <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
@@ -1361,6 +1430,8 @@ Vimium</p>
 <blockquote>
 <p>Prompt越狱手册</p>
 </blockquote>
+<p>精选最好的 AI 提示词：</p>
+<p><a href="https://www.waytoagi.com/zh/prompts" target="_blank" rel="noopener noreferrer">https://www.waytoagi.com/zh/prompts</a></p>
 <p>通往AGI之路</p>
 <p><a href="https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e" target="_blank" rel="noopener noreferrer">https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e</a></p>
 <p>资料很详细</p>
@@ -1485,6 +1556,20 @@ Vimium</p>
 <p><a href="https://github.com/zhaoolee/ChromeAppHeroes" target="_blank" rel="noopener noreferrer">https://github.com/zhaoolee/ChromeAppHeroes</a></p>
 <blockquote>
 <p>插件聚焦地，很多实用插件，谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书。</p>
+</blockquote>
+<h2>weekly</h2>
+<blockquote>
+<p>周刊</p>
+</blockquote>
+<p><a href="https://www.ruanyifeng.com/blog/" target="_blank" rel="noopener noreferrer">阮一峰的网络日志</a></p>
+<p><a href="https://wiki.eryajf.net/learning-weekly/" target="_blank" rel="noopener noreferrer">学习周刊 | 二丫讲梵</a></p>
+<p><a href="https://weekly.tw93.fun/" target="_blank" rel="noopener noreferrer">潮流周刊</a></p>
+<p><a href="https://www.ezindie.com/" target="_blank" rel="noopener noreferrer">让小产品的变现更简单</a></p>
+<p><a href="https://www.ezindie.com/weekly" target="_blank" rel="noopener noreferrer">独立开发变现周刊汇总 - ezindie.com</a></p>
+<p>design engineer 的周刊：</p>
+<p><a href="https://dingyi.beehiiv.com/p/1" target="_blank" rel="noopener noreferrer">https://dingyi.beehiiv.com/p/1</a></p>
+<blockquote>
+<p>官网：<a href="https://news.dex.group/" target="_blank" rel="noopener noreferrer">https://news.dex.group/</a></p>
 </blockquote>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
@@ -1617,8 +1702,17 @@ screenstudio</p>
 </blockquote>
 <p>Cobalt - 全能极简视频下载神器</p>
 <p><a href="https://github.com/imputnet/cobalt" target="_blank" rel="noopener noreferrer">https://github.com/imputnet/cobalt</a></p>
+<p><a href="https://cobalt.tools/" target="_blank" rel="noopener noreferrer">https://cobalt.tools/</a></p>
 <blockquote>
 <p>开箱即用，无广告 支持的平台： - Bilibili - YouTube - Instagram - TikTok - Twitter/X - Reddit - Pinterest</p>
+</blockquote>
+<p><a href="https://github.com/deniscerri/ytdlnis" target="_blank" rel="noopener noreferrer">https://github.com/deniscerri/ytdlnis</a></p>
+<blockquote>
+<p>使用 yt-dlp 的安卓视频 / 音频下载器应用程序</p>
+</blockquote>
+<p>mac视频下载工具：downie</p>
+<blockquote>
+<p>有个付费应用包含了很多付费应用</p>
 </blockquote>
 <h2>逛一逛</h2>
 <p>MyIP</p>
@@ -1626,6 +1720,8 @@ screenstudio</p>
 <blockquote>
 <p>全能的 IP 工具箱</p>
 </blockquote>
+<p>检查电脑ip：</p>
+<p><a href="https://ipinfo.io/" target="_blank" rel="noopener noreferrer">https://ipinfo.io/</a></p>
 <p>OrbStack</p>
 <p>https://orbstack.dev/</p>
 <blockquote>
@@ -1696,8 +1792,20 @@ Redis服务</p>
 <blockquote>
 <p>提供免费的mogondb</p>
 </blockquote>
+<h2>SEO</h2>
+<p>SEO资源目录</p>
+<p><a href="https://www.91wink.com/index.php/special/seoresourcedirectory/" target="_blank" rel="noopener noreferrer">https://www.91wink.com/index.php/special/seoresourcedirectory/</a></p>
 <h2>随便看看</h2>
+<p><a href="https://chinese-font.netlify.app/zh-cn/post/free_static_site_deploy" target="_blank" rel="noopener noreferrer">https://chinese-font.netlify.app/zh-cn/post/free_static_site_deploy</a></p>
+<blockquote>
+<p>2024 免费静态 Web 资源部署大汇总</p>
+</blockquote>
 <p><a href="https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76" target="_blank" rel="noopener noreferrer">https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76</a></p>
+<p><a href="https://debill.me/cloudflare-series/cloudflare-web-analytics-9/" target="_blank" rel="noopener noreferrer">https://debill.me/cloudflare-series/cloudflare-web-analytics-9/</a></p>
+<blockquote>
+<p>Cloudflare 从入门到精通</p>
+<p>Web Analytics</p>
+</blockquote>
 <p><a href="https://www.yuque.com/hisnxg/fun" target="_blank" rel="noopener noreferrer">兴趣使然</a></p>
 <blockquote>
 <p>兴趣捣鼓</p>
@@ -1765,6 +1873,13 @@ Redis服务</p>
 <blockquote>
 <p>沉浸式翻译 - 网页翻译插件</p>
 </blockquote>
+<p><a href="https://www.ainewtab.app/zh-cn/" target="_blank" rel="noopener noreferrer">https://www.ainewtab.app/zh-cn/</a></p>
+<blockquote>
+<p>浏览器书签插件</p>
+</blockquote>
+<p>LazyCat Bookmark Cleaner
+<a href="https://chromewebstore.google.com/detail/lazycat-bookmark-cleaner/aeehapalakdoclgmfeondmephgiandef" target="_blank" rel="noopener noreferrer">https://chromewebstore.google.com/detail/lazycat-bookmark-cleaner/aeehapalakdoclgmfeondmephgiandef</a></p>
+<blockquote></blockquote>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
     </item>
@@ -1801,6 +1916,20 @@ Redis服务</p>
 <p>MTK7981、有 USB3.0、2.5G+千兆双网口、type-c 供电，支持openwrt，可以外接 5G 随身 Wi-Fi</p>
 <p>恩山暗云刷机教程：<a href="https://www.right.com.cn/forum/thread-8410353-1-1.html" target="_blank" rel="noopener noreferrer">https://www.right.com.cn/forum/thread-8410353-1-1.html</a></p>
 </blockquote>
+<p>AutoBuildImmortalWrt</p>
+<p><a href="https://github.com/wukongdaily/AutoBuildImmortalWrt" target="_blank" rel="noopener noreferrer">https://github.com/wukongdaily/AutoBuildImmortalWrt</a></p>
+<blockquote>
+<p>它是一个工作流。可快速构建 带docker且支持自定义固件大小的 immortalWrt</p>
+<p>盒子助手导航：<a href="https://tvhelper.cpolar.top/" target="_blank" rel="noopener noreferrer">https://tvhelper.cpolar.top/</a></p>
+<p>1、支持自定义固件大小 默认1GB</p>
+<p>2、支持预安装docker（可选）</p>
+<p>3、目前支持x86-64 和 rockchip 两个平台（后续会增加）</p>
+<p>4、新增支持MT3000/MT2500/MT6000（docker可选）</p>
+<p>5、新增全志平台R1S、香橙派Zero3等机型的工作流</p>
+<p>6、支持批量编译 使用逗号分隔机型</p>
+</blockquote>
+<p>电视视频播放软件：</p>
+<p><a href="https://github.com/lizongying/my-tv-0" target="_blank" rel="noopener noreferrer">https://github.com/lizongying/my-tv-0</a></p>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
     </item>
