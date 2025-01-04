@@ -87,3 +87,12 @@ immersivetranslate
 [https://immersivetranslate.com/](https://immersivetranslate.com/)
 >沉浸式翻译 - 网页翻译插件
 
+
+[https://www.ainewtab.app/zh-cn/](https://www.ainewtab.app/zh-cn/)
+>浏览器书签插件
+
+
+LazyCat Bookmark Cleaner
+[https://chromewebstore.google.com/detail/lazycat-bookmark-cleaner/aeehapalakdoclgmfeondmephgiandef](https://chromewebstore.google.com/detail/lazycat-bookmark-cleaner/aeehapalakdoclgmfeondmephgiandef)
+>
+

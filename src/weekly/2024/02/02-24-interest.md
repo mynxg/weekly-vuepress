@@ -81,19 +81,40 @@ heroku：
 mogondb  
 
 >提供免费的mogondb  
-  
 
-  
+
+## SEO
+
+
+SEO资源目录
+
+[https://www.91wink.com/index.php/special/seoresourcedirectory/](https://www.91wink.com/index.php/special/seoresourcedirectory/)
+
+
+
+
   
 ## 随便看看
 
 
+[https://chinese-font.netlify.app/zh-cn/post/free_static_site_deploy](https://chinese-font.netlify.app/zh-cn/post/free_static_site_deploy)
+>2024 免费静态 Web 资源部署大汇总
+
+
+
 [https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76)  
-  
+
+
+[https://debill.me/cloudflare-series/cloudflare-web-analytics-9/](https://debill.me/cloudflare-series/cloudflare-web-analytics-9/)
+>Cloudflare 从入门到精通 
+> 
+> Web Analytics
+
 
 [兴趣使然](https://www.yuque.com/hisnxg/fun)
 
 >兴趣捣鼓
+
 
 
 

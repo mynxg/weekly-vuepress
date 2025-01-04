@@ -86,3 +86,26 @@ Chrome插件英雄榜
 
 
 
+
+##  weekly
+>周刊
+
+
+[阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
+
+[学习周刊 | 二丫讲梵](https://wiki.eryajf.net/learning-weekly/)
+
+[潮流周刊](https://weekly.tw93.fun/)
+
+
+[让小产品的变现更简单](https://www.ezindie.com/)
+
+[独立开发变现周刊汇总 - ezindie.com](https://www.ezindie.com/weekly)
+
+
+design engineer 的周刊：
+
+[https://dingyi.beehiiv.com/p/1](https://dingyi.beehiiv.com/p/1)
+>官网：[https://news.dex.group/](https://news.dex.group/)
+>
+

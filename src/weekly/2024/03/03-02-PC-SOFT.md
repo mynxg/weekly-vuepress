@@ -57,7 +57,17 @@ Cobalt - 全能极简视频下载神器
 
 [https://github.com/imputnet/cobalt](https://github.com/imputnet/cobalt)
 
+[https://cobalt.tools/](https://cobalt.tools/)
+
 >开箱即用，无广告 支持的平台： - Bilibili - YouTube - Instagram - TikTok - Twitter/X - Reddit - Pinterest
+
+
+[https://github.com/deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis)
+>使用 yt-dlp 的安卓视频 / 音频下载器应用程序
+
+
+mac视频下载工具：downie
+>有个付费应用包含了很多付费应用
 
 
 ## 逛一逛
@@ -70,6 +80,11 @@ https://lazycat.cloud/appstore/%2Fshop%2Fdetail%2Fjason5ng32.myip
 
 > 全能的 IP 工具箱
 
+
+
+检查电脑ip：
+
+[https://ipinfo.io/](https://ipinfo.io/)
 
 
 
