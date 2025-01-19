@@ -13,6 +13,13 @@ tags:
 
 
 
+## windows
+
+[https://macoshome.com/windows](https://macoshome.com/windows)
+>windows相关软件下载
+
+
+
 
 ## 终端监控
 
@@ -70,6 +77,18 @@ mac视频下载工具：downie
 >有个付费应用包含了很多付费应用
 
 
+[https://github.com/KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+
+>一款简单易用且强大的桌面下载工具：Hitomi-Downloader。 可用于下载各大网站的视频、图像、音乐、文本等内容，支持 BiTorrent、Magnet 等多种协议。
+>
+>还支持 m3u8 和 mpd 格式视频，提供简洁直观操作界面，直接粘贴地址即可下载
+
+![](https://github.com/KurtBestor/Hitomi-Downloader/raw/master/imgs/how_to_download.gif)
+
+
+
+
+
 ## 逛一逛
 
 
@@ -103,5 +122,9 @@ PowerToys
 
 >Windows 系统的开源工具集 PowerToys ，支持窗口置顶、颜色选取、ORC 文本提取、批量文件重命名、裁剪锁定、窗口布局、图片批处理等等，Windows 系统实用程序以实现最大生产力。
 
+
+
+[https://sysin.org/archive/](https://sysin.org/archive/)
+>有window、mac相关软件应用、教程等
 
 

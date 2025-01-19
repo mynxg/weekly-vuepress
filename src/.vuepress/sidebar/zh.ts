@@ -18,5 +18,13 @@ export const zhSidebar = sidebar({
       link: "/weekly/2024/",
       children: "structure",
     },
+    {
+      text: "2025",
+      // icon: "laptop-code",
+      collapsible: true,
+      prefix: "2025/",
+      link: "/weekly/2025/",
+      children: "structure",
+    },
   ],
 });

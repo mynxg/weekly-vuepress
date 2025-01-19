@@ -116,5 +116,11 @@ SEO资源目录
 >兴趣捣鼓
 
 
+Cloudflare R2 存储
+
+[https://r2uploader.com/](https://r2uploader.com/)
+>一款用于将文件上传到 Cloudflare R2 存储的简单高效的应用程序。适用于桌面平台，即将登陆移动平台！
 
 
+[https://github.com/maoxiaoke/r2Uploader](https://github.com/maoxiaoke/r2Uploader)
+>适用于 Cloudflare R2 的用户友好型图形用户界面应用程序

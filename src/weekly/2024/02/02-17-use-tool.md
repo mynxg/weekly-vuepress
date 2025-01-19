@@ -32,6 +32,17 @@ tags:
 > AI生成PPT  ,收费
 
 
+[https://tools.pdf24.org/zh/all-tools](https://tools.pdf24.org/zh/all-tools)
+>PDF转换，PDF24提供很多精心裁剪的针对特定问题的工具
+
+
+pdf编辑：
+[https://smallpdf.com/cn/edit-pdf](https://smallpdf.com/cn/edit-pdf)
+>使用多合一在线 PDF 编辑器在文档中编辑文本，添加图像、图形、高亮标注和手绘注释。用最简单方式编辑文档，事半功倍，节省时间忙正事。
+
+
+[https://www.pdf2go.com/zh/edit-pdf](https://www.pdf2go.com/zh/edit-pdf)
+
 
 
 ## 浏览器插件
