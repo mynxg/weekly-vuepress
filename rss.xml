@@ -6,12 +6,182 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 04 Jan 2025 07:45:36 GMT</pubDate>
-    <lastBuildDate>Sat, 04 Jan 2025 07:45:36 GMT</lastBuildDate>
+    <pubDate>Sun, 19 Jan 2025 12:41:05 GMT</pubDate>
+    <lastBuildDate>Sun, 19 Jan 2025 12:41:05 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
     <category>工具</category>
+    <item>
+      <title>01-18-无拘无束</title>
+      <link>https://weekly.nnxx.me/weekly/2025/01-18-%E6%97%A0%E6%8B%98%E6%97%A0%E6%9D%9F.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/01-18-%E6%97%A0%E6%8B%98%E6%97%A0%E6%9D%9F.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">01-18-无拘无束</source>
+      <description>分享、实用、有趣、共勉 AI 大语言模型（LLM）学习路径和资料汇 https://github.com/ninehills/blog/issues/97 看了一下，资料还挺详细的，后续我也学一下LLM知识，了解其基础概览。 面向大模型开发者的入门手册 https://github.com/datawhalechina/llm-cookbook htt...</description>
+      <category>周报</category>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p>大语言模型（LLM）学习路径和资料汇</p>
+<p><a href="https://github.com/ninehills/blog/issues/97" target="_blank" rel="noopener noreferrer">https://github.com/ninehills/blog/issues/97</a></p>
+<blockquote>
+<p>看了一下，资料还挺详细的，后续我也学一下LLM知识，了解其基础概览。</p>
+</blockquote>
+<p>面向大模型开发者的入门手册</p>
+<p><a href="https://github.com/datawhalechina/llm-cookbook" target="_blank" rel="noopener noreferrer">https://github.com/datawhalechina/llm-cookbook</a></p>
+<p><a href="https://datawhalechina.github.io/llm-cookbook/#/" target="_blank" rel="noopener noreferrer">https://datawhalechina.github.io/llm-cookbook/#/</a></p>
+<p>大语言模型最好的中文综述
+<a href="https://github.com/RUCAIBox/LLMSurvey" target="_blank" rel="noopener noreferrer">https://github.com/RUCAIBox/LLMSurvey</a></p>
+<p><a href="https://github.com/HqWu-HITCS/Awesome-Chinese-LLM" target="_blank" rel="noopener noreferrer">https://github.com/HqWu-HITCS/Awesome-Chinese-LLM</a></p>
+<blockquote>
+<p>整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等</p>
+</blockquote>
+<figure><img src="https://github.com/HqWu-HITCS/Awesome-Chinese-LLM/raw/main/src/LLM.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://www.joinaiinsights.com/" target="_blank" rel="noopener noreferrer">https://www.joinaiinsights.com/</a></p>
+<blockquote>
+<p>免费获取最新的AI新闻、工具、趋势和教程。</p>
+</blockquote>
+<p><a href="https://github.com/langchain-ai/executive-ai-assistant" target="_blank" rel="noopener noreferrer">https://github.com/langchain-ai/executive-ai-assistant</a></p>
+<blockquote>
+<p>执行人工智能助手（EAIA）是一种人工智能代理，试图完成执行助理（EA）的工作</p>
+</blockquote>
+<h2>随便看看</h2>
+<p>AI 编程蓝皮书</p>
+<p><a href="https://superhuang.feishu.cn/wiki/CBBPwvgEuicVhFkx0s7cPmhpn4e" target="_blank" rel="noopener noreferrer">https://superhuang.feishu.cn/wiki/CBBPwvgEuicVhFkx0s7cPmhpn4e</a></p>
+<blockquote>
+<p>不会写代码的通过AI工具写出几个产品</p>
+</blockquote>
+<p>猫猫表情包生成器</p>
+<p><a href="https://orangesai.com/catemoji/" target="_blank" rel="noopener noreferrer">https://orangesai.com/catemoji/</a></p>
+<blockquote>
+<p>输入文字就可以生成猫狗表情包</p>
+</blockquote>
+<p>中文名生成器
+<a href="https://orangesai.com/chinesename/" target="_blank" rel="noopener noreferrer">https://orangesai.com/chinesename/</a></p>
+<blockquote>
+<p>小红书 TT 难民给自己命名</p>
+</blockquote>
+<p>全世界各地工作时间表：</p>
+<p><a href="https://whenthey.work/" target="_blank" rel="noopener noreferrer">https://whenthey.work/</a></p>
+<p><a href="https://oxide.computer/" target="_blank" rel="noopener noreferrer">https://oxide.computer/</a></p>
+<blockquote>
+<p>UI好漂亮，Code is cheap, ideas are valuable.</p>
+</blockquote>
+<p><a href="https://nokiadesignarchive.aalto.fi/" target="_blank" rel="noopener noreferrer">https://nokiadesignarchive.aalto.fi/</a></p>
+<blockquote>
+<p>诺基亚设计图，看到诺基亚就想到我的底部手机就是诺基亚触摸手机。</p>
+</blockquote>
+<h2>逛逛Github</h2>
+<p><a href="https://github.com/openai/whisper" target="_blank" rel="noopener noreferrer">https://github.com/openai/whisper</a></p>
+<blockquote>
+<p>OpenAI 开源了一款语音自动识别系统，支持多语言(包含中文)，同时提供了API接口。可以用来为视频自动生成字幕、实时将会议内容转录，语言学习等</p>
+</blockquote>
+<figure><img src="https://raw.githubusercontent.com/openai/whisper/main/approach.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/kyleduo/TinyPNG4Mac" target="_blank" rel="noopener noreferrer">https://github.com/kyleduo/TinyPNG4Mac</a></p>
+<blockquote>
+<p>macOS 上 TinyPNG 的原生客户端</p>
+</blockquote>
+<figure><img src="https://github.com/kyleduo/TinyPNG4Mac/raw/master/preview/banner.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+]]></content:encoded>
+      <enclosure url="https://github.com/HqWu-HITCS/Awesome-Chinese-LLM/raw/main/src/LLM.png" type="image/png"/>
+    </item>
+    <item>
+      <title>01-11-情愫未开</title>
+      <link>https://weekly.nnxx.me/weekly/2025/01-11-%E6%83%85%E6%84%AB%E6%9C%AA%E5%BC%80.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/01-11-%E6%83%85%E6%84%AB%E6%9C%AA%E5%BC%80.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">01-11-情愫未开</source>
+      <description>分享、实用、有趣、共勉 随便看看 https://www.ltmltm.cn/bk/chulian.html 看博主的经历，再听着音乐，伤感就来了，虽然我还没有这样的经历，但我是向往的，始终没有迈出这一步。 https://wiki.eryajf.net/pages/ee6eb5/ https://hin.cool/posts/lianai.html ...</description>
+      <category>周报</category>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>随便看看</h2>
+<p><a href="https://www.ltmltm.cn/bk/chulian.html" target="_blank" rel="noopener noreferrer">https://www.ltmltm.cn/bk/chulian.html</a></p>
+<blockquote>
+<p>看博主的经历，再听着音乐，伤感就来了，虽然我还没有这样的经历，但我是向往的，始终没有迈出这一步。</p>
+</blockquote>
+<p><a href="https://wiki.eryajf.net/pages/ee6eb5/" target="_blank" rel="noopener noreferrer">https://wiki.eryajf.net/pages/ee6eb5/</a></p>
+<p><a href="https://hin.cool/posts/lianai.html" target="_blank" rel="noopener noreferrer">https://hin.cool/posts/lianai.html</a></p>
+<blockquote>
+<p>一年前看过的博文，又被我翻出来了，~，爱看别人的情感经历</p>
+</blockquote>
+<p><a href="https://hin.cool/posts/shilian.html" target="_blank" rel="noopener noreferrer">失 恋 | 瓦解的生活记事</a></p>
+<p><a href="https://hin.cool/posts/anlian.html" target="_blank" rel="noopener noreferrer">暗 恋 | 瓦解的生活记事</a></p>
+<p><a href="https://hin.cool/posts/lianai.html" target="_blank" rel="noopener noreferrer">恋 爱 | 瓦解的生活记事</a></p>
+<p><a href="https://hin.cool/posts/lianaitan.html" target="_blank" rel="noopener noreferrer">恋 爱 谈 | 瓦解的生活记事</a></p>
+<p><a href="https://hin.cool/posts/bbgohome.html" target="_blank" rel="noopener noreferrer">第一次带女朋友回家 | 瓦解的生活记事</a></p>
+<p><a href="https://hin.cool/posts/theday.html" target="_blank" rel="noopener noreferrer">第一次去女朋友家吃饭 | 瓦解的生活记事</a></p>
+<p><a href="https://hin.cool/posts/bohetang.html" target="_blank" rel="noopener noreferrer">写在杰结婚以前 | 瓦解的生活记事</a></p>
+<p><a href="https://hin.cool/posts/neijuan.html" target="_blank" rel="noopener noreferrer">内卷、躺平，当代社会是如何Pua年轻人的？ | 瓦解的生活记事</a></p>
+<h2>逛逛Github</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>01-04-不寒而栗</title>
+      <link>https://weekly.nnxx.me/weekly/2025/01-04-%E4%B8%8D%E5%AF%92%E8%80%8C%E6%A0%97.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/01-04-%E4%B8%8D%E5%AF%92%E8%80%8C%E6%A0%97.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">01-04-不寒而栗</source>
+      <description>分享、实用、有趣、共勉 AI 本地人工智能的主权云操作系统 https://www.olares.xyz/ 组件库 https://21st.dev/ 貌似通过AI写的 https://tailspark.co/ 官网搭建的省钱方案，以模板的方式，直接套用即可，有多精美的组件和 UI，css样式使用tailwindcss 随便看看 https://ai...</description>
+      <category>周报</category>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p>本地人工智能的主权云操作系统</p>
+<p><a href="https://www.olares.xyz/" target="_blank" rel="noopener noreferrer">https://www.olares.xyz/</a></p>
+<p>组件库</p>
+<p><a href="https://21st.dev/" target="_blank" rel="noopener noreferrer">https://21st.dev/</a></p>
+<blockquote>
+<p>貌似通过AI写的</p>
+</blockquote>
+<p><a href="https://tailspark.co/" target="_blank" rel="noopener noreferrer">https://tailspark.co/</a></p>
+<blockquote>
+<p>官网搭建的省钱方案，以模板的方式，直接套用即可，有多精美的组件和 UI，css样式使用tailwindcss</p>
+</blockquote>
+<h2>随便看看</h2>
+<p><a href="https://aizex.net/usersDocument" target="_blank" rel="noopener noreferrer">https://aizex.net/usersDocument</a></p>
+<p><a href="https://aizex.cn/3pHNb3" target="_blank" rel="noopener noreferrer">https://aizex.cn/3pHNb3</a></p>
+<blockquote>
+<p>gpt4- 账号隔离共享使用方案</p>
+</blockquote>
+<p><a href="https://4311346.com/post/2024/1104-inviting.html" target="_blank" rel="noopener noreferrer">https://4311346.com/post/2024/1104-inviting.html</a></p>
+<blockquote>
+<p>有意思的文章，值得一读</p>
+</blockquote>
+<p>花开不停：</p>
+<p><a href="http://www.huakaibuting.com/archives/" target="_blank" rel="noopener noreferrer">http://www.huakaibuting.com/archives/</a></p>
+<blockquote>
+<p>生活的内容可以读读</p>
+</blockquote>
+<p>忘记了回忆</p>
+<p><a href="https://www.ltmltm.cn/bk/cross.html" target="_blank" rel="noopener noreferrer">https://www.ltmltm.cn/bk/cross.html</a></p>
+<blockquote></blockquote>
+<h2>逛逛Github</h2>
+<p>统一管理和挂载云存储设施</p>
+<p><a href="https://github.com/VirtualHotBar/NetMount" target="_blank" rel="noopener noreferrer">https://github.com/VirtualHotBar/NetMount</a></p>
+<p>官网：<a href="https://www.netmount.cn/" target="_blank" rel="noopener noreferrer">https://www.netmount.cn/</a></p>
+<p>文档：<a href="https://docs.netmount.cn/" target="_blank" rel="noopener noreferrer">https://docs.netmount.cn/</a></p>
+<blockquote>
+<p>像本地磁盘一样管理你的文件，云存储整合为本地文件系统，使用户能无缝访问云端资源，通过虚拟文件系统技术实现高效操作，简化数据管理，提供流畅的云-本地交互体验。</p>
+<p>类似alist</p>
+</blockquote>
+<figure><img src="https://p1.hotpe.top/i/p/1/66321983c6d5b.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/AlistGo/alist" target="_blank" rel="noopener noreferrer">https://github.com/AlistGo/alist</a></p>
+<p>文档：<a href="https://alist.nn.ci/zh/guide/" target="_blank" rel="noopener noreferrer">https://alist.nn.ci/zh/guide/</a></p>
+<blockquote>
+<p>一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs</p>
+</blockquote>
+<p><a href="https://github.com/yoodz/blog-vitepress" target="_blank" rel="noopener noreferrer">https://github.com/yoodz/blog-vitepress</a></p>
+<blockquote>
+<p>基于vitepress的博客系统，托管在netlify。主题还在持续开发中。内容包括技术，生活，思考，感悟等等。</p>
+</blockquote>
+]]></content:encoded>
+      <enclosure url="https://p1.hotpe.top/i/p/1/66321983c6d5b.png" type="image/png"/>
+    </item>
     <item>
       <title>12-28-清风明月</title>
       <link>https://weekly.nnxx.me/weekly/2024/12/12-28-%E6%B8%85%E9%A3%8E%E6%98%8E%E6%9C%88.html</link>
@@ -1182,6 +1352,10 @@ Vimium</p>
 <blockquote>
 <p>一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快</p>
 </blockquote>
+<p><a href="https://kagi.com/" target="_blank" rel="noopener noreferrer">https://kagi.com/</a></p>
+<blockquote>
+<p>无广告。无追踪。无妥协。只有深度、强大的搜索。</p>
+</blockquote>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
     </item>
@@ -1205,6 +1379,88 @@ Vimium</p>
 <blockquote>
 <p>免费雅思真题：从剑4到剑16,PDF版本的剑桥真题+听力音频</p>
 </blockquote>
+<p>免费学习一门新语言：LingoHu</p>
+<p><a href="https://www.lingohut.com/zh" target="_blank" rel="noopener noreferrer">https://www.lingohut.com/zh</a></p>
+<blockquote>
+<p>无需任何语言基础，直接用自己的母语来学习超过 45 种语言，如英语、阿拉伯语、法语、日语、韩语等。</p>
+<p>除此之外，还有 125 节免费课程，涵盖了日常实用的短句和词汇，让我们轻松入门学习新语言</p>
+</blockquote>
+<h2>计算机</h2>
+<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank" rel="noopener noreferrer">https://github.com/EbookFoundation/free-programming-books</a></p>
+<blockquote>
+<p>免费的编程书籍</p>
+</blockquote>
+<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank" rel="noopener noreferrer">https://github.com/jwasham/coding-interview-university</a></p>
+<blockquote>
+<p>成为软件工程师的完整计算机科学学习计划。</p>
+</blockquote>
+<p><a href="https://github.com/sindresorhus/awesome" target="_blank" rel="noopener noreferrer">https://github.com/sindresorhus/awesome</a></p>
+<blockquote>
+<p>关于各种有趣主题的精彩列表</p>
+</blockquote>
+<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank" rel="noopener noreferrer">https://github.com/kamranahmedse/developer-roadmap</a></p>
+<p><a href="https://roadmap.sh/" target="_blank" rel="noopener noreferrer">https://roadmap.sh/</a></p>
+<blockquote>
+<p>交互式路线图、指南和其他教育内容，以帮助开发人员在职业生涯中成长。</p>
+</blockquote>
+<p><a href="https://github.com/trekhleb/javascript-algorithms" target="_blank" rel="noopener noreferrer">https://github.com/trekhleb/javascript-algorithms</a></p>
+<blockquote>
+<p>用 JavaScript 实现的算法和数据结构，带有解释和进一步阅读的链接。</p>
+</blockquote>
+<p><a href="https://github.com/yangshun/tech-interview-handbook" target="_blank" rel="noopener noreferrer">https://github.com/yangshun/tech-interview-handbook</a></p>
+<p><a href="https://www.techinterviewhandbook.org/" target="_blank" rel="noopener noreferrer">https://www.techinterviewhandbook.org/</a></p>
+<blockquote>
+<p>为忙碌的软件工程师精心整理的编程面试准备材料</p>
+</blockquote>
+<p><a href="https://github.com/practical-tutorials/project-based-learning" target="_blank" rel="noopener noreferrer">https://github.com/practical-tutorials/project-based-learning</a></p>
+<blockquote>
+<p>基于项目的教程精选列表</p>
+</blockquote>
+<p><a href="https://github.com/Chalarangelo/30-seconds-of-code" target="_blank" rel="noopener noreferrer">https://github.com/Chalarangelo/30-seconds-of-code</a></p>
+<p><a href="https://www.30secondsofcode.org/" target="_blank" rel="noopener noreferrer">https://www.30secondsofcode.org/</a></p>
+<blockquote>
+<p>编写代码文章以提升你的开发技能</p>
+</blockquote>
+<p><a href="https://github.com/ripienaar/free-for-dev" target="_blank" rel="noopener noreferrer">https://github.com/ripienaar/free-for-dev</a></p>
+<p><a href="https://free-for.dev/" target="_blank" rel="noopener noreferrer">https://free-for.dev/</a></p>
+<blockquote>
+<p>对 devops 和 infradev 有吸引力的免费层级的 SaaS、PaaS 和 IaaS 产品列表。</p>
+</blockquote>
+<p><a href="https://github.com/bradtraversy/design-resources-for-developers" target="_blank" rel="noopener noreferrer">https://github.com/bradtraversy/design-resources-for-developers</a></p>
+<blockquote>
+<p>精心策划的设计和用户界面资源列表，包括库存照片、网页模板、CSS 框架、UI 库、工具等等。</p>
+</blockquote>
+<p><a href="https://github.com/florinpop17/app-ideas" target="_blank" rel="noopener noreferrer">https://github.com/florinpop17/app-ideas</a></p>
+<blockquote>
+<p>一系列可用于提升你的编码技能的应用创意集合。</p>
+</blockquote>
+<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank" rel="noopener noreferrer">https://github.com/codecrafters-io/build-your-own-x</a></p>
+<p><a href="https://codecrafters.io/" target="_blank" rel="noopener noreferrer">https://codecrafters.io/</a></p>
+<blockquote>
+<p>通过从头开始重新创建你最喜欢的技术来掌握编程。</p>
+</blockquote>
+<p><a href="https://github.com/gothinkster/realworld" target="_blank" rel="noopener noreferrer">https://github.com/gothinkster/realworld</a></p>
+<p>案例：<a href="https://realworld-docs.netlify.app/" target="_blank" rel="noopener noreferrer">https://realworld-docs.netlify.app/</a></p>
+<blockquote>
+<p>“所有演示应用程序之母”—— 由 React、Angular、Node、Django 等提供支持的典范全栈&nbsp;<a href="https://medium.com/" target="_blank" rel="noopener noreferrer">Medium.com</a>&nbsp;克隆版。</p>
+</blockquote>
+<p><a href="https://github.com/public-apis/public-apis" target="_blank" rel="noopener noreferrer">https://github.com/public-apis/public-apis</a></p>
+<blockquote>
+<p>免费 API 的集合列表</p>
+</blockquote>
+<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank" rel="noopener noreferrer">https://github.com/donnemartin/system-design-primer</a></p>
+<blockquote>
+<p>学习如何设计大规模系统。为系统设计面试做准备。包括 Anki 记忆卡。</p>
+</blockquote>
+<h2>其他资料</h2>
+<p>「蓝队资料、文档、工具超级大汇总」</p>
+<p><a href="https://pan.quark.cn/s/d8da3d7e0019" target="_blank" rel="noopener noreferrer">https://pan.quark.cn/s/d8da3d7e0019</a></p>
+<p>Kubernetes K8s CKS 认证实战班（安全专家）培训视频</p>
+<p><a href="https://pan.quark.cn/s/130c63ebeaa2" target="_blank" rel="noopener noreferrer">https://pan.quark.cn/s/130c63ebeaa2</a></p>
+<p>「电脑软件超级大合集汇总」</p>
+<p><a href="https://pan.quark.cn/s/2d8929ae46d8" target="_blank" rel="noopener noreferrer">https://pan.quark.cn/s/2d8929ae46d8</a></p>
+<p>AMD Ryzen VM上安装Mac：</p>
+<p><a href="https://pan.baidu.com/s/13QtE4cVkSqtswtd7SfjFkQ?pwd=szcn" target="_blank" rel="noopener noreferrer">https://pan.baidu.com/s/13QtE4cVkSqtswtd7SfjFkQ?pwd=szcn</a></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1645,7 +1901,7 @@ Vimium</p>
       <link>https://weekly.nnxx.me/weekly/2024/03/03-09-MAC-SOFT.html</link>
       <guid>https://weekly.nnxx.me/weekly/2024/03/03-09-MAC-SOFT.html</guid>
       <source url="https://weekly.nnxx.me/rss.xml">03-09-MAC-SOFT</source>
-      <description>分享、实用、有趣、共勉 ios 苹果快捷指令 https://sspai.com/page/playbook/zh-CN mac 录屏工具： screenstudio https://screen.studio/</description>
+      <description>分享、实用、有趣、共勉 ios 苹果快捷指令 https://sspai.com/page/playbook/zh-CN mac 录屏工具： screenstudio https://screen.studio/ Mac下载 macOS系统各版本发布日期时间及Mac系统下载集合 https://macoshome.com/macos/7947.html...</description>
       <category>周报</category>
       <pubDate>Sat, 09 Mar 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
@@ -1659,6 +1915,17 @@ Vimium</p>
 <p>录屏工具：
 screenstudio</p>
 <p><a href="https://screen.studio/" target="_blank" rel="noopener noreferrer">https://screen.studio/</a></p>
+<h3>Mac下载</h3>
+<p>macOS系统各版本发布日期时间及Mac系统下载集合</p>
+<p><a href="https://macoshome.com/macos/7947.html" target="_blank" rel="noopener noreferrer">https://macoshome.com/macos/7947.html</a></p>
+<blockquote>
+<p>包含mac装机、efi、黑苹果等</p>
+</blockquote>
+<p>macOS 下载汇总 (系统、应用和教程)</p>
+<p><a href="https://sysin.org/blog/macOS/" target="_blank" rel="noopener noreferrer">https://sysin.org/blog/macOS/</a></p>
+<blockquote>
+<p>macOS Sequoia 15, macOS Sonoma 14, macOS Ventura 13, macOS Monterey 12, macOS Big Sur 11</p>
+</blockquote>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
     </item>
@@ -1667,12 +1934,17 @@ screenstudio</p>
       <link>https://weekly.nnxx.me/weekly/2024/03/03-02-PC-SOFT.html</link>
       <guid>https://weekly.nnxx.me/weekly/2024/03/03-02-PC-SOFT.html</guid>
       <source url="https://weekly.nnxx.me/rss.xml">03-02-PC-SOFT</source>
-      <description>分享、实用、有趣、共勉 终端监控 强化版系统监控 https://abdenasser.github.io/neohtop/ https://github.com/abdenasser/neohtop 一个基于 Svelte、Rust 和 Tauri 构建的现代化跨平台系统监视器。 “Monitor Your System” 意为 “监控你的系统”。“...</description>
+      <description>分享、实用、有趣、共勉 windows https://macoshome.com/windows windows相关软件下载 终端监控 强化版系统监控 https://abdenasser.github.io/neohtop/ https://github.com/abdenasser/neohtop 一个基于 Svelte、Rust 和 Tauri...</description>
       <category>周报</category>
       <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>windows</h2>
+<p><a href="https://macoshome.com/windows" target="_blank" rel="noopener noreferrer">https://macoshome.com/windows</a></p>
+<blockquote>
+<p>windows相关软件下载</p>
 </blockquote>
 <h2>终端监控</h2>
 <p>强化版系统监控</p>
@@ -1714,6 +1986,12 @@ screenstudio</p>
 <blockquote>
 <p>有个付费应用包含了很多付费应用</p>
 </blockquote>
+<p><a href="https://github.com/KurtBestor/Hitomi-Downloader" target="_blank" rel="noopener noreferrer">https://github.com/KurtBestor/Hitomi-Downloader</a></p>
+<blockquote>
+<p>一款简单易用且强大的桌面下载工具：Hitomi-Downloader。 可用于下载各大网站的视频、图像、音乐、文本等内容，支持 BiTorrent、Magnet 等多种协议。</p>
+<p>还支持 m3u8 和 mpd 格式视频，提供简洁直观操作界面，直接粘贴地址即可下载</p>
+</blockquote>
+<figure><img src="https://github.com/KurtBestor/Hitomi-Downloader/raw/master/imgs/how_to_download.gif" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <h2>逛一逛</h2>
 <p>MyIP</p>
 <p>https://lazycat.cloud/appstore/%2Fshop%2Fdetail%2Fjason5ng32.myip</p>
@@ -1732,6 +2010,10 @@ screenstudio</p>
 <p><a href="https://github.com/microsoft/PowerToys" target="_blank" rel="noopener noreferrer">https://github.com/microsoft/PowerToys</a></p>
 <blockquote>
 <p>Windows 系统的开源工具集 PowerToys ，支持窗口置顶、颜色选取、ORC 文本提取、批量文件重命名、裁剪锁定、窗口布局、图片批处理等等，Windows 系统实用程序以实现最大生产力。</p>
+</blockquote>
+<p><a href="https://sysin.org/archive/" target="_blank" rel="noopener noreferrer">https://sysin.org/archive/</a></p>
+<blockquote>
+<p>有window、mac相关软件应用、教程等</p>
 </blockquote>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
@@ -1810,6 +2092,15 @@ Redis服务</p>
 <blockquote>
 <p>兴趣捣鼓</p>
 </blockquote>
+<p>Cloudflare R2 存储</p>
+<p><a href="https://r2uploader.com/" target="_blank" rel="noopener noreferrer">https://r2uploader.com/</a></p>
+<blockquote>
+<p>一款用于将文件上传到 Cloudflare R2 存储的简单高效的应用程序。适用于桌面平台，即将登陆移动平台！</p>
+</blockquote>
+<p><a href="https://github.com/maoxiaoke/r2Uploader" target="_blank" rel="noopener noreferrer">https://github.com/maoxiaoke/r2Uploader</a></p>
+<blockquote>
+<p>适用于 Cloudflare R2 的用户友好型图形用户界面应用程序</p>
+</blockquote>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
     </item>
@@ -1818,7 +2109,7 @@ Redis服务</p>
       <link>https://weekly.nnxx.me/weekly/2024/02/02-17-use-tool.html</link>
       <guid>https://weekly.nnxx.me/weekly/2024/02/02-17-use-tool.html</guid>
       <source url="https://weekly.nnxx.me/rss.xml">02-17-use-tool</source>
-      <description>分享、实用、有趣、共勉 ppt 歌者 PPT https://gezhe.com/ 秒转 PPT、永久免费 Beautiful.ai： https://www.beautiful.ai/ AI生成PPT ,收费 浏览器插件 Best Cookier https://github.com/Dolov/chrome-best-cookier 谷歌插件-Be...</description>
+      <description>分享、实用、有趣、共勉 ppt 歌者 PPT https://gezhe.com/ 秒转 PPT、永久免费 Beautiful.ai： https://www.beautiful.ai/ AI生成PPT ,收费 https://tools.pdf24.org/zh/all-tools PDF转换，PDF24提供很多精心裁剪的针对特定问题的工具 pdf编...</description>
       <category>周报</category>
       <pubDate>Sat, 17 Feb 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
@@ -1836,6 +2127,16 @@ Redis服务</p>
 <blockquote>
 <p>AI生成PPT  ,收费</p>
 </blockquote>
+<p><a href="https://tools.pdf24.org/zh/all-tools" target="_blank" rel="noopener noreferrer">https://tools.pdf24.org/zh/all-tools</a></p>
+<blockquote>
+<p>PDF转换，PDF24提供很多精心裁剪的针对特定问题的工具</p>
+</blockquote>
+<p>pdf编辑：
+<a href="https://smallpdf.com/cn/edit-pdf" target="_blank" rel="noopener noreferrer">https://smallpdf.com/cn/edit-pdf</a></p>
+<blockquote>
+<p>使用多合一在线 PDF 编辑器在文档中编辑文本，添加图像、图形、高亮标注和手绘注释。用最简单方式编辑文档，事半功倍，节省时间忙正事。</p>
+</blockquote>
+<p><a href="https://www.pdf2go.com/zh/edit-pdf" target="_blank" rel="noopener noreferrer">https://www.pdf2go.com/zh/edit-pdf</a></p>
 <h2>浏览器插件</h2>
 <p>Best Cookier</p>
 <p><a href="https://github.com/Dolov/chrome-best-cookier" target="_blank" rel="noopener noreferrer">https://github.com/Dolov/chrome-best-cookier</a></p>
