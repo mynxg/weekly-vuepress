@@ -86,6 +86,11 @@ mac视频下载工具：downie
 ![](https://github.com/KurtBestor/Hitomi-Downloader/raw/master/imgs/how_to_download.gif)
 
 
+微信视频号下载：
+
+[https://github.com/ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download)
+
+
 
 
 
