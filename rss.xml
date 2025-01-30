@@ -6,12 +6,86 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 19 Jan 2025 12:41:05 GMT</pubDate>
-    <lastBuildDate>Sun, 19 Jan 2025 12:41:05 GMT</lastBuildDate>
+    <pubDate>Thu, 30 Jan 2025 10:46:19 GMT</pubDate>
+    <lastBuildDate>Thu, 30 Jan 2025 10:46:19 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
     <category>工具</category>
+    <item>
+      <title>01-25-流量共振</title>
+      <link>https://weekly.nnxx.me/weekly/2025/01-25-%E6%B5%81%E9%87%8F%E5%85%B1%E6%8C%AF.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/01-25-%E6%B5%81%E9%87%8F%E5%85%B1%E6%8C%AF.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">01-25-流量共振</source>
+      <description>分享、实用、有趣、共勉 AI https://github.com/CherryHQ/cherry-studio Cherry Studio 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。 谷歌智能体： https://github.com/block/goose 地址：https://blo...</description>
+      <category>周报</category>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p><a href="https://github.com/CherryHQ/cherry-studio" target="_blank" rel="noopener noreferrer">https://github.com/CherryHQ/cherry-studio</a></p>
+<blockquote>
+<p>Cherry Studio 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。</p>
+</blockquote>
+<p>谷歌智能体：</p>
+<p><a href="https://github.com/block/goose" target="_blank" rel="noopener noreferrer">https://github.com/block/goose</a></p>
+<p>地址：<a href="https://block.github.io/goose/blog" target="_blank" rel="noopener noreferrer">https://block.github.io/goose/blog</a></p>
+<blockquote>
+<p>这是一个开源的、可扩展的人工智能代理，它不仅仅提供代码建议，还可以使用任何大语言模型进行安装、执行、编辑和测试。</p>
+</blockquote>
+<h2>随便看看</h2>
+<p>股票的空头案例</p>
+<p><a href="https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda" target="_blank" rel="noopener noreferrer">https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda</a></p>
+<blockquote>
+<p>超长解释说明</p>
+</blockquote>
+<p>DeepSeek R1 阅读清单</p>
+<p><a href="https://github.com/ninehills/blog/issues/121" target="_blank" rel="noopener noreferrer">https://github.com/ninehills/blog/issues/121</a></p>
+<blockquote>
+<p>详细资料收集：<a href="https://github.com/AlpacaACE/o1-imitator" target="_blank" rel="noopener noreferrer">https://github.com/AlpacaACE/o1-imitator</a></p>
+</blockquote>
+<p><a href="https://github.com/karminski/one-small-step" target="_blank" rel="noopener noreferrer">https://github.com/karminski/one-small-step</a></p>
+<blockquote>
+<p>这是一个简单的技术科普教程项目，主要聚焦于解释一些有趣的，前沿的技术概念和原理。
+看了一下，有人工智能相关、系统、硬件相关的内容</p>
+</blockquote>
+<h2>逛逛Github</h2>
+<p><a href="https://github.com/soxoj/maigret" target="_blank" rel="noopener noreferrer">https://github.com/soxoj/maigret</a></p>
+<blockquote>
+<p>通过用户名从数千个网站收集一个人的档案。</p>
+</blockquote>
+<p><a href="https://github.com/jackhawks/rectg" target="_blank" rel="noopener noreferrer">https://github.com/jackhawks/rectg</a></p>
+<p>地址：<a href="https://rectg.com/" target="_blank" rel="noopener noreferrer">https://rectg.com/</a></p>
+<blockquote>
+<p>本项目汇集5000+优质的Telegram群组、频道和机器人，为您提供高质量的学习和技术资源。内容涵盖热门群组、实用频道和各类机器人，助您快速找到感兴趣的资源，轻松提升技能。欢迎加入，一起探索丰富的Telegram资源库！</p>
+</blockquote>
+<p><a href="https://github.com/ingram-projects/animxyz" target="_blank" rel="noopener noreferrer">https://github.com/ingram-projects/animxyz</a></p>
+<blockquote>
+<p>地址：<a href="https://animxyz.com/" target="_blank" rel="noopener noreferrer">https://animxyz.com/</a></p>
+<p>第一个真正可组合的 CSS 动画库。AnimXYZ 专为 Vue、React、SCSS 和 CSS 而构建，将为您的网站注入活力。</p>
+</blockquote>
+<p>DualSense在线测试：</p>
+<p><a href="https://github.com/daidr/dualsense-tester" target="_blank" rel="noopener noreferrer">https://github.com/daidr/dualsense-tester</a></p>
+<blockquote>
+<p>在你的浏览器中测试你的 Dualsense！</p>
+<p>DualSense 在线测试，通过 WebHID 技术连接手柄</p>
+<p>测试地址：<a href="https://ds.daidr.me/" target="_blank" rel="noopener noreferrer">https://ds.daidr.me/</a></p>
+</blockquote>
+<p><a href="https://github.com/FuzzyIdeas/StartupFolder" target="_blank" rel="noopener noreferrer">https://github.com/FuzzyIdeas/StartupFolder</a></p>
+<blockquote>
+<p>通过将其放置在一个特殊文件夹中，可以在启动时运行任何内容。</p>
+</blockquote>
+<figure><img src="https://camo.githubusercontent.com/8ea45042ba76aa67eddc929d63f0d4ae16fafbdd8cac4187e55ba6eed18e2adb/68747470733a2f2f6c6f7774656368677579732e636f6d2f7374617469632f696d672f73746172747570666f6c6465722d75692e706e67" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>Applite</p>
+<p><a href="https://github.com/milanvarady/Applite" target="_blank" rel="noopener noreferrer">https://github.com/milanvarady/Applite</a></p>
+<blockquote>
+<p>适用于 Homebrew Casks 的用户友好型 macOS 图形用户界面应用程序。更好的管理应用程序。</p>
+</blockquote>
+<figure><img src="https://private-user-images.githubusercontent.com/61704770/356554496-d6861ab4-d9ce-40de-982b-8940fc1d1fbf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgyMzI2NDcsIm5iZiI6MTczODIzMjM0NywicGF0aCI6Ii82MTcwNDc3MC8zNTY1NTQ0OTYtZDY4NjFhYjQtZDljZS00MGRlLTk4MmItODk0MGZjMWQxZmJmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTMwVDEwMTkwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdjMGNjZDJkMmY0OTU2Mzk5OGIwZmU5ZGVkYmYzMjI3MDYxNDgxZjIwMjkwMjI0NDE2YWY0NDgzZmJlNjE3NTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.OYaWv9imFLPgjTeB_f5iJB9NgxWE4u8li3DDHqk_Rns" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+]]></content:encoded>
+      <enclosure url="https://camo.githubusercontent.com/8ea45042ba76aa67eddc929d63f0d4ae16fafbdd8cac4187e55ba6eed18e2adb/68747470733a2f2f6c6f7774656368677579732e636f6d2f7374617469632f696d672f73746172747570666f6c6465722d75692e706e67" type="image/"/>
+    </item>
     <item>
       <title>01-18-无拘无束</title>
       <link>https://weekly.nnxx.me/weekly/2025/01-18-%E6%97%A0%E6%8B%98%E6%97%A0%E6%9D%9F.html</link>
@@ -1746,6 +1820,12 @@ Vimium</p>
 <blockquote>
 <p>使用 腾讯X5 WebView 开发的电视直播App</p>
 </blockquote>
+<p>Escrcpy</p>
+<p><a href="https://github.com/viarotel-org/escrcpy" target="_blank" rel="noopener noreferrer">https://github.com/viarotel-org/escrcpy</a></p>
+<blockquote>
+<p>手机投屏电脑工具</p>
+<p>支持 USB 和 WiFi 两种连接方式，以及支持同时连接多部手机实现群控。 工具适用于 Windows、macOS 和 Linux 系统，可直接开箱即用。</p>
+</blockquote>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
     </item>
@@ -1992,6 +2072,8 @@ screenstudio</p>
 <p>还支持 m3u8 和 mpd 格式视频，提供简洁直观操作界面，直接粘贴地址即可下载</p>
 </blockquote>
 <figure><img src="https://github.com/KurtBestor/Hitomi-Downloader/raw/master/imgs/how_to_download.gif" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>微信视频号下载：</p>
+<p><a href="https://github.com/ltaoo/wx_channels_download" target="_blank" rel="noopener noreferrer">https://github.com/ltaoo/wx_channels_download</a></p>
 <h2>逛一逛</h2>
 <p>MyIP</p>
 <p>https://lazycat.cloud/appstore/%2Fshop%2Fdetail%2Fjason5ng32.myip</p>
@@ -4788,6 +4870,12 @@ Merlin是一款免费的终极 AI 工具：</p>
 <p>这是由两位台湾高中生王立宇和劉韋辰合伙创造的字体。字体命名也是取自创作者名字各一个字已沉鱼落雁的谐音而来。</p>
 </blockquote>
 <figure><figcaption></figcaption></figure>
+<p>霞鹜文楷</p>
+<p><a href="https://github.com/lxgw" target="_blank" rel="noopener noreferrer">https://github.com/lxgw</a></p>
+<p><a href="https://github.com/lxgw/LxgwWenKai" target="_blank" rel="noopener noreferrer">https://github.com/lxgw/LxgwWenKai</a></p>
+<blockquote>
+<p>一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。</p>
+</blockquote>
 ]]></content:encoded>
     </item>
     <item>
