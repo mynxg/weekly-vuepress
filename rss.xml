@@ -6,17 +6,86 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 30 Jan 2025 10:46:19 GMT</pubDate>
-    <lastBuildDate>Thu, 30 Jan 2025 10:46:19 GMT</lastBuildDate>
+    <pubDate>Mon, 03 Feb 2025 14:13:59 GMT</pubDate>
+    <lastBuildDate>Mon, 03 Feb 2025 14:13:59 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
     <category>工具</category>
     <item>
-      <title>01-25-流量共振</title>
-      <link>https://weekly.nnxx.me/weekly/2025/01-25-%E6%B5%81%E9%87%8F%E5%85%B1%E6%8C%AF.html</link>
-      <guid>https://weekly.nnxx.me/weekly/2025/01-25-%E6%B5%81%E9%87%8F%E5%85%B1%E6%8C%AF.html</guid>
-      <source url="https://weekly.nnxx.me/rss.xml">01-25-流量共振</source>
+      <title>02-01-流荆默望</title>
+      <link>https://weekly.nnxx.me/weekly/2025/02-01-%E6%B5%81%E8%8D%86%E9%BB%98%E6%9C%9B.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/02-01-%E6%B5%81%E8%8D%86%E9%BB%98%E6%9C%9B.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">02-01-流荆默望</source>
+      <description>分享、实用、有趣、共勉 AI relume https://www.relume.io/ AI设计，利用人工智能更快地设计和构建网站，将AI作为你的设计盟友，而不是替代品。只需几分钟即可轻松生成营销网站的站点地图和线框。 flowbase https://www.flowbase.co/ Flowbase 是世界上最大的 Webflow、Figma 和...</description>
+      <category>周报</category>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p>relume</p>
+<p><a href="https://www.relume.io/" target="_blank" rel="noopener noreferrer">https://www.relume.io/</a></p>
+<blockquote>
+<p>AI设计，利用人工智能更快地设计和构建网站，将AI作为你的设计盟友，而不是替代品。只需几分钟即可轻松生成营销网站的站点地图和线框。</p>
+</blockquote>
+<p>flowbase</p>
+<p><a href="https://www.flowbase.co/" target="_blank" rel="noopener noreferrer">https://www.flowbase.co/</a></p>
+<blockquote>
+<p>Flowbase 是世界上最大的 Webflow、Figma 和 Framer 组件和工具的优质库。使用 Flowbase 构建更好、更快的产品。</p>
+</blockquote>
+<p><a href="siliconflow.cn">siliconflow.cn</a></p>
+<blockquote>
+<p>硅基流动免费送（DeepseekR1）2000万Tokens</p>
+</blockquote>
+<p>Llama Tutor</p>
+<p><a href="https://github.com/Nutlope/llamatutor" target="_blank" rel="noopener noreferrer">https://github.com/Nutlope/llamatutor</a></p>
+<blockquote>
+<p>一款开源免费的 AI 个人导师工具：Llama Tutor。 集成 Llama 3.1 和 Serper 为工具提供强大的推理以及搜索能力，以达到高质量辅助教学。</p>
+<p>输入任何想要了解的知识，以及选择能接受的教育水平，覆盖了小学到大学，即可为你生成个性化导师，解答一切疑难杂题。</p>
+</blockquote>
+<p>AI阅读器</p>
+<p><a href="https://github.com/jina-ai/node-DeepResearch" target="_blank" rel="noopener noreferrer">https://github.com/jina-ai/node-DeepResearch</a></p>
+<blockquote>
+<p>循环中进行搜索+阅读+推理</p>
+</blockquote>
+<h2>随便看看</h2>
+<p><a href="https://www.zhangxinxu.com/life/2023/05/homestead-land-inherit/" target="_blank" rel="noopener noreferrer">宅基地继承那些蛋疼事 « 张鑫旭-鑫空间-鑫生活</a></p>
+<blockquote>
+<p>看着挺感同身受的，虽然没有亲生经历过，但是我这里遇到过类似的土地问题</p>
+</blockquote>
+<p><a href="https://www.zhangxinxu.com/life/2017/08/recruitment/" target="_blank" rel="noopener noreferrer">招聘实际上是个风险评估 « 张鑫旭-鑫空间-鑫生活</a></p>
+<blockquote>
+<p>应用到现在还实用</p>
+</blockquote>
+<h2>逛逛Github</h2>
+<p>Spotify 第三方客户端： Spotube</p>
+<p><a href="https://github.com/KRTirtho/spotube" target="_blank" rel="noopener noreferrer">https://github.com/KRTirtho/spotube</a></p>
+<blockquote>
+<p>开源没有广告，无需 Premium 订阅，音乐资源丰富，支持下载音乐到本地以及离线播放。</p>
+<p>兼容 Windows、macOS、Android 等系统安装使用，并提供流畅的原生体验。</p>
+</blockquote>
+<p>pptx2md  ppt 转 markdown</p>
+<p><a href="https://github.com/ssine/pptx2md" target="_blank" rel="noopener noreferrer">https://github.com/ssine/pptx2md</a></p>
+<blockquote>
+<p>一款 PPT 转 Markdown 文件的开源工具：PPTX2MD。 支持保留标题、列表、粗体、斜体、颜色、超链接、图片、表格以及合并单元格等 PPT 内容格式，支持将图像内容专为 Markdown。</p>
+</blockquote>
+<h2>blog</h2>
+<p><a href="https://zhangwenbao.com/" target="_blank" rel="noopener noreferrer">保哥笔记 - 张文保的博客</a></p>
+<blockquote>
+<p>SEO顾问、高级SEO工程师，发现还是我们那里的人</p>
+</blockquote>
+<p><a href="https://github.com/TencentCloud/tencentcloud-sdk-nodejs/issues/160" target="_blank" rel="noopener noreferrer">https://github.com/TencentCloud/tencentcloud-sdk-nodejs/issues/160</a></p>
+<blockquote>
+<p>顺路吃一下腾讯SDK西瓜，<sub>-</sub></p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>01-25-此去经年</title>
+      <link>https://weekly.nnxx.me/weekly/2025/01-25-%E6%AD%A4%E5%8E%BB%E7%BB%8F%E5%B9%B4.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/01-25-%E6%AD%A4%E5%8E%BB%E7%BB%8F%E5%B9%B4.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">01-25-此去经年</source>
       <description>分享、实用、有趣、共勉 AI https://github.com/CherryHQ/cherry-studio Cherry Studio 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。 谷歌智能体： https://github.com/block/goose 地址：https://blo...</description>
       <category>周报</category>
       <pubDate>Sat, 25 Jan 2025 00:00:00 GMT</pubDate>
@@ -83,6 +152,14 @@
 <p>适用于 Homebrew Casks 的用户友好型 macOS 图形用户界面应用程序。更好的管理应用程序。</p>
 </blockquote>
 <figure><img src="https://private-user-images.githubusercontent.com/61704770/356554496-d6861ab4-d9ce-40de-982b-8940fc1d1fbf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgyMzI2NDcsIm5iZiI6MTczODIzMjM0NywicGF0aCI6Ii82MTcwNDc3MC8zNTY1NTQ0OTYtZDY4NjFhYjQtZDljZS00MGRlLTk4MmItODk0MGZjMWQxZmJmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTMwVDEwMTkwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdjMGNjZDJkMmY0OTU2Mzk5OGIwZmU5ZGVkYmYzMjI3MDYxNDgxZjIwMjkwMjI0NDE2YWY0NDgzZmJlNjE3NTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.OYaWv9imFLPgjTeB_f5iJB9NgxWE4u8li3DDHqk_Rns" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>blog</h2>
+<p><a href="https://blog.xlenco.top/2022/image-hosting-service" target="_blank" rel="noopener noreferrer">图床方案汇总 | 希乐博客</a></p>
+<p><a href="https://zhangwenbao.com/" target="_blank" rel="noopener noreferrer">保哥笔记 - 张文保的博客</a></p>
+<blockquote>
+<p>SEO顾问、高级SEO工程师，发现还是我们那里的人</p>
+</blockquote>
+<p><a href="https://kmar.top/link/" target="_blank" rel="noopener noreferrer">友情链接 | 山岳库博</a></p>
+<p><a href="https://kmar.top/link/" target="_blank" rel="noopener noreferrer">友情链接2</a></p>
 ]]></content:encoded>
       <enclosure url="https://camo.githubusercontent.com/8ea45042ba76aa67eddc929d63f0d4ae16fafbdd8cac4187e55ba6eed18e2adb/68747470733a2f2f6c6f7774656368677579732e636f6d2f7374617469632f696d672f73746172747570666f6c6465722d75692e706e67" type="image/"/>
     </item>
@@ -166,13 +243,13 @@
       <link>https://weekly.nnxx.me/weekly/2025/01-11-%E6%83%85%E6%84%AB%E6%9C%AA%E5%BC%80.html</link>
       <guid>https://weekly.nnxx.me/weekly/2025/01-11-%E6%83%85%E6%84%AB%E6%9C%AA%E5%BC%80.html</guid>
       <source url="https://weekly.nnxx.me/rss.xml">01-11-情愫未开</source>
-      <description>分享、实用、有趣、共勉 随便看看 https://www.ltmltm.cn/bk/chulian.html 看博主的经历，再听着音乐，伤感就来了，虽然我还没有这样的经历，但我是向往的，始终没有迈出这一步。 https://wiki.eryajf.net/pages/ee6eb5/ https://hin.cool/posts/lianai.html ...</description>
+      <description>分享、实用、有趣、共勉 看看情感 https://www.ltmltm.cn/bk/chulian.html 看博主的经历，再听着音乐，伤感就来了，虽然我还没有这样的经历，但我是向往的，始终没有迈出这一步。 https://wiki.eryajf.net/pages/ee6eb5/ https://hin.cool/posts/lianai.html ...</description>
       <category>周报</category>
       <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
-<h2>随便看看</h2>
+<h2>看看情感</h2>
 <p><a href="https://www.ltmltm.cn/bk/chulian.html" target="_blank" rel="noopener noreferrer">https://www.ltmltm.cn/bk/chulian.html</a></p>
 <blockquote>
 <p>看博主的经历，再听着音乐，伤感就来了，虽然我还没有这样的经历，但我是向往的，始终没有迈出这一步。</p>
@@ -190,7 +267,16 @@
 <p><a href="https://hin.cool/posts/theday.html" target="_blank" rel="noopener noreferrer">第一次去女朋友家吃饭 | 瓦解的生活记事</a></p>
 <p><a href="https://hin.cool/posts/bohetang.html" target="_blank" rel="noopener noreferrer">写在杰结婚以前 | 瓦解的生活记事</a></p>
 <p><a href="https://hin.cool/posts/neijuan.html" target="_blank" rel="noopener noreferrer">内卷、躺平，当代社会是如何Pua年轻人的？ | 瓦解的生活记事</a></p>
-<h2>逛逛Github</h2>
+<p><a href="https://echeverra.cn/about" target="_blank" rel="noopener noreferrer">关于 - echeverra</a></p>
+<blockquote>
+<p>工作、情感经历，朴素</p>
+</blockquote>
+<h2>随便看看</h2>
+<p><a href="https://www.zhangxinxu.com/life/2023/08/story-star-engineer/" target="_blank" rel="noopener noreferrer">缘和记 « 张鑫旭-鑫空间-鑫生活</a></p>
+<blockquote>
+<p>长篇幅</p>
+</blockquote>
+<p><a href="https://www.zhangxinxu.com/life/2018/08/quick-slow-2/" target="_blank" rel="noopener noreferrer">为何日久必生情？ « 张鑫旭-鑫空间-鑫生活</a></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1453,11 +1539,19 @@ Vimium</p>
 <blockquote>
 <p>免费雅思真题：从剑4到剑16,PDF版本的剑桥真题+听力音频</p>
 </blockquote>
+<p><a href="https://dailydictation.com/" target="_blank" rel="noopener noreferrer">https://dailydictation.com/</a></p>
+<blockquote>
+<p>练习英语听力的素材</p>
+</blockquote>
 <p>免费学习一门新语言：LingoHu</p>
 <p><a href="https://www.lingohut.com/zh" target="_blank" rel="noopener noreferrer">https://www.lingohut.com/zh</a></p>
 <blockquote>
 <p>无需任何语言基础，直接用自己的母语来学习超过 45 种语言，如英语、阿拉伯语、法语、日语、韩语等。</p>
 <p>除此之外，还有 125 节免费课程，涵盖了日常实用的短句和词汇，让我们轻松入门学习新语言</p>
+</blockquote>
+<p><a href="https://hemingwayapp.com/" target="_blank" rel="noopener noreferrer">https://hemingwayapp.com/</a></p>
+<blockquote>
+<p>英语写作纠正，适合对英语写作要求比较高的人使用。主要正对你写的文风、句式、用词等提出意见。</p>
 </blockquote>
 <h2>计算机</h2>
 <p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank" rel="noopener noreferrer">https://github.com/EbookFoundation/free-programming-books</a></p>
@@ -2219,6 +2313,16 @@ Redis服务</p>
 <p>使用多合一在线 PDF 编辑器在文档中编辑文本，添加图像、图形、高亮标注和手绘注释。用最简单方式编辑文档，事半功倍，节省时间忙正事。</p>
 </blockquote>
 <p><a href="https://www.pdf2go.com/zh/edit-pdf" target="_blank" rel="noopener noreferrer">https://www.pdf2go.com/zh/edit-pdf</a></p>
+<p>calibre</p>
+<p><a href="https://calibre-ebook.com/download" target="_blank" rel="noopener noreferrer">https://calibre-ebook.com/download</a></p>
+<blockquote>
+<p>超过10M的epub转pdf</p>
+</blockquote>
+<p>convertio</p>
+<p><a href="https://convertio.co/zh/" target="_blank" rel="noopener noreferrer">https://convertio.co/zh/</a></p>
+<blockquote>
+<p>支持电子书转换、音频转换、图像转换、字体转换等</p>
+</blockquote>
 <h2>浏览器插件</h2>
 <p>Best Cookier</p>
 <p><a href="https://github.com/Dolov/chrome-best-cookier" target="_blank" rel="noopener noreferrer">https://github.com/Dolov/chrome-best-cookier</a></p>
@@ -5511,6 +5615,11 @@ ChatGPT神器Code Interpreter，</p>
 <p>GeQ1an的EFI：<a href="https://github.com/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI" target="_blank" rel="noopener noreferrer">https://github.com/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI</a></p>
 </li>
 </ul>
+<p>盘库吧</p>
+<p><a href="https://panku8.com/" target="_blank" rel="noopener noreferrer">https://panku8.com/</a></p>
+<blockquote>
+<p>支持搜索阿里云盘资源</p>
+</blockquote>
 <h2>项目推荐</h2>
 <blockquote>
 <p>开发设计资源</p>
