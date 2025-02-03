@@ -44,6 +44,17 @@ pdf编辑：
 [https://www.pdf2go.com/zh/edit-pdf](https://www.pdf2go.com/zh/edit-pdf)
 
 
+calibre
+
+[https://calibre-ebook.com/download](https://calibre-ebook.com/download)
+>超过10M的epub转pdf
+
+
+convertio
+
+[https://convertio.co/zh/](https://convertio.co/zh/)
+>支持电子书转换、音频转换、图像转换、字体转换等
+
 
 ## 浏览器插件
 
