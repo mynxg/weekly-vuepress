@@ -6,12 +6,118 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 03 Feb 2025 14:13:59 GMT</pubDate>
-    <lastBuildDate>Mon, 03 Feb 2025 14:13:59 GMT</lastBuildDate>
+    <pubDate>Tue, 11 Feb 2025 04:24:31 GMT</pubDate>
+    <lastBuildDate>Tue, 11 Feb 2025 04:24:31 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
     <category>工具</category>
+    <item>
+      <title>02-08-浅墨泼夏</title>
+      <link>https://weekly.nnxx.me/weekly/2025/02-08-%E6%B5%85%E5%A2%A8%E6%B3%BC%E5%A4%8F.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/02-08-%E6%B5%85%E5%A2%A8%E6%B3%BC%E5%A4%8F.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">02-08-浅墨泼夏</source>
+      <description>分享、实用、有趣、共勉 AI https://ithy.com/ 获得任何问题的最全面答案。Ithy 结合了多个 AI 来生成广泛的文章长度响应。 生成的效果很炫酷 大语言模型第三方客户端： chatbox 开源、轻量的多模型AI桌面端工具 cherry-studio UI相对chatbox好看很多，也支持流行硅基相应的API，目前在使用 chatwi...</description>
+      <category>周报</category>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p><a href="https://ithy.com/" target="_blank" rel="noopener noreferrer">https://ithy.com/</a></p>
+<blockquote>
+<p><strong>获得任何问题的最全面答案</strong>。Ithy 结合了多个 AI 来生成广泛的文章长度响应。</p>
+<p>生成的效果很炫酷</p>
+</blockquote>
+<p>大语言模型第三方客户端：</p>
+<p><a href="https://github.com/Bin-Huang/chatbox" target="_blank" rel="noopener noreferrer">chatbox</a></p>
+<blockquote>
+<p>开源、轻量的多模型AI桌面端工具</p>
+</blockquote>
+<figure><img src="https://github.com/Bin-Huang/chatbox/raw/main/doc/statics/snapshot_light.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/CherryHQ/cherry-studio" target="_blank" rel="noopener noreferrer">cherry-studio</a></p>
+<blockquote>
+<p>UI相对chatbox好看很多，也支持流行硅基相应的API，目前在使用</p>
+</blockquote>
+<figure><img src="https://private-user-images.githubusercontent.com/8253512/372130079-28585d83-4bf0-4714-b561-8c7bf57cc600.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg5OTExNDAsIm5iZiI6MTczODk5MDg0MCwicGF0aCI6Ii84MjUzNTEyLzM3MjEzMDA3OS0yODU4NWQ4My00YmYwLTQ3MTQtYjU2MS04YzdiZjU3Y2M2MDAuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDIwOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTAyMDhUMDUwMDQwWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NmU2MGZiYWM3YzcyMTRiMjlmMDRlZjQ4OGRmZjBhNTJkMTVkOGRkMGU3YTBlZTRmMmUxZjU3MDQwYjA5YWVjZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.E1JJ5ShrPlRj7PBssVdKMB65OPqFsitiEMYQqR0uaA8" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://chatwise.app/" target="_blank" rel="noopener noreferrer">chatwise</a></p>
+<blockquote>
+<p>对于需要不大的，最基本的也够用，支持买断，也就是付费的支持联网搜索、推理等功能</p>
+</blockquote>
+<figure><img src="https://chatwise.app/_app/immutable/assets/preview-light.DdvM0cpC.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://sider.ai/" target="_blank" rel="noopener noreferrer">sider</a></p>
+<blockquote>
+<p>sider客户端也支持硅基、deepseek等API</p>
+</blockquote>
+<p>AI知识库</p>
+<blockquote>
+<p>支持PDF、Word、Markdown、TXT、PPT、HTML、Excel等</p>
+</blockquote>
+<p><a href="https://www.zemith.com/" target="_blank" rel="noopener noreferrer">zemith</a></p>
+<blockquote>
+<p>自动化的校对过程减少了人工干预</p>
+</blockquote>
+<p><a href="https://knowbase.ai/" target="_blank" rel="noopener noreferrer">knowbase</a></p>
+<blockquote>
+<p>只支持上传文件作为知识库管理</p>
+</blockquote>
+<p><a href="https://tryfastgpt.ai/" target="_blank" rel="noopener noreferrer">tryfastgpt</a></p>
+<blockquote>
+<p>可以通过多种方式（如手动输入、文件导入等）将数据导入知识库，并进行浏览、搜索、编辑和删除操作</p>
+</blockquote>
+<p><a href="https://lobechat.com/" target="_blank" rel="noopener noreferrer">lobechat</a></p>
+<blockquote>
+<p>提供精准的检索和召回功能，能够定位到知识库中的精确引用位置</p>
+<p>开源地址：<a href="https://github.com/lobehub/lobe-chat" target="_blank" rel="noopener noreferrer">https://github.com/lobehub/lobe-chat</a></p>
+</blockquote>
+<p><a href="https://dify.ai/" target="_blank" rel="noopener noreferrer">dify</a></p>
+<blockquote>
+<p>支持导入notion、第三方url，提供可视化的 RAG 管线，便于管理个人或团队知识库</p>
+<p>开源地址：<a href="https://github.com/langgenius/dify" target="_blank" rel="noopener noreferrer">https://github.com/langgenius/dify</a></p>
+</blockquote>
+<p><a href="https://notebooklm.google/" target="_blank" rel="noopener noreferrer">notebooklm</a></p>
+<blockquote>
+<p>谷歌知识库notebooklm</p>
+</blockquote>
+<p><a href="https://sider.ai/wisebase" target="_blank" rel="noopener noreferrer">wisebase</a></p>
+<blockquote>
+<p>sider知识库</p>
+</blockquote>
+<h2>随便看看</h2>
+<p>roamresearch  vs obsidian</p>
+<blockquote>
+<p>roamresearch：<a href="https://roamresearch.com/" target="_blank" rel="noopener noreferrer">https://roamresearch.com/</a></p>
+<p>obsidian：<a href="https://obsidian.md/download" target="_blank" rel="noopener noreferrer">https://obsidian.md</a></p>
+<p>Roam Research和Obsidian是两款受欢迎的笔记和知识管理工具。Roam是基于云的应用程序，而Obsidian是基于Electron的桌面应用，数据存储在本地。Roam没有数据使用限制，而Obsidian在远程同步时最大限制为10GB。尽管两者都有许多相似之处，Obsidian的使用是免费的，而Roam相对较贵。Roam支持更多的文件扩展名。</p>
+</blockquote>
+<h2>逛逛Github</h2>
+<p><a href="https://github.com/firefly-iii/firefly-iii" target="_blank" rel="noopener noreferrer">https://github.com/firefly-iii/firefly-iii</a></p>
+<blockquote>
+<p>萤火虫 III：个人理财经理，可以个人自行部署，如使用docker</p>
+<p>预算：<a href="https://app.ynab.com/users/sign_in" target="_blank" rel="noopener noreferrer">https://app.ynab.com/users/sign_in</a></p>
+<p>个人简单记账，使用小星记账，个人感觉完全够用了，如高级点就使用ynab，适合有预算规划的，不过这个是收费的，看个人喜好了。</p>
+</blockquote>
+<p><a href="https://github.com/MarkEdit-app/MarkEdit" target="_blank" rel="noopener noreferrer">https://github.com/MarkEdit-app/MarkEdit</a></p>
+<blockquote>
+<p>这个居然不支持window，只支持Mac，</p>
+<p>非常完善的推荐  Typora，支持全平台</p>
+</blockquote>
+<h2>blog</h2>
+<p><a href="https://del.wang/projects" target="_blank" rel="noopener noreferrer">https://del.wang/projects</a></p>
+<blockquote>
+<p>页面做的不错</p>
+</blockquote>
+<p><a href="https://caro.io/" target="_blank" rel="noopener noreferrer">https://caro.io/</a></p>
+<blockquote>
+<p>设计感满满，好看</p>
+</blockquote>
+<p><a href="https://www.iamlm.com/" target="_blank" rel="noopener noreferrer">https://www.iamlm.com/</a></p>
+<blockquote>
+<p>首页动态效果不错</p>
+</blockquote>
+]]></content:encoded>
+      <enclosure url="https://github.com/Bin-Huang/chatbox/raw/main/doc/statics/snapshot_light.png" type="image/png"/>
+    </item>
     <item>
       <title>02-01-流荆默望</title>
       <link>https://weekly.nnxx.me/weekly/2025/02-01-%E6%B5%81%E8%8D%86%E9%BB%98%E6%9C%9B.html</link>
@@ -2168,6 +2274,15 @@ screenstudio</p>
 <figure><img src="https://github.com/KurtBestor/Hitomi-Downloader/raw/master/imgs/how_to_download.gif" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>微信视频号下载：</p>
 <p><a href="https://github.com/ltaoo/wx_channels_download" target="_blank" rel="noopener noreferrer">https://github.com/ltaoo/wx_channels_download</a></p>
+<h2>文件传输</h2>
+<p><a href="https://musetransfer.com/" target="_blank" rel="noopener noreferrer">https://musetransfer.com/</a></p>
+<blockquote>
+<p>空投，网络传文件，不需要登录</p>
+</blockquote>
+<p>localsend</p>
+<blockquote>
+<p>局域网文件传输</p>
+</blockquote>
 <h2>逛一逛</h2>
 <p>MyIP</p>
 <p>https://lazycat.cloud/appstore/%2Fshop%2Fdetail%2Fjason5ng32.myip</p>
@@ -2285,7 +2400,7 @@ Redis服务</p>
       <link>https://weekly.nnxx.me/weekly/2024/02/02-17-use-tool.html</link>
       <guid>https://weekly.nnxx.me/weekly/2024/02/02-17-use-tool.html</guid>
       <source url="https://weekly.nnxx.me/rss.xml">02-17-use-tool</source>
-      <description>分享、实用、有趣、共勉 ppt 歌者 PPT https://gezhe.com/ 秒转 PPT、永久免费 Beautiful.ai： https://www.beautiful.ai/ AI生成PPT ,收费 https://tools.pdf24.org/zh/all-tools PDF转换，PDF24提供很多精心裁剪的针对特定问题的工具 pdf编...</description>
+      <description>分享、实用、有趣、共勉 ppt 歌者 PPT https://gezhe.com/ 秒转 PPT、永久免费 Beautiful.ai： https://www.beautiful.ai/ AI生成PPT ,收费 生成ppt https://www.magicslides.app/ 几秒钟内的专业 AI 演示幻灯片，上传文件，AI处理生成PPT http...</description>
       <category>周报</category>
       <pubDate>Sat, 17 Feb 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
@@ -2302,6 +2417,11 @@ Redis服务</p>
 <p><a href="https://www.beautiful.ai/" target="_blank" rel="noopener noreferrer">https://www.beautiful.ai/</a></p>
 <blockquote>
 <p>AI生成PPT  ,收费</p>
+</blockquote>
+<p>生成ppt
+<a href="https://www.magicslides.app/" target="_blank" rel="noopener noreferrer">https://www.magicslides.app/</a></p>
+<blockquote>
+<p>几秒钟内的专业 AI 演示幻灯片，上传文件，AI处理生成PPT</p>
 </blockquote>
 <p><a href="https://tools.pdf24.org/zh/all-tools" target="_blank" rel="noopener noreferrer">https://tools.pdf24.org/zh/all-tools</a></p>
 <blockquote>
