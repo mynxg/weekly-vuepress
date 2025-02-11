@@ -31,6 +31,10 @@ tags:
 [https://www.beautiful.ai/](https://www.beautiful.ai/)
 > AI生成PPT  ,收费
 
+生成ppt
+[https://www.magicslides.app/](https://www.magicslides.app/)
+>几秒钟内的专业 AI 演示幻灯片，上传文件，AI处理生成PPT
+
 
 [https://tools.pdf24.org/zh/all-tools](https://tools.pdf24.org/zh/all-tools)
 >PDF转换，PDF24提供很多精心裁剪的针对特定问题的工具
