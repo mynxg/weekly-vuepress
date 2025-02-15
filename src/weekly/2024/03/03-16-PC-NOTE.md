@@ -11,6 +11,13 @@ tags:
 
 > 分享、实用、有趣、共勉
 
+## 笔记工具
+[https://www.zettlr.com/](https://www.zettlr.com/)
+>从构想到出版的全流程应用：Zettlr 支持您在每个阶段的写作过程——从初步笔记到期刊提交或书稿。
+
+obsidian
+
+
 
 ## 同步助手
 
@@ -103,6 +110,9 @@ Notion-Next
 
 
 
+## 写博客
 
+[https://github.com/pages-cms/pages-cms](https://github.com/pages-cms/pages-cms)
+>这个不错，可以在线编写文章，文章存储在github仓库中，部署在cloudfare或vercel上即可，非常nice。
 
 

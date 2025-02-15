@@ -106,6 +106,8 @@ Trancy
 [https://www.trancy.org/](https://www.trancy.org/)
 
 >AI 双语字幕&网页沉浸翻译 — Trancy 语言学习
+>
+>可以用来学习英语
 
 
 immersivetranslate
@@ -122,3 +124,23 @@ LazyCat Bookmark Cleaner
 [https://chromewebstore.google.com/detail/lazycat-bookmark-cleaner/aeehapalakdoclgmfeondmephgiandef](https://chromewebstore.google.com/detail/lazycat-bookmark-cleaner/aeehapalakdoclgmfeondmephgiandef)
 >
 
+
+
+[https://github.com/wa008/AutoSwitchTranslate](https://github.com/wa008/AutoSwitchTranslate)
+>浏览器翻译插件，根据你在浏览器中输入什么，自动翻译为英文
+
+
+
+## obsidian
+
+[https://www.ygeeker.com/product/flowferry](https://www.ygeeker.com/product/flowferry)
+>保存、阅读、发送  
+>
+理想的网页剪辑和稍后阅读解决方案。简单、美观，并且始终支持离线使用
+>
+能剪藏文章并发送到 Notion、Google Drive、GitHub 等云服务
+
+
+
+剪藏 插件
+>将文章保存到obsidian

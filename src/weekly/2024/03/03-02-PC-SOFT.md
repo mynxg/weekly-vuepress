@@ -50,6 +50,8 @@ htop
 
 >视频下载工具
 
+
+
 MediaGo
 
 [https://github.com/caorushizi/mediago](https://github.com/caorushizi/mediago)
@@ -84,6 +86,15 @@ mac视频下载工具：downie
 >还支持 m3u8 和 mpd 格式视频，提供简洁直观操作界面，直接粘贴地址即可下载
 
 ![](https://github.com/KurtBestor/Hitomi-Downloader/raw/master/imgs/how_to_download.gif)
+
+
+
+[https://github.com/soimort/you-get](https://github.com/soimort/you-get)
+
+官网：[https://you-get.org/](https://you-get.org/)
+
+>视频下载
+
 
 
 微信视频号下载：
