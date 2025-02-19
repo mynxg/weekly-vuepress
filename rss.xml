@@ -6,8 +6,8 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 15 Feb 2025 08:06:54 GMT</pubDate>
-    <lastBuildDate>Sat, 15 Feb 2025 08:06:54 GMT</lastBuildDate>
+    <pubDate>Wed, 19 Feb 2025 00:25:35 GMT</pubDate>
+    <lastBuildDate>Wed, 19 Feb 2025 00:25:35 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
@@ -43,6 +43,10 @@
 <p><a href="https://iflow.cn/" target="_blank" rel="noopener noreferrer">https://iflow.cn/</a></p>
 <blockquote>
 <p>支持DeepSeek</p>
+</blockquote>
+<p><a href="https://cloud.siliconflow.cn/i/3HBVYXS0" target="_blank" rel="noopener noreferrer">硅基流动</a></p>
+<blockquote>
+<p>支持DeepSeek，目前送的额度挺多的。</p>
 </blockquote>
 <p><a href="https://sdxl.111225.xyz/" target="_blank" rel="noopener noreferrer">https://sdxl.111225.xyz/</a></p>
 <blockquote>
@@ -90,6 +94,12 @@
 <blockquote>
 <p>AI去除图片背景</p>
 </blockquote>
+<p>DeepSeek 实用集成：</p>
+<p><a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md" target="_blank" rel="noopener noreferrer">https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md</a></p>
+<p><a href="https://github.com/Acmesec/theAIMythbook" target="_blank" rel="noopener noreferrer">https://github.com/Acmesec/theAIMythbook</a></p>
+<blockquote>
+<p>Ai迷思录（应用与安全指南）</p>
+</blockquote>
 <h2>逛逛Github</h2>
 <p>Bananas：</p>
 <p><a href="https://github.com/mistweaverco/bananas" target="_blank" rel="noopener noreferrer">https://github.com/mistweaverco/bananas</a></p>
@@ -117,6 +127,12 @@
 <p><a href="https://www.icebeer.top/%e4%b8%80%e5%a4%a9%e5%8f%aa%e5%b7%a5%e4%bd%9c%e5%9b%9b%e5%b0%8f%e6%97%b6%ef%bc%88%e9%87%8d%e6%9e%84%e4%bd%a0%e7%9a%84%e5%b7%a5%e4%bd%9c%e6%a8%a1%e5%bc%8f%ef%bc%89/" target="_blank" rel="noopener noreferrer">一天只工作四小时（重构你的工作模式）</a></p>
 <p><a href="https://elizen.me/posts/2020/11/%E6%97%A5%E8%AE%B0%E5%8F%AF%E4%BB%A5%E6%80%8E%E4%B9%88%E8%AE%B0/" target="_blank" rel="noopener noreferrer">如何记日记</a></p>
 <p><a href="%5Bhttps://elizen.me/posts/2024/03/how-to-write-a-good-essay/%5D(https://elizen.me/posts/2024/03/how-to-write-a-good-essay/)">如何写好一篇文章</a></p>
+<p>xblog：
+<a href="https://yq-blog.pages.dev/" target="_blank" rel="noopener noreferrer">https://yq-blog.pages.dev/</a></p>
+<p><a href="https://tw93.fun/" target="_blank" rel="noopener noreferrer">https://tw93.fun/</a></p>
+<blockquote>
+<p>逛来逛去又刷到了，nb</p>
+</blockquote>
 ]]></content:encoded>
       <enclosure url="https://github.com/TEN-framework/docs/raw/main/assets/jpg/banner.jpg?raw=true" type="image/"/>
     </item>
@@ -1934,6 +1950,11 @@ Vimium</p>
 <blockquote>
 <p>非常全的古诗词数据，收录了从先秦到现代的共计85万余首古诗词。</p>
 </blockquote>
+<p>海棠诗社</p>
+<p><a href="https://haitang.app/" target="_blank" rel="noopener noreferrer">https://haitang.app/</a></p>
+<blockquote>
+<p>包含所有古诗词</p>
+</blockquote>
 ]]></content:encoded>
     </item>
     <item>
@@ -2333,6 +2354,16 @@ Vimium</p>
 案例2：<a href="https://office2md.com/" target="_blank" rel="noopener noreferrer">https://office2md.com/</a>
 案例3：<a href="https://md.seimo.cn/" target="_blank" rel="noopener noreferrer">https://md.seimo.cn/</a></p>
 </blockquote>
+<p>博客文章导出</p>
+<p><a href="https://mark.cuckooing.cn/" target="_blank" rel="noopener noreferrer">博客文章解析</a></p>
+<blockquote>
+<p>感觉不错，挺方便的</p>
+</blockquote>
+<p>yuque知识库导出
+<a href="https://md.cuckooing.cn/" target="_blank" rel="noopener noreferrer">语雀知识库导出</a></p>
+<blockquote>
+<p>类似上面也有，通过博客方式导出</p>
+</blockquote>
 <h2>博客解决方案</h2>
 <p>Notion-Next</p>
 <p><a href="https://github.com/tangly1024/NotionNext" target="_blank" rel="noopener noreferrer">https://github.com/tangly1024/NotionNext</a></p>
@@ -2347,6 +2378,12 @@ Vimium</p>
 <p><a href="https://github.com/pages-cms/pages-cms" target="_blank" rel="noopener noreferrer">https://github.com/pages-cms/pages-cms</a></p>
 <blockquote>
 <p>这个不错，可以在线编写文章，文章存储在github仓库中，部署在cloudfare或vercel上即可，非常nice。</p>
+</blockquote>
+<h2>其他</h2>
+<p>平替 notion   的 outline</p>
+<p><a href="https://github.com/outline/outline" target="_blank" rel="noopener noreferrer">https://github.com/outline/outline</a></p>
+<blockquote>
+<p>为成长中的团队提供最快的知识库。美观、实时协作、功能丰富，并兼容Markdown。</p>
 </blockquote>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
@@ -2381,6 +2418,14 @@ screenstudio</p>
 <blockquote>
 <p>macOS Sequoia 15, macOS Sonoma 14, macOS Ventura 13, macOS Monterey 12, macOS Big Sur 11</p>
 </blockquote>
+<h2>其他</h2>
+<p>妙言</p>
+<p><a href="https://github.com/tw93/MiaoYan" target="_blank" rel="noopener noreferrer">https://github.com/tw93/MiaoYan</a></p>
+<p>官网：<a href="https://miaoyan.app/" target="_blank" rel="noopener noreferrer">https://miaoyan.app/</a></p>
+<blockquote>
+<p>轻灵的 Markdown 笔记本伴你写出妙言，目前只支持mac</p>
+</blockquote>
+<figure><img src="https://gw.alipayobjects.com/zos/k/8m/en.gif" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
     </item>
@@ -2448,6 +2493,10 @@ screenstudio</p>
 </blockquote>
 <figure><img src="https://github.com/KurtBestor/Hitomi-Downloader/raw/master/imgs/how_to_download.gif" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://github.com/soimort/you-get" target="_blank" rel="noopener noreferrer">https://github.com/soimort/you-get</a></p>
+<p><a href="https://twittershots.com/twitter-video-downloader" target="_blank" rel="noopener noreferrer">https://twittershots.com/twitter-video-downloader</a></p>
+<blockquote>
+<p>Yutube、x视频下载</p>
+</blockquote>
 <p>官网：<a href="https://you-get.org/" target="_blank" rel="noopener noreferrer">https://you-get.org/</a></p>
 <blockquote>
 <p>视频下载</p>
