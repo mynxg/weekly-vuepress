@@ -51,3 +51,21 @@ macOS 下载汇总 (系统、应用和教程)
 >macOS Sequoia 15, macOS Sonoma 14, macOS Ventura 13, macOS Monterey 12, macOS Big Sur 11
 
 
+
+## 其他
+
+妙言
+
+[https://github.com/tw93/MiaoYan](https://github.com/tw93/MiaoYan)
+
+官网：[https://miaoyan.app/](https://miaoyan.app/)
+>轻灵的 Markdown 笔记本伴你写出妙言，目前只支持mac
+
+![](https://gw.alipayobjects.com/zos/k/8m/en.gif)
+
+
+
+
+
+
+

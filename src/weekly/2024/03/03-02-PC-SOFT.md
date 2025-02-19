@@ -91,6 +91,11 @@ mac视频下载工具：downie
 
 [https://github.com/soimort/you-get](https://github.com/soimort/you-get)
 
+
+[https://twittershots.com/twitter-video-downloader](https://twittershots.com/twitter-video-downloader)
+>Yutube、x视频下载
+
+
 官网：[https://you-get.org/](https://you-get.org/)
 
 >视频下载

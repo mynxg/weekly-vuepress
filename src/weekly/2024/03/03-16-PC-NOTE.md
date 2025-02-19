@@ -94,6 +94,19 @@ Markdown 批量导出工具、开放式跨平台博客解决方案，随意组�
 >案例3：[https://md.seimo.cn/](https://md.seimo.cn/)
 
 
+博客文章导出
+
+[博客文章解析](https://mark.cuckooing.cn/)
+>感觉不错，挺方便的
+
+yuque知识库导出
+[语雀知识库导出](https://md.cuckooing.cn/)
+>类似上面也有，通过博客方式导出
+
+
+
+
+
 
 ## 博客解决方案
 
@@ -116,3 +129,10 @@ Notion-Next
 >这个不错，可以在线编写文章，文章存储在github仓库中，部署在cloudfare或vercel上即可，非常nice。
 
 
+
+## 其他
+
+平替 notion   的 outline
+
+[https://github.com/outline/outline](https://github.com/outline/outline)
+>为成长中的团队提供最快的知识库。美观、实时协作、功能丰富，并兼容Markdown。
