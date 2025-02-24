@@ -52,6 +52,15 @@ macOS 下载汇总 (系统、应用和教程)
 
 
 
+## mac视频下载
+
+downie：
+
+[https://software.charliemonroe.net/downie/](https://software.charliemonroe.net/downie/)
+
+
+
+
 ## 其他
 
 妙言

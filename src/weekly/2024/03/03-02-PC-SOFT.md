@@ -96,15 +96,35 @@ mac视频下载工具：downie
 >Yutube、x视频下载
 
 
+TwitDloader-Extension
+
+[https://github.com/naxiaoduo/TwitDloader-Extension](https://github.com/naxiaoduo/TwitDloader-Extension)
+
+体验地址：[https://spiritfoxlab.ababtools.com/TwitDloaderCN](https://spiritfoxlab.ababtools.com/TwitDloaderCN)
+>TwitDloader 是一个浏览器扩展，允许用户一键下载 Twitter/X 平台的高清视频，支持多种视频分辨率选择。该扩展还支持多语言界面，提供简洁直观的操作体验，并允许用户自定义界面主题颜色。
+
+
+
+
 官网：[https://you-get.org/](https://you-get.org/)
 
 >视频下载
 
 
+[https://xbeibeix.com/api/bilibili/](https://xbeibeix.com/api/bilibili/)
+>bilibili视频下载
 
 微信视频号下载：
 
 [https://github.com/ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download)
+
+
+
+[https://cococut.net/](https://cococut.net/)
+>视频下载插件
+
+
+
 
 
 
@@ -117,6 +137,20 @@ mac视频下载工具：downie
 
 localsend
 >局域网文件传输
+
+
+## 录屏
+
+gif
+
+[https://github.com/aardio/gif123](https://github.com/aardio/gif123)
+>开始录制：Ctrl + Alt + Shift + Z
+>
+>结束录制：Ctrl + Alt + Shift + Z
+
+Bandicam
+
+obs
 
 
 

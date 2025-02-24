@@ -12,10 +12,39 @@ tags:
 > 分享、实用、有趣、共勉
 
 ## 笔记工具
+
 [https://www.zettlr.com/](https://www.zettlr.com/)
 >从构想到出版的全流程应用：Zettlr 支持您在每个阶段的写作过程——从初步笔记到期刊提交或书稿。
 
+
 obsidian
+
+
+## 文章排版
+>微信公众号排版
+
+
+mdnice
+
+[https://github.com/mdnice/markdown-nice](https://github.com/mdnice/markdown-nice)
+
+[https://mdnice.com/](https://mdnice.com/)
+>支持主题设计的 Markdown 编辑器，让排版变 Nice
+>- 支持微信公众号、知乎和稀土掘金
+>- 支持平台：window、Mac、linux、浏览器插件
+
+
+neurapress
+
+[https://github.com/tianyaxiang/neurapress](https://github.com/tianyaxiang/neurapress)
+>这不，刚找微信公众号文章排版，这就有了。
+>
+>体验版：[https://md.leti.ltd/wechat](https://md.leti.ltd/wechat)
+
+
+微信公众号文章排版插件
+[https://mp.honwhy.wang/](https://mp.honwhy.wang/)
+>看着还不错，只需要登录微信公众号，安装这个插件就可以正常使用。
 
 
 

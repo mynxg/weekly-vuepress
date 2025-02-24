@@ -130,6 +130,12 @@ LazyCat Bookmark Cleaner
 >浏览器翻译插件，根据你在浏览器中输入什么，自动翻译为英文
 
 
+b站插件
+
+[https://github.com/BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)
+>只需对你的 B 站主页进行一些小的更改。
+
+
 
 ## obsidian
 
@@ -144,3 +150,19 @@ LazyCat Bookmark Cleaner
 
 剪藏 插件
 >将文章保存到obsidian
+
+
+
+
+[https://github.com/Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border)
+>obsidian.md 主题
+
+![](https://github.com/Akifyss/obsidian-border/raw/main/cover-lg.png)
+
+
+
+
+## 附件
+
+插件列表：[https://spiritfoxlab.ababtools.com/plugin-list](https://spiritfoxlab.ababtools.com/plugin-list)
+
