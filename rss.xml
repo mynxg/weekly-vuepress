@@ -6,12 +6,81 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 19 Feb 2025 00:25:35 GMT</pubDate>
-    <lastBuildDate>Wed, 19 Feb 2025 00:25:35 GMT</lastBuildDate>
+    <pubDate>Mon, 24 Feb 2025 16:21:44 GMT</pubDate>
+    <lastBuildDate>Mon, 24 Feb 2025 16:21:44 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
     <category>工具</category>
+    <item>
+      <title>02-22-沧桑年倦</title>
+      <link>https://weekly.nnxx.me/weekly/2025/02-22-%E6%B2%A7%E6%A1%91%E5%B9%B4%E5%80%A6.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/02-22-%E6%B2%A7%E6%A1%91%E5%B9%B4%E5%80%A6.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">02-22-沧桑年倦</source>
+      <description>分享、实用、有趣、共勉 AI https://github.com/svcvit/Awesome-Dify-Workflow 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 https://copyweb.ai/ AI重构前端页面，虽然看着像广告，不过可以试试 https://xiangyangqiaomu.feishu.cn/wiki...</description>
+      <category>周报</category>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p><a href="https://github.com/svcvit/Awesome-Dify-Workflow" target="_blank" rel="noopener noreferrer">https://github.com/svcvit/Awesome-Dify-Workflow</a></p>
+<blockquote>
+<p>分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。</p>
+</blockquote>
+<p><a href="https://copyweb.ai/" target="_blank" rel="noopener noreferrer">https://copyweb.ai/</a></p>
+<blockquote>
+<p>AI重构前端页面，虽然看着像广告，不过可以试试</p>
+</blockquote>
+<p><a href="https://xiangyangqiaomu.feishu.cn/wiki/E5ncwVwkLiBMnKkPpQ7cFOxCnbd?fromScene=spaceOverview" target="_blank" rel="noopener noreferrer">https://xiangyangqiaomu.feishu.cn/wiki/E5ncwVwkLiBMnKkPpQ7cFOxCnbd?fromScene=spaceOverview</a></p>
+<blockquote>
+<p>每日推荐</p>
+</blockquote>
+<p><a href="https://mgx.dev/" target="_blank" rel="noopener noreferrer">https://mgx.dev/</a></p>
+<blockquote>
+<p>24小时AI团队，以后AI足够智能，真有可能的实现需求自动化了。</p>
+</blockquote>
+<h2>随便看看</h2>
+<p>mindxmanager
+<a href="https://www.mindmanager.com/" target="_blank" rel="noopener noreferrer">https://www.mindmanager.com/</a></p>
+<blockquote>
+<p>思维导图工具，个人感觉没有xmind好用</p>
+</blockquote>
+<p>xmind</p>
+<p>beszel</p>
+<p><a href="https://beszel.dev/zh/" target="_blank" rel="noopener noreferrer">https://beszel.dev/zh/</a></p>
+<blockquote>
+<p>一个开源的轻量服务器监控工具平台 Beszel，包含 Docker 统计信息、历史数据和告警功能</p>
+</blockquote>
+<p>哪吒监控 V1</p>
+<p><a href="https://nezha.wiki/" target="_blank" rel="noopener noreferrer">https://nezha.wiki/</a></p>
+<blockquote>
+<p>哪吒监控 V1</p>
+</blockquote>
+<p>开源、轻量、易用的服务器监控与运维工具</p>
+<p>json 可视化</p>
+<p><a href="https://github.com/AykutSarac/jsoncrack.com" target="_blank" rel="noopener noreferrer">https://github.com/AykutSarac/jsoncrack.com</a></p>
+<p>在线体验：<a href="https://jsoncrack.com/" target="_blank" rel="noopener noreferrer">https://jsoncrack.com/</a></p>
+<blockquote>
+<p>一个开源的 json/xml/csv/yaml 可视化工具, 纯前端实现，可自行部署到自己的服务器</p>
+</blockquote>
+<figure><img src="https://github.com/AykutSarac/jsoncrack.com/raw/main/public/assets/editor.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>逛逛Github</h2>
+<p><a href="https://github.com/HandsOnLLM/Hands-On-Large-Language-Models" target="_blank" rel="noopener noreferrer">https://github.com/HandsOnLLM/Hands-On-Large-Language-Models</a></p>
+<blockquote>
+<p>中文名为《动手学大模型》，共 12 章节，涵盖了语言模型介绍、提示词工程、语义搜索、微调模型、多模态模型等等内容。</p>
+</blockquote>
+<p><a href="https://github.com/block/goose" target="_blank" rel="noopener noreferrer">https://github.com/block/goose</a></p>
+<p>文档：<a href="https://block.github.io/goose/" target="_blank" rel="noopener noreferrer">https://block.github.io/goose/</a></p>
+<blockquote>
+<p>一个开源的、可扩展的人工智能代理，超越了代码建议 —— 可以使用任何语言模型进行安装、执行、编辑和测试。</p>
+</blockquote>
+<h2>blog</h2>
+<p><a href="https://xiangyangqiaomu.feishu.cn/wiki/JQAdwSlrui4fm4kkuyfcHcW1nac" target="_blank" rel="noopener noreferrer">乔木的日志</a></p>
+<p><a href="https://scottyeung.top/2024/psychology-of-money/" target="_blank" rel="noopener noreferrer">《金钱心理学》读书摘录笔记</a></p>
+]]></content:encoded>
+      <enclosure url="https://github.com/AykutSarac/jsoncrack.com/raw/main/public/assets/editor.webp" type="image/webp"/>
+    </item>
     <item>
       <title>02-15-烟波浩渺</title>
       <link>https://weekly.nnxx.me/weekly/2025/02-15-%E7%83%9F%E6%B3%A2%E6%B5%A9%E6%B8%BA.html</link>
@@ -47,6 +116,11 @@
 <p><a href="https://cloud.siliconflow.cn/i/3HBVYXS0" target="_blank" rel="noopener noreferrer">硅基流动</a></p>
 <blockquote>
 <p>支持DeepSeek，目前送的额度挺多的。</p>
+</blockquote>
+<p>juchats</p>
+<p><a href="https://www.juchats.com/login/97688B1B" target="_blank" rel="noopener noreferrer">https://www.juchats.com/login/97688B1B</a></p>
+<blockquote>
+<p>支持DeepSeek R1满血模型，试用额度，可以体验体验</p>
 </blockquote>
 <p><a href="https://sdxl.111225.xyz/" target="_blank" rel="noopener noreferrer">https://sdxl.111225.xyz/</a></p>
 <blockquote>
@@ -215,12 +289,6 @@
 <p>Roam Research和Obsidian是两款受欢迎的笔记和知识管理工具。Roam是基于云的应用程序，而Obsidian是基于Electron的桌面应用，数据存储在本地。Roam没有数据使用限制，而Obsidian在远程同步时最大限制为10GB。尽管两者都有许多相似之处，Obsidian的使用是免费的，而Roam相对较贵。Roam支持更多的文件扩展名。</p>
 </blockquote>
 <h2>逛逛Github</h2>
-<p><a href="https://github.com/firefly-iii/firefly-iii" target="_blank" rel="noopener noreferrer">https://github.com/firefly-iii/firefly-iii</a></p>
-<blockquote>
-<p>萤火虫 III：个人理财经理，可以个人自行部署，如使用docker</p>
-<p>预算：<a href="https://app.ynab.com/users/sign_in" target="_blank" rel="noopener noreferrer">https://app.ynab.com/users/sign_in</a></p>
-<p>个人简单记账，使用小星记账，个人感觉完全够用了，如高级点就使用ynab，适合有预算规划的，不过这个是收费的，看个人喜好了。</p>
-</blockquote>
 <p><a href="https://github.com/MarkEdit-app/MarkEdit" target="_blank" rel="noopener noreferrer">https://github.com/MarkEdit-app/MarkEdit</a></p>
 <blockquote>
 <p>这个居然不支持window，只支持Mac，</p>
@@ -390,6 +458,8 @@
 </blockquote>
 <p><a href="https://kmar.top/link/" target="_blank" rel="noopener noreferrer">友情链接 | 山岳库博</a></p>
 <p><a href="https://kmar.top/link/" target="_blank" rel="noopener noreferrer">友情链接2</a></p>
+<h2>他人的2024年终总结</h2>
+<p><a href="https://hijiangtao.github.io/2024/12/31/Letter-to-2024/" target="_blank" rel="noopener noreferrer">2024年终总结</a></p>
 ]]></content:encoded>
       <enclosure url="https://camo.githubusercontent.com/8ea45042ba76aa67eddc929d63f0d4ae16fafbdd8cac4187e55ba6eed18e2adb/68747470733a2f2f6c6f7774656368677579732e636f6d2f7374617469632f696d672f73746172747570666f6c6465722d75692e706e67" type="image/"/>
     </item>
@@ -690,6 +760,30 @@
 <p>星选辅助选号插件，告别粘贴复制，一键导出达人信息，解放你的双手</p>
 <p>支持：小红书</p>
 </blockquote>
+<p>mapchart</p>
+<p><a href="https://www.mapchart.net/index.html" target="_blank" rel="noopener noreferrer">https://www.mapchart.net/index.html</a></p>
+<blockquote>
+<ul>
+<li>
+<p>制作世界、欧洲、美国及更多地区的地图</p>
+</li>
+<li>
+<p>在地图上用颜色标注国家或州</p>
+</li>
+<li>
+<p>添加图例并下载为图像文件</p>
+</li>
+<li>
+<p>在你的项目中使用该地图或与你的朋友分享</p>
+</li>
+<li>
+<p>免费且易于使用</p>
+</li>
+<li>
+<p>高级功能的增强版</p>
+</li>
+</ul>
+</blockquote>
 ]]></content:encoded>
     </item>
     <item>
@@ -745,6 +839,18 @@
 <p>各种文件转成Markdown的一个工具：E2M，每种格式有专门的解析器和转换器，支持自定义配置 支持doc、docx、epub、html、htm、url、pdf、ppt、pptx、mp3、m4a等 用Parser解析器从文件中提取文本和图像，用Converter转换器把提取的内容转为Markdown</p>
 </blockquote>
 <figure><img src="https://github.com/wisupai/e2m/raw/main/docs/images/e2m_pipeline.jpg?raw=true" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>财务管理</h2>
+<p><a href="https://github.com/nicejade/wealth-tracker" target="_blank" rel="noopener noreferrer">https://github.com/nicejade/wealth-tracker</a></p>
+<p>体验：<a href="https://fund.lovejade.cn/" target="_blank" rel="noopener noreferrer">https://fund.lovejade.cn/</a></p>
+<blockquote>
+<p>生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI 能力，结合每种资产的特性和当前环境，提供适宜的财务建议。</p>
+</blockquote>
+<p><a href="https://github.com/firefly-iii/firefly-iii" target="_blank" rel="noopener noreferrer">https://github.com/firefly-iii/firefly-iii</a></p>
+<blockquote>
+<p>萤火虫 III：个人理财经理，可以个人自行部署，如使用docker</p>
+<p>预算：<a href="https://app.ynab.com/users/sign_in" target="_blank" rel="noopener noreferrer">https://app.ynab.com/users/sign_in</a></p>
+<p>个人简单记账，使用小星记账，个人感觉完全够用了，如高级点就使用ynab，适合有预算规划的，不过这个是收费的，看个人喜好了。</p>
+</blockquote>
 ]]></content:encoded>
       <enclosure url="https://github.com/Byaidu/PDFMathTranslate/raw/main/docs/images/preview.gif" type="image/gif"/>
     </item>
@@ -855,6 +961,10 @@
 <p>对 10 亿个视频和 6900 万个频道中的超过 11 亿个文本记录进行索引</p>
 <p>类似：<a href="https://youglish.com/" target="_blank" rel="noopener noreferrer">https://youglish.com/</a></p>
 <p>输入一个单词，从 Youtube 上找到一个视频对应这个单词的发音片段，每次录课的时候对一个单词读音拿不准就来听一下，还有多种发音可以对比，完全免费。</p>
+</blockquote>
+<p><a href="https://www.y2mate.com/" target="_blank" rel="noopener noreferrer">https://www.y2mate.com/</a></p>
+<blockquote>
+<p>Yutube视频下载</p>
 </blockquote>
 <h2>随便看看</h2>
 <p><a href="https://fleuret.org/dlc/" target="_blank" rel="noopener noreferrer">https://fleuret.org/dlc/</a></p>
@@ -2300,7 +2410,7 @@ Vimium</p>
       <link>https://weekly.nnxx.me/weekly/2024/03/03-16-PC-NOTE.html</link>
       <guid>https://weekly.nnxx.me/weekly/2024/03/03-16-PC-NOTE.html</guid>
       <source url="https://weekly.nnxx.me/rss.xml">03-16-PC-NOTE</source>
-      <description>分享、实用、有趣、共勉 笔记工具 https://www.zettlr.com/ 从构想到出版的全流程应用：Zettlr 支持您在每个阶段的写作过程——从初步笔记到期刊提交或书稿。 obsidian 同步助手 微信公众号同步助手（多端） https://www.wechatsync.com/ https://github.com/wechatsync/...</description>
+      <description>分享、实用、有趣、共勉 笔记工具 https://www.zettlr.com/ 从构想到出版的全流程应用：Zettlr 支持您在每个阶段的写作过程——从初步笔记到期刊提交或书稿。 obsidian 文章排版 微信公众号排版 mdnice https://github.com/mdnice/markdown-nice https://mdnice.co...</description>
       <category>周报</category>
       <pubDate>Sat, 16 Mar 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
@@ -2313,6 +2423,31 @@ Vimium</p>
 <p>从构想到出版的全流程应用：Zettlr 支持您在每个阶段的写作过程——从初步笔记到期刊提交或书稿。</p>
 </blockquote>
 <p>obsidian</p>
+<h2>文章排版</h2>
+<blockquote>
+<p>微信公众号排版</p>
+</blockquote>
+<p>mdnice</p>
+<p><a href="https://github.com/mdnice/markdown-nice" target="_blank" rel="noopener noreferrer">https://github.com/mdnice/markdown-nice</a></p>
+<p><a href="https://mdnice.com/" target="_blank" rel="noopener noreferrer">https://mdnice.com/</a></p>
+<blockquote>
+<p>支持主题设计的 Markdown 编辑器，让排版变 Nice</p>
+<ul>
+<li>支持微信公众号、知乎和稀土掘金</li>
+<li>支持平台：window、Mac、linux、浏览器插件</li>
+</ul>
+</blockquote>
+<p>neurapress</p>
+<p><a href="https://github.com/tianyaxiang/neurapress" target="_blank" rel="noopener noreferrer">https://github.com/tianyaxiang/neurapress</a></p>
+<blockquote>
+<p>这不，刚找微信公众号文章排版，这就有了。</p>
+<p>体验版：<a href="https://md.leti.ltd/wechat" target="_blank" rel="noopener noreferrer">https://md.leti.ltd/wechat</a></p>
+</blockquote>
+<p>微信公众号文章排版插件
+<a href="https://mp.honwhy.wang/" target="_blank" rel="noopener noreferrer">https://mp.honwhy.wang/</a></p>
+<blockquote>
+<p>看着还不错，只需要登录微信公众号，安装这个插件就可以正常使用。</p>
+</blockquote>
 <h2>同步助手</h2>
 <p>微信公众号同步助手（多端）</p>
 <p><a href="https://www.wechatsync.com/" target="_blank" rel="noopener noreferrer">https://www.wechatsync.com/</a></p>
@@ -2418,6 +2553,9 @@ screenstudio</p>
 <blockquote>
 <p>macOS Sequoia 15, macOS Sonoma 14, macOS Ventura 13, macOS Monterey 12, macOS Big Sur 11</p>
 </blockquote>
+<h2>mac视频下载</h2>
+<p>downie：</p>
+<p><a href="https://software.charliemonroe.net/downie/" target="_blank" rel="noopener noreferrer">https://software.charliemonroe.net/downie/</a></p>
 <h2>其他</h2>
 <p>妙言</p>
 <p><a href="https://github.com/tw93/MiaoYan" target="_blank" rel="noopener noreferrer">https://github.com/tw93/MiaoYan</a></p>
@@ -2497,12 +2635,26 @@ screenstudio</p>
 <blockquote>
 <p>Yutube、x视频下载</p>
 </blockquote>
+<p>TwitDloader-Extension</p>
+<p><a href="https://github.com/naxiaoduo/TwitDloader-Extension" target="_blank" rel="noopener noreferrer">https://github.com/naxiaoduo/TwitDloader-Extension</a></p>
+<p>体验地址：<a href="https://spiritfoxlab.ababtools.com/TwitDloaderCN" target="_blank" rel="noopener noreferrer">https://spiritfoxlab.ababtools.com/TwitDloaderCN</a></p>
+<blockquote>
+<p>TwitDloader 是一个浏览器扩展，允许用户一键下载 Twitter/X 平台的高清视频，支持多种视频分辨率选择。该扩展还支持多语言界面，提供简洁直观的操作体验，并允许用户自定义界面主题颜色。</p>
+</blockquote>
 <p>官网：<a href="https://you-get.org/" target="_blank" rel="noopener noreferrer">https://you-get.org/</a></p>
 <blockquote>
 <p>视频下载</p>
 </blockquote>
+<p><a href="https://xbeibeix.com/api/bilibili/" target="_blank" rel="noopener noreferrer">https://xbeibeix.com/api/bilibili/</a></p>
+<blockquote>
+<p>bilibili视频下载</p>
+</blockquote>
 <p>微信视频号下载：</p>
 <p><a href="https://github.com/ltaoo/wx_channels_download" target="_blank" rel="noopener noreferrer">https://github.com/ltaoo/wx_channels_download</a></p>
+<p><a href="https://cococut.net/" target="_blank" rel="noopener noreferrer">https://cococut.net/</a></p>
+<blockquote>
+<p>视频下载插件</p>
+</blockquote>
 <h2>文件传输</h2>
 <p><a href="https://musetransfer.com/" target="_blank" rel="noopener noreferrer">https://musetransfer.com/</a></p>
 <blockquote>
@@ -2512,6 +2664,15 @@ screenstudio</p>
 <blockquote>
 <p>局域网文件传输</p>
 </blockquote>
+<h2>录屏</h2>
+<p>gif</p>
+<p><a href="https://github.com/aardio/gif123" target="_blank" rel="noopener noreferrer">https://github.com/aardio/gif123</a></p>
+<blockquote>
+<p>开始录制：Ctrl + Alt + Shift + Z</p>
+<p>结束录制：Ctrl + Alt + Shift + Z</p>
+</blockquote>
+<p>Bandicam</p>
+<p>obs</p>
 <h2>逛一逛</h2>
 <p>MyIP</p>
 <p>https://lazycat.cloud/appstore/%2Fshop%2Fdetail%2Fjason5ng32.myip</p>
@@ -2721,6 +2882,11 @@ Redis服务</p>
 <blockquote>
 <p>浏览器翻译插件，根据你在浏览器中输入什么，自动翻译为英文</p>
 </blockquote>
+<p>b站插件</p>
+<p><a href="https://github.com/BewlyBewly/BewlyBewly" target="_blank" rel="noopener noreferrer">https://github.com/BewlyBewly/BewlyBewly</a></p>
+<blockquote>
+<p>只需对你的 B 站主页进行一些小的更改。</p>
+</blockquote>
 <h2>obsidian</h2>
 <p><a href="https://www.ygeeker.com/product/flowferry" target="_blank" rel="noopener noreferrer">https://www.ygeeker.com/product/flowferry</a></p>
 <blockquote>
@@ -2733,6 +2899,13 @@ Redis服务</p>
 <blockquote>
 <p>将文章保存到obsidian</p>
 </blockquote>
+<p><a href="https://github.com/Akifyss/obsidian-border" target="_blank" rel="noopener noreferrer">https://github.com/Akifyss/obsidian-border</a></p>
+<blockquote>
+<p>obsidian.md 主题</p>
+</blockquote>
+<figure><img src="https://github.com/Akifyss/obsidian-border/raw/main/cover-lg.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>附件</h2>
+<p>插件列表：<a href="https://spiritfoxlab.ababtools.com/plugin-list" target="_blank" rel="noopener noreferrer">https://spiritfoxlab.ababtools.com/plugin-list</a></p>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
     </item>
