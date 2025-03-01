@@ -6,12 +6,122 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 24 Feb 2025 16:21:44 GMT</pubDate>
-    <lastBuildDate>Mon, 24 Feb 2025 16:21:44 GMT</lastBuildDate>
+    <pubDate>Sat, 01 Mar 2025 16:09:05 GMT</pubDate>
+    <lastBuildDate>Sat, 01 Mar 2025 16:09:05 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
     <category>工具</category>
+    <item>
+      <title>03-01-染指浮华</title>
+      <link>https://weekly.nnxx.me/weekly/2025/03-01-%E6%9F%93%E6%8C%87%E6%B5%AE%E5%8D%8E.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/03-01-%E6%9F%93%E6%8C%87%E6%B5%AE%E5%8D%8E.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">03-01-染指浮华</source>
+      <description>分享、实用、有趣、共勉 AI https://grok.com/ 好用的Grok3 DeepSearch，送额度是够使用的 https://302.ai/ 支持满血 DeepSeek，需要付费使用，元宝目前支持 满血DeepSeek，上上期也有提到 cody https://sourcegraph.com/cody 除了cody，还有cusor、Win...</description>
+      <category>周报</category>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p><a href="https://grok.com/" target="_blank" rel="noopener noreferrer">https://grok.com/</a></p>
+<blockquote>
+<p>好用的Grok3 DeepSearch，送额度是够使用的</p>
+</blockquote>
+<p><a href="https://302.ai/" target="_blank" rel="noopener noreferrer">https://302.ai/</a></p>
+<blockquote>
+<p>支持满血 DeepSeek，需要付费使用，元宝目前支持 满血DeepSeek，上上期也有提到</p>
+</blockquote>
+<figure><img src="https://302.ai/_image?href=%2F_astro%2Fbg.b42d16ef.png&amp;f=webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>cody</p>
+<p><a href="https://sourcegraph.com/cody" target="_blank" rel="noopener noreferrer">https://sourcegraph.com/cody</a></p>
+<blockquote>
+<p>除了cody，还有cusor、Windsurf、copilot等，最比较好使用的ai有grok、Claude3.7</p>
+</blockquote>
+<p>raycast</p>
+<p><a href="https://www.raycast.com/" target="_blank" rel="noopener noreferrer">https://www.raycast.com/</a></p>
+<blockquote>
+<p>强大的生产力工具集合，全部位于可扩展的启动器中。快速、符合人体工程学且可靠。</p>
+<p>目前不支持window</p>
+</blockquote>
+<p><a href="https://elevenlabs.io/blog/meet-scribe" target="_blank" rel="noopener noreferrer">https://elevenlabs.io/blog/meet-scribe</a></p>
+<blockquote>
+<p>使用世界上最准确的自动语音识别模型将语音转录为文本。</p>
+</blockquote>
+<p><a href="https://21st.dev/?tab=components&amp;sort=recommended" target="_blank" rel="noopener noreferrer">https://21st.dev/?tab=components&amp;sort=recommended</a></p>
+<blockquote>
+<p>21天产品推荐</p>
+</blockquote>
+<p><a href="https://indiehub.best/app" target="_blank" rel="noopener noreferrer">https://indiehub.best/app</a></p>
+<blockquote>
+<p>相关ai产品</p>
+</blockquote>
+<p>UI/ux 提示词</p>
+<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" data-title="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>你是一位资深全栈工程师，参考 ui_ux_design 设计一个年轻会社交APP【我聊】，模拟产品经理提出需求和信息架构，请自己构思好功能需求和界面，然后设计 UI/UX。</span></span>
+<span class="line"><span>仅支持暗色模式，要高级有质感（运用玻璃拟态等视觉效果），遵守设计规范，注重UI细节。</span></span>
+<span class="line"><span>请引入 tailwindcss CDN 来完成，而不是编写 style 样式，图片使用 unslash，界面中不要有滚动条出现。</span></span>
+<span class="line"><span>然后像上面那样给我所有页面的 html，写入到一个 sj.html 中（为每个页面创建简单的mockup边框预览，横向排列）。</span></span>
+<span class="line"><span>由于页面较多，你每完成一部分就让我来确认，一直持续到结束。</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>成品效果：<a href="https://woliao.32k.site/" target="_blank" rel="noopener noreferrer">https://woliao.32k.site/</a></p>
+<h2>随便看看</h2>
+<p><a href="https://github.com/ibttf/interview-coder" target="_blank" rel="noopener noreferrer">https://github.com/ibttf/interview-coder</a></p>
+<p>体验地址：<a href="https://www.interviewcoder.co/" target="_blank" rel="noopener noreferrer">https://www.interviewcoder.co/</a></p>
+<blockquote>
+<p>在线面试，不推荐</p>
+</blockquote>
+<p>在线面试</p>
+<p><a href="https://offersoeasy.cn/" target="_blank" rel="noopener noreferrer">https://offersoeasy.cn/</a></p>
+<blockquote>
+<p>可以用来模拟面试，提前预测</p>
+<p>OfferSoEasy能够巧妙地运用当前世界上最先进的AI大模型技术，助您在众多求职者中脱颖而出</p>
+</blockquote>
+<p>全球收款手册</p>
+<p><a href="https://www.setupyourpay.com/" target="_blank" rel="noopener noreferrer">https://www.setupyourpay.com/</a></p>
+<blockquote>
+<p>一站式 全球收款 解决方案，节省您至少140小时时间，从美国公司注册到全球收款通道配置的专业指南，助你轻松实现跨境收款、规避风险、降低成本。</p>
+</blockquote>
+<figure><img src="https://www.setupyourpay.com/_next/image?url=https%3A%2F%2Fpub-661b0ffd786d45edbf52a76c125d28a7.r2.dev%2Fa4685b4cdb306bacac983a01a01d82c.jpg&amp;w=3840&amp;q=75" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://pan.quark.cn/s/4691006cb600" target="_blank" rel="noopener noreferrer">https://pan.quark.cn/s/4691006cb600</a></p>
+<blockquote>
+<p>他人提供的DeepSeek资料</p>
+</blockquote>
+<p><a href="https://app.smartschool.chat/" target="_blank" rel="noopener noreferrer">https://app.smartschool.chat/</a></p>
+<blockquote>
+<p>教学是一门艺术，但也需要科学的管理。SmartSchool提供的高效AI工具，不仅节省了你的时间，还大幅提升了教学质量。你的课程将因SmartSchool的加入而变得更加吸引人，让学生们愿意为之付费。SmartSchool，开启你教学事业的新篇章。</p>
+<p>需要付费使用</p>
+</blockquote>
+<p><a href="https://github.com/Aider-AI/aider/issues/3362#issuecomment-2686026303" target="_blank" rel="noopener noreferrer">https://github.com/Aider-AI/aider/issues/3362#issuecomment-2686026303</a></p>
+<blockquote>
+<p>Claude 3.7提示词</p>
+</blockquote>
+<p><a href="https://whimsical.com/" target="_blank" rel="noopener noreferrer">https://whimsical.com/</a></p>
+<blockquote>
+<p>减少干扰，  增加吸引力 ，在一个互联互通的工作空间中，  与 Whimsical 一起平静工作。</p>
+</blockquote>
+<figure><img src="https://whimsical.com/_next/static/media/projects@1080x615@2x.c2b97229.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>逛逛Github</h2>
+<p>思维导图</p>
+<p><a href="https://github.com/SSShooter/mind-elixir-core" target="_blank" rel="noopener noreferrer">https://github.com/SSShooter/mind-elixir-core</a></p>
+<blockquote>
+<p>“心灵灵药” 是一个 JavaScript 框架无关的思维导图核心。</p>
+</blockquote>
+<p>OCR</p>
+<p><a href="https://github.com/allenai/olmocr" target="_blank" rel="noopener noreferrer">https://github.com/allenai/olmocr</a></p>
+<blockquote>
+<p>一款强大的开源文档 OCR 工具：olmOCR，专为高精度转换 PDF 和其他文档为纯文本而设计。 完美保留文档原始阅读顺序，支持表格、公式、手写内容识别，特别适合处理学术论文和技术文档。</p>
+</blockquote>
+<p><a href="https://github.com/npmstudy/Your-First-Node.js-with-TypeScript-Course" target="_blank" rel="noopener noreferrer">https://github.com/npmstudy/Your-First-Node.js-with-TypeScript-Course</a></p>
+<blockquote>
+<p>你的第一门用TS写Node.js入门课</p>
+</blockquote>
+<h2>blog</h2>
+<p><a href="https://ladfenemies.cc/guo-fu-lun" target="_blank" rel="noopener noreferrer">读《国富论》</a></p>
+<p><a href="https://guangzhengli.com/blog/zh/model-context-protocol/" target="_blank" rel="noopener noreferrer">MCP 终极指南</a></p>
+<p><a href="https://www.qiaomu.ai/courage_to_be_hated.html" target="_blank" rel="noopener noreferrer">《被讨厌的勇气》解读</a></p>
+<p><a href="https://tw93.fun/2024-03-03/simple.html" target="_blank" rel="noopener noreferrer">我的极简生活经验</a></p>
+]]></content:encoded>
+      <enclosure url="https://302.ai/_image?href=%2F_astro%2Fbg.b42d16ef.png&amp;f=webp" type="image/"/>
+    </item>
     <item>
       <title>02-22-沧桑年倦</title>
       <link>https://weekly.nnxx.me/weekly/2025/02-22-%E6%B2%A7%E6%A1%91%E5%B9%B4%E5%80%A6.html</link>
@@ -840,17 +950,27 @@
 </blockquote>
 <figure><img src="https://github.com/wisupai/e2m/raw/main/docs/images/e2m_pipeline.jpg?raw=true" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <h2>财务管理</h2>
+<p>wealth-tracker</p>
 <p><a href="https://github.com/nicejade/wealth-tracker" target="_blank" rel="noopener noreferrer">https://github.com/nicejade/wealth-tracker</a></p>
 <p>体验：<a href="https://fund.lovejade.cn/" target="_blank" rel="noopener noreferrer">https://fund.lovejade.cn/</a></p>
 <blockquote>
 <p>生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI 能力，结合每种资产的特性和当前环境，提供适宜的财务建议。</p>
 </blockquote>
+<p>firefly-iii</p>
 <p><a href="https://github.com/firefly-iii/firefly-iii" target="_blank" rel="noopener noreferrer">https://github.com/firefly-iii/firefly-iii</a></p>
 <blockquote>
 <p>萤火虫 III：个人理财经理，可以个人自行部署，如使用docker</p>
-<p>预算：<a href="https://app.ynab.com/users/sign_in" target="_blank" rel="noopener noreferrer">https://app.ynab.com/users/sign_in</a></p>
+<p>ynab预算：<a href="https://app.ynab.com/users/sign_in" target="_blank" rel="noopener noreferrer">https://app.ynab.com/users/sign_in</a></p>
 <p>个人简单记账，使用小星记账，个人感觉完全够用了，如高级点就使用ynab，适合有预算规划的，不过这个是收费的，看个人喜好了。</p>
 </blockquote>
+<p>ezbookkeeping</p>
+<p><a href="https://github.com/mayswind/ezbookkeeping" target="_blank" rel="noopener noreferrer">https://github.com/mayswind/ezbookkeeping</a></p>
+<p>文档：<a href="https://ezbookkeeping.mayswind.net/" target="_blank" rel="noopener noreferrer">https://ezbookkeeping.mayswind.net/</a></p>
+<blockquote>
+<p>一款由你自己托管的轻量级个人记账应用程序。</p>
+<p>ezBookkeeping 是一款轻量级的个人记账应用程序，可以由用户自己托管。它几乎可以部署在所有平台上，包括在 x86、amd64 和 ARM 架构上的 Windows、macOS 和 Linux。你甚至可以将其部署在树莓派设备上。它还支持许多不同的数据库，包括 sqlite 和 mysql。借助 Docker，你只需一个命令即可完成部署，无需复杂的配置。</p>
+</blockquote>
+<figure><img src="https://raw.githubusercontent.com/wiki/mayswind/ezbookkeeping/img/desktop/en.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 ]]></content:encoded>
       <enclosure url="https://github.com/Byaidu/PDFMathTranslate/raw/main/docs/images/preview.gif" type="image/gif"/>
     </item>
@@ -922,16 +1042,6 @@
 <p><a href="https://indiehackertools.net/blog/knowledge-marketplace" target="_blank" rel="noopener noreferrer">https://indiehackertools.net/blog/knowledge-marketplace</a></p>
 <blockquote>
 <p>看着不错</p>
-</blockquote>
-<p>Awesome Cloudflare</p>
-<p><a href="https://cloudflare.chuhai.tools/" target="_blank" rel="noopener noreferrer">https://cloudflare.chuhai.tools/</a></p>
-<blockquote>
-<p>精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表.</p>
-<p>出海第一站，搞定工具栈, 一系列基于CloudFlare的开源工具 &amp; 技术栈, 旨在帮助独立开发者快速构建和发布SaaS产品.</p>
-</blockquote>
-<p><a href="https://debill.me/categories/Cloudflare%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/" target="_blank" rel="noopener noreferrer">https://debill.me</a></p>
-<blockquote>
-<p>Cloudflare从入门到精通</p>
 </blockquote>
 ]]></content:encoded>
     </item>
@@ -1317,13 +1427,6 @@
 <blockquote>
 <p>天命全栈架构师：新series开更。本系列视频尝试分享我learning技术，解决问题的思路，力图带领大家从更高的纬度学习和理解现代Web全栈技术。目标：学习尝试新技术时有的放矢；面对问题时从容应对；公司团队内部沟通时有理有据赢得尊重</p>
 </blockquote>
-<p>词生卡类 prompt</p>
-<p><a href="https://mp.weixin.qq.com/s/BOMOQVGQ5hvd8dDaKwb18A" target="_blank" rel="noopener noreferrer">以「时间」为主题的 Prompt ，可以怎么做？</a></p>
-<blockquote>
-<p>zephyr提供的提示词可以产出 PPT 的效果</p>
-<p>不错AI信息源：<a href="https://pmplanet.cn/fe9a6051d6cc4d0d957cfc7b631a53f0" target="_blank" rel="noopener noreferrer">https://pmplanet.cn/fe9a6051d6cc4d0d957cfc7b631a53f0</a></p>
-</blockquote>
-<p><a href="https://mp.weixin.qq.com/s/070zb9RWq1TVlBkKt7usgw" target="_blank" rel="noopener noreferrer">《李继刚全网首播干货分享整理 | Prompt（提示词）的道和术，另附分享彩蛋》</a></p>
 <h2>逛逛github</h2>
 <p>hocgin:
 <a href="https://github.com/hocgin" target="_blank" rel="noopener noreferrer">https://github.com/hocgin</a></p>
@@ -1860,6 +1963,51 @@ Vimium</p>
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
     </item>
     <item>
+      <title>06-06-浅墨泼夏</title>
+      <link>https://weekly.nnxx.me/weekly/2024/06/06-06-%E6%B5%85%E5%A2%A8%E6%B3%BC%E5%A4%8F.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2024/06/06-06-%E6%B5%85%E5%A2%A8%E6%B3%BC%E5%A4%8F.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">06-06-浅墨泼夏</source>
+      <description>分享、实用、有趣、共勉 cloudfare R2Uploader https://github.com/jlvihv/R2Uploader 在线体验：https://r2uploader.com/ 易用的文件上传工具，专为多文件和大文件处理而优化，可以将文件轻松上传到 Cloudflare R2 存储。 Awesome Cloudflare https...</description>
+      <category>周报</category>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>cloudfare</h2>
+<p>R2Uploader</p>
+<p><a href="https://github.com/jlvihv/R2Uploader" target="_blank" rel="noopener noreferrer">https://github.com/jlvihv/R2Uploader</a></p>
+<p>在线体验：<a href="https://r2uploader.com/" target="_blank" rel="noopener noreferrer">https://r2uploader.com/</a></p>
+<blockquote>
+<p>易用的文件上传工具，专为多文件和大文件处理而优化，可以将文件轻松上传到 Cloudflare R2 存储。</p>
+</blockquote>
+<p>Awesome Cloudflare</p>
+<p><a href="https://cloudflare.chuhai.tools/" target="_blank" rel="noopener noreferrer">https://cloudflare.chuhai.tools/</a></p>
+<blockquote>
+<p>精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表.</p>
+<p>出海第一站，搞定工具栈, 一系列基于CloudFlare的开源工具 &amp; 技术栈, 旨在帮助独立开发者快速构建和发布SaaS产品.</p>
+</blockquote>
+<p><a href="https://debill.me/categories/Cloudflare%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A/" target="_blank" rel="noopener noreferrer">https://debill.me</a></p>
+<blockquote>
+<p>Cloudflare从入门到精通</p>
+</blockquote>
+<p><a href="https://debill.me/cloudflare-series/cloudflare-web-analytics-9/" target="_blank" rel="noopener noreferrer">https://debill.me/cloudflare-series/cloudflare-web-analytics-9/</a></p>
+<blockquote>
+<p>Cloudflare 从入门到精通</p>
+<p>Web Analytics</p>
+</blockquote>
+<p>Cloudflare R2 存储</p>
+<p><a href="https://r2uploader.com/" target="_blank" rel="noopener noreferrer">https://r2uploader.com/</a></p>
+<blockquote>
+<p>一款用于将文件上传到 Cloudflare R2 存储的简单高效的应用程序。适用于桌面平台，即将登陆移动平台！</p>
+</blockquote>
+<p><a href="https://github.com/maoxiaoke/r2Uploader" target="_blank" rel="noopener noreferrer">https://github.com/maoxiaoke/r2Uploader</a></p>
+<blockquote>
+<p>适用于 Cloudflare R2 的用户友好型图形用户界面应用程序</p>
+</blockquote>
+<h2>随便看看</h2>
+]]></content:encoded>
+    </item>
+    <item>
       <title>05-31-随心编程</title>
       <link>https://weekly.nnxx.me/weekly/2024/05/05-31-%E9%9A%8F%E5%BF%83%E7%BC%96%E7%A8%8B.html</link>
       <guid>https://weekly.nnxx.me/weekly/2024/05/05-31-%E9%9A%8F%E5%BF%83%E7%BC%96%E7%A8%8B.html</guid>
@@ -1913,6 +2061,11 @@ Vimium</p>
 <a href="https://github.com/usebruno/bruno" target="_blank" rel="noopener noreferrer">https://github.com/usebruno/bruno</a></p>
 <p>reqable
 <a href="https://reqable.com/zh-CN/" target="_blank" rel="noopener noreferrer">https://reqable.com/zh-CN/</a></p>
+<p>hoppscotch</p>
+<p><a href="https://hoppscotch.io/" target="_blank" rel="noopener noreferrer">https://hoppscotch.io/</a></p>
+<blockquote>
+<p>简洁api接口测试工具</p>
+</blockquote>
 ]]></content:encoded>
     </item>
     <item>
@@ -2261,11 +2414,24 @@ Vimium</p>
 <p><a href="https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e" target="_blank" rel="noopener noreferrer">https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e</a></p>
 <p>资料很详细</p>
 <figure><img src="https://cdn.nlark.com/yuque/0/2024/png/25612657/1733674395292-2affb48d-4beb-43fa-aa60-d2328a9b6d8b.png" alt="https://cdn.nlark.com/yuque/0/2024/png/25612657/1733674395292-2affb48d-4beb-43fa-aa60-d2328a9b6d8b.png" tabindex="0" loading="lazy"><figcaption>https://cdn.nlark.com/yuque/0/2024/png/25612657/1733674395292-2affb48d-4beb-43fa-aa60-d2328a9b6d8b.png</figcaption></figure>
+<p>提示词优化</p>
+<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank" rel="noopener noreferrer">https://github.com/linshenkx/prompt-optimizer</a></p>
+<blockquote>
+<p>一个好用的提示词优化工具，帮助你优化和测试AI提示词，支持Web应用和Chrome插件。</p>
+</blockquote>
+<figure><img src="https://github.com/linshenkx/prompt-optimizer/raw/master/images/main.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <h2>AI 提示词</h2>
 <h3>图片</h3>
 <p><a href="https://catjourney.life/" target="_blank" rel="noopener noreferrer">https://catjourney.life/</a></p>
 <p>词根词缀学单词Prompt</p>
 <p><a href="https://eamtute8hsd.feishu.cn/wiki/UCvYwZyQqi8GrWk6E7pc4XQ4n8f?fromScene=spaceOverview" target="_blank" rel="noopener noreferrer">https://eamtute8hsd.feishu.cn/wiki/UCvYwZyQqi8GrWk6E7pc4XQ4n8f?fromScene=spaceOverview</a></p>
+<p>词生卡类 prompt</p>
+<p><a href="https://mp.weixin.qq.com/s/BOMOQVGQ5hvd8dDaKwb18A" target="_blank" rel="noopener noreferrer">以「时间」为主题的 Prompt ，可以怎么做？</a></p>
+<blockquote>
+<p>zephyr提供的提示词可以产出 PPT 的效果</p>
+<p>不错AI信息源：<a href="https://pmplanet.cn/fe9a6051d6cc4d0d957cfc7b631a53f0" target="_blank" rel="noopener noreferrer">https://pmplanet.cn/fe9a6051d6cc4d0d957cfc7b631a53f0</a></p>
+</blockquote>
+<p><a href="https://mp.weixin.qq.com/s/070zb9RWq1TVlBkKt7usgw" target="_blank" rel="noopener noreferrer">《李继刚全网首播干货分享整理 | Prompt（提示词）的道和术，另附分享彩蛋》</a></p>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
     </item>
@@ -2274,7 +2440,7 @@ Vimium</p>
       <link>https://weekly.nnxx.me/weekly/2024/04/04-13-Earn-extra-income.html</link>
       <guid>https://weekly.nnxx.me/weekly/2024/04/04-13-Earn-extra-income.html</guid>
       <source url="https://weekly.nnxx.me/rss.xml">04-13-Earn-extra-income</source>
-      <description>分享、实用、有趣、共勉 ai副业 https://github.com/XiaomingX/ai-money-maker-handbook ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。</description>
+      <description>分享、实用、有趣、共勉 ai副业 https://github.com/XiaomingX/ai-money-maker-handbook ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。 变现 小程序变现</description>
       <category>周报</category>
       <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
@@ -2286,41 +2452,8 @@ Vimium</p>
 <blockquote>
 <p>ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。</p>
 </blockquote>
-]]></content:encoded>
-      <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>02-03-捣鼓捣鼓</title>
-      <link>https://weekly.nnxx.me/weekly/2024/02/02-03-%E6%8D%A3%E9%BC%93%E6%8D%A3%E9%BC%93.html</link>
-      <guid>https://weekly.nnxx.me/weekly/2024/02/02-03-%E6%8D%A3%E9%BC%93%E6%8D%A3%E9%BC%93.html</guid>
-      <source url="https://weekly.nnxx.me/rss.xml">02-03-捣鼓捣鼓</source>
-      <description>分享、实用、有趣、共勉 每日打卡： https://github.com/LinkinStars/daily-cards demo：https://card.linkinstars.com/card/page 类似memos哪种，不过目前不支持图片 通过书写 markdown 来打卡每日记录 将打卡内容以 卡片图片 或者 链接 的方式分享到任意地方 捣...</description>
-      <category>周报</category>
-      <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<blockquote>
-<p>分享、实用、有趣、共勉</p>
-</blockquote>
-<p>每日打卡：</p>
-<p><a href="https://github.com/LinkinStars/daily-cards" target="_blank" rel="noopener noreferrer">https://github.com/LinkinStars/daily-cards</a></p>
-<p>demo：<a href="https://card.linkinstars.com/card/page" target="_blank" rel="noopener noreferrer">https://card.linkinstars.com/card/page</a></p>
-<blockquote>
-<p>类似memos哪种，不过目前不支持图片</p>
-<p>通过书写 markdown 来打卡每日记录</p>
-<p>将打卡内容以&nbsp;<strong>卡片图片</strong>&nbsp;或者&nbsp;<strong>链接</strong>&nbsp;的方式分享到任意地方</p>
-</blockquote>
-<figure><img src="https://github.com/LinkinStars/daily-cards/raw/main/docs/img/card.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h2>捣鼓</h2>
-<p><a href="https://github.com/hxh19950701/WebViewTvLive" target="_blank" rel="noopener noreferrer">https://github.com/hxh19950701/WebViewTvLive</a></p>
-<blockquote>
-<p>使用 腾讯X5 WebView 开发的电视直播App</p>
-</blockquote>
-<p>Escrcpy</p>
-<p><a href="https://github.com/viarotel-org/escrcpy" target="_blank" rel="noopener noreferrer">https://github.com/viarotel-org/escrcpy</a></p>
-<blockquote>
-<p>手机投屏电脑工具</p>
-<p>支持 USB 和 WiFi 两种连接方式，以及支持同时连接多部手机实现群控。 工具适用于 Windows、macOS 和 Linux 系统，可直接开箱即用。</p>
-</blockquote>
+<h2>变现</h2>
+<p><a href="https://www.youtube.com/watch?v=3RnS83JmjQU" target="_blank" rel="noopener noreferrer">小程序变现</a></p>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
     </item>
@@ -2448,6 +2581,21 @@ Vimium</p>
 <blockquote>
 <p>看着还不错，只需要登录微信公众号，安装这个插件就可以正常使用。</p>
 </blockquote>
+<p><a href="https://github.com/doocs/md" target="_blank" rel="noopener noreferrer">https://github.com/doocs/md</a></p>
+<p>在线体验：<a href="https://doocs.github.io/md/" target="_blank" rel="noopener noreferrer">https://doocs.github.io/md/</a></p>
+<blockquote>
+<p>WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性</p>
+</blockquote>
+<figure><img src="https://camo.githubusercontent.com/450296fff3135f915a535118043f5fda4efca1d8310ce85ed6f1afc2d9c5c77e/68747470733a2f2f63646e2d646f6f63732e6f73732d636e2d7368656e7a68656e2e616c6979756e63732e636f6d2f67682f646f6f63732f6d642f696d616765732f64656d6f312e676966" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/dingdangdog/wechat-mdeditor" target="_blank" rel="noopener noreferrer">https://github.com/dingdangdog/wechat-mdeditor</a></p>
+<p>在线体验：<a href="https://wxeditor.oldmoon.top/" target="_blank" rel="noopener noreferrer">https://wxeditor.oldmoon.top/</a></p>
+<blockquote>
+<p>微信公众号 Markdown 在线编辑器</p>
+</blockquote>
+<p><a href="https://feishu2wx.chengfeng.me/" target="_blank" rel="noopener noreferrer">https://feishu2wx.chengfeng.me/</a></p>
+<blockquote>
+<p>飞书文档转公众号排版工具</p>
+</blockquote>
 <h2>同步助手</h2>
 <p>微信公众号同步助手（多端）</p>
 <p><a href="https://www.wechatsync.com/" target="_blank" rel="noopener noreferrer">https://www.wechatsync.com/</a></p>
@@ -2520,6 +2668,16 @@ Vimium</p>
 <blockquote>
 <p>为成长中的团队提供最快的知识库。美观、实时协作、功能丰富，并兼容Markdown。</p>
 </blockquote>
+<p>内网使用markdown</p>
+<p>文档：<a href="https://www.markdownguide.org/tools/joplin/" target="_blank" rel="noopener noreferrer">https://www.markdownguide.org/tools/joplin/</a></p>
+<blockquote>
+<p>Joplin 是一款免费且开源的笔记应用程序，支持在多个平台上使用。它的 Markdown 功能可以通过插件进行扩展和定制。用户可以根据需要启用或禁用特定的 Markdown 功能。</p>
+</blockquote>
+<p><a href="https://github.com/CalebJohn/joplin-rich-markdown" target="_blank" rel="noopener noreferrer">https://github.com/CalebJohn/joplin-rich-markdown</a></p>
+<blockquote>
+<p>帮助你永远摆脱 Markdown 查看器。</p>
+</blockquote>
+<figure><img src="https://github.com/CalebJohn/joplin-rich-markdown/raw/main/examples/welcome.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
     </item>
@@ -2696,6 +2854,12 @@ screenstudio</p>
 <blockquote>
 <p>有window、mac相关软件应用、教程等</p>
 </blockquote>
+<h2>阅读</h2>
+<blockquote>
+<p>app：厚墨</p>
+</blockquote>
+<p>阅读app：
+<a href="https://www.123684.com/s/W1E1jv-mU4q" target="_blank" rel="noopener noreferrer">https://www.123684.com/s/W1E1jv-mU4q</a></p>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
     </item>
@@ -2764,23 +2928,9 @@ Redis服务</p>
 <p>2024 免费静态 Web 资源部署大汇总</p>
 </blockquote>
 <p><a href="https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76" target="_blank" rel="noopener noreferrer">https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76</a></p>
-<p><a href="https://debill.me/cloudflare-series/cloudflare-web-analytics-9/" target="_blank" rel="noopener noreferrer">https://debill.me/cloudflare-series/cloudflare-web-analytics-9/</a></p>
-<blockquote>
-<p>Cloudflare 从入门到精通</p>
-<p>Web Analytics</p>
-</blockquote>
 <p><a href="https://www.yuque.com/hisnxg/fun" target="_blank" rel="noopener noreferrer">兴趣使然</a></p>
 <blockquote>
 <p>兴趣捣鼓</p>
-</blockquote>
-<p>Cloudflare R2 存储</p>
-<p><a href="https://r2uploader.com/" target="_blank" rel="noopener noreferrer">https://r2uploader.com/</a></p>
-<blockquote>
-<p>一款用于将文件上传到 Cloudflare R2 存储的简单高效的应用程序。适用于桌面平台，即将登陆移动平台！</p>
-</blockquote>
-<p><a href="https://github.com/maoxiaoke/r2Uploader" target="_blank" rel="noopener noreferrer">https://github.com/maoxiaoke/r2Uploader</a></p>
-<blockquote>
-<p>适用于 Cloudflare R2 的用户友好型图形用户界面应用程序</p>
 </blockquote>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
@@ -2958,6 +3108,46 @@ Redis服务</p>
 <p><a href="https://github.com/lizongying/my-tv-0" target="_blank" rel="noopener noreferrer">https://github.com/lizongying/my-tv-0</a></p>
 <h2>随便逛逛</h2>
 <p><a href="https://www.xda-developers.com/opnsense-guide/" target="_blank" rel="noopener noreferrer">如何用 OPNsense 搭建家庭防火墙</a></p>
+<p><a href="https://www.youtube.com/watch?v=3QvisCATm6I" target="_blank" rel="noopener noreferrer">【收藏向】相机入门第一步！认识相机、明确需求、打破幻想！</a></p>
+<blockquote>
+<p>教小白如何选相机，避免被小红书洗脑</p>
+</blockquote>
+]]></content:encoded>
+      <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>02-03-捣鼓捣鼓</title>
+      <link>https://weekly.nnxx.me/weekly/2024/02/02-03-%E6%8D%A3%E9%BC%93%E6%8D%A3%E9%BC%93.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2024/02/02-03-%E6%8D%A3%E9%BC%93%E6%8D%A3%E9%BC%93.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">02-03-捣鼓捣鼓</source>
+      <description>分享、实用、有趣、共勉 随便看看 每日打卡： https://github.com/LinkinStars/daily-cards demo：https://card.linkinstars.com/card/page 类似memos哪种，不过目前不支持图片 通过书写 markdown 来打卡每日记录 将打卡内容以 卡片图片 或者 链接 的方式分享到任...</description>
+      <category>周报</category>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>随便看看</h2>
+<p>每日打卡：</p>
+<p><a href="https://github.com/LinkinStars/daily-cards" target="_blank" rel="noopener noreferrer">https://github.com/LinkinStars/daily-cards</a></p>
+<p>demo：<a href="https://card.linkinstars.com/card/page" target="_blank" rel="noopener noreferrer">https://card.linkinstars.com/card/page</a></p>
+<blockquote>
+<p>类似memos哪种，不过目前不支持图片</p>
+<p>通过书写 markdown 来打卡每日记录</p>
+<p>将打卡内容以&nbsp;<strong>卡片图片</strong>&nbsp;或者&nbsp;<strong>链接</strong>&nbsp;的方式分享到任意地方</p>
+</blockquote>
+<figure><img src="https://github.com/LinkinStars/daily-cards/raw/main/docs/img/card.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>捣鼓</h2>
+<p><a href="https://github.com/hxh19950701/WebViewTvLive" target="_blank" rel="noopener noreferrer">https://github.com/hxh19950701/WebViewTvLive</a></p>
+<blockquote>
+<p>使用 腾讯X5 WebView 开发的电视直播App</p>
+</blockquote>
+<p>Escrcpy</p>
+<p><a href="https://github.com/viarotel-org/escrcpy" target="_blank" rel="noopener noreferrer">https://github.com/viarotel-org/escrcpy</a></p>
+<blockquote>
+<p>手机投屏电脑工具</p>
+<p>支持 USB 和 WiFi 两种连接方式，以及支持同时连接多部手机实现群控。 工具适用于 Windows、macOS 和 Linux 系统，可直接开箱即用。</p>
+</blockquote>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
     </item>
