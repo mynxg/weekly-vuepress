@@ -47,6 +47,23 @@ neurapress
 >看着还不错，只需要登录微信公众号，安装这个插件就可以正常使用。
 
 
+[https://github.com/doocs/md](https://github.com/doocs/md)
+
+在线体验：[https://doocs.github.io/md/](https://doocs.github.io/md/)
+>WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
+
+![](https://camo.githubusercontent.com/450296fff3135f915a535118043f5fda4efca1d8310ce85ed6f1afc2d9c5c77e/68747470733a2f2f63646e2d646f6f63732e6f73732d636e2d7368656e7a68656e2e616c6979756e63732e636f6d2f67682f646f6f63732f6d642f696d616765732f64656d6f312e676966)
+
+
+[https://github.com/dingdangdog/wechat-mdeditor](https://github.com/dingdangdog/wechat-mdeditor)
+
+在线体验：[https://wxeditor.oldmoon.top/](https://wxeditor.oldmoon.top/)
+>微信公众号 Markdown 在线编辑器
+
+
+[https://feishu2wx.chengfeng.me/](https://feishu2wx.chengfeng.me/)
+>飞书文档转公众号排版工具
+
 
 ## 同步助手
 
@@ -165,3 +182,18 @@ Notion-Next
 
 [https://github.com/outline/outline](https://github.com/outline/outline)
 >为成长中的团队提供最快的知识库。美观、实时协作、功能丰富，并兼容Markdown。
+
+
+内网使用markdown
+
+文档：[https://www.markdownguide.org/tools/joplin/](https://www.markdownguide.org/tools/joplin/)
+>Joplin 是一款免费且开源的笔记应用程序，支持在多个平台上使用。它的 Markdown 功能可以通过插件进行扩展和定制。用户可以根据需要启用或禁用特定的 Markdown 功能。
+
+
+[https://github.com/CalebJohn/joplin-rich-markdown](https://github.com/CalebJohn/joplin-rich-markdown)
+>帮助你永远摆脱 Markdown 查看器。
+
+![](https://github.com/CalebJohn/joplin-rich-markdown/raw/main/examples/welcome.png)
+
+
+

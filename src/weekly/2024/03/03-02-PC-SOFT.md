@@ -193,3 +193,12 @@ PowerToys
 >有window、mac相关软件应用、教程等
 
 
+## 阅读
+> app：厚墨
+
+
+阅读app：
+[https://www.123684.com/s/W1E1jv-mU4q](https://www.123684.com/s/W1E1jv-mU4q)
+
+
+

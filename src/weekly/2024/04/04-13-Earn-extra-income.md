@@ -22,6 +22,16 @@ https://github.com/XiaomingX/ai-money-maker-handbook
 
 
 
+## 变现
+
+
+
+[小程序变现](https://www.youtube.com/watch?v=3RnS83JmjQU)
+
+
+
+
+
 
 
 
