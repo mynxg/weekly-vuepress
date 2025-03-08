@@ -139,6 +139,45 @@ localsend
 >局域网文件传输
 
 
+
+FastSend
+
+[https://github.com/ShouChenICU/FastSend](https://github.com/ShouChenICU/FastSend)
+
+案例：[https://fastsend.ing/](https://fastsend.ing/)
+>FastSend 是一个基于 WebRTC 技术的点对点文件传输工具，支持快速的目录同步和文件传输。通过浏览器即可实现安全、高效的文件共享。
+
+![](https://github.com/ShouChenICU/FastSend/raw/main/public/ogImg.webp)
+
+
+
+EasyTransfer
+
+[https://github.com/WCY-dt/EasyTransfer](https://github.com/WCY-dt/EasyTransfer)
+
+在线体验：[https://file.ch3nyang.top/](https://file.ch3nyang.top/)
+>一款免费、匿名、加密且易于使用的 E2EE 文件传输工具
+
+![](https://github.com/WCY-dt/EasyTransfer/raw/main/og-image.png)
+
+
+
+Send
+
+[https://send.vis.ee/](https://send.vis.ee/)
+
+仓库地址：[https://github.com/timvisee/send/](https://github.com/timvisee/send/)
+
+>Send – 最大 2.5GB 的私密文件分享工具，源自 Firefox Send 项目的
+>
+>特点：简单、私密的文件共享
+>
+>镜像站：[https://gitlab.com/timvisee/send](https://gitlab.com/timvisee/send)
+
+
+
+
+
 ## 录屏
 
 gif
@@ -160,15 +199,24 @@ obs
 
 MyIP
 
+[https://github.com/jason5ng32/MyIP](https://github.com/jason5ng32/MyIP)
+
 https://lazycat.cloud/appstore/%2Fshop%2Fdetail%2Fjason5ng32.myip
 
 > 全能的 IP 工具箱
 
+[https://ipcheck.ing/#/](https://ipcheck.ing/#/)
 
 
 检查电脑ip：
 
 [https://ipinfo.io/](https://ipinfo.io/)
+
+
+[ [WPS Office 2019专业版+永久授权序列号激活码](https://www.77nn.net/3115.html)](https://www.77nn.net/3115.html)
+
+[WPS OFFICE 2019 专业版永久授权激活码序列号](https://gist.github.com/huazhanshen/a9f05a291440b8a4006d9d31b758f4c2)
+
 
 
 
@@ -191,6 +239,19 @@ PowerToys
 
 [https://sysin.org/archive/](https://sysin.org/archive/)
 >有window、mac相关软件应用、教程等
+
+
+
+MemoTrace
+
+[https://github.com/LC044/WeChatMsg](https://github.com/LC044/WeChatMsg)
+
+官网：[https://memotrace.cn/](https://memotrace.cn/)
+>提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
+
+![](https://memotrace.cn/img/why.gif)
+
+
 
 
 ## 阅读

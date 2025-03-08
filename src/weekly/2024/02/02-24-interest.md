@@ -106,6 +106,16 @@ SEO资源目录
 
 
 
+[https://github.com/usual2970/certimate](https://github.com/usual2970/certimate)
+
+>它能帮我们自动申请、部署和更新SSL证书，支持泛域名、多域名，覆盖20+域名托管商和50+部署目标，让证书管理彻底告别手动操作与过期忧虑。5分钟快速部署，支持二进制和Docker安装。
+
+![](https://camo.githubusercontent.com/17513c9661cd4965acfd4960ed67dbaea26262cef72a32e0a5004618b6a54e83/68747470733a2f2f692e696d6775722e636f6d2f344441554b45452e676966)
+
+
+
+
+
 [兴趣使然](https://www.yuque.com/hisnxg/fun)
 
 >兴趣捣鼓

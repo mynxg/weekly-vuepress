@@ -30,6 +30,28 @@ https://github.com/XiaomingX/ai-money-maker-handbook
 
 
 
+## 自媒体
+
+2025AI头条爆文，轻松变现
+
+[https://pan.quark.cn/s/0e396f3d1cba#/list/share](https://pan.quark.cn/s/0e396f3d1cba#/list/share)
+
+
+
+
+## 电商
+
+> 跨境电商（出海）
+
+
+工具：
+
+findniche：
+[https://findniche.com/en](https://findniche.com/en)
+>最佳一站式  ，代发货利基市场查找工具，适用于代发货业务460,000 多名代发货商正在使用 FindNiche 作为制胜的秘密武器！但他们永远不会告诉你。
+
+
+[电商相关平台](https://keney.notion.site/1ad72582274680f490abe556cae89690?pvs=4)
 
 
 

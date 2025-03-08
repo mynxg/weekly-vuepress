@@ -175,6 +175,16 @@ Notion-Next
 >这个不错，可以在线编写文章，文章存储在github仓库中，部署在cloudfare或vercel上即可，非常nice。
 
 
+小书匠
+
+[https://github.com/suziwen/markdownxiaoshujiang](https://github.com/suziwen/markdownxiaoshujiang)
+
+在线体验：[https://soft.xiaoshujiang.com/](https://soft.xiaoshujiang.com/)
+>小书匠是一款本地优先，去中心化，分布式，支持选择性同步的全平台覆盖知识管理笔记软件。
+
+![](https://private-user-images.githubusercontent.com/57370/271979020-de07ab2d-b30e-470c-8190-f8bb0416c43a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA4OTUyNDUsIm5iZiI6MTc0MDg5NDk0NSwicGF0aCI6Ii81NzM3MC8yNzE5NzkwMjAtZGUwN2FiMmQtYjMwZS00NzBjLTgxOTAtZjhiYjA0MTZjNDNhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzAyVDA1NTU0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFmM2NlZTcxNTViYTgwZTMxM2VmZmUwZWMwYmFhNjgyMWQyMmMxNzczNWQyMDhlOGU1ODFjZjBkMzQ5ZTkxMzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.0AIhP12K12TqrLllxUDZMQZiJG9LFvo3qIcwxKpwVMI)
+
+
 
 ## 其他
 
@@ -194,6 +204,19 @@ Notion-Next
 >帮助你永远摆脱 Markdown 查看器。
 
 ![](https://github.com/CalebJohn/joplin-rich-markdown/raw/main/examples/welcome.png)
+
+
+
+docmost
+
+[https://github.com/docmost/docmost](https://github.com/docmost/docmost)
+
+体验地址：[https://docmost.com/](https://docmost.com/)
+>Docmost 是一款开源的协作式维基和文档软件。它是 Confluence 和 Notion 的开源替代方案。
+
+![](https://docmost.com/screenshots/editor.png)
+
+
 
 
 

@@ -136,6 +136,46 @@ b站插件
 >只需对你的 B 站主页进行一些小的更改。
 
 
+elmo chat
+
+[https://www.elmo.chat/](https://www.elmo.chat/)
+>中英文网页/PDF 文件，都可以快速帮你做总结梳理、思维导图，极大加速阅读速度，其实豆包也可以的。
+
+
+
+[https://ogimage.download/](https://ogimage.download/)
+>快速简便的方法从任何 URL 下载开放图谱预览图像。只需点击下载，图像就会被保存。
+
+
+[https://github.com/kevinma2010/smart-tab-switcher](https://github.com/kevinma2010/smart-tab-switcher)
+>现代浏览器（Chrome、Firefox 和基于 Chromium 的浏览器）的快速标签切换和管理。
+
+>AITDK：网站SEO工具 
+>
+> Cursorful：录屏 (自带zoom效果) 
+> 
+>  DesignPicker Pro：网页字体+颜色 
+>  
+>  Elmo Chat：网页总结 
+>  
+>   Monica：网页翻译+对话  ，sider也可以的
+>   
+>    Obsidian Web Clipper：收藏网页到ob 
+>    
+>   Redplus：社媒发现 
+>   
+>    ShotEasy：截图美化 
+>    
+>   Twillot：推特管理
+>   
+>   Extensify: 管理你的所有扩展的状态
+>   
+>   Adblock Plus：屏蔽烦人的广告
+
+
+
+
+
 
 ## obsidian
 
@@ -165,4 +205,7 @@ b站插件
 ## 附件
 
 插件列表：[https://spiritfoxlab.ababtools.com/plugin-list](https://spiritfoxlab.ababtools.com/plugin-list)
+
+浏览器插件收录：[https://extensions101.com/](https://extensions101.com/)
+
 

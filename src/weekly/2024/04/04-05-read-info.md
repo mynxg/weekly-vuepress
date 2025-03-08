@@ -13,6 +13,7 @@ tags:
 
 
 ## 信息源
+>平台：X、即刻、Follow、小宇宙
 
 [我的信息源 2024](https://ameow.xyz/archives/info-source-2024)
 
@@ -108,4 +109,12 @@ design engineer 的周刊：
 [https://dingyi.beehiiv.com/p/1](https://dingyi.beehiiv.com/p/1)
 >官网：[https://news.dex.group/](https://news.dex.group/)
 >
+
+
+[https://fav0.com/posts/2025/028](https://fav0.com/posts/2025/028)
+>中英文周刊
+
+
+[https://weekly0.com/](https://weekly0.com/)
+>周刊导航收集了很多周刊
 
