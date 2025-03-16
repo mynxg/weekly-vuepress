@@ -176,6 +176,11 @@ Send
 
 
 
+[https://github.com/syncthing/syncthing](https://github.com/syncthing/syncthing)
+>Syncthing 是一个**持续文件同步程序**。它在两台或多台计算机之间同步文件。
+>
+>它能够在两台或更多电脑之间自动同步文件，而且不用把文件上传到什么云服务上，直接设备间互传，数据安全隐私！
+
 
 
 ## 录屏
@@ -250,6 +255,14 @@ MemoTrace
 >提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
 
 ![](https://memotrace.cn/img/why.gif)
+
+
+[https://github.com/xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)
+>从本地桌面访问您的整个服务器基础设施。
+>
+>支持：ssh、docker、k8s等
+
+![](https://github.com/xpipe-io/.github/raw/main/img/hub_shadow.png)
 
 
 

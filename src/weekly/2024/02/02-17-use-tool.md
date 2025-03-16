@@ -173,6 +173,24 @@ elmo chat
 >   Adblock Plus：屏蔽烦人的广告
 
 
+### x插件
+
+Minimal Theme for Twitter / X
+>页面主题插件
+
+
+[https://dessix.io/](https://dessix.io/)
+>收藏x上面的帖子、文章、Yutube等数据，其中AI总结还是支持DeepSeek、chatgpt。豆包插件貌似也支持收藏网页
+
+![](https://dessix.io/images/all-types.jpg)
+
+
+[https://www.twillot.com/](https://www.twillot.com/)
+>专注于同步X上的帖子、点赞、关注等数据
+
+![](https://www.twillot.com/home/search.webp)
+
+
 
 
 

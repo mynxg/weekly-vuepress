@@ -29,6 +29,11 @@ https://github.com/XiaomingX/ai-money-maker-handbook
 [小程序变现](https://www.youtube.com/watch?v=3RnS83JmjQU)
 
 
+网赚项目资源检索系统
+
+[https://pan.scydao.com/](https://pan.scydao.com/)
+>专注网盘资源 AI 智能检索，整合百万级云端文件库，为大学生创业 / 副业兼职提供精准资源支持。极速搜索 + 智能推荐系统，助您快速建立被动收入渠道，互联网创业从这里启航！
+
 
 ## 自媒体
 
@@ -56,6 +61,14 @@ findniche：
 
 
 
+
+## 工具
+
+
+Markdown 转知识卡片
+
+[https://md2card.com/zh](https://md2card.com/zh)
+>将 Markdown 文档转换为精美的知识卡片，支持多种风格
 
 
 
