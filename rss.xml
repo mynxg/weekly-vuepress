@@ -6,12 +6,147 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 08 Mar 2025 04:52:08 GMT</pubDate>
-    <lastBuildDate>Sat, 08 Mar 2025 04:52:08 GMT</lastBuildDate>
+    <pubDate>Sun, 16 Mar 2025 15:49:08 GMT</pubDate>
+    <lastBuildDate>Sun, 16 Mar 2025 15:49:08 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
     <category>工具</category>
+    <item>
+      <title>03-15-倚楼听风</title>
+      <link>https://weekly.nnxx.me/weekly/2025/03-15-%E5%80%9A%E6%A5%BC%E5%90%AC%E9%A3%8E.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/03-15-%E5%80%9A%E6%A5%BC%E5%90%AC%E9%A3%8E.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">03-15-倚楼听风</source>
+      <description>分享、实用、有趣、共勉 AI https://flowith.io/ 新的 AI Agent 工具 https://www.finseo.ai/ Finseo 是一个由 AI 驱动的 SEO 平台，提供关键字研究、内容优化、视觉生成和性能跟踪功能，帮助提升 SEO 策略。 https://getstream.io/blog/cursor-ai-larg...</description>
+      <category>周报</category>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p><a href="https://flowith.io/" target="_blank" rel="noopener noreferrer">https://flowith.io/</a></p>
+<blockquote>
+<p>新的 AI Agent 工具</p>
+</blockquote>
+<p><a href="https://www.finseo.ai/" target="_blank" rel="noopener noreferrer">https://www.finseo.ai/</a></p>
+<blockquote>
+<p>Finseo 是一个由 AI 驱动的 SEO 平台，提供关键字研究、内容优化、视觉生成和性能跟踪功能，帮助提升 SEO 策略。</p>
+</blockquote>
+<p><a href="https://getstream.io/blog/cursor-ai-large-projects/" target="_blank" rel="noopener noreferrer">https://getstream.io/blog/cursor-ai-large-projects/</a></p>
+<blockquote>
+<p>Cursor使用方法</p>
+</blockquote>
+<p><a href="https://www.coursera.org/learn/google-prompting-essentials#modules" target="_blank" rel="noopener noreferrer">https://www.coursera.org/learn/google-prompting-essentials#modules</a></p>
+<blockquote>
+<p>Google出了一个6个小时prompt教程</p>
+</blockquote>
+<p><a href="https://gist.github.com/hellokaton/88be6ff28965571e3e3741b2bbb8e242" target="_blank" rel="noopener noreferrer">https://gist.github.com/hellokaton/88be6ff28965571e3e3741b2bbb8e242</a></p>
+<blockquote>
+<p>言外之意，当你说一句话，或者发送一个问号，揣摩你要说的意思。</p>
+</blockquote>
+<p><a href="https://mp.weixin.qq.com/s/f1IozQKgIEDODfLRP5E2qg" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/f1IozQKgIEDODfLRP5E2qg</a></p>
+<blockquote>
+<p>一键搞定、100%成功、80老太都能操作，宝藏提示词将你的任何内容生成网页</p>
+<p>案例：<a href="https://lisa94destiny.github.io" target="_blank" rel="noopener noreferrer">https://lisa94destiny.github.io</a></p>
+<p>案例2：<a href="https://qingyuano.github.io/doc-to-website/" target="_blank" rel="noopener noreferrer">https://qingyuano.github.io/doc-to-website/</a></p>
+</blockquote>
+<p><a href="https://www.yourware.so/" target="_blank" rel="noopener noreferrer">https://www.yourware.so/</a></p>
+<blockquote>
+<p>可以将代码，渲染到页面，并分享出去</p>
+</blockquote>
+<h2>随便看看</h2>
+<p><a href="https://similarlabs.com/zh" target="_blank" rel="noopener noreferrer">https://similarlabs.com/zh</a></p>
+<blockquote>
+<p>探索&nbsp;3525&nbsp;AI 网站  洞察&nbsp;需求和流量</p>
+</blockquote>
+<p><a href="https://topindie.dev/" target="_blank" rel="noopener noreferrer">https://topindie.dev/</a></p>
+<blockquote>
+<p>产品收录网址，类似的产品很多</p>
+</blockquote>
+<p><a href="https://douyinradar.pigshorts.com" target="_blank" rel="noopener noreferrer">https://douyinradar.pigshorts.com</a></p>
+<blockquote>
+<p>抖音热点推送</p>
+</blockquote>
+<p><a href="https://postspark.app/" target="_blank" rel="noopener noreferrer">https://postspark.app/</a></p>
+<blockquote>
+<p>PostSpark是一个应用程序，您可以使用它创建漂亮的样机、屏幕截图和社交媒体帖子图片。它具有强大的功能和易于使用的界面。</p>
+</blockquote>
+<p><a href="https://www.ray.so/" target="_blank" rel="noopener noreferrer">https://www.ray.so/</a></p>
+<p>github地址：<a href="https://www.ray.so/" target="_blank" rel="noopener noreferrer">https://www.ray.so/</a></p>
+<blockquote>
+<p>Ray.so是一个用于将代码转换为精美图片的工具。 你可以使用它来选择语法颜色、隐藏或显示背景，以及在深色和浅色窗口之间切换。</p>
+</blockquote>
+<p><a href="https://vividshare.io/" target="_blank" rel="noopener noreferrer">https://vividshare.io/</a></p>
+<blockquote>
+<p>你可以编辑这段文字，添加任何你想要的内容，并创建图片。</p>
+</blockquote>
+<p><a href="https://linktoshot.com/" target="_blank" rel="noopener noreferrer">https://linktoshot.com/</a></p>
+<blockquote>
+<p>类似的可以在线编辑图片</p>
+</blockquote>
+<p><a href="https://mono.cards/zh" target="_blank" rel="noopener noreferrer">https://mono.cards/zh</a></p>
+<blockquote>
+<p>制作你的物品明信片，让分享更出众。支持文章、音乐、视频、照片、地点、GitHub 等内容。</p>
+</blockquote>
+<p><a href="https://haowallpaper.com/" target="_blank" rel="noopener noreferrer">https://haowallpaper.com/</a></p>
+<blockquote>
+<p>壁纸、头衔等制作</p>
+</blockquote>
+<p><a href="https://www.transhumans.xyz/" target="_blank" rel="noopener noreferrer">https://www.transhumans.xyz/</a></p>
+<blockquote>
+<p>超越生物屏障的开源人物插画</p>
+</blockquote>
+<p><a href="https://clwy.cn/" target="_blank" rel="noopener noreferrer">https://clwy.cn/</a></p>
+<blockquote>
+<p>编程课程，有前端、后端、移动端等课程</p>
+</blockquote>
+<p>智能体全球创作大赛</p>
+<p><a href="https://agentga.me/" target="_blank" rel="noopener noreferrer">https://agentga.me/</a></p>
+<blockquote>
+<p>2025 年第一场智能体创作大赛，由 Flowith AI 联合微博 AI、小红书 科技薯和即刻共同推出，联合数十家科技媒体与博主作为评委嘉宾，一起完成这次智能体创作和分享盛事。参赛者将获得各大平台的百万流量支持更有机会获得现金大奖。</p>
+</blockquote>
+<h2>逛逛Github</h2>
+<p>Netease_url</p>
+<p><a href="https://github.com/Suxiaoqinx/Netease_url" target="_blank" rel="noopener noreferrer">https://github.com/Suxiaoqinx/Netease_url</a></p>
+<blockquote>
+<p>音乐解析，可以用于网易云无损解析</p>
+</blockquote>
+<p>xtool</p>
+<p><a href="https://www.xxoo.tools/" target="_blank" rel="noopener noreferrer">https://www.xxoo.tools/</a></p>
+<p>github地址：<a href="https://github.com/Go7hic/xxootools-web" target="_blank" rel="noopener noreferrer">https://github.com/Go7hic/xxootools-web</a></p>
+<blockquote>
+<p>一个简洁的工具箱合集，全部工具功能都在前端实现， 可以自己搭建顶部加 AD。 支持 PWA、深色模式、多语言，MIT 开源协议</p>
+</blockquote>
+<p><a href="https://github.com/JC0v0/Coze-on-Wechat" target="_blank" rel="noopener noreferrer">https://github.com/JC0v0/Coze-on-Wechat</a></p>
+<blockquote>
+<p>Coze-on-Wechat 是主要对接 Coze 平台开发的微信智能助手，支持大部分 Coze Bot 功能，文本回复，语音回复，发送链接，图片等等</p>
+</blockquote>
+<figure><img src="https://private-user-images.githubusercontent.com/108552928/412687373-aadf95b7-0291-4ff3-9f3d-1905e02eb93d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIxMzg5ODUsIm5iZiI6MTc0MjEzODY4NSwicGF0aCI6Ii8xMDg1NTI5MjgvNDEyNjg3MzczLWFhZGY5NWI3LTAyOTEtNGZmMy05ZjNkLTE5MDVlMDJlYjkzZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxNlQxNTI0NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNmI5MDlhMGVlMmE3ZWM1ZDRjZjE4NDAxOTU2YmViYmQ1MTcyNzM3M2UxMDNlOGQ1YmM5ZDQzM2UxNTUzOTU1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.pxE-4Z2yA39txRT2ILXdqhfd4E-9X7v-YwOqykzhC24" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>blog</h2>
+<p>晓晴博客</p>
+<p><a href="https://www.toubiec.cn/" target="_blank" rel="noopener noreferrer">https://www.toubiec.cn/</a></p>
+<p>Tunan</p>
+<p><a href="https://www.tunan.fun/" target="_blank" rel="noopener noreferrer">https://www.tunan.fun/</a></p>
+<p><a href="https://blogs.maysky.com/" target="_blank" rel="noopener noreferrer">https://blogs.maysky.com/</a></p>
+<blockquote>
+<p>AI写的文章</p>
+</blockquote>
+<p><a href="https://v2ex.com/t/1117701" target="_blank" rel="noopener noreferrer">AI Agent Integration / Engineering 远程实习/兼职招聘 60 - 120 RMB 每小时</a></p>
+<blockquote>
+<p>需要有优秀的英文阅读能力，学好英语是挺重要的。</p>
+</blockquote>
+<p><a href="https://www.pavlobondarenko.net/" target="_blank" rel="noopener noreferrer">https://www.pavlobondarenko.net/</a></p>
+<p><a href="https://fenderisfine.icu/" target="_blank" rel="noopener noreferrer">https://fenderisfine.icu/</a></p>
+<blockquote>
+<p>后台Go写的，占用内存极低，<a href="https://github.com/Done-0/Jank" target="_blank" rel="noopener noreferrer">https://github.com/Done-0/Jank</a></p>
+</blockquote>
+<p><a href="https://www.tunan.fun/" target="_blank" rel="noopener noreferrer">https://www.tunan.fun/</a></p>
+<blockquote>
+<p>使用go写的，<a href="https://github.com/here-tunan/tunan-blog" target="_blank" rel="noopener noreferrer">https://github.com/here-tunan/tunan-blog</a></p>
+</blockquote>
+]]></content:encoded>
+      <enclosure url="https://private-user-images.githubusercontent.com/108552928/412687373-aadf95b7-0291-4ff3-9f3d-1905e02eb93d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIxMzg5ODUsIm5iZiI6MTc0MjEzODY4NSwicGF0aCI6Ii8xMDg1NTI5MjgvNDEyNjg3MzczLWFhZGY5NWI3LTAyOTEtNGZmMy05ZjNkLTE5MDVlMDJlYjkzZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxNlQxNTI0NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNmI5MDlhMGVlMmE3ZWM1ZDRjZjE4NDAxOTU2YmViYmQ1MTcyNzM3M2UxMDNlOGQ1YmM5ZDQzM2UxNTUzOTU1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.pxE-4Z2yA39txRT2ILXdqhfd4E-9X7v-YwOqykzhC24" type="image/"/>
+    </item>
     <item>
       <title>03-08-静水流深</title>
       <link>https://weekly.nnxx.me/weekly/2025/03-08-%E9%9D%99%E6%B0%B4%E6%B5%81%E6%B7%B1.html</link>
@@ -1116,6 +1251,11 @@
 <p>ezBookkeeping 是一款轻量级的个人记账应用程序，可以由用户自己托管。它几乎可以部署在所有平台上，包括在 x86、amd64 和 ARM 架构上的 Windows、macOS 和 Linux。你甚至可以将其部署在树莓派设备上。它还支持许多不同的数据库，包括 sqlite 和 mysql。借助 Docker，你只需一个命令即可完成部署，无需复杂的配置。</p>
 </blockquote>
 <figure><img src="https://raw.githubusercontent.com/wiki/mayswind/ezbookkeeping/img/desktop/en.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>流记</p>
+<p><a href="https://www.flowm.cc/" target="_blank" rel="noopener noreferrer">https://www.flowm.cc/</a></p>
+<blockquote>
+<p>轻复式AI驱动记账软件</p>
+</blockquote>
 ]]></content:encoded>
       <enclosure url="https://github.com/Byaidu/PDFMathTranslate/raw/main/docs/images/preview.gif" type="image/gif"/>
     </item>
@@ -2366,6 +2506,12 @@ Vimium</p>
 <blockquote>
 <p>行测、申论</p>
 </blockquote>
+<p>家族族谱</p>
+<p><a href="https://github.com/qiaoshouqing/familytree" target="_blank" rel="noopener noreferrer">https://github.com/qiaoshouqing/familytree</a></p>
+<p>体验站：<a href="https://familytree.pomodiary.com/" target="_blank" rel="noopener noreferrer">https://familytree.pomodiary.com/</a></p>
+<blockquote>
+<p>这是一个基于&nbsp;<a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">Next.js</a>&nbsp;开发的家族谱展示项目，可以用来展示和管理您的家族历史和成员关系。</p>
+</blockquote>
 ]]></content:encoded>
     </item>
     <item>
@@ -2612,7 +2758,77 @@ Vimium</p>
 <p>不错AI信息源：<a href="https://pmplanet.cn/fe9a6051d6cc4d0d957cfc7b631a53f0" target="_blank" rel="noopener noreferrer">https://pmplanet.cn/fe9a6051d6cc4d0d957cfc7b631a53f0</a></p>
 </blockquote>
 <p><a href="https://mp.weixin.qq.com/s/070zb9RWq1TVlBkKt7usgw" target="_blank" rel="noopener noreferrer">《李继刚全网首播干货分享整理 | Prompt（提示词）的道和术，另附分享彩蛋》</a></p>
-]]></content:encoded>
+<p><a href="https://mp.weixin.qq.com/s/mUThidjurJkLauQDU8ceCQ" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/mUThidjurJkLauQDU8ceCQ</a></p>
+<blockquote>
+<p>4 段 Prompt 提示词，生成PPT、生成3D动画，生成网站，生成万物</p>
+</blockquote>
+<h2>提示词</h2>
+<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" data-title="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>Role：你是最擅长内容和数据视觉化、信息图展示的大师。 Task： 1. 请分析文章内容，用Mermaid语法创建适当的图表来可视化其中的关键信息，选择最合适3-5种图表类型展示 1. 如果内容包含步骤或流程，请创建流程图(flowchart) 2. 如果内容描述时间线或事件序列，请创建时序图(timeline)或甘特图(gantt) 3. 如果内容展示组织结构或层次关系，请创建组织结构图 4. 如果内容包含实体间的关系，请创建实体关系图(ER diagram) 5. 如果内容包含类或对象间的关系，请创建类图(class diagram) 6. 如果内容包含状态转换，请创建状态图(state diagram) 7. 如果内容包含顺序交互，请创建序列图(sequence diagram) 2. 整理网站核心内容和观点，生成文本格式的思维导图。放在 ```代码块中。 Notice： 1. 请确保图表: - 图表要显示在移动版，所以宽度有限，如横向生成太宽，改成纵向图表，如flowchart TD/TB。 - 清晰展示文章中的主要概念和关系 - 通过颜色和多种样式增强可读性，不要超过4种颜色，但也别太单调。 - 包含简洁的标签和描述 - 遵循Mermaid语法规范 - 根据文本中的数据或关键点，用文本符号绘制合适的Mermaid图表。 - 如果绘制不出Mermaid图，用文本图代替，不能留空。 2. 直接输出内容，不解读图表选择逻辑，也不需要任何引导语，比如“好的，我来...” 3. 生成的图表，用户看完有恍然大悟感觉，甚至认知升级，影响他的思想和行动。 4. 你每次都会CoT思考，梳理清楚内容/结构后，才开始绘图。 Format： ### 一、&lt;Title 1&gt; &lt;图表1&gt; ### 二、&lt;Title 2&gt; &lt;图表2&gt; ### 三、&lt;Title 3&gt; &lt;图表3&gt; ... ### 内容结构 待处理文章内容: {{ content }}</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><blockquote>
+<p>参考：<a href="https://refly.ai/share/answer/skr-tppcrfvlt337n5b2ppxbbq12" target="_blank" rel="noopener noreferrer">https://refly.ai/share/answer/skr-tppcrfvlt337n5b2ppxbbq12</a></p>
+</blockquote>
+<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" data-title="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>你是一名专业的网页设计师和前端开发专家，对现代 Web 设计趋势和最佳实践有深入理解，尤其擅长创造具有极高审美价值的用户界面。你的设计作品不仅功能完备，而且在视觉上令人惊叹，能够给用户带来强烈的"Aha-moment"体验。  </span></span>
+<span class="line"><span>  </span></span>
+<span class="line"><span>请根据最后提供的内容，设计一个**美观、现代、易读**的"中文"可视化网页。请充分发挥你的专业判断，选择最能体现内容精髓的设计风格、配色方案、排版和布局。  </span></span>
+<span class="line"><span>  </span></span>
+<span class="line"><span>**设计目标：**  </span></span>
+<span class="line"><span>  </span></span>
+<span class="line"><span>* &nbsp; **视觉吸引力：** 创造一个在视觉上令人印象深刻的网页，能够立即吸引用户的注意力，并激发他们的阅读兴趣。  </span></span>
+<span class="line"><span>* &nbsp; **可读性：** 确保内容清晰易读，无论在桌面端还是移动端，都能提供舒适的阅读体验。  </span></span>
+<span class="line"><span>* &nbsp; **信息传达：** 以一种既美观又高效的方式呈现信息，突出关键内容，引导用户理解核心思想。  </span></span>
+<span class="line"><span>* &nbsp; **情感共鸣:** 通过设计激发与内容主题相关的情感（例如，对于励志内容，激发积极向上的情绪；对于严肃内容，营造庄重、专业的氛围）。  </span></span>
+<span class="line"><span>  </span></span>
+<span class="line"><span>**设计指导（请灵活运用，而非严格遵循）：**  </span></span>
+<span class="line"><span>  </span></span>
+<span class="line"><span>* &nbsp; **整体风格：** 可以考虑杂志风格、出版物风格，或者其他你认为合适的现代 Web 设计风格。目标是创造一个既有信息量，又有视觉吸引力的页面，就像一本精心设计的数字杂志或一篇深度报道。  </span></span>
+<span class="line"><span>* &nbsp; **Hero 模块（可选，但强烈建议）：** 如果你认为合适，可以设计一个引人注目的 Hero 模块。它可以包含大标题、副标题、一段引人入胜的引言，以及一张高质量的背景图片或插图。  </span></span>
+<span class="line"><span>* &nbsp; **排版：**  </span></span>
+<span class="line"><span>&nbsp; &nbsp; * &nbsp; 精心选择字体组合（衬线和无衬线），以提升中文阅读体验。  </span></span>
+<span class="line"><span>&nbsp; &nbsp; * &nbsp; 利用不同的字号、字重、颜色和样式，创建清晰的视觉层次结构。  </span></span>
+<span class="line"><span>&nbsp; &nbsp; * &nbsp; 可以考虑使用一些精致的排版细节（如首字下沉、悬挂标点）来提升整体质感。  </span></span>
+<span class="line"><span>&nbsp; &nbsp; * &nbsp; Font-Awesome中有很多图标，选合适的点缀增加趣味性。  </span></span>
+<span class="line"><span>* &nbsp; **配色方案：**  </span></span>
+<span class="line"><span>&nbsp; &nbsp; * &nbsp; 选择一套既和谐又具有视觉冲击力的配色方案。  </span></span>
+<span class="line"><span>&nbsp; &nbsp; * &nbsp; 考虑使用高对比度的颜色组合来突出重要元素。  </span></span>
+<span class="line"><span>&nbsp; &nbsp; * &nbsp; 可以探索渐变、阴影等效果来增加视觉深度。  </span></span>
+<span class="line"><span>* &nbsp; **布局：**  </span></span>
+<span class="line"><span>&nbsp; &nbsp; * &nbsp; 使用基于网格的布局系统来组织页面元素。  </span></span>
+<span class="line"><span>&nbsp; &nbsp; * &nbsp; 充分利用负空间（留白），创造视觉平衡和呼吸感。  </span></span>
+<span class="line"><span>&nbsp; &nbsp; * &nbsp; 可以考虑使用卡片、分割线、图标等视觉元素来分隔和组织内容。  </span></span>
+<span class="line"><span>* &nbsp; **调性：**整体风格精致, 营造一种高级感。  </span></span>
+<span class="line"><span>* &nbsp; **数据可视化：**&nbsp;  </span></span>
+<span class="line"><span>&nbsp; &nbsp; * &nbsp; 设计一个或多个数据可视化元素，展示Naval思想的关键概念和它们之间的关系。  </span></span>
+<span class="line"><span>&nbsp; &nbsp; * &nbsp; 可以考虑使用思想导图、概念关系图、时间线或主题聚类展示等方式。  </span></span>
+<span class="line"><span>&nbsp; &nbsp; * &nbsp; 确保可视化设计既美观又有洞察性，帮助用户更直观地理解Naval思想体系的整体框架。  </span></span>
+<span class="line"><span>&nbsp; &nbsp; * &nbsp; 使用Mermaid.js来实现交互式图表，允许用户探索不同概念之间的关联。  </span></span>
+<span class="line"><span>  </span></span>
+<span class="line"><span>**技术规范：**  </span></span>
+<span class="line"><span>  </span></span>
+<span class="line"><span>* &nbsp; 使用 HTML5、Font Awesome、Tailwind CSS 和必要的 JavaScript。  </span></span>
+<span class="line"><span>&nbsp; &nbsp; * &nbsp; Font Awesome: [https://cdn.staticfile.org/font-awesome/6.4.0/css/all.min.css](https://cdn.staticfile.org/font-awesome/6.4.0/css/all.min.css)  </span></span>
+<span class="line"><span>&nbsp; &nbsp; * &nbsp; Tailwind CSS: [https://cdn.staticfile.org/tailwindcss/2.2.19/tailwind.min.css](https://cdn.staticfile.org/tailwindcss/2.2.19/tailwind.min.css)  </span></span>
+<span class="line"><span>&nbsp; &nbsp; * &nbsp; 非中文字体: [https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;600;700&amp;family=Noto+Sans+SC:wght@300;400;500;700&amp;display=swap](https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;600;700&amp;family=Noto+Sans+SC:wght@300;400;500;700&amp;display=swap)  </span></span>
+<span class="line"><span>&nbsp; &nbsp; * &nbsp; `font-family: Tahoma,Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;`  </span></span>
+<span class="line"><span>&nbsp; &nbsp; * &nbsp; Mermaid: [https://cdn.jsdelivr.net/npm/mermaid@latest/dist/mermaid.min.js](https://cdn.jsdelivr.net/npm/mermaid@latest/dist/mermaid.min.js)  </span></span>
+<span class="line"><span>* &nbsp; 实现完整的深色/浅色模式切换功能，默认跟随系统设置，并允许用户手动切换。  </span></span>
+<span class="line"><span>* &nbsp; 代码结构清晰、语义化，包含适当的注释。  </span></span>
+<span class="line"><span>* &nbsp; 实现完整的响应式，必须在所有设备上（手机、平板、桌面）完美展示。  </span></span>
+<span class="line"><span>  </span></span>
+<span class="line"><span>**额外加分项：**  </span></span>
+<span class="line"><span>  </span></span>
+<span class="line"><span>* &nbsp; **微交互：** 添加微妙而有意义的微交互效果来提升用户体验（例如，按钮悬停效果、卡片悬停效果、页面滚动效果）。  </span></span>
+<span class="line"><span>* &nbsp; **补充信息：** 可以主动搜索并补充其他重要信息或模块（例如，关键概念的解释、相关人物的介绍等），以增强用户对内容的理解。  </span></span>
+<span class="line"><span>* &nbsp; **延伸阅读:** 分析文件后，提供一份"进一步阅读"的简短清单，推荐 5 本最佳相关书籍或论文，并提供简要说明或链接。  </span></span>
+<span class="line"><span>  </span></span>
+<span class="line"><span>**输出要求：**  </span></span>
+<span class="line"><span>  </span></span>
+<span class="line"><span>* &nbsp; 提供一个完整、可运行的单一 HTML 文件，其中包含所有必要的 CSS 和 JavaScript。  </span></span>
+<span class="line"><span>* &nbsp; 确保代码符合 W3C 标准，没有错误或警告。  </span></span>
+<span class="line"><span>  </span></span>
+<span class="line"><span>请你像一个真正的设计师一样思考，充分发挥你的专业技能和创造力，打造一个令人惊艳的网页！  </span></span>
+<span class="line"><span>  </span></span>
+<span class="line"><span>待处理内容：{{content}}</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
     </item>
     <item>
@@ -2620,7 +2836,7 @@ Vimium</p>
       <link>https://weekly.nnxx.me/weekly/2024/04/04-13-Earn-extra-income.html</link>
       <guid>https://weekly.nnxx.me/weekly/2024/04/04-13-Earn-extra-income.html</guid>
       <source url="https://weekly.nnxx.me/rss.xml">04-13-Earn-extra-income</source>
-      <description>分享、实用、有趣、共勉 ai副业 https://github.com/XiaomingX/ai-money-maker-handbook ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。 变现 小程序变现 自媒体 2025AI头条爆文，轻松变现 https://pan.quark.cn/s/0e396f3d1cba#/list/...</description>
+      <description>分享、实用、有趣、共勉 ai副业 https://github.com/XiaomingX/ai-money-maker-handbook ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。 变现 小程序变现 网赚项目资源检索系统 https://pan.scydao.com/ 专注网盘资源 AI 智能检索，整合百万级云端文件库，为...</description>
       <category>周报</category>
       <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
@@ -2634,6 +2850,11 @@ Vimium</p>
 </blockquote>
 <h2>变现</h2>
 <p><a href="https://www.youtube.com/watch?v=3RnS83JmjQU" target="_blank" rel="noopener noreferrer">小程序变现</a></p>
+<p>网赚项目资源检索系统</p>
+<p><a href="https://pan.scydao.com/" target="_blank" rel="noopener noreferrer">https://pan.scydao.com/</a></p>
+<blockquote>
+<p>专注网盘资源 AI 智能检索，整合百万级云端文件库，为大学生创业 / 副业兼职提供精准资源支持。极速搜索 + 智能推荐系统，助您快速建立被动收入渠道，互联网创业从这里启航！</p>
+</blockquote>
 <h2>自媒体</h2>
 <p>2025AI头条爆文，轻松变现</p>
 <p><a href="https://pan.quark.cn/s/0e396f3d1cba#/list/share" target="_blank" rel="noopener noreferrer">https://pan.quark.cn/s/0e396f3d1cba#/list/share</a></p>
@@ -2648,6 +2869,12 @@ Vimium</p>
 <p>最佳一站式  ，代发货利基市场查找工具，适用于代发货业务460,000 多名代发货商正在使用 FindNiche 作为制胜的秘密武器！但他们永远不会告诉你。</p>
 </blockquote>
 <p><a href="https://keney.notion.site/1ad72582274680f490abe556cae89690?pvs=4" target="_blank" rel="noopener noreferrer">电商相关平台</a></p>
+<h2>工具</h2>
+<p>Markdown 转知识卡片</p>
+<p><a href="https://md2card.com/zh" target="_blank" rel="noopener noreferrer">https://md2card.com/zh</a></p>
+<blockquote>
+<p>将 Markdown 文档转换为精美的知识卡片，支持多种风格</p>
+</blockquote>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
     </item>
@@ -3109,6 +3336,11 @@ screenstudio</p>
 <p>特点：简单、私密的文件共享</p>
 <p>镜像站：<a href="https://gitlab.com/timvisee/send" target="_blank" rel="noopener noreferrer">https://gitlab.com/timvisee/send</a></p>
 </blockquote>
+<p><a href="https://github.com/syncthing/syncthing" target="_blank" rel="noopener noreferrer">https://github.com/syncthing/syncthing</a></p>
+<blockquote>
+<p>Syncthing 是一个<strong>持续文件同步程序</strong>。它在两台或多台计算机之间同步文件。</p>
+<p>它能够在两台或更多电脑之间自动同步文件，而且不用把文件上传到什么云服务上，直接设备间互传，数据安全隐私！</p>
+</blockquote>
 <h2>录屏</h2>
 <p>gif</p>
 <p><a href="https://github.com/aardio/gif123" target="_blank" rel="noopener noreferrer">https://github.com/aardio/gif123</a></p>
@@ -3152,6 +3384,12 @@ screenstudio</p>
 <p>提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手</p>
 </blockquote>
 <figure><img src="https://memotrace.cn/img/why.gif" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/xpipe-io/xpipe" target="_blank" rel="noopener noreferrer">https://github.com/xpipe-io/xpipe</a></p>
+<blockquote>
+<p>从本地桌面访问您的整个服务器基础设施。</p>
+<p>支持：ssh、docker、k8s等</p>
+</blockquote>
+<figure><img src="https://github.com/xpipe-io/.github/raw/main/img/hub_shadow.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <h2>阅读</h2>
 <blockquote>
 <p>app：厚墨</p>
@@ -3366,6 +3604,21 @@ Redis服务</p>
 <p>Extensify: 管理你的所有扩展的状态</p>
 <p>Adblock Plus：屏蔽烦人的广告</p>
 </blockquote>
+<h3>x插件</h3>
+<p>Minimal Theme for Twitter / X</p>
+<blockquote>
+<p>页面主题插件</p>
+</blockquote>
+<p><a href="https://dessix.io/" target="_blank" rel="noopener noreferrer">https://dessix.io/</a></p>
+<blockquote>
+<p>收藏x上面的帖子、文章、Yutube等数据，其中AI总结还是支持DeepSeek、chatgpt。豆包插件貌似也支持收藏网页</p>
+</blockquote>
+<figure><img src="https://dessix.io/images/all-types.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://www.twillot.com/" target="_blank" rel="noopener noreferrer">https://www.twillot.com/</a></p>
+<blockquote>
+<p>专注于同步X上的帖子、点赞、关注等数据</p>
+</blockquote>
+<figure><img src="https://www.twillot.com/home/search.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <h2>obsidian</h2>
 <p><a href="https://www.ygeeker.com/product/flowferry" target="_blank" rel="noopener noreferrer">https://www.ygeeker.com/product/flowferry</a></p>
 <blockquote>
@@ -3446,6 +3699,10 @@ Redis服务</p>
 <p><a href="https://www.youtube.com/watch?v=3QvisCATm6I" target="_blank" rel="noopener noreferrer">【收藏向】相机入门第一步！认识相机、明确需求、打破幻想！</a></p>
 <blockquote>
 <p>教小白如何选相机，避免被小红书洗脑</p>
+</blockquote>
+<p><a href="https://github.com/skywind3000/preserve-cd" target="_blank" rel="noopener noreferrer">https://github.com/skywind3000/preserve-cd</a></p>
+<blockquote>
+<p>绝版游戏保护工程</p>
 </blockquote>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
