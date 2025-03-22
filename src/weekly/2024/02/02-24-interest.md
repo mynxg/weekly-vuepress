@@ -114,6 +114,9 @@ SEO资源目录
 
 
 
+[https://www.yt-blog.top/9952/](https://www.yt-blog.top/9952/)
+>vercel部署web，国内访问加速技巧
+
 
 
 [兴趣使然](https://www.yuque.com/hisnxg/fun)

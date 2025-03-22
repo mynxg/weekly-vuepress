@@ -219,6 +219,15 @@ Minimal Theme for Twitter / X
 
 
 
+## figma插件
+
+
+Evoker——调用Google Gemini生成图片的 Figma 插件
+
+[https://www.figma.com/community/plugin/1483385411494564236/evoker](https://www.figma.com/community/plugin/1483385411494564236/evoker)
+>输入文本描述即可智能生成图标、界面、插图等视觉元素；当然也可以输入文本让它把 Figma 里的位图给改了，实现用嘴 P 图。
+
+
 
 ## 附件
 
