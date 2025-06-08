@@ -7,8 +7,7 @@ tags:
   - PC
   - soft
 ---
-
-·![](https://img.nnxx.me/file/5a500390f31add8c94c98.jpg)
+![](https://img.nnxx.me/file/5a500390f31add8c94c98.jpg)
 
 > 分享、实用、有趣、共勉
 
@@ -133,8 +132,21 @@ TwitDloader-Extension
 
 
 
+[https://github.com/iawia002/lux](https://github.com/iawia002/lux)
+>用 Go 编写的快速简单的视频下载库和命令行工具
 
 
+[https://www.datatool.vip/](https://www.datatool.vip/)
+>视频下载工具
+
+cobalt
+
+[https://github.com/imputnet/cobalt](https://github.com/imputnet/cobalt)
+> 支持 B 站、小红书、Tiktok、VK、YouTube 等 20+ 在线视频
+
+
+[https://greenvideo.cc/](https://greenvideo.cc/)
+>
 
 ## 文件传输
 
@@ -336,3 +348,13 @@ MemoTrace
 [https://github.com/gedoor/legado](https://github.com/gedoor/legado)
 >阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
+
+[https://github.com/readest/readest](https://github.com/readest/readest)
+>Readest 是一款功能丰富的现代电子书阅读器，专为狂热的读者设计，提供无缝跨平台访问、强大的工具和直观的界面，提升您的阅读体验。
+
+![](https://github.com/readest/readest/raw/main/data/screenshots/landing_all_platforms.png)
+
+
+epub 阅读器
+
+[https://johnfactotum.github.io/foliate/](https://johnfactotum.github.io/foliate/)

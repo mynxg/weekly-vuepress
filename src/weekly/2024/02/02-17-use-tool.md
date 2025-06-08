@@ -219,6 +219,12 @@ Minimal Theme for Twitter / X
 
 
 
+Obsidian 标签插件：
+
+[https://github.com/Eflores89/obsidian-reference-tags-plugin](https://github.com/Eflores89/obsidian-reference-tags-plugin)
+
+
+
 ## figma插件
 
 

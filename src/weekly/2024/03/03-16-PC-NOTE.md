@@ -65,6 +65,11 @@ neurapress
 >飞书文档转公众号排版工具
 
 
+[https://github.com/wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter)
+[https://exporter.wxdown.online/](https://exporter.wxdown.online/)
+>一个在线的微信公众号文章下载工具，支持下载阅读量与评论数据，支持私有化部署
+
+
 ## 同步助手
 
 

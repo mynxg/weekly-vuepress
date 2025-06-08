@@ -119,3 +119,7 @@ design engineer 的周刊：
 >周刊导航收集了很多周刊
 
 
+[https://github.com/521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
+>分享 GitHub 上有趣、入门级的开源项目。
+
+

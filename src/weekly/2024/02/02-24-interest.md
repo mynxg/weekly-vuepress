@@ -54,6 +54,12 @@ Zeabur
 [https://railway.app/](https://railway.app/)  
 
 
+[https://us-east-1.run.claw.cloud/](https://us-east-1.run.claw.cloud/)
+
+文档：[https://docs.run.claw.cloud/](https://docs.run.claw.cloud/)
+>服务送5美元，可以部署很多服务
+
+
 
 
 ##  其他服务
@@ -82,6 +88,9 @@ mogondb
 
 >提供免费的mogondb  
 
+
+[https://justhost.asia/en](https://justhost.asia/en)
+>VPS购买，比较便宜的
 
 ## SEO
 
