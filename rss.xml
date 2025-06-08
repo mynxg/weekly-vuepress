@@ -6,17 +6,176 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 08 Jun 2025 14:33:26 GMT</pubDate>
-    <lastBuildDate>Sun, 08 Jun 2025 14:33:26 GMT</lastBuildDate>
+    <pubDate>Sun, 08 Jun 2025 16:05:41 GMT</pubDate>
+    <lastBuildDate>Sun, 08 Jun 2025 16:05:41 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
     <category>工具</category>
     <item>
-      <title>03-29-夏浅话残</title>
-      <link>https://weekly.nnxx.me/weekly/2025/04-05-%E4%BA%94%E6%9B%B4%E5%87%8B%E8%90%BD.html</link>
-      <guid>https://weekly.nnxx.me/weekly/2025/04-05-%E4%BA%94%E6%9B%B4%E5%87%8B%E8%90%BD.html</guid>
-      <source url="https://weekly.nnxx.me/rss.xml">03-29-夏浅话残</source>
+      <title>05-07-五月未了</title>
+      <link>https://weekly.nnxx.me/weekly/2025/05-07-%E4%BA%94%E6%9C%88%E6%9C%AA%E4%BA%86.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/05-07-%E4%BA%94%E6%9C%88%E6%9C%AA%E4%BA%86.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">05-07-五月未了</source>
+      <description>分享、实用、有趣、共勉 AI anymodel https://app.anymodel.xyz/ 体验Claude 3.5/3.7模型 augmentcode augmentcode.com 在VScode编辑器中使用AI Agent插件，使用起来还不错，感觉可以跟Cursor有的比了 地址: app.augmentcode.com https://...</description>
+      <category>周报</category>
+      <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p>anymodel</p>
+<p><a href="https://app.anymodel.xyz/" target="_blank" rel="noopener noreferrer">https://app.anymodel.xyz/</a></p>
+<blockquote>
+<p>体验Claude 3.5/3.7模型</p>
+</blockquote>
+<p>augmentcode</p>
+<p><a href="https://www.augmentcode.com/product" target="_blank" rel="noopener noreferrer">augmentcode.com</a></p>
+<blockquote>
+<p>在VScode编辑器中使用AI Agent插件，使用起来还不错，感觉可以跟Cursor有的比了</p>
+<p>地址: <a href="app.augmentcode.com">app.augmentcode.com</a></p>
+</blockquote>
+<p><a href="https://firebase.studio/" target="_blank" rel="noopener noreferrer">https://firebase.studio/</a></p>
+<blockquote>
+<p>全栈AI 工作区 Firebase Studio 借助人工智能代理加速您的整个开发生命周期。在一处即可构建后端、前端和移动应用程序。</p>
+</blockquote>
+<p><a href="https://github.com/browser-use/workflow-use" target="_blank" rel="noopener noreferrer">https://github.com/browser-use/workflow-use</a></p>
+<blockquote>
+<p>RPA 2.0  Workflow Use 正式支持 MCP Server</p>
+<ul>
+<li>使用 Browser Use，录制成 Workflow</li>
+<li>发布成 MCP Server，在 Cursor 等 MCP Client 中调用</li>
+<li>即使网站变更，也能自动修复 Workflow</li>
+</ul>
+</blockquote>
+<p><a href="https://github.com/unclecode/crawl4ai" target="_blank" rel="noopener noreferrer">https://github.com/unclecode/crawl4ai</a></p>
+<blockquote>
+<p>为大模型而生：生成 Markdown，专为 RAG 检索用（王炸功能） • 极速响应：性能高效，实时处理，速度提升 6 倍 • 浏览器控制：支持会话管理，代理设置，自定义 Hook，轻松访 问网页数据 • 启发式智能：采用先进算法实现高效信息提取，减少对大模型的 依赖和成本 • 开源可部署：无需 API Key，支持 Docker 和云端部署</p>
+</blockquote>
+<p><a href="https://github.com/jae-jae/fetcher-mcp" target="_blank" rel="noopener noreferrer">https://github.com/jae-jae/fetcher-mcp</a></p>
+<blockquote>
+<p>使用 Playwright 无头浏览器获取网页内容的 MCP 服务器。</p>
+</blockquote>
+<h2>随便看看</h2>
+<p><a href="https://docs.google.com/spreadsheets/d/1ZXBkT9UGQHqpNF3Sb2p0IMlfcTpksYRM/edit?gid=1602170042#gid=1602170042" target="_blank" rel="noopener noreferrer">叔叔项目跟踪表</a></p>
+<blockquote>
+<p>看着有点牛</p>
+</blockquote>
+<p>优质 Prompt 模板</p>
+<p><a href="https://www.promptrepo.net/explore" target="_blank" rel="noopener noreferrer">https://www.promptrepo.net/explore</a></p>
+<blockquote>
+<p>提示词收藏工具，不过再增加一个浏览器插件就完美了</p>
+</blockquote>
+<p><a href="https://promptup.net/" target="_blank" rel="noopener noreferrer">https://promptup.net/</a></p>
+<p><a href="https://github.com/google-labs-code/jules-awesome-list" target="_blank" rel="noopener noreferrer">https://github.com/google-labs-code/jules-awesome-list</a></p>
+<blockquote>
+<p>Jules 超棒提示词</p>
+</blockquote>
+<p><a href="https://www.deeplearning.ai/" target="_blank" rel="noopener noreferrer">https://www.deeplearning.ai/</a></p>
+<blockquote>
+<p>AI是新的电力。而你就是那束火花。很多MCP课程可以看看</p>
+</blockquote>
+<p><a href="https://pinebill.com/" target="_blank" rel="noopener noreferrer">https://pinebill.com/</a></p>
+<blockquote>
+<p>在线发票生成器</p>
+</blockquote>
+<p><a href="https://douyinradar.com/" target="_blank" rel="noopener noreferrer">https://douyinradar.com/</a></p>
+<blockquote>
+<p>抖音热点刚萌芽，你的通知已到达, 科技赋能 本地商家 | 领域达人</p>
+</blockquote>
+<p>YouTube Dubbing</p>
+<p><a href="https://www.youtube-dubbing.com/zh/" target="_blank" rel="noopener noreferrer">https://www.youtube-dubbing.com/zh/</a></p>
+<blockquote>
+<p>一键翻译油管等多个网站的外语视频，转化为中文等您熟悉语言的声音</p>
+</blockquote>
+<p><a href="https://mksaas.com/" target="_blank" rel="noopener noreferrer">https://mksaas.com/</a></p>
+<blockquote>
+<p>MkSaaS模板技术栈就用了better-auth，接入简单，使用简单，扩展性好。 搭配resend邮件服务，很快就能实现社媒登录、邮箱登录、邮箱验证、忘记密码、用户修改名字+头像等功能，这些功能MkSaaS模板全都内置了。</p>
+</blockquote>
+<p>复古主题 shadcn/UI：
+<a href="https://mksaas.com/docs/themes" target="_blank" rel="noopener noreferrer">https://mksaas.com/docs/themes</a></p>
+<p><a href="https://matsu-theme.vercel.app/" target="_blank" rel="noopener noreferrer">https://matsu-theme.vercel.app/</a></p>
+<blockquote>
+<p>Matsu-theme for shadcn/ui</p>
+</blockquote>
+<p>Claude 编程指南:</p>
+<p><a href="https://www.youware.com/project/6elrd9wpss" target="_blank" rel="noopener noreferrer">https://www.youware.com/project/6elrd9wpss</a></p>
+<p>Dia浏览器</p>
+<p><a href="https://www.diabrowser.com/finals" target="_blank" rel="noopener noreferrer">https://www.diabrowser.com/finals</a></p>
+<blockquote>
+<p>Dia 浏览器，目前只支持Mac，可以选择ARC浏览器</p>
+</blockquote>
+<h2>逛逛Github</h2>
+<p><a href="https://github.com/hanxi/xiaomusic" target="_blank" rel="noopener noreferrer">https://github.com/hanxi/xiaomusic</a></p>
+<p>文档：<a href="https://xdocs.hanxi.cc/" target="_blank" rel="noopener noreferrer">https://xdocs.hanxi.cc/</a></p>
+<blockquote>
+<p>使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。</p>
+</blockquote>
+<figure><img src="https://camo.githubusercontent.com/17812e3ff73bd9350e64b5cafbd833d465bcd34c43d736c76d20db19acc7351b/68747470733a2f2f646172746e6f64652e636f6d2f6272616e64696e672f444e2d4f70656e2d536f757263652d736d2e706e67" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>solstatus 服务器状态监控</p>
+<p><a href="https://github.com/unibeck/solstatus" target="_blank" rel="noopener noreferrer">https://github.com/unibeck/solstatus</a></p>
+<blockquote>
+<p>完全基于 Cloudflare 的高颜值 Uptime Monitor</p>
+<p>使用了 Workers、Durable Objects、 D1 。 技术栈选的 NextJS v15、shadcn、TailwindCSS v4 和 Drizzle</p>
+</blockquote>
+<figure><img src="https://github.com/unibeck/solstatus/raw/master/docs/dashboard-demo.gif" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>droidrun</p>
+<p><a href="https://github.com/droidrun/droidrun" target="_blank" rel="noopener noreferrer">https://github.com/droidrun/droidrun</a></p>
+<blockquote>
+<p>控制安卓机器的 Agent</p>
+</blockquote>
+<p><a href="https://github.com/szkane/ClashRuleSethttps://github.com/szkane/ClashRuleSet" target="_blank" rel="noopener noreferrer">https://github.com/szkane/ClashRuleSet</a></p>
+<blockquote>
+<p>分流规则</p>
+</blockquote>
+<p><a href="https://github.com/emacs-eaf/emacs-application-framework" target="_blank" rel="noopener noreferrer">https://github.com/emacs-eaf/emacs-application-framework</a></p>
+<blockquote>
+<p>EAF，一个彻底改变 Emacs 图形功能的可扩展框架</p>
+</blockquote>
+<p><a href="https://github.com/manateelazycat/lsp-bridge" target="_blank" rel="noopener noreferrer">https://github.com/manateelazycat/lsp-bridge</a></p>
+<blockquote>
+<p>一款速度极快的 Emacs 语言服务器协议（LSP）客户端</p>
+</blockquote>
+<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank" rel="noopener noreferrer">https://github.com/TauricResearch/TradingAgents</a></p>
+<blockquote>
+<p>一款多智能体交易系统：TradingAgents，它模拟真实的交易团队，通过分析、讨论和决策，来决定是否买卖股票 它有分析师、研究员、交易员、风险管理员几个智能体，综合财务数据、市场情绪、新闻报道等多个信息，智能体间进行动态讨论，进而做出全面合理的决策 比如，有的智能体认为股票值得买入，有的认为有风险，它们会通过辩论来达成一个最佳决策 可以自定义策略，你可以根据自己的交易风格和目标，调整智能体的行为，或者添加新智能体和功能模块 支持实时获取最新市场数据和缓存数据 系统基于LangGraph构建，它实验时使用的o1-preview和 gpt-4o作为深度思考和快速思考的模型</p>
+<p>其他：<a href="https://www.legendai.app/" target="_blank" rel="noopener noreferrer">https://www.legendai.app/</a></p>
+</blockquote>
+<figure><img src="https://github.com/TauricResearch/TradingAgents/raw/main/assets/schema.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://www.prompt-kit.com/" target="_blank" rel="noopener noreferrer">https://www.prompt-kit.com/</a></p>
+<blockquote>
+<p>一套用来构建AI应用的高质量组件，基于shadcn/ui 开发的！ 挺全的，什么chat、message、strem、reasoning、markdown渲染、JSX渲染等</p>
+</blockquote>
+<p><a href="https://github.com/stanford-oval/storm/" target="_blank" rel="noopener noreferrer">https://github.com/stanford-oval/storm/</a></p>
+<p><a href="https://storm.genie.stanford.edu/" target="_blank" rel="noopener noreferrer">https://storm.genie.stanford.edu/</a></p>
+<blockquote>
+<p>来自斯坦福大学开源的AI写报告工具——storm 这个工具可以结合网络搜索生成类似 wikipeida 风格的文章</p>
+</blockquote>
+<p><a href="https://github.com/vercel/ai-chatbot" target="_blank" rel="noopener noreferrer">https://github.com/vercel/ai-chatbot</a></p>
+<blockquote>
+<p>Web3项目，主流技术栈 Next 生态做的 ai chatbot 适合新手</p>
+</blockquote>
+<h2>blog</h2>
+<p><a href="https://go1coya2a7.feishu.cn/wiki/HuCTwaZdoiKg89kJU9CcxBoQnQb?table=tblPLjaDO1ylpVEA&amp;view=vewpL2trc9" target="_blank" rel="noopener noreferrer">https://go1coya2a7.feishu.cn/wiki/HuCTwaZdoiKg89kJU9CcxBoQnQb?table=tblPLjaDO1ylpVEA&amp;view=vewpL2trc9</a></p>
+<blockquote>
+<p>点子视频分析</p>
+</blockquote>
+<p><a href="https://www.reddit.com/r/PasswordManagers/comments/1k1daij/best_password_manager_list_comparison_table/" target="_blank" rel="noopener noreferrer">https://www.reddit.com/r/PasswordManagers/comments/1k1daij/best_password_manager_list_comparison_table/</a></p>
+<blockquote>
+<p>《2024年最佳密码管理器横向评测》</p>
+</blockquote>
+<p><a href="https://blog.axiaoxin.com/post/auto-refresh-gad/" target="_blank" rel="noopener noreferrer">https://blog.axiaoxin.com/post/auto-refresh-gad/</a></p>
+<blockquote>
+<p>自动刷新 Google AdSense 广告单元的实现方案（auto-refresh-gad.js）</p>
+</blockquote>
+]]></content:encoded>
+      <enclosure url="https://camo.githubusercontent.com/17812e3ff73bd9350e64b5cafbd833d465bcd34c43d736c76d20db19acc7351b/68747470733a2f2f646172746e6f64652e636f6d2f6272616e64696e672f444e2d4f70656e2d536f757263652d736d2e706e67" type="image/"/>
+    </item>
+    <item>
+      <title>04-05-三更凋落</title>
+      <link>https://weekly.nnxx.me/weekly/2025/04-05-%E4%B8%89%E6%9B%B4%E5%87%8B%E8%90%BD.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/04-05-%E4%B8%89%E6%9B%B4%E5%87%8B%E8%90%BD.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">04-05-三更凋落</source>
       <description>分享、实用、有趣、共勉 AI https://github.com/deepsense-ai/ragbits 生成式人工智能应用快速开发的基础组件,GenAI 项目 https://www.promptrepo.net/explore 提示词收藏 个人财务大模型——Kuvera-8B-v0.1.0 https://huggingface.co/Akhi...</description>
       <category>周报</category>
       <pubDate>Sat, 05 Apr 2025 00:00:00 GMT</pubDate>
@@ -3070,6 +3229,14 @@ Vimium</p>
 <blockquote>
 <p>学习英语的频道</p>
 </blockquote>
+<p><a href="https://en.knowledgefxg.com/" target="_blank" rel="noopener noreferrer">https://en.knowledgefxg.com/</a></p>
+<blockquote>
+<p>GitHub收集的英语学习资源导航站</p>
+</blockquote>
+<p><a href="https://github.com/knowledgefxg/learning-english" target="_blank" rel="noopener noreferrer">https://github.com/knowledgefxg/learning-english</a></p>
+<blockquote>
+<p>精选优质英语学习资源合集，专注于听说读写等核心技能的提升。包含语法、词汇和媒体资源，助您更好地学习英语。</p>
+</blockquote>
 <h2>计算机</h2>
 <p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank" rel="noopener noreferrer">https://github.com/EbookFoundation/free-programming-books</a></p>
 <blockquote>
@@ -3156,6 +3323,10 @@ Vimium</p>
 <p><a href="https://pan.quark.cn/s/2d8929ae46d8" target="_blank" rel="noopener noreferrer">https://pan.quark.cn/s/2d8929ae46d8</a></p>
 <p>AMD Ryzen VM上安装Mac：</p>
 <p><a href="https://pan.baidu.com/s/13QtE4cVkSqtswtd7SfjFkQ?pwd=szcn" target="_blank" rel="noopener noreferrer">https://pan.baidu.com/s/13QtE4cVkSqtswtd7SfjFkQ?pwd=szcn</a></p>
+<p><a href="https://atimebook.com/" target="_blank" rel="noopener noreferrer">https://atimebook.com/</a></p>
+<blockquote>
+<p>免费下载所需的老旧收藏和分享老旧书刊、珍藏书籍以及各类历史文化相关内容，无需注册即可享受这一服务的平台。</p>
+</blockquote>
 ]]></content:encoded>
     </item>
     <item>
@@ -4625,6 +4796,11 @@ Redis服务</p>
 <blockquote>
 <p>手机投屏电脑工具</p>
 <p>支持 USB 和 WiFi 两种连接方式，以及支持同时连接多部手机实现群控。 工具适用于 Windows、macOS 和 Linux 系统，可直接开箱即用。</p>
+</blockquote>
+<p>NoTubeTV</p>
+<p><a href="https://github.com/ycngmn/NoTubeTV" target="_blank" rel="noopener noreferrer">https://github.com/ycngmn/NoTubeTV</a></p>
+<blockquote>
+<p>NoTubeTV - 适用于 Android TV 的 YouTube Leanback，支持 4K、SponsorBlock、DeArrow</p>
 </blockquote>
 <h2>重装系统</h2>
 <blockquote>
