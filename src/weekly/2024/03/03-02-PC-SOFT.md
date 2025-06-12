@@ -6,6 +6,7 @@ category:
 tags:
   - PC
   - soft
+  - 远程控制
 ---
 ![](https://img.nnxx.me/file/5a500390f31add8c94c98.jpg)
 
@@ -265,6 +266,25 @@ Bandicam
 obs
 
 
+## 远程控制
+
+rustdesk
+
+[https://github.com/rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+
+
+billd-desk
+
+[https://github.com/galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk)
+> 基于Vue3 + WebRTC + Nodejs + Electron搭建的远程桌面控制
+
+![](https://github.com/galaxy-s10/billd-desk/raw/main/readme_img/111.png)
+
+
+
+其他
+>todesk、向日葵、TeamViewer等
+
 
 ## 逛一逛
 
@@ -362,3 +382,6 @@ MemoTrace
 epub 阅读器
 
 [https://johnfactotum.github.io/foliate/](https://johnfactotum.github.io/foliate/)
+
+
+

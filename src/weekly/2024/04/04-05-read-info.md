@@ -32,6 +32,16 @@ tags:
 >一个关于产品的数字花园，关注产品，但不止产品，希望成为你成长路上的灵感加油站
 
 
+[https://alphanews.club/](https://alphanews.club/)
+>将阅读效率提升100倍！
+>
+>Alpha News由AI驱动，每天从上万篇推文中为你筛选提炼优质信息，并通过AI生成一篇5分钟可读的精华日报。
+
+
+[https://ai.3min.top/](https://ai.3min.top/)
+>3MinTop | 3分钟AI日报
+
+
 
 
 
