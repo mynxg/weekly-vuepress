@@ -6,8 +6,8 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 10 Jun 2025 16:33:16 GMT</pubDate>
-    <lastBuildDate>Tue, 10 Jun 2025 16:33:16 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Jun 2025 16:09:50 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Jun 2025 16:09:50 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
@@ -125,6 +125,86 @@
 <p>[https://github.com/Visualize-ML/Linear-Algebra-Made-Easy</p>
 ]]></content:encoded>
       <enclosure url="https://github.com/ltlylfun/ResumeToJob/raw/main/public/assets/screenshot1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>05-17-山明水秀</title>
+      <link>https://weekly.nnxx.me/weekly/2025/05-17-%E5%B1%B1%E6%98%8E%E6%B0%B4%E7%A7%80.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/05-17-%E5%B1%B1%E6%98%8E%E6%B0%B4%E7%A7%80.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">05-17-山明水秀</source>
+      <description>分享、实用、有趣、共勉 AI https://alphanews.club/ 将阅读效率提升100倍！ Alpha News由AI驱动，每天从上万篇推文中为你筛选提炼优质信息，并通过AI生成一篇5分钟可读的精华日报。 https://ai.3min.top/ 3MinTop | 3分钟AI日报 随便看看 https://seo.box/referrin...</description>
+      <category>周报</category>
+      <pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p><a href="https://alphanews.club/" target="_blank" rel="noopener noreferrer">https://alphanews.club/</a></p>
+<blockquote>
+<p>将阅读效率提升100倍！</p>
+<p>Alpha News由AI驱动，每天从上万篇推文中为你筛选提炼优质信息，并通过AI生成一篇5分钟可读的精华日报。</p>
+</blockquote>
+<p><a href="https://ai.3min.top/" target="_blank" rel="noopener noreferrer">https://ai.3min.top/</a></p>
+<blockquote>
+<p>3MinTop | 3分钟AI日报</p>
+</blockquote>
+<h2>随便看看</h2>
+<p><a href="https://seo.box/referring/" target="_blank" rel="noopener noreferrer">https://seo.box/referring/</a></p>
+<blockquote>
+<p>SEO Web引用</p>
+</blockquote>
+<p><a href="https://aug-max.deno.dev/" target="_blank" rel="noopener noreferrer">https://aug-max.deno.dev/</a></p>
+<blockquote></blockquote>
+<p><a href="https://www.thiings.co/things" target="_blank" rel="noopener noreferrer">https://www.thiings.co/things</a></p>
+<blockquote>
+<p>3D 资源图标下载 - 免费可商用 - 可以组件自己的 emoji 库</p>
+</blockquote>
+<h2>逛逛Github</h2>
+<p>Mousio</p>
+<p><a href="https://github.com/jaywcjlove/mousio-hint" target="_blank" rel="noopener noreferrer">https://github.com/jaywcjlove/mousio-hint</a></p>
+<blockquote>
+<p>Mousio Hint 是一款新发布的辅助工具 配合主应用 Mousio 使用，通过显示快捷键提示，帮助你用键盘快速定位鼠标指针，显著提升操作效率。</p>
+</blockquote>
+<p>FileBrowser Quantum</p>
+<p><a href="https://github.com/gtsteffaniak/filebrowser" target="_blank" rel="noopener noreferrer">https://github.com/gtsteffaniak/filebrowser</a></p>
+<blockquote>
+<p>文件管理器</p>
+</blockquote>
+<p>MonkeyOCR</p>
+<p><a href="https://github.com/Yuliang-Liu/MonkeyOCR" target="_blank" rel="noopener noreferrer">https://github.com/Yuliang-Liu/MonkeyOCR</a></p>
+<blockquote>
+<p>一个基于LMM的轻量级文档解析模型</p>
+<p>MonkeyOCR采用了一种结构-识别-关系（SRR）三元组范式，这简化了模块化方法的多工具流水线，同时避免了使用大型多模态模型进行整页文档处理的低效。</p>
+</blockquote>
+<p>3D建模——PartCrafter</p>
+<p><a href="https://github.com/wgsxm/PartCrafter" target="_blank" rel="noopener noreferrer">https://github.com/wgsxm/PartCrafter</a></p>
+<p>论文：<a href="https://arxiv.org/html/2506.05573" target="_blank" rel="noopener noreferrer">https://arxiv.org/html/2506.05573</a>
+<img src="https://github.com/wgsxm/PartCrafter/raw/main/assets/teaser.png" alt="" loading="lazy"></p>
+<p>一键部署私人视频通话系统</p>
+<p><a href="https://github.com/miroslavpejic85/call-me" target="_blank" rel="noopener noreferrer">https://github.com/miroslavpejic85/call-me</a></p>
+<blockquote>
+<p>呼叫我：您即时视频通话的首选！
+体验站：<a href="https://cme.mirotalk.com/" target="_blank" rel="noopener noreferrer">https://cme.mirotalk.com/</a></p>
+</blockquote>
+<p><a href="https://github.com/CharlieLZ/flux-kontext-template" target="_blank" rel="noopener noreferrer">https://github.com/CharlieLZ/flux-kontext-template</a></p>
+<blockquote>
+<p>flux-kontext 开源仓库，套壳模板, FluxKontext . space - AI图像生成平台</p>
+</blockquote>
+<p>虚拟定位：GeoPort</p>
+<p><a href="https://github.com/davesc63/GeoPort" target="_blank" rel="noopener noreferrer">https://github.com/davesc63/GeoPort</a></p>
+<blockquote>
+<p>一款支持虚拟定位到全球任意位置的跨平台开源工具：GeoPort。 不仅支持 iOS 17/18 系统，还可以在 Windows 和 Mac 上运行，无需复杂的 Python 环境配置，直接开箱即用。</p>
+<ul>
+<li>全球任意位置模拟，可随便更换任意城市或地标</li>
+<li>支持最新 iOS 17 和 iOS 18 系统的位置欺骗</li>
+<li>一键启用开发者模式，自动处理复杂的权限设置</li>
+<li>提供直观可视化界面，点几下就能开启虚拟位置</li>
+</ul>
+</blockquote>
+<h2>blog</h2>
+<p><a href="https://manateelazycat.github.io/2025/06/05/top-product-manager/" target="_blank" rel="noopener noreferrer">怎样成为顶级产品经理？</a></p>
+<p><a href="https://post.smzdm.com/p/aprqvvl9/" target="_blank" rel="noopener noreferrer">家庭网络升级指南【四】—— 懒猫微服【不只是NAS】</a></p>
+]]></content:encoded>
+      <enclosure url="https://github.com/wgsxm/PartCrafter/raw/main/assets/teaser.png" type="image/png"/>
     </item>
     <item>
       <title>05-07-五月未了</title>
@@ -3977,6 +4057,15 @@ Vimium</p>
 <blockquote>
 <p>一个关于产品的数字花园，关注产品，但不止产品，希望成为你成长路上的灵感加油站</p>
 </blockquote>
+<p><a href="https://alphanews.club/" target="_blank" rel="noopener noreferrer">https://alphanews.club/</a></p>
+<blockquote>
+<p>将阅读效率提升100倍！</p>
+<p>Alpha News由AI驱动，每天从上万篇推文中为你筛选提炼优质信息，并通过AI生成一篇5分钟可读的精华日报。</p>
+</blockquote>
+<p><a href="https://ai.3min.top/" target="_blank" rel="noopener noreferrer">https://ai.3min.top/</a></p>
+<blockquote>
+<p>3MinTop | 3分钟AI日报</p>
+</blockquote>
 <h2>订阅工具</h2>
 <p>Follow</p>
 <p><a href="https://app.follow.is/" target="_blank" rel="noopener noreferrer">https://app.follow.is/</a></p>
@@ -4488,6 +4577,19 @@ screenstudio</p>
 </blockquote>
 <p>Bandicam</p>
 <p>obs</p>
+<h2>远程控制</h2>
+<p>rustdesk</p>
+<p><a href="https://github.com/rustdesk/rustdesk" target="_blank" rel="noopener noreferrer">https://github.com/rustdesk/rustdesk</a></p>
+<p>billd-desk</p>
+<p><a href="https://github.com/galaxy-s10/billd-desk" target="_blank" rel="noopener noreferrer">https://github.com/galaxy-s10/billd-desk</a></p>
+<blockquote>
+<p>基于Vue3 + WebRTC + Nodejs + Electron搭建的远程桌面控制</p>
+</blockquote>
+<figure><img src="https://github.com/galaxy-s10/billd-desk/raw/main/readme_img/111.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>其他</p>
+<blockquote>
+<p>todesk、向日葵、TeamViewer等</p>
+</blockquote>
 <h2>逛一逛</h2>
 <p>MyIP</p>
 <p><a href="https://github.com/jason5ng32/MyIP" target="_blank" rel="noopener noreferrer">https://github.com/jason5ng32/MyIP</a></p>
