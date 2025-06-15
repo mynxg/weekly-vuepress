@@ -6,17 +6,17 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 12 Jun 2025 16:09:50 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Jun 2025 16:09:50 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Jun 2025 12:08:51 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Jun 2025 12:08:51 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
     <category>工具</category>
     <item>
-      <title>05-07-五月未了</title>
+      <title>06-07-六月未果</title>
       <link>https://weekly.nnxx.me/weekly/2025/06-07-%E5%85%AD%E6%9C%88%E6%9C%AA%E6%9E%9C.html</link>
       <guid>https://weekly.nnxx.me/weekly/2025/06-07-%E5%85%AD%E6%9C%88%E6%9C%AA%E6%9E%9C.html</guid>
-      <source url="https://weekly.nnxx.me/rss.xml">05-07-五月未了</source>
+      <source url="https://weekly.nnxx.me/rss.xml">06-07-六月未果</source>
       <description>分享、实用、有趣、共勉 AI Image Prompt https://imageprompt.org/ 丢图片让它写提示词，再改提示词生成图片, Image Prompt - 每天 5 次免费 - 反向的乐趣 MultiTTS 安卓APP, 可以导入各种 tts 的离线版或者在线版 ，然后可以作为系统 tts 来调用 随便看看 https://www...</description>
       <category>周报</category>
       <pubDate>Sat, 07 Jun 2025 00:00:00 GMT</pubDate>
@@ -368,6 +368,174 @@
 </blockquote>
 ]]></content:encoded>
       <enclosure url="https://camo.githubusercontent.com/17812e3ff73bd9350e64b5cafbd833d465bcd34c43d736c76d20db19acc7351b/68747470733a2f2f646172746e6f64652e636f6d2f6272616e64696e672f444e2d4f70656e2d536f757263652d736d2e706e67" type="image/"/>
+    </item>
+    <item>
+      <title>04-12-醉释浮屠</title>
+      <link>https://weekly.nnxx.me/weekly/2025/04-12-%E9%86%89%E9%87%8A%E6%B5%AE%E5%B1%A0.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/04-12-%E9%86%89%E9%87%8A%E6%B5%AE%E5%B1%A0.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">04-12-醉释浮屠</source>
+      <description>分享、实用、有趣、共勉 AI Chrome MCP Server https://github.com/hangwin/mcp-chrome 一个基于 Chrome 插件的模型上下文协议 (MCP) 服务器，它将您的 Chrome 浏览器功能暴露给 Claude 等 AI 助手，实现复杂的浏览器自动化、内容分析和语义搜索等。 随便看看 Earthwor...</description>
+      <category>周报</category>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p>Chrome MCP Server</p>
+<p><a href="https://github.com/hangwin/mcp-chrome" target="_blank" rel="noopener noreferrer">https://github.com/hangwin/mcp-chrome</a></p>
+<blockquote>
+<p>一个基于 Chrome 插件的模型上下文协议 (MCP) 服务器，它将您的 Chrome 浏览器功能暴露给 Claude 等 AI 助手，实现复杂的浏览器自动化、内容分析和语义搜索等。</p>
+</blockquote>
+<h2>随便看看</h2>
+<p>Earthworm</p>
+<p><a href="https://julebu.co/" target="_blank" rel="noopener noreferrer">https://julebu.co/</a></p>
+<p><a href="https://github.com/cuixueshe/earthworm" target="_blank" rel="noopener noreferrer">https://github.com/cuixueshe/earthworm</a></p>
+<blockquote>
+<p>让你上瘾的 英语学习工具
+使用 连词成句 、 i + 1 、 以终为始 等学习理论来帮助你习得英语,
+通过不断的 重复 形成肌肉记忆, 最重要的是 游戏化 的形式让学习英语从此不再痛苦</p>
+</blockquote>
+<p>yu-tools</p>
+<p><a href="https://github.com/pseudoyu/yu-tools" target="_blank" rel="noopener noreferrer">https://github.com/pseudoyu/yu-tools</a></p>
+<p><a href="https://tools.pseudoyu.com/" target="_blank" rel="noopener noreferrer">https://tools.pseudoyu.com/</a></p>
+<blockquote>
+<p>个人工具箱 (设备, macOS 软件, iOS Apps...)</p>
+</blockquote>
+<figure><img src="https://camo.githubusercontent.com/e29d9a7253a6b2938d40229c9a6ade31404efb25fa0670fb6db6d3ffe12b297d/68747470733a2f2f696d6167652e70736575646f79752e636f6d2f696d616765732f79755f6e65775f6465736b5f73657475702e6a7067" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>SaltyLeo 的书架</p>
+<p><a href="https://book.tstrs.me/" target="_blank" rel="noopener noreferrer">https://book.tstrs.me/</a></p>
+<blockquote>
+<ul>
+<li>提供大量文学、科普、心理、管理等有声书</li>
+<li>• 支持按书名、作者、播音员搜索</li>
+<li>• 书籍均有解读版，适合快速了解核心内容</li>
+<li>• 热门精选、科普百科、文学小说等多种分类</li>
+<li>• 支持在线收听，界面简洁，操作便捷</li>
+<li>• 适合通勤、学习、休闲时随时听书</li>
+</ul>
+</blockquote>
+<p>Fluent UI System Icons</p>
+<p><a href="https://github.com/microsoft/fluentui-system-icons" target="_blank" rel="noopener noreferrer">https://github.com/microsoft/fluentui-system-icons</a></p>
+<blockquote>
+<p>包含了数千个图标，可支持 Android、iOS、Flutter 等多平台使用，还贴心提供了 RTL/LTR 镜像方向自适应功能。</p>
+</blockquote>
+<figure><img src="https://github.com/microsoft/fluentui-system-icons/raw/main/art/readme-banner.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>tinywow</p>
+<p><a href="https://tinywow.com/" target="_blank" rel="noopener noreferrer">https://tinywow.com/</a></p>
+<blockquote>
+<p>一个全能在线工具站，非常全能，日常工作需要的工具全有，图片，PDF，视频，写作，声音</p>
+<p>提供200+免费在线工具，涵盖PDF编辑、转换、合并、压缩等 • 支持AI写作、内容润色、段落生成、图片处理、去背景等多功能</p>
+</blockquote>
+<p>动画的UI组件库：Animate UI</p>
+<p><a href="https://animate-ui.com/" target="_blank" rel="noopener noreferrer">https://animate-ui.com/</a></p>
+<blockquote>
+<p>特点是带动画，分类和数量都挺齐全，类似带动画版本的shadcnui组件库。 使用shadcn cli直接安装，MkSaaS模板内置了些，试了下文本高亮组件</p>
+</blockquote>
+<p><a href="https://first-farewell-tapestry.lovable.app/" target="_blank" rel="noopener noreferrer">https://first-farewell-tapestry.lovable.app/</a></p>
+<blockquote>
+<p>First &amp; Farewell</p>
+</blockquote>
+<p>视频在线下载：
+<a href="https://twitterxdownload.com/" target="_blank" rel="noopener noreferrer">https://twitterxdownload.com/</a></p>
+<p>KiddoWorksheets</p>
+<p><a href="https://www.kiddoworksheets.com/" target="_blank" rel="noopener noreferrer">https://www.kiddoworksheets.com/</a></p>
+<blockquote>
+<p>一个各种纸张打印，给小朋友画画，学习英文，练习手写英文</p>
+<ul>
+<li>小朋友学习练习纸网站</li>
+<li>• 提供学前至小学多学科免费打印练习纸</li>
+<li>• 覆盖字母、数字、数学、拼写、涂色等主题</li>
+<li>• 支持自定义生成专属练习纸 • 教师与家长可直接下载使用</li>
+<li>• 内容由教育专家设计，定期更新</li>
+</ul>
+</blockquote>
+<p><a href="https://github.com/rxliuli/fetch-beautifier" target="_blank" rel="noopener noreferrer">https://github.com/rxliuli/fetch-beautifier</a></p>
+<p><a href="https://rxliuli.com/fetch-beautifier/" target="_blank" rel="noopener noreferrer">https://rxliuli.com/fetch-beautifier/</a></p>
+<blockquote>
+<p>一个免费的在线工具，能将乱糟糟的 fetch 请求一键转换为干净、可读的代码
+✅ 自动解析 URL 参数
+✅ 智能处理内嵌 JSON
+✅ 完美格式化 JSON/FormData Body</p>
+</blockquote>
+<h2>逛逛Github</h2>
+<p><a href="https://subway.cuvii.dev/" target="_blank" rel="noopener noreferrer">https://subway.cuvii.dev/</a></p>
+<p><a href="https://github.com/thecuvii/subway" target="_blank" rel="noopener noreferrer">https://github.com/thecuvii/subway</a></p>
+<blockquote>
+<p>中国部分城市地铁可视化网页</p>
+<p>参考：<a href="http://cnrail.geogv.org/zhcn/about" target="_blank" rel="noopener noreferrer">http://cnrail.geogv.org/zhcn/about</a></p>
+</blockquote>
+<p>TabMark-Bookmark-New-Tab</p>
+<p><a href="https://github.com/Alanrk/TabMark-Bookmark-New-Tab" target="_blank" rel="noopener noreferrer">TabMark</a></p>
+<p>官网：<a href="https://www.ainewtab.app/zh-cn/" target="_blank" rel="noopener noreferrer">https://www.ainewtab.app/zh-cn/</a></p>
+<blockquote>
+<p>浏览器书签插件</p>
+</blockquote>
+<figure><img src="https://private-user-images.githubusercontent.com/48584587/395834588-bb4f9996-902c-4b69-8a7f-4c2b2e219ffc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk5MDUyMzUsIm5iZiI6MTc0OTkwNDkzNSwicGF0aCI6Ii80ODU4NDU4Ny8zOTU4MzQ1ODgtYmI0Zjk5OTYtOTAyYy00YjY5LThhN2YtNGMyYjJlMjE5ZmZjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE0VDEyNDIxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM0ZWZhOGZlMGY4M2QwYmJlZTczZjgxYmM4NWRhMzM3MmU2ZDY0YTI2YTc0ZmJhNDEzMGFjMTUwNDQ1OGEyYTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kVrVHHfUxdolS2oyCoRvYODXoa4e2pAGnd0XpM3MptY" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>pintree</p>
+<p><a href="https://github.com/Pintree-io/pintree" target="_blank" rel="noopener noreferrer">pintree</a></p>
+<p>PintreeNewTab浏览器插件:<a href="https://github.com/tangxiaoqi-tangxiao/PintreeNewTab" target="_blank" rel="noopener noreferrer">https://github.com/tangxiaoqi-tangxiao/PintreeNewTab</a></p>
+<p>文档：<a href="https://pintree.io/" target="_blank" rel="noopener noreferrer">https://pintree.io/</a></p>
+<blockquote>
+<p>轻松将浏览器书签转换为目录网站，并在几分钟内开始盈利。</p>
+</blockquote>
+<figure><img src="https://github.com/tangxiaoqi-tangxiao/PintreeNewTab/raw/master/.github/imgs/屏幕截图-2024-09-24-142600.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>SSHPlex</p>
+<p><a href="https://github.com/Sabrimjd/SSHPlex" target="_blank" rel="noopener noreferrer">https://github.com/Sabrimjd/SSHPlex</a></p>
+<p>文档：<a href="https://smjed.net/" target="_blank" rel="noopener noreferrer">https://smjed.net/</a></p>
+<blockquote>
+<p>SHPlex 是一个基于 Python 的 SSH 连接复用工具，提供现代化的终端用户界面（TUI），通过 tmux 实现对多个主机的同时连接和管理，旨在简化多主机 SSH 会话的操作流程。</p>
+</blockquote>
+<p><a href="https://github.com/nimbusdotstorage/Nimbus" target="_blank" rel="noopener noreferrer">https://github.com/nimbusdotstorage/Nimbus</a></p>
+<blockquote>
+<p>Nimbus 这个云储存开源解决方案，可作为 Google Drive、iCloud 等云服务的平替，省掉大笔高昂的订阅费，还解决数据隐私问题。 通过 Docker 一键部署搭建属于自己私人云盘，同时提供安全的文件上传下载，所有数据存储在自己的服务器上。</p>
+</blockquote>
+<p>awesome-claude-cod3</p>
+<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank" rel="noopener noreferrer">https://github.com/hesreallyhim/awesome-claude-code</a></p>
+<blockquote>
+<p>Claude Code 的使用指南资料合集：awesome-claude-cod3</p>
+</blockquote>
+<p>涵盖了各种增强 Claude Code 工作流程的工具、命令、配置文件和最佳实践指南。</p>
+<p>niri</p>
+<p><a href="https://github.com/YaLTeR/niri" target="_blank" rel="noopener noreferrer">https://github.com/YaLTeR/niri</a></p>
+<blockquote>
+<p>niri 这款开源工具非常强！解决传统桌面窗口大小被限制的情况，彻底改变我们管理窗口的方式。 它能够让窗口在水平无限长条上按列排列，新开窗口永远不会强制调整现有窗口大小，每个显示器都有独立的工作区。</p>
+</blockquote>
+<figure><img src="https://private-user-images.githubusercontent.com/1794388/444780574-535e6530-2f44-4b84-a883-1240a3eee6e9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk5ODg2MTIsIm5iZiI6MTc0OTk4ODMxMiwicGF0aCI6Ii8xNzk0Mzg4LzQ0NDc4MDU3NC01MzVlNjUzMC0yZjQ0LTRiODQtYTg4My0xMjQwYTNlZWU2ZTkucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDYxNSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA2MTVUMTE1MTUyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YmFhZjFlMDI0ZTE1MTU1ZWZhODkyMDIwMTBmMjE4ZjczNGQ4ZTQwNmMxNTkwNDMzMjNmODQ5ZThhZjkyOGRmMyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.00QkAfBU5XfbXDhM0YkdpM1lQTvtYI4g2HeIInovjjk" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/xpf0000/FlyEnv" target="_blank" rel="noopener noreferrer">https://github.com/xpf0000/FlyEnv</a></p>
+<blockquote>
+<p>一体化全栈环境管理工具。帮助开发人员快速设置本地开发环境。核心模块：Ollama、DeepSeek、Apache、Nginx、Caddy、Tomcat。MySQL、MariaDB、PostgreSQL、MongoDB。PHP、Java、NodeJS、Python、Go、Rust、Erlang、Ruby。</p>
+</blockquote>
+<p>AI 领域精选 RSS 订阅源</p>
+<p><a href="https://github.com/ginobefun/BestBlogs" target="_blank" rel="noopener noreferrer">https://github.com/ginobefun/BestBlogs</a></p>
+<blockquote>
+<p>直接导入你的 RSS 阅读器即可</p>
+</blockquote>
+<p><a href="https://github.com/ltlylfun/ResumeToJob" target="_blank" rel="noopener noreferrer">https://github.com/ltlylfun/ResumeToJob</a></p>
+<p><a href="https://resumetojob.ltlyl.fun/" target="_blank" rel="noopener noreferrer">https://resumetojob.ltlyl.fun/</a></p>
+<blockquote>
+<p>ResumeToJob：免费开源的专业简历生成器 支持多种模板选择、实时编辑、PDF 导出等功能</p>
+</blockquote>
+<p>beachpatrol</p>
+<p><a href="https://github.com/sebastiancarlos/beachpatrol" target="_blank" rel="noopener noreferrer">https://github.com/sebastiancarlos/beachpatrol</a></p>
+<blockquote>
+<p>Beachpatrol 这款能让浏览器完全自动化的开源 CLI 工具</p>
+<p>基于 Playwright 构建，能让我们通过脚本控制浏览器执行各种自动化任务，也可以把它当作日常浏览器使用。</p>
+</blockquote>
+<p>OpenList</p>
+<p><a href="https://github.com/OpenListTeam/OpenList" target="_blank" rel="noopener noreferrer">https://github.com/OpenListTeam/OpenList</a></p>
+<blockquote>
+<p>一个支持多存储的文件列表程序，使用 Gin 和 Solidjs，基于 alist 项目 fork 开发</p>
+</blockquote>
+<p>Bibliotheca</p>
+<p><a href="https://github.com/pickles4evaaaa/bibliotheca" target="_blank" rel="noopener noreferrer">https://github.com/pickles4evaaaa/bibliotheca</a></p>
+<blockquote>
+<p>一个基于 Flask 框架开发的自托管个人图书馆和阅读追踪管理工具</p>
+</blockquote>
+<p>支持通过 Docker 容器快速部署，适合希望在自己空间里安全、私密地追踪阅读习惯和图书收藏的用户。</p>
+<h2>blog</h2>
+<p><a href="https://dalanshu.com/b/rework" target="_blank" rel="noopener noreferrer">重来（1，2，3）</a></p>
+]]></content:encoded>
+      <enclosure url="https://camo.githubusercontent.com/e29d9a7253a6b2938d40229c9a6ade31404efb25fa0670fb6db6d3ffe12b297d/68747470733a2f2f696d6167652e70736575646f79752e636f6d2f696d616765732f79755f6e65775f6465736b5f73657475702e6a7067" type="image/"/>
     </item>
     <item>
       <title>04-05-三更凋落</title>
