@@ -127,6 +127,19 @@ SEO资源目录
 >vercel部署web，国内访问加速技巧
 
 
+GMSSH（服务器可视化管理）
+
+[https://github.com/GMSSH/GMSSH](https://github.com/GMSSH/GMSSH)
+
+[https://web.gmssh.com/web/#/](https://web.gmssh.com/web/#/)
+>GMSSH是一个桌面式的服务器运维管理软件，可视化管理服务器。
+>
+>代码没开源，直接使用可能存在密码泄露，一般是不会直接暴露在公网上使用的
+
+![](https://private-user-images.githubusercontent.com/10451615/422603228-a76fbc09-b795-4220-8e02-c4b0deccb132.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA1OTI1NjcsIm5iZiI6MTc1MDU5MjI2NywicGF0aCI6Ii8xMDQ1MTYxNS80MjI2MDMyMjgtYTc2ZmJjMDktYjc5NS00MjIwLThlMDItYzRiMGRlY2NiMTMyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjIyVDExMzc0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVlZDY2MDg0M2E2MDBkNGYzZDUwNmU3MjgyZjdkNjk2MTQ0MzQxMTE2ZmZkMjExMzk0MzhhNjY5M2YxZjRlNGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pgSoMAyo26T4HZnBG98VjtsNDefYH1jAFQaXWYGtuxU)
+
+
+
 
 [兴趣使然](https://www.yuque.com/hisnxg/fun)
 

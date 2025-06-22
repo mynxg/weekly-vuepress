@@ -133,3 +133,19 @@ design engineer 的周刊：
 >分享 GitHub 上有趣、入门级的开源项目。
 
 
+
+## 其他
+
+ Hackathon （黑客松社区）
+ 
+[https://app.getriver.io/bolt?tab=calendar-view](https://app.getriver.io/bolt?tab=calendar-view)
+>Bolt.new is uniting builders for the world’s largest hackathon—$1M+ in prizes, hundreds of thousands of participants, and zero barriers to entry. Join or host community-led IRL events in cities around the world and turn your idea into reality.
+
+openhives 社区
+
+[https://openhives.com/](https://openhives.com/)
+
+
+nodeseek社区
+
+[https://www.nodeseek.com/](https://www.nodeseek.com/)
