@@ -6,12 +6,307 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 15 Jun 2025 12:08:51 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Jun 2025 12:08:51 GMT</lastBuildDate>
+    <pubDate>Sun, 29 Jun 2025 16:35:25 GMT</pubDate>
+    <lastBuildDate>Sun, 29 Jun 2025 16:35:25 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
     <category>工具</category>
+    <item>
+      <title>06-28-静水流深</title>
+      <link>https://weekly.nnxx.me/weekly/2025/06-28-%E9%9D%99%E6%B0%B4%E6%B5%81%E6%B7%B1.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/06-28-%E9%9D%99%E6%B0%B4%E6%B5%81%E6%B7%B1.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">06-28-静水流深</source>
+      <description>分享、实用、有趣、共勉 AI Roo Code https://github.com/RooCodeInc/Roo-Code Roo Code（Prev. Roo Cline）在您的代码编辑器中为您提供了一个完整的 AI 代理开发团队。 其他AI编译器：Cursor、windsurf、trae等 https://aiagentstore.ai/ai-a...</description>
+      <category>周报</category>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p>Roo Code</p>
+<p><a href="https://github.com/RooCodeInc/Roo-Code" target="_blank" rel="noopener noreferrer">https://github.com/RooCodeInc/Roo-Code</a></p>
+<blockquote>
+<p>Roo Code（Prev. Roo Cline）在您的代码编辑器中为您提供了一个完整的 AI 代理开发团队。</p>
+<p>其他AI编译器：Cursor、<a href="https://windsurf.com/editor" target="_blank" rel="noopener noreferrer">windsurf</a>、trae等</p>
+</blockquote>
+<figure><img src="https://media.githubusercontent.com/media/RooCodeInc/Roo-Code/main/src/assets/docs/demo.gif" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://aiagentstore.ai/ai-agent/roo-code" target="_blank" rel="noopener noreferrer">https://aiagentstore.ai/ai-agent/roo-code</a></p>
+<blockquote>
+<p>Roo Code 是一个开源的自主 AI 代理，旨在以最少的人工输入来编码、调试和发展软件系统。它模仿初级开发人员的工作流程，使用规划、编辑、运行和调试代码的循环过程。Roo Code 支持多轮编码会话，并在迭代中自动持久化上下文。它建立在任务记忆系统之上，支持与您的终端和开发环境的集成，旨在通过自然交互进行持续改进。</p>
+</blockquote>
+<h2>随便看看</h2>
+<p>typing-word</p>
+<p><a href="https://github.com/zyronon/typing-word" target="_blank" rel="noopener noreferrer">https://github.com/zyronon/typing-word</a></p>
+<p>在线体验：<a href="https://typing-word.ttentau.top/" target="_blank" rel="noopener noreferrer">https://typing-word.ttentau.top/</a></p>
+<blockquote>
+<p>可以选择记忆或默写单词，提供了音标显示、发音功能（均可选美音、英音）、错误统计.</p>
+<p>内置了常用的 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语，也有程序员常见英语单词以及多种编程语言 API 等词库。 尽可能满足大部分用户对背单词的需求，也非常欢迎社区贡献更多的词库。</p>
+</blockquote>
+<p>music</p>
+<p><a href="https://github.com/algerkong/AlgerMusicPlayer" target="_blank" rel="noopener noreferrer">https://github.com/algerkong/AlgerMusicPlayer</a></p>
+<p>在线体验：<a href="http://music.alger.fun/#/" target="_blank" rel="noopener noreferrer">http://music.alger.fun/#/</a></p>
+<blockquote>
+<p>一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制</p>
+</blockquote>
+<figure><img src="https://github.com/algerkong/AlgerMusicPlayer/raw/main/docs/image.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>UnblockNeteaseMusic</p>
+<p><a href="https://github.com/UnblockNeteaseMusic/server" target="_blank" rel="noopener noreferrer">https://github.com/UnblockNeteaseMusic/server</a></p>
+<blockquote>
+<p>恢复网易云音乐不可用的歌曲（重构增强版）</p>
+</blockquote>
+<p><a href="https://github.com/listen1/listen1_chrome_extension" target="_blank" rel="noopener noreferrer">https://github.com/listen1/listen1_chrome_extension</a></p>
+<blockquote>
+<p>所有免费音乐一个（chrome 扩展，也适用于 Firefox）</p>
+</blockquote>
+<figure><img src="https://camo.githubusercontent.com/054f7d38d8dbe53d444592d4d5a86422c3e372e3fdd20b2d8b66ad9119d07d46/68747470733a2f2f692e696d6775722e636f6d2f64495646746f722e676966" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>逛逛Github</h2>
+<p>fuck-u-code</p>
+<p><a href="https://github.com/Done-0/fuck-u-code" target="_blank" rel="noopener noreferrer">https://github.com/Done-0/fuck-u-code</a></p>
+<blockquote>
+<p>屎山代码检测器，评估代码的”屎山等级“，并输出美观的终端报告。</p>
+<p>一个专为挖掘项目"屎坑"设计的代码质量分析工具，能无情揭露代码的丑陋真相，并用毫不留情的幽默语言告诉你：你的代码到底有多烂。</p>
+<p>有意思的小玩意。</p>
+</blockquote>
+<p>划词翻译</p>
+<p><a href="https://github.com/pot-app/pot-desktop" target="_blank" rel="noopener noreferrer">https://github.com/pot-app/pot-desktop</a></p>
+<p>在线体验：<a href="https://pot-app.com/" target="_blank" rel="noopener noreferrer">https://pot-app.com/</a></p>
+<blockquote>
+<p>一个跨平台的划词翻译和OCR软件</p>
+</blockquote>
+<figure><img src="https://github.com/pot-app/pot-desktop/raw/master/asset/2.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>blog</h2>
+<p><a href="https://www.gcores.com/radios/199574" target="_blank" rel="noopener noreferrer">从“当代课老师”到创作出《灵笼》系列，与主创们聊聊艺画开天的故事</a></p>
+<p><a href="https://guangzhengli.com/blog" target="_blank" rel="noopener noreferrer">https://guangzhengli.com/blog</a></p>
+<blockquote>
+<p>技术博客</p>
+</blockquote>
+]]></content:encoded>
+      <enclosure url="https://media.githubusercontent.com/media/RooCodeInc/Roo-Code/main/src/assets/docs/demo.gif" type="image/gif"/>
+    </item>
+    <item>
+      <title>06-21-高山流水</title>
+      <link>https://weekly.nnxx.me/weekly/2025/06-21-%E9%AB%98%E5%B1%B1%E6%B5%81%E6%B0%B4.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/06-21-%E9%AB%98%E5%B1%B1%E6%B5%81%E6%B0%B4.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">06-21-高山流水</source>
+      <description>分享、实用、有趣、共勉 AI readdy https://readdy.ai/ 引人注目的网站,几分钟内构建并发布,通过与AI对话构建您梦想中的网站，无需拖放 立即发布或导出为代码或Figma 案例：https://readdy.link/share/50470d40de3411ffad037b5bf12bd692 随便看看 导航站: https:/...</description>
+      <category>周报</category>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p>readdy</p>
+<p><a href="https://readdy.ai/" target="_blank" rel="noopener noreferrer">https://readdy.ai/</a></p>
+<blockquote>
+<p>引人注目的网站,几分钟内构建并发布,通过与AI对话构建您梦想中的网站，无需拖放 立即发布或导出为代码或Figma</p>
+<p>案例：<a href="https://readdy.link/share/50470d40de3411ffad037b5bf12bd692" target="_blank" rel="noopener noreferrer">https://readdy.link/share/50470d40de3411ffad037b5bf12bd692</a></p>
+</blockquote>
+<h2>随便看看</h2>
+<p>导航站:</p>
+<p><a href="https://invest-nav.com/" target="_blank" rel="noopener noreferrer">https://invest-nav.com/</a></p>
+<blockquote>
+<p>专为美股&amp;加密货币投资而生</p>
+</blockquote>
+<p>tabby 终端</p>
+<p><a href="https://tabby.sh/" target="_blank" rel="noopener noreferrer">https://tabby.sh/</a></p>
+<blockquote>
+<p>它是一款跨平台的终端应用程序，允许用户连接本地 shell、串行、SSH 和 Telnet 连接。</p>
+</blockquote>
+<p><img src="https://tabby.sh/b3698dea6520b70d4c4b.png" alt="" loading="lazy">
+mobaxterm</p>
+<p><a href="https://mobaxterm.mobatek.net/" target="_blank" rel="noopener noreferrer">https://mobaxterm.mobatek.net/</a></p>
+<figure><img src="https://mobaxterm.mobatek.net/img/slider/Cool-feature-syntax-highlighting.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>terminal(windows终端)</p>
+<p><a href="https://github.com/microsoft/terminal" target="_blank" rel="noopener noreferrer">https://github.com/microsoft/terminal</a></p>
+<blockquote>
+<p>新的 Windows 终端和原来的 Windows 控制台主机，都在同一个地方！</p>
+</blockquote>
+<p>screensage pro</p>
+<p><a href="https://screensage.pro/zh" target="_blank" rel="noopener noreferrer">https://screensage.pro/zh</a></p>
+<blockquote>
+<p>这是 Mac 上一款专业录屏工具，帮你轻松创作专业级软件演示/教程视频：
+✨ 智能缩放：自动聚焦，解放双手。
+🤖 AI 抠像：无需绿幕，完美融入。
+🎬 电影级 3D 运镜：让画面“动”起来。
+📱 多设备同步：同时录制 Mac、iPhone、iPad。</p>
+</blockquote>
+<p>MoonTV</p>
+<p><a href="https://github.com/senshinya/MoonTV" target="_blank" rel="noopener noreferrer">https://github.com/senshinya/MoonTV</a></p>
+<p>体验站：<a href="https://moontv-demo.shinya.click/" title="https://moontv-demo.shinya.click/" target="_blank" rel="noopener noreferrer">moontv-demo.shinya.click/</a></p>
+<blockquote>
+<p><strong>MoonTV</strong>&nbsp;是一个开箱即用的、跨平台的影视聚合播放器。它基于&nbsp;<strong>Next.js 14</strong>&nbsp;+&nbsp;<strong>Tailwind&nbsp;CSS</strong>&nbsp;+&nbsp;<strong>TypeScript</strong>&nbsp;构建，支持多资源搜索、在线播放、收藏同步、播放记录、本地/云端存储，让你可以随时随地畅享海量免费影视内容。</p>
+<p>LibreTV:<a href="https://github.com/LibreSpark/LibreTV" target="_blank" rel="noopener noreferrer">https://github.com/LibreSpark/LibreTV</a></p>
+<p>体验：<a href="https://libretv.is-an.org/" title="https://libretv.is-an.org" target="_blank" rel="noopener noreferrer">libretv.is-an.org</a></p>
+</blockquote>
+<p>浏览器代理插件</p>
+<p><a href="https://chromewebstore.google.com/detail/random-user-agent-switche/einpaelgookohagofgnnkcfjbkkgepnp?hl=zh-CN&amp;utm_source=ext_sidebar" target="_blank" rel="noopener noreferrer">https://chromewebstore.google.com/detail/random-user-agent-switche/einpaelgookohagofgnnkcfjbkkgepnp?hl=zh-CN&amp;utm_source=ext_sidebar</a></p>
+<blockquote>
+<p>按时自动更改用户代理字符串，隐藏您的真实用户代理。</p>
+</blockquote>
+<p>用户代理就像是您的浏览器与您访问的每个网站分享的秘密代码。它揭示了关于您的浏览器、操作系统甚至一些已安装的插件的细节。本质上，它就是您的浏览器的指纹！</p>
+<p>x视频下载</p>
+<p><a href="https://twitterxdownload.com/" target="_blank" rel="noopener noreferrer">https://twitterxdownload.com/</a></p>
+<p><a href="https://github.com/zyronon/typing-word" target="_blank" rel="noopener noreferrer">https://github.com/zyronon/typing-word</a></p>
+<p><a href="https://typing-word.ttentau.top/" title="https://typing-word.ttentau.top" target="_blank" rel="noopener noreferrer">typing-word.ttentau.top</a></p>
+<blockquote>
+<p>一个实用学习英语的GitHub小项目：Typing Word 类似于Earthworm，Qwerty Learner这样的感觉，通过敲键盘形式给出的正反馈来背诵单词，每个单词都有音标和发音，让你在记忆单词的同时也能搞定正确的发音。</p>
+</blockquote>
+<p><a href="https://dl.ishell.online/" target="_blank" rel="noopener noreferrer">https://dl.ishell.online/</a></p>
+<blockquote>
+<p>一个深度学习的导航网站</p>
+</blockquote>
+<h2>逛逛Github</h2>
+<p><a href="https://github.com/Safe3/openresty-manager" target="_blank" rel="noopener noreferrer">https://github.com/Safe3/openresty-manager</a></p>
+<blockquote>
+<p>最简单、最强大、最漂亮的主机管理面板，OpenResty Edge 的开源替代品。
+支持nginx配置</p>
+</blockquote>
+<figure><img src="https://github.com/Safe3/openresty-manager/raw/main/docs/openresty-manager.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/luckyframework/lucky" target="_blank" rel="noopener noreferrer">https://github.com/luckyframework/lucky</a></p>
+<blockquote>
+<p>一个功能齐全的 Crystal Web 框架，可为您捕获错误，运行速度非常快，并帮助您编写持久的代码。</p>
+</blockquote>
+<p>lucky</p>
+<p><a href="https://github.com/gdy666/lucky" target="_blank" rel="noopener noreferrer">https://github.com/gdy666/lucky</a></p>
+<p>文档：<a href="https://lucky666.cn/docs/intro" target="_blank" rel="noopener noreferrer">https://lucky666.cn/docs/intro</a></p>
+<blockquote>
+<p>软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
+不错的应用，虽然不更新了，但是推荐一下，后续有开发者觉得不错，基于此基础上开发也是不错的。</p>
+</blockquote>
+<figure><img src="https://github.com/gdy666/lucky/raw/master/previews/relayrules.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>blog</h2>
+]]></content:encoded>
+      <enclosure url="https://tabby.sh/b3698dea6520b70d4c4b.png" type="image/png"/>
+    </item>
+    <item>
+      <title>06-14-繁花似锦</title>
+      <link>https://weekly.nnxx.me/weekly/2025/06-14-%E7%B9%81%E8%8A%B1%E4%BC%BC%E9%94%A6.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/06-14-%E7%B9%81%E8%8A%B1%E4%BC%BC%E9%94%A6.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">06-14-繁花似锦</source>
+      <description>分享、实用、有趣、共勉 AI bolt new https://bolt.new/ 生成UI还不错 目前主流的：cursor、augmentcode、claude minimaxi minimaxi.com 在线对话和agent prompterhub https://www.prompterhub.cn/best-practices 备用地址：htt...</description>
+      <category>周报</category>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p>bolt new
+<a href="https://bolt.new/" target="_blank" rel="noopener noreferrer">https://bolt.new/</a></p>
+<blockquote>
+<p>生成UI还不错</p>
+</blockquote>
+<blockquote>
+<p>目前主流的：cursor、augmentcode、claude</p>
+</blockquote>
+<p>minimaxi</p>
+<p><a href="minimaxi.com">minimaxi.com</a></p>
+<blockquote>
+<p>在线对话和agent</p>
+</blockquote>
+<p>prompterhub</p>
+<p><a href="https://www.prompterhub.cn/best-practices" target="_blank" rel="noopener noreferrer">https://www.prompterhub.cn/best-practices</a></p>
+<p>备用地址：<a href="https://www.pp.wen2tu.com/" target="_blank" rel="noopener noreferrer">https://www.pp.wen2tu.com/</a></p>
+<blockquote>
+<p>提示词模板</p>
+<p>将任何文本转换为完美提示词,
+将想法、对话、社交动态转为提示词，用AI保留思维快照，放大你的好奇火花</p>
+</blockquote>
+<p>提交入口：<a href="https://v3oxu28gnc.feishu.cn/share/base/form/shrcnJ12e3ehK53tu3BpsgND2uY" target="_blank" rel="noopener noreferrer">https://v3oxu28gnc.feishu.cn/share/base/form/shrcnJ12e3ehK53tu3BpsgND2uY</a></p>
+<p>promptrepo</p>
+<p><a href="https://www.promptrepo.net/explore" target="_blank" rel="noopener noreferrer">https://www.promptrepo.net/explore</a></p>
+<blockquote>
+<p>提示词模板2</p>
+</blockquote>
+<p>lovart</p>
+<p><a href="https://www.lovart.ai/" target="_blank" rel="noopener noreferrer">https://www.lovart.ai/</a></p>
+<blockquote>
+<p>AI 设计工具</p>
+</blockquote>
+<p>lovable</p>
+<p><a href="https://lovable.dev/" target="_blank" rel="noopener noreferrer">https://lovable.dev/</a></p>
+<blockquote>
+<p>建造一些可爱的东西, 通过与 AI 聊天创建应用程序和网站</p>
+</blockquote>
+<p>bisheng</p>
+<p><a href="https://github.com/dataelement/bisheng" target="_blank" rel="noopener noreferrer">https://github.com/dataelement/bisheng</a></p>
+<p><a href="https://www.bisheng.ai/" target="_blank" rel="noopener noreferrer">https://www.bisheng.ai/</a></p>
+<blockquote>
+<p>BISHENG 是面向下一代企业 AI 应用的开放 LLM devops 平台。强大而全面的功能包括：GenAI 工作流、RAG、代理、统一模型管理、评估、SFT、数据集管理、企业级系统管理、可观察性等。</p>
+</blockquote>
+<figure><img src="https://camo.githubusercontent.com/6657fe07a62d0522434443357ba2764ba10830963feb9a0013a0bde45224c405/68747470733a2f2f64617461656c656d2e636f6d2f62732f62697368656e675f776f726b666c6f772e706e67" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>随便看看</h2>
+<p>so-novel</p>
+<p><a href="https://github.com/freeok/so-novel" target="_blank" rel="noopener noreferrer">https://github.com/freeok/so-novel</a></p>
+<blockquote>
+<p>小说下载器 | 小说下载工具 | 小说下载神器 | 免费小说 | 网络小说 | 免费下载 | 网文下载</p>
+<p><strong>这款软件能够将全网连载、完本的流行小说免费下载为 EPUB、TXT 等主流电子书格式，以便导入至自己喜爱的阅读器或设备，从而实现电脑、平板、手机的全设备离线阅读。</strong></p>
+</blockquote>
+<figure><img src="https://github.com/freeok/so-novel/raw/main/assets/preview.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>逛逛Github</h2>
+<p>微信AI机器人</p>
+<p><a href="https://github.com/xliking/wechat_ai" target="_blank" rel="noopener noreferrer">https://github.com/xliking/wechat_ai</a></p>
+<blockquote>
+<p><code>kn-ai-chat</code>&nbsp;是一个功能强大、可高度定制的微信 AI 客服助手。它基于 Java Spring Boot 框架构建，深度集成了企业微信的客服消息接口和多种先进的 AI 模型能力 。</p>
+</blockquote>
+<figure><img src="https://github.com/xliking/wechat_ai/raw/main/files/config.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>WePush</p>
+<p><a href="https://github.com/rememberber/WePush" target="_blank" rel="noopener noreferrer">https://github.com/rememberber/WePush</a></p>
+<p>文档：<a href="https://rememberber.github.io/WePush/" target="_blank" rel="noopener noreferrer">https://rememberber.github.io/WePush/</a></p>
+<blockquote>
+<p>专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信</p>
+</blockquote>
+<figure><img src="https://github.com/rememberber/WePush/raw/master/assets/screen_shoot/1.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>Wechatsync</p>
+<p><a href="https://github.com/wechatsync/Wechatsync" target="_blank" rel="noopener noreferrer">https://github.com/wechatsync/Wechatsync</a></p>
+<p>文档：<a href="https://www.wechatsync.com/" target="_blank" rel="noopener noreferrer">https://www.wechatsync.com/</a></p>
+<blockquote>
+<p>一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力</p>
+<p>目前作者暂没精力维护，需要有开发者参与维护。项目本身是非常不错的，对于写写文章的用户还是不错，可以一键同步到不同平台。</p>
+</blockquote>
+<figure><img src="https://www.wechatsync.com/images/md.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>NoneOS</p>
+<p><a href="https://github.com/kirakiray/NoneOS" target="_blank" rel="noopener noreferrer">https://github.com/kirakiray/NoneOS</a></p>
+<p>体验站：<a href="https://none-os.vercel.app/" title="https://none-os.vercel.app" target="_blank" rel="noopener noreferrer">none-os.vercel.app</a></p>
+<p>体验站2：<a href="https://os.tutous.com/" target="_blank" rel="noopener noreferrer">https://os.tutous.com/</a></p>
+<blockquote>
+<p>NoneOS - 基于浏览器的轻量级虚拟操作系统</p>
+</blockquote>
+<p>oneterm</p>
+<p><a href="https://github.com/veops/oneterm" target="_blank" rel="noopener noreferrer">https://github.com/veops/oneterm</a></p>
+<p>体验：<a href="https://term.veops.cn/oneterm" target="_blank" rel="noopener noreferrer">https://term.veops.cn/oneterm</a></p>
+<blockquote>
+<p>提供对所有基础设施的安全访问和控制</p>
+</blockquote>
+<figure><img src="https://private-user-images.githubusercontent.com/51286284/405054083-abefbe07-13d6-44b0-8622-a0c7130d5b0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA1ODk3ODYsIm5iZiI6MTc1MDU4OTQ4NiwicGF0aCI6Ii81MTI4NjI4NC80MDUwNTQwODMtYWJlZmJlMDctMTNkNi00NGIwLTg2MjItYTBjNzEzMGQ1YjBkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjIyVDEwNTEyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVhZGNmZDM4ZGMzY2IwYzkzY2IwNmVjYmRhNzMzNTVlNzg0NTEwMzY0ODk4MmEzMWI4ODlmZTAxZGNlYzU0ZDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.u9i442dH0sGSjiAB9GQoHvwXIFrPVbPxQyS8oKCbDHs" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>teleport</p>
+<p><a href="https://github.com/gravitational/teleport" target="_blank" rel="noopener noreferrer">https://github.com/gravitational/teleport</a></p>
+<p><a href="https://goteleport.com/" target="_blank" rel="noopener noreferrer">https://goteleport.com/</a></p>
+<blockquote>
+<p>访问和保护所有基础设施的最简单、最安全的方法。</p>
+</blockquote>
+<figure><img src="https://www.xjfeng.com/zb_users/upload/2024/07/202407031719999475882735.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>jumpserver</p>
+<p><a href="https://github.com/jumpserver/jumpserver" target="_blank" rel="noopener noreferrer">https://github.com/jumpserver/jumpserver</a></p>
+<p>文档：<a href="https://www.jumpserver.com/" target="_blank" rel="noopener noreferrer">https://www.jumpserver.com/</a></p>
+<blockquote>
+<p>JumpServer是一个开源特权访问管理（PAM）工具，通过网络浏览器为运营模式和信息技术团队提供对SSH、RDP、库伯内特斯、数据库和RemoteApp端点的按需安全访问。</p>
+</blockquote>
+<figure><img src="https://private-user-images.githubusercontent.com/32935519/428549208-7c1f81af-37e8-4f07-8ac9-182895e1062e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA1ODg4ODQsIm5iZiI6MTc1MDU4ODU4NCwicGF0aCI6Ii8zMjkzNTUxOS80Mjg1NDkyMDgtN2MxZjgxYWYtMzdlOC00ZjA3LThhYzktMTgyODk1ZTEwNjJlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjIyVDEwMzYyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBlNTQ2OTMyYjM2ODViMWViNDFiNmVlMWJmY2E2NTdmNThmMGExYjdkMjZmN2RiNjI1YWI3YTVlY2UyMGNkYTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.shXbgw0cojSamD43W6TNkdaHjmpyEwopPKBc-xGiNew" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>堡垒机</p>
+<p>Next Terminal (下一个终端)</p>
+<p><a href="https://github.com/dushixiang/next-terminal" target="_blank" rel="noopener noreferrer">https://github.com/dushixiang/next-terminal</a>
+文档: <a href="https://next-terminal.typesafe.cn/" target="_blank" rel="noopener noreferrer">https://next-terminal.typesafe.cn/</a></p>
+<blockquote>
+<p>Next Terminal 是一个简单、安全和用户友好的交互式审计系统，支持多种远程访问协议，包括 RDP、SSH、VNC、Telnet 和 HTTP</p>
+</blockquote>
+<figure><img src="https://github.com/dushixiang/next-terminal/raw/master/screenshots/en/dashboard.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="https://github.com/dushixiang/next-terminal/raw/master/screenshots/en/access.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>blog</h2>
+<p><a href="https://shdwxznc.manus.space/" target="_blank" rel="noopener noreferrer"># 2025年美国市场跨境电商IP产品及未来趋势深度研究报告</a></p>
+]]></content:encoded>
+      <enclosure url="https://camo.githubusercontent.com/6657fe07a62d0522434443357ba2764ba10830963feb9a0013a0bde45224c405/68747470733a2f2f64617461656c656d2e636f6d2f62732f62697368656e675f776f726b666c6f772e706e67" type="image/"/>
+    </item>
     <item>
       <title>06-07-六月未果</title>
       <link>https://weekly.nnxx.me/weekly/2025/06-07-%E5%85%AD%E6%9C%88%E6%9C%AA%E6%9E%9C.html</link>
@@ -131,7 +426,7 @@
       <link>https://weekly.nnxx.me/weekly/2025/05-17-%E5%B1%B1%E6%98%8E%E6%B0%B4%E7%A7%80.html</link>
       <guid>https://weekly.nnxx.me/weekly/2025/05-17-%E5%B1%B1%E6%98%8E%E6%B0%B4%E7%A7%80.html</guid>
       <source url="https://weekly.nnxx.me/rss.xml">05-17-山明水秀</source>
-      <description>分享、实用、有趣、共勉 AI https://alphanews.club/ 将阅读效率提升100倍！ Alpha News由AI驱动，每天从上万篇推文中为你筛选提炼优质信息，并通过AI生成一篇5分钟可读的精华日报。 https://ai.3min.top/ 3MinTop | 3分钟AI日报 随便看看 https://seo.box/referrin...</description>
+      <description>分享、实用、有趣、共勉 AI https://alphanews.club/ 将阅读效率提升100倍！ Alpha News由AI驱动，每天从上万篇推文中为你筛选提炼优质信息，并通过AI生成一篇5分钟可读的精华日报。 https://ai.3min.top/ 3MinTop | 3分钟AI日报 smithery https://smithery.ai/...</description>
       <category>周报</category>
       <pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
@@ -147,6 +442,11 @@
 <blockquote>
 <p>3MinTop | 3分钟AI日报</p>
 </blockquote>
+<p>smithery</p>
+<p><a href="https://smithery.ai/" target="_blank" rel="noopener noreferrer">https://smithery.ai/</a></p>
+<blockquote>
+<p>你的agent通往世界的大门, 将您的 AI 与社区构建的 7521 技能和扩展集成。</p>
+</blockquote>
 <h2>随便看看</h2>
 <p><a href="https://seo.box/referring/" target="_blank" rel="noopener noreferrer">https://seo.box/referring/</a></p>
 <blockquote>
@@ -158,6 +458,21 @@
 <blockquote>
 <p>3D 资源图标下载 - 免费可商用 - 可以组件自己的 emoji 库</p>
 </blockquote>
+<p>vaultwarden</p>
+<p><a href="https://github.com/dani-garcia/vaultwarden" target="_blank" rel="noopener noreferrer">https://github.com/dani-garcia/vaultwarden</a></p>
+<blockquote>
+<p>Bitwarden Client API 的一个替代服务器实现，使用 Rust 编写，兼容官方 Bitwarden 客户端[免责声明]，非常适合自托管部署，在自托管部署中，运行官方的资源密集型服务可能并不理想。</p>
+</blockquote>
+<p>bitwarden</p>
+<p><a href="https://bitwarden.com/" target="_blank" rel="noopener noreferrer">https://bitwarden.com/</a></p>
+<blockquote>
+<p>Bitwarden 是一款优秀的密码管理器，用于安全地存储、管理和共享敏感信息，如密码、通行密钥和信用卡信息。它被多个知名科技媒体认可为最佳密码管理器，可以轻松管理、存储和保护无限制数量的密码和通行密钥，并可在无限设备上使用，没有任何限制。 Bitwarden 适用于需要保护在线账户安全的个人和团队。</p>
+</blockquote>
+<p><a href="https://www.wuluoyun.com/cart?fid=11&amp;gid=41" target="_blank" rel="noopener noreferrer">https://www.wuluoyun.com/cart?fid=11&amp;gid=41</a></p>
+<blockquote>
+<p>服务器购买， 华北云体验48H【限1台/人】</p>
+</blockquote>
+<p><a href="https://www.nodeseek.com/post-361598-1" target="_blank" rel="noopener noreferrer">阿里云国际CDN 永久不限量免费</a></p>
 <h2>逛逛Github</h2>
 <p>Mousio</p>
 <p><a href="https://github.com/jaywcjlove/mousio-hint" target="_blank" rel="noopener noreferrer">https://github.com/jaywcjlove/mousio-hint</a></p>
@@ -202,6 +517,7 @@
 </blockquote>
 <h2>blog</h2>
 <p><a href="https://manateelazycat.github.io/2025/06/05/top-product-manager/" target="_blank" rel="noopener noreferrer">怎样成为顶级产品经理？</a></p>
+<p><a href="https://guangzhengli.com/blog/zh/indie-hacker-tech-stack-2024" target="_blank" rel="noopener noreferrer">独立开发技术栈 2025</a></p>
 <p><a href="https://post.smzdm.com/p/aprqvvl9/" target="_blank" rel="noopener noreferrer">家庭网络升级指南【四】—— 懒猫微服【不只是NAS】</a></p>
 ]]></content:encoded>
       <enclosure url="https://github.com/wgsxm/PartCrafter/raw/main/assets/teaser.png" type="image/png"/>
@@ -3595,6 +3911,11 @@ Vimium</p>
 <blockquote>
 <p>学习英语的频道</p>
 </blockquote>
+<p>背单词练习</p>
+<p><a href="https://typing-word.ttentau.top/#/practice" target="_blank" rel="noopener noreferrer">https://typing-word.ttentau.top/#/practice</a></p>
+<blockquote>
+<p>既能听发音又能手动敲单词</p>
+</blockquote>
 <p><a href="https://en.knowledgefxg.com/" target="_blank" rel="noopener noreferrer">https://en.knowledgefxg.com/</a></p>
 <blockquote>
 <p>GitHub收集的英语学习资源导航站</p>
@@ -4299,6 +4620,16 @@ Vimium</p>
 <blockquote>
 <p>分享 GitHub 上有趣、入门级的开源项目。</p>
 </blockquote>
+<h2>其他</h2>
+<p>Hackathon （黑客松社区）</p>
+<p><a href="https://app.getriver.io/bolt?tab=calendar-view" target="_blank" rel="noopener noreferrer">https://app.getriver.io/bolt?tab=calendar-view</a></p>
+<blockquote>
+<p>Bolt.new is uniting builders for the world’s largest hackathon—$1M+ in prizes, hundreds of thousands of participants, and zero barriers to entry. Join or host community-led IRL events in cities around the world and turn your idea into reality.</p>
+</blockquote>
+<p>openhives 社区</p>
+<p><a href="https://openhives.com/" target="_blank" rel="noopener noreferrer">https://openhives.com/</a></p>
+<p>nodeseek社区</p>
+<p><a href="https://www.nodeseek.com/" target="_blank" rel="noopener noreferrer">https://www.nodeseek.com/</a></p>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" type="image/jpeg"/>
     </item>
@@ -4888,6 +5219,19 @@ Redis服务</p>
 <blockquote>
 <p>VPS购买，比较便宜的</p>
 </blockquote>
+<p><a href="https://cstserver.com/" target="_blank" rel="noopener noreferrer">https://cstserver.com/</a></p>
+<blockquote>
+<p>PremiumGlobal 云服务器、裸机和专用提供商，貌似比较划算</p>
+</blockquote>
+<p>yunyoo</p>
+<p><a href="https://yunyoo.cc/cart" target="_blank" rel="noopener noreferrer">https://yunyoo.cc/cart</a></p>
+<blockquote>
+<p>CVM经典云服务器</p>
+</blockquote>
+<p>gcp300(Google Cloud Platform) 云服务器</p>
+<blockquote>
+<p>提供的 300 美元赠金来部署服务器, 申请成功后，试用金有效期为三个月</p>
+</blockquote>
 <h2>SEO</h2>
 <p>SEO资源目录</p>
 <p><a href="https://www.91wink.com/index.php/special/seoresourcedirectory/" target="_blank" rel="noopener noreferrer">https://www.91wink.com/index.php/special/seoresourcedirectory/</a></p>
@@ -4906,6 +5250,14 @@ Redis服务</p>
 <blockquote>
 <p>vercel部署web，国内访问加速技巧</p>
 </blockquote>
+<p>GMSSH（服务器可视化管理）</p>
+<p><a href="https://github.com/GMSSH/GMSSH" target="_blank" rel="noopener noreferrer">https://github.com/GMSSH/GMSSH</a></p>
+<p><a href="https://web.gmssh.com/web/#/" target="_blank" rel="noopener noreferrer">https://web.gmssh.com/web/#/</a></p>
+<blockquote>
+<p>GMSSH是一个桌面式的服务器运维管理软件，可视化管理服务器。</p>
+<p>代码没开源，直接使用可能存在密码泄露，一般是不会直接暴露在公网上使用的</p>
+</blockquote>
+<figure><img src="https://private-user-images.githubusercontent.com/10451615/422603228-a76fbc09-b795-4220-8e02-c4b0deccb132.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA1OTI1NjcsIm5iZiI6MTc1MDU5MjI2NywicGF0aCI6Ii8xMDQ1MTYxNS80MjI2MDMyMjgtYTc2ZmJjMDktYjc5NS00MjIwLThlMDItYzRiMGRlY2NiMTMyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjIyVDExMzc0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVlZDY2MDg0M2E2MDBkNGYzZDUwNmU3MjgyZjdkNjk2MTQ0MzQxMTE2ZmZkMjExMzk0MzhhNjY5M2YxZjRlNGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pgSoMAyo26T4HZnBG98VjtsNDefYH1jAFQaXWYGtuxU" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://www.yuque.com/hisnxg/fun" target="_blank" rel="noopener noreferrer">兴趣使然</a></p>
 <blockquote>
 <p>兴趣捣鼓</p>
@@ -5191,6 +5543,7 @@ Redis服务</p>
 <p>手机投屏电脑工具</p>
 <p>支持 USB 和 WiFi 两种连接方式，以及支持同时连接多部手机实现群控。 工具适用于 Windows、macOS 和 Linux 系统，可直接开箱即用。</p>
 </blockquote>
+<figure><img src="https://github.com/viarotel-org/escrcpy/raw/main/screenshots/zh-CN/overview.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>NoTubeTV</p>
 <p><a href="https://github.com/ycngmn/NoTubeTV" target="_blank" rel="noopener noreferrer">https://github.com/ycngmn/NoTubeTV</a></p>
 <blockquote>
