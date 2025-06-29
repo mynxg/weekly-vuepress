@@ -92,6 +92,20 @@ mogondb
 [https://justhost.asia/en](https://justhost.asia/en)
 >VPS购买，比较便宜的
 
+
+[https://cstserver.com/](https://cstserver.com/)
+>PremiumGlobal 云服务器、裸机和专用提供商，貌似比较划算
+
+yunyoo
+
+[https://yunyoo.cc/cart](https://yunyoo.cc/cart)
+>CVM经典云服务器
+
+gcp300(Google Cloud Platform) 云服务器
+> 提供的 300 美元赠金来部署服务器, 申请成功后，试用金有效期为三个月
+
+
+
 ## SEO
 
 
