@@ -6,12 +6,123 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 29 Jun 2025 16:35:25 GMT</pubDate>
-    <lastBuildDate>Sun, 29 Jun 2025 16:35:25 GMT</lastBuildDate>
+    <pubDate>Mon, 07 Jul 2025 12:35:55 GMT</pubDate>
+    <lastBuildDate>Mon, 07 Jul 2025 12:35:55 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
     <category>工具</category>
+    <item>
+      <title>07-05-赏心悦目</title>
+      <link>https://weekly.nnxx.me/weekly/2025/07-05-%E8%B5%8F%E5%BF%83%E6%82%A6%E7%9B%AE.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/07-05-%E8%B5%8F%E5%BF%83%E6%82%A6%E7%9B%AE.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">07-05-赏心悦目</source>
+      <description>分享、实用、有趣、共勉 AI https://github.com/chaitin/PandaWiki 在线文档：pandawiki.docs.baizhi.cloud/ PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI...</description>
+      <category>周报</category>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p><a href="https://github.com/chaitin/PandaWiki" target="_blank" rel="noopener noreferrer">https://github.com/chaitin/PandaWiki</a></p>
+<p>在线文档：<a href="https://pandawiki.docs.baizhi.cloud/" title="https://pandawiki.docs.baizhi.cloud/" target="_blank" rel="noopener noreferrer">pandawiki.docs.baizhi.cloud/</a></p>
+<blockquote>
+<p>PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。</p>
+</blockquote>
+<h2>随便看看</h2>
+<p>halo-theme-higan</p>
+<p><a href="https://github.com/guqing/halo-theme-higan" target="_blank" rel="noopener noreferrer">https://github.com/guqing/halo-theme-higan</a></p>
+<p>在线体验：<a href="https://guqing.io/" target="_blank" rel="noopener noreferrer">https://guqing.io/</a></p>
+<blockquote>
+<p>halo主题名彼岸，生死为此岸，涅槃为彼岸；有苦无乐为此岸，无苦无乐为彼岸...它代表着对一切美好的精神追求，也代表着生生不息的轮回亦如本主题分黑白两色，阴极阳至，向死而生。</p>
+</blockquote>
+<figure><img src="https://github.com/guqing/halo-theme-higan/raw/main/screenshots/Theme20220325-221824@2x.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/zhheo/HeoWeb" target="_blank" rel="noopener noreferrer">https://github.com/zhheo/HeoWeb</a></p>
+<p>体验站：<a href="https://zhheo.com/" target="_blank" rel="noopener noreferrer">https://zhheo.com/</a></p>
+<blockquote>
+<p>纯静态多业务展示的个人主页主题</p>
+</blockquote>
+<figure><img src="https://github.com/zhheo/HeoWeb/raw/main/img/cover.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/ajitpal/BookBank" target="_blank" rel="noopener noreferrer">ajitpal/BookBank: Books</a></p>
+<p>在线阅读：<a href="https://ajitpal.github.io/BookBank/" target="_blank" rel="noopener noreferrer">Book Bank</a></p>
+<blockquote>
+<p>书籍资源收藏</p>
+</blockquote>
+<p><a href="https://github.com/doocs/md" target="_blank" rel="noopener noreferrer">https://github.com/doocs/md</a></p>
+<p>在线编辑器：<a href="https://md.doocs.org/" target="_blank" rel="noopener noreferrer">微信 Markdown 编辑器 | Doocs 开源社区</a></p>
+<blockquote>
+<p>✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性</p>
+</blockquote>
+<figure><img src="https://camo.githubusercontent.com/450296fff3135f915a535118043f5fda4efca1d8310ce85ed6f1afc2d9c5c77e/68747470733a2f2f63646e2d646f6f63732e6f73732d636e2d7368656e7a68656e2e616c6979756e63732e636f6d2f67682f646f6f63732f6d642f696d616765732f64656d6f312e676966" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/firerpa/lamda" target="_blank" rel="noopener noreferrer">https://github.com/firerpa/lamda</a></p>
+<blockquote>
+<p>最强大的Android RPA代理框架，下一代移动自动化机器人。</p>
+</blockquote>
+<p><a href="https://www.gankinterview.cn/" target="_blank" rel="noopener noreferrer">https://www.gankinterview.cn/</a></p>
+<blockquote>
+<p>AI面试辅助，Offer快人一步，最强最快AI模型，100% 安全隐身，超高准确率</p>
+</blockquote>
+<p><strong>小旺 AI 截图</strong></p>
+<p><a href="https://www.xiaowang.com/" target="_blank" rel="noopener noreferrer">https://www.xiaowang.com/</a></p>
+<blockquote>
+<p>支持多种截图方式，但貌似也占用内存高</p>
+</blockquote>
+<p><img src="https://www.xiaowang.com/assis/img/lin5tip.webp" alt="" loading="lazy">
+<a href="https://github.com/mg-chao/snow-shot" target="_blank" rel="noopener noreferrer">https://github.com/mg-chao/snow-shot</a></p>
+<p>官网：<a href="https://snowshot.top/" target="_blank" rel="noopener noreferrer">https://snowshot.top/</a></p>
+<blockquote>
+<p>截图工具，不过都有缺点，就是截图占用内存高</p>
+</blockquote>
+<figure><img src="https://github.com/mg-chao/snow-shot/raw/main/docs/imgs/snow_shot_home.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://www.faxianai.com/" target="_blank" rel="noopener noreferrer">https://www.faxianai.com/</a></p>
+<blockquote>
+<p>发现AI，聚合了很多AI网站</p>
+</blockquote>
+<h2>逛逛Github</h2>
+<p>MediaCrawler</p>
+<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank" rel="noopener noreferrer">https://github.com/NanmiCoder/MediaCrawler</a></p>
+<p>在线文档：<a href="https://nanmicoder.github.io/MediaCrawler/" target="_blank" rel="noopener noreferrer">https://nanmicoder.github.io/MediaCrawler/</a></p>
+<blockquote>
+<p>小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫</p>
+</blockquote>
+<p>NodeCrypt</p>
+<p><a href="https://github.com/shuaiplus/NodeCrypt" target="_blank" rel="noopener noreferrer">https://github.com/shuaiplus/NodeCrypt</a></p>
+<p>在线体验：<a href="https://nodecrypt.elyar430.workers.dev/" target="_blank" rel="noopener noreferrer">https://nodecrypt.elyar430.workers.dev/</a></p>
+<blockquote>
+<p>🔒真正的网页端到端加密聊天系统</p>
+</blockquote>
+<p><a href="https://github.com/OtokoNoIzumi/adskip" target="_blank" rel="noopener noreferrer">https://github.com/OtokoNoIzumi/adskip</a></p>
+<blockquote>
+<p>AI智能识别并自动跳过B站视频中的切片广告</p>
+</blockquote>
+<p>relationship</p>
+<p><a href="https://github.com/mumuy/relationship" target="_blank" rel="noopener noreferrer">https://github.com/mumuy/relationship</a></p>
+<p>在线体验：<a href="https://passer-by.com/relationship/" target="_blank" rel="noopener noreferrer">https://passer-by.com/relationship/</a></p>
+<blockquote>
+<p>中国亲戚关系计算器 - 家庭称谓/亲戚称呼/称呼计算/辈分计算/亲戚关系算法/親戚稱呼計算機_Chinese kinship system.</p>
+</blockquote>
+<figure><img src="https://passer-by.com/relationship/static/image/app.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/YaoFANGUK/video-subtitle-extractor" target="_blank" rel="noopener noreferrer">https://github.com/YaoFANGUK/video-subtitle-extractor</a></p>
+<blockquote>
+<p>视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。</p>
+</blockquote>
+<figure><img src="https://github.com/YaoFANGUK/video-subtitle-extractor/raw/main/design/demo.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/Afilmory/afilmory" target="_blank" rel="noopener noreferrer">https://github.com/Afilmory/afilmory</a></p>
+<p>在线体验：<a href="https://afilmory.innei.in/" target="_blank" rel="noopener noreferrer">https://afilmory.innei.in/</a></p>
+<blockquote>
+<p>一个个人摄影网站，以怀旧、复古的氛围庆祝捕捉瞬间的艺术。融合光圈、胶片和记忆。</p>
+</blockquote>
+<figure><img src="https://github.com/Afilmory/assets/raw/main/afilmory-readme.webp?raw=true" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/Simon-He95/browser-compress-image" target="_blank" rel="noopener noreferrer">https://github.com/Simon-He95/browser-compress-image</a></p>
+<p>在线体验：<a href="https://browser-compress-image.netlify.app/" target="_blank" rel="noopener noreferrer">https://browser-compress-image.netlify.app/</a></p>
+<blockquote>
+<p>轻量级、高性能的浏览器图片压缩库</p>
+</blockquote>
+<figure><img src="https://github.com/Simon-He95/browser-compress-image/raw/master/assets/pic.png" alt="https://github.com/Simon-He95/browser-compress-image/raw/master/assets/pic.png" tabindex="0" loading="lazy"><figcaption>https://github.com/Simon-He95/browser-compress-image/raw/master/assets/pic.png</figcaption></figure>
+<h2>blog</h2>
+]]></content:encoded>
+      <enclosure url="https://github.com/guqing/halo-theme-higan/raw/main/screenshots/Theme20220325-221824@2x.png" type="image/png"/>
+    </item>
     <item>
       <title>06-28-静水流深</title>
       <link>https://weekly.nnxx.me/weekly/2025/06-28-%E9%9D%99%E6%B0%B4%E6%B5%81%E6%B7%B1.html</link>
@@ -60,6 +171,16 @@
 <p>所有免费音乐一个（chrome 扩展，也适用于 Firefox）</p>
 </blockquote>
 <figure><img src="https://camo.githubusercontent.com/054f7d38d8dbe53d444592d4d5a86422c3e372e3fdd20b2d8b66ad9119d07d46/68747470733a2f2f692e696d6775722e636f6d2f64495646746f722e676966" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://doc.moze.app/" target="_blank" rel="noopener noreferrer">https://doc.moze.app/</a></p>
+<blockquote>
+<p>记账APP，目前只只支持IOS</p>
+</blockquote>
+<p><a href="https://ac-wiki.org/" target="_blank" rel="noopener noreferrer">https://ac-wiki.org/</a></p>
+<p><a href="https://ac-wiki.cn/" target="_blank" rel="noopener noreferrer">https://ac-wiki.cn/</a></p>
+<p>开源地址：<a href="https://github.com/Ac-Wiki/Ac-Wiki" target="_blank" rel="noopener noreferrer">https://github.com/Ac-Wiki/Ac-Wiki</a></p>
+<blockquote>
+<p><em>大学生群体打造的知识共享平台</em></p>
+</blockquote>
 <h2>逛逛Github</h2>
 <p>fuck-u-code</p>
 <p><a href="https://github.com/Done-0/fuck-u-code" target="_blank" rel="noopener noreferrer">https://github.com/Done-0/fuck-u-code</a></p>
