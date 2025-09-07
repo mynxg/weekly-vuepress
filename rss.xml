@@ -6,18 +6,256 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 03 Aug 2025 13:35:08 GMT</pubDate>
-    <lastBuildDate>Sun, 03 Aug 2025 13:35:08 GMT</lastBuildDate>
+    <pubDate>Sun, 07 Sep 2025 17:39:18 GMT</pubDate>
+    <lastBuildDate>Sun, 07 Sep 2025 17:39:18 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
     <category>工具</category>
     <item>
+      <title>08-23-秋兰飘香</title>
+      <link>https://weekly.nnxx.me/weekly/2025/08-23-%E7%A7%8B%E5%85%B0%E9%A3%98%E9%A6%99.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/08-23-%E7%A7%8B%E5%85%B0%E9%A3%98%E9%A6%99.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">08-23-秋兰飘香</source>
+      <description>分享、实用、有趣、共勉 AI qwen-image.yooart.top qwen image image.yooart.top 用简单的文字，画出专业的创意图像 https://github.com/linshenkx/prompt-optimizer 一款提示词优化器，助力于编写高质量的提示词 在线体验：prompt.always200.com 随...</description>
+      <category>周报</category>
+      <pubDate>Sat, 23 Aug 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p><a href="qwen-image.yooart.top">qwen-image.yooart.top</a></p>
+<blockquote>
+<p>qwen image</p>
+</blockquote>
+<p><a href="image.yooart.top">image.yooart.top</a></p>
+<blockquote>
+<p>用简单的文字，画出专业的创意图像</p>
+</blockquote>
+<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank" rel="noopener noreferrer">https://github.com/linshenkx/prompt-optimizer</a></p>
+<blockquote>
+<p>一款提示词优化器，助力于编写高质量的提示词</p>
+</blockquote>
+<p>在线体验：<a href="https://prompt.always200.com/" title="https://prompt.always200.com" target="_blank" rel="noopener noreferrer">prompt.always200.com</a>
+<img src="https://github.com/linshenkx/prompt-optimizer/raw/develop/images/demo/cat-maid-roleplay.png" alt="" loading="lazy"></p>
+<h2>随便看看</h2>
+<p><a href="https://musicbox.yangweijie.cn/" target="_blank" rel="noopener noreferrer">https://musicbox.yangweijie.cn/</a></p>
+<blockquote>
+<p>音乐</p>
+</blockquote>
+<p><a href="https://github.com/gacjie/augment-balance" target="_blank" rel="noopener noreferrer">https://github.com/gacjie/augment-balance</a></p>
+<blockquote>
+<p>augment次数查询</p>
+</blockquote>
+<p><a href="https://github.com/KleinerSource/augment_token_manager" target="_blank" rel="noopener noreferrer">https://github.com/KleinerSource/augment_token_manager</a></p>
+<blockquote>
+<p>augment token 管理</p>
+</blockquote>
+<p><a href="https://github.com/imhuso/cunzhi" target="_blank" rel="noopener noreferrer">https://github.com/imhuso/cunzhi</a></p>
+<blockquote>
+<p>寸止MCP</p>
+</blockquote>
+<p><a href="https://github.com/Minidoracat/mcp-feedback-enhanced" target="_blank" rel="noopener noreferrer">https://github.com/Minidoracat/mcp-feedback-enhanced</a></p>
+<blockquote>
+<p>mcp-feedback-enhanced</p>
+</blockquote>
+<p><a href="https://github.com/eoao/cloud-mail" target="_blank" rel="noopener noreferrer">https://github.com/eoao/cloud-mail</a></p>
+<blockquote>
+<p>cloudflare email 邮箱 临时邮箱 邮件发送 mail</p>
+</blockquote>
+<p><a href="https://skymail.ink/" title="https://skymail.ink" target="_blank" rel="noopener noreferrer">skymail.ink</a>
+<img src="https://github.com/eoao/cloud-mail/raw/main/doc/demo/demo2.png" alt="" loading="lazy"></p>
+<h2>blog</h2>
+<p><a href="https://www.cunshao.com/270352.html" target="_blank" rel="noopener noreferrer">使用Docker安装Mailcow自建域名邮箱</a></p>
+]]></content:encoded>
+      <enclosure url="https://github.com/linshenkx/prompt-optimizer/raw/develop/images/demo/cat-maid-roleplay.png" type="image/png"/>
+    </item>
+    <item>
+      <title>08-16-秋雨绵绵</title>
+      <link>https://weekly.nnxx.me/weekly/2025/08-16-%E7%A7%8B%E9%9B%A8%E7%BB%B5%E7%BB%B5.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/08-16-%E7%A7%8B%E9%9B%A8%E7%BB%B5%E7%BB%B5.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">08-16-秋雨绵绵</source>
+      <description>分享、实用、有趣、共勉 AI https://longcat.chat/ longcat https://github.com/dtyq/magic Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow...</description>
+      <category>周报</category>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p><a href="https://longcat.chat/" target="_blank" rel="noopener noreferrer">https://longcat.chat/</a></p>
+<blockquote>
+<p>longcat</p>
+</blockquote>
+<p><a href="https://github.com/dtyq/magic" target="_blank" rel="noopener noreferrer">https://github.com/dtyq/magic</a></p>
+<blockquote>
+<p>Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)</p>
+</blockquote>
+<p><a href="https://www.letsmagic.ai/" title="https://www.letsmagic.ai/" target="_blank" rel="noopener noreferrer">www.letsmagic.ai/</a>
+<img src="https://camo.githubusercontent.com/9786dec78aeb10829a68032a7d8ac3ff5a12082e04faff3a7d3f58330721206c/68747470733a2f2f7075626c69632d63646e2e6c6574736d616769632e61692f7374617469632f696d672f73757065722d6d616769632d6f70656e2d736f757263652d70726f6a656374732d656e2e706e673f763d3230323530383139" alt="" loading="lazy"></p>
+<h2>随便看看</h2>
+<p><a href="https://tutu.to/" target="_blank" rel="noopener noreferrer">https://tutu.to/</a></p>
+<blockquote>
+<p>兔兔图床 - 免费图床</p>
+</blockquote>
+<p><a href="https://bazi.site/" target="_blank" rel="noopener noreferrer">https://bazi.site/</a></p>
+<blockquote>
+<p>算命AI，用着还挺准的</p>
+</blockquote>
+<p><a href="https://ipdata.co/" target="_blank" rel="noopener noreferrer">https://ipdata.co/</a></p>
+<blockquote>
+<p>地图 数据查询API</p>
+</blockquote>
+<p><a href="https://pinetools.com/" target="_blank" rel="noopener noreferrer">https://pinetools.com/</a></p>
+<blockquote>
+<h1>online tools</h1>
+</blockquote>
+<h2>blog</h2>
+<p><a href="https://github.com/Sakib62/vite-react-ts-tailwind-shadcn-router-starter-kit" target="_blank" rel="noopener noreferrer">https://github.com/Sakib62/vite-react-ts-tailwind-shadcn-router-starter-kit</a></p>
+<blockquote>
+<p>React模板</p>
+</blockquote>
+]]></content:encoded>
+      <enclosure url="https://camo.githubusercontent.com/9786dec78aeb10829a68032a7d8ac3ff5a12082e04faff3a7d3f58330721206c/68747470733a2f2f7075626c69632d63646e2e6c6574736d616769632e61692f7374617469632f696d672f73757065722d6d616769632d6f70656e2d736f757263652d70726f6a656374732d656e2e706e673f763d3230323530383139" type="image/"/>
+    </item>
+    <item>
+      <title>08-09-醉释浮屠</title>
+      <link>https://weekly.nnxx.me/weekly/2025/08-09-%E9%86%89%E9%87%8A%E6%B5%AE%E5%B1%A0.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/08-09-%E9%86%89%E9%87%8A%E6%B5%AE%E5%B1%A0.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">08-09-醉释浮屠</source>
+      <description>分享、实用、有趣、共勉 AI https://www.uxbot.cn/ 设计未来，即刻启程, AI赋能高效生成网站与App的视觉设计及交互式原型 随便看看 取文件 https://quwenjian.cc/ 根据取件码取文件，可以下载文件 https://share.lanol.cn/ 文件快递柜 - FileCodeBox Github：https...</description>
+      <category>周报</category>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p><a href="https://www.uxbot.cn/" target="_blank" rel="noopener noreferrer">https://www.uxbot.cn/</a></p>
+<blockquote>
+<p>设计未来，即刻启程, AI赋能高效生成网站与App的视觉设计及交互式原型</p>
+</blockquote>
+<figure><img src="https://assets.qingshuxuetang.com/static/uxbot/25_7/zh/workflow-editing-interface.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>随便看看</h2>
+<p>取文件</p>
+<p><a href="https://quwenjian.cc/" target="_blank" rel="noopener noreferrer">https://quwenjian.cc/</a></p>
+<blockquote>
+<p>根据取件码取文件，可以下载文件</p>
+</blockquote>
+<p><a href="https://share.lanol.cn/" target="_blank" rel="noopener noreferrer">https://share.lanol.cn/</a></p>
+<blockquote>
+<p>文件快递柜 - FileCodeBox</p>
+</blockquote>
+<p>Github：<a href="https://github.com/vastsa/FileCodeBox" target="_blank" rel="noopener noreferrer">https://github.com/vastsa/FileCodeBox</a></p>
+<p><a href="https://github.com/rememberber/MooTool" target="_blank" rel="noopener noreferrer">https://github.com/rememberber/MooTool</a></p>
+<blockquote>
+<p>Handy tool set for developers. 开发者常备小工具</p>
+</blockquote>
+<p>在线体验站：<a href="https://mootool.luoboduner.com/" target="_blank" rel="noopener noreferrer">https://mootool.luoboduner.com/</a>
+<img src="https://github.com/rememberber/MooTool/raw/master/screen_shoot/quick_note_2_mac.png" alt="" loading="lazy"></p>
+<p>现代编辑器</p>
+<p><a href="https://github.com/esm-dev/modern-monaco" target="_blank" rel="noopener noreferrer">https://github.com/esm-dev/modern-monaco</a></p>
+<blockquote>
+<p>A modern version of Monaco Editor.</p>
+</blockquote>
+<h2>blog</h2>
+<p><a href="https://tutorials.tinkink.net/zh-hans/git/git-using-different-config-in-different-projects.html" target="_blank" rel="noopener noreferrer">指定项目配置相应用户名</a></p>
+<p><a href="https://liubing.me/article/git/git-config-width-directory.html#%E5%AE%9E%E4%BE%8B%E9%85%8D%E7%BD%AE" target="_blank" rel="noopener noreferrer">Git 根据目录文件夹配置用户名和邮箱</a></p>
+<p><a href="https://github.com/KleinerSource/augment_token_manager" target="_blank" rel="noopener noreferrer">https://github.com/KleinerSource/augment_token_manager</a></p>
+<blockquote>
+<p>token无感切换</p>
+</blockquote>
+]]></content:encoded>
+      <enclosure url="https://assets.qingshuxuetang.com/static/uxbot/25_7/zh/workflow-editing-interface.webp" type="image/webp"/>
+    </item>
+    <item>
+      <title>08-02-高耸入云</title>
+      <link>https://weekly.nnxx.me/weekly/2025/08-02-%E9%AB%98%E8%80%B8%E5%85%A5%E4%BA%91.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/08-02-%E9%AB%98%E8%80%B8%E5%85%A5%E4%BA%91.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">08-02-高耸入云</source>
+      <description>分享、实用、有趣、共勉 AI https://kilocode.ai/ github: https://github.com/kilo-org/kilocode 合并 Roo Code 和 Cline 等开源项目 https://app.anymodel.xyz/ 可以体验Claude Code等模型 AI代理中转站 https://api.oaipr...</description>
+      <category>周报</category>
+      <pubDate>Sat, 02 Aug 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p><a href="https://kilocode.ai/" target="_blank" rel="noopener noreferrer">https://kilocode.ai/</a></p>
+<p>github: <a href="https://github.com/kilo-org/kilocode" target="_blank" rel="noopener noreferrer">https://github.com/kilo-org/kilocode</a></p>
+<blockquote>
+<p>合并 Roo Code 和 Cline 等开源项目</p>
+</blockquote>
+<figure><img src="https://raw.githubusercontent.com/Kilo-Org/kilocode/refs/heads/main/kilo.gif" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://app.anymodel.xyz/" target="_blank" rel="noopener noreferrer">https://app.anymodel.xyz/</a></p>
+<blockquote>
+<p>可以体验Claude Code等模型</p>
+</blockquote>
+<p>AI代理中转站</p>
+<p><a href="https://api.oaipro.com/" target="_blank" rel="noopener noreferrer">https://api.oaipro.com/</a></p>
+<blockquote>
+<p>付费中转站</p>
+</blockquote>
+<p><a href="https://anyrouter.top/" target="_blank" rel="noopener noreferrer">https://anyrouter.top/</a></p>
+<blockquote>
+<p>Claude Code体验站</p>
+</blockquote>
+<p>教程：<a href="https://www.cnblogs.com/xiaoqi/p/18980593/claude-code-free" target="_blank" rel="noopener noreferrer">https://www.cnblogs.com/xiaoqi/p/18980593/claude-code-free</a></p>
+<blockquote></blockquote>
+<p>api调用参考：<a href="https://www.cnblogs.com/geyee/p/18975790" target="_blank" rel="noopener noreferrer">https://www.cnblogs.com/geyee/p/18975790</a></p>
+<p><a href="https://www.aicodemirror.com/" target="_blank" rel="noopener noreferrer">https://www.aicodemirror.com/</a></p>
+<blockquote>
+<p>Claude Code订阅</p>
+</blockquote>
+<p><a href="https://github.com/musistudio/claude-code-router" target="_blank" rel="noopener noreferrer">https://github.com/musistudio/claude-code-router</a></p>
+<blockquote>
+<p>使用 Claude Code 作为编码基础设施的基础，让您决定如何与模型交互，同时享受 Anthropic 的更新。</p>
+</blockquote>
+<h2>随便看看</h2>
+<p>沉浸式翻译插件</p>
+<p><a href="https://github.com/mengxi-ream/read-frog" target="_blank" rel="noopener noreferrer">https://github.com/mengxi-ream/read-frog</a></p>
+<blockquote>
+<p>陪读蛙 - 开源沉浸式翻译</p>
+</blockquote>
+<figure><img src="https://github.com/mengxi-ream/read-frog/raw/main/assets/page-translation-demo.gif" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/fishjar/kiss-translator" target="_blank" rel="noopener noreferrer">https://github.com/fishjar/kiss-translator</a></p>
+<blockquote>
+<p>一个简约、开源的 双语对照翻译扩展 &amp; 油猴脚本</p>
+</blockquote>
+<p><a href="https://www.wondercv.com/" target="_blank" rel="noopener noreferrer">https://www.wondercv.com/</a></p>
+<blockquote>
+<p>超级简历生成</p>
+</blockquote>
+<p>automa</p>
+<p><a href="https://chromewebstore.google.com/detail/automa/infppggnoaenmfagbfknfkancpbljcca?hl=zh-CN&amp;utm_source=ext_sidebar" target="_blank" rel="noopener noreferrer">https://chromewebstore.google.com/detail/automa/infppggnoaenmfagbfknfkancpbljcca?hl=zh-CN&amp;utm_source=ext_sidebar</a></p>
+<blockquote>
+<p>automa浏览器插件，从自动填写表格、执行重复任务、截取屏幕截图到抓取网站数据</p>
+</blockquote>
+<p>Crawler</p>
+<p><a href="https://chromewebstore.google.com/search/Crawler?hl=zh-CN&amp;utm_source=ext_sidebar" target="_blank" rel="noopener noreferrer">https://chromewebstore.google.com/search/Crawler?hl=zh-CN&amp;utm_source=ext_sidebar</a></p>
+<blockquote>
+<p>操作网页，抓取数据</p>
+</blockquote>
+<p>content JS  抓取数据</p>
+<p><a href="https://www.zuo.cc/" target="_blank" rel="noopener noreferrer">https://www.zuo.cc/</a></p>
+<blockquote>
+<p>网文百科, 通过公开渠道收集、整理网文资料</p>
+</blockquote>
+<h2>blog</h2>
+<p><a href="https://www.uy123.net/" target="_blank" rel="noopener noreferrer">https://www.uy123.net/</a></p>
+<blockquote>
+<p>各种在线课程学习，比如西门子</p>
+</blockquote>
+<p><a href="https://www.lly.hk/" target="_blank" rel="noopener noreferrer">https://www.lly.hk/</a></p>
+<blockquote>
+<p>算力租赁，云服务器购买等</p>
+</blockquote>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/Kilo-Org/kilocode/refs/heads/main/kilo.gif" type="image/gif"/>
+    </item>
+    <item>
       <title>07-26-盛夏光年</title>
       <link>https://weekly.nnxx.me/weekly/2025/07-26-%E7%9B%9B%E5%A4%8F%E5%85%89%E5%B9%B4.html</link>
       <guid>https://weekly.nnxx.me/weekly/2025/07-26-%E7%9B%9B%E5%A4%8F%E5%85%89%E5%B9%B4.html</guid>
       <source url="https://weekly.nnxx.me/rss.xml">07-26-盛夏光年</source>
-      <description>分享、实用、有趣、共勉 AI https://lipsync.video/ AI唇形同步生成器 只需上传您的音频和视频，AI将自动匹配您的嘴唇，实现流畅、自然的唇形同步。 随便看看 在线印章生成与提取工具 https://onepage.czl.net/tools/seal_generation/ 注意数据安全问题 App Mode Launcher ...</description>
+      <description>分享、实用、有趣、共勉 AI https://lipsync.video/ AI唇形同步生成器 只需上传您的音频和视频，AI将自动匹配您的嘴唇，实现流畅、自然的唇形同步。 https://poloai.top/ PoloAPI - 企业级AI聚合平台 源头供应商, 全球AI大模型源头直供 随便看看 在线印章生成与提取工具 https://onepage...</description>
       <category>周报</category>
       <pubDate>Sat, 26 Jul 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
@@ -29,6 +267,10 @@
 <p>AI唇形同步生成器</p>
 </blockquote>
 <p>只需上传您的音频和视频，AI将自动匹配您的嘴唇，实现流畅、自然的唇形同步。</p>
+<p><a href="https://poloai.top/" target="_blank" rel="noopener noreferrer">https://poloai.top/</a></p>
+<blockquote>
+<p>PoloAPI - 企业级AI聚合平台 源头供应商, 全球AI大模型源头直供</p>
+</blockquote>
 <h2>随便看看</h2>
 <p>在线印章生成与提取工具</p>
 <p><a href="https://onepage.czl.net/tools/seal_generation/" target="_blank" rel="noopener noreferrer">https://onepage.czl.net/tools/seal_generation/</a></p>
@@ -66,8 +308,13 @@
 </blockquote>
 <p><a href="https://1ms.run/" target="_blank" rel="noopener noreferrer">https://1ms.run/</a></p>
 <blockquote>
-<p>镜像仓库</p>
+<p>Docker镜像仓库</p>
 </blockquote>
+<p><a href="https://cc.nostses.icu/" target="_blank" rel="noopener noreferrer">https://cc.nostses.icu/</a></p>
+<blockquote>
+<p>资源收录</p>
+</blockquote>
+<p><a href="https://nxg.lanzoul.com/iB8bF32jln0j" target="_blank" rel="noopener noreferrer">Windows 应用 图片加水印</a></p>
 <h2>blog</h2>
 <p><a href="https://datawhalechina.github.io/happy-llm/#/" target="_blank" rel="noopener noreferrer">Datawhale 开源免费电子书</a></p>
 <blockquote>
