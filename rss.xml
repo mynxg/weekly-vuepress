@@ -6,12 +6,126 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 14 Sep 2025 15:51:02 GMT</pubDate>
-    <lastBuildDate>Sun, 14 Sep 2025 15:51:02 GMT</lastBuildDate>
+    <pubDate>Sun, 21 Sep 2025 15:04:18 GMT</pubDate>
+    <lastBuildDate>Sun, 21 Sep 2025 15:04:18 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
     <category>工具</category>
+    <item>
+      <title>09-20-秋雨绵绵</title>
+      <link>https://weekly.nnxx.me/weekly/2025/09-20-%E7%A7%8B%E9%9B%A8%E7%BB%B5%E7%BB%B5.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/09-20-%E7%A7%8B%E9%9B%A8%E7%BB%B5%E7%BB%B5.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">09-20-秋雨绵绵</source>
+      <description>分享、实用、有趣、共勉 AI https://github.com/Xerxes-2/clewdr 高性能 LLM 反向代理 https://github.com/cexll/myclaude Cladue Code AI Team Workflow Sub Agents https://github.com/SuperClaude-Org/Super...</description>
+      <category>周报</category>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p><a href="https://github.com/Xerxes-2/clewdr" target="_blank" rel="noopener noreferrer">https://github.com/Xerxes-2/clewdr</a></p>
+<blockquote>
+<p>高性能 LLM 反向代理</p>
+</blockquote>
+<p><a href="https://github.com/cexll/myclaude" target="_blank" rel="noopener noreferrer">https://github.com/cexll/myclaude</a></p>
+<blockquote>
+<p>Cladue Code AI Team Workflow Sub Agents</p>
+</blockquote>
+<p><a href="https://github.com/SuperClaude-Org/SuperClaude_Framework" target="_blank" rel="noopener noreferrer">https://github.com/SuperClaude-Org/SuperClaude_Framework</a></p>
+<p><a href="https://superclaude.netlify.app/" target="_blank" rel="noopener noreferrer">https://superclaude.netlify.app/</a></p>
+<blockquote>
+<p>一个配置框架，通过专门的命令、认知角色和开发方法来增强 Claude Code。</p>
+</blockquote>
+<blockquote>
+<p>Claude Code、Augment Code、Cursor、Codex</p>
+</blockquote>
+<p><a href="https://github.com/OrzMiku/api-proxy" target="_blank" rel="noopener noreferrer">https://github.com/OrzMiku/api-proxy</a></p>
+<blockquote>
+<p>API 代理服务</p>
+</blockquote>
+<p><a href="https://nocode.cn/" target="_blank" rel="noopener noreferrer">https://nocode.cn/</a></p>
+<p>文档：<a href="https://nocode.cn/docs/guide/index.html" target="_blank" rel="noopener noreferrer">https://nocode.cn/docs/guide/index.html</a></p>
+<blockquote>
+<p>一句话呈现所想</p>
+</blockquote>
+<p><a href="https://github.com/knownsec/aipyapp" target="_blank" rel="noopener noreferrer">https://github.com/knownsec/aipyapp</a></p>
+<p><a href="https://www.aipyaipy.com/" target="_blank" rel="noopener noreferrer">https://www.aipyaipy.com/</a></p>
+<blockquote>
+<p>爱派（AiPy）AI 牛马，可以本地Manus、国内能用、内网能用，开源免费</p>
+</blockquote>
+<p><a href="https://sfxengine.com/" target="_blank" rel="noopener noreferrer">https://sfxengine.com/</a></p>
+<blockquote>
+<p>AI生成音乐、环境声音</p>
+</blockquote>
+<h2>随便看看</h2>
+<p><a href="https://github.com/deanxv/done-hub" target="_blank" rel="noopener noreferrer">https://github.com/deanxv/done-hub</a></p>
+<p><a href="https://github.com/MartialBE/one-hub" target="_blank" rel="noopener noreferrer">https://github.com/MartialBE/one-hub</a></p>
+<blockquote>
+<p>OpenAI 接口管理 &amp; 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。</p>
+</blockquote>
+<p><a href="https://github.com/QuantumNous/new-api" target="_blank" rel="noopener noreferrer">https://github.com/QuantumNous/new-api</a></p>
+<blockquote>
+<p>AI模型聚合管理分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。</p>
+</blockquote>
+<p><a href="https://idcflare.com/" target="_blank" rel="noopener noreferrer">https://idcflare.com/</a></p>
+<blockquote>
+<p>IDC社区</p>
+</blockquote>
+<p><a href="https://ac-wiki.cn/" target="_blank" rel="noopener noreferrer">https://ac-wiki.cn/</a></p>
+<blockquote>
+<p>Ac-Wiki 大学生的百科全书</p>
+</blockquote>
+<p><a href="https://www.nodeseek.com/" target="_blank" rel="noopener noreferrer">https://www.nodeseek.com/</a></p>
+<blockquote>
+<p>中文社区，限制ip</p>
+</blockquote>
+<p><a href="https://www.juhe.cn/search/%E6%97%A5%E5%8E%86" target="_blank" rel="noopener noreferrer">https://www.juhe.cn/search/%E6%97%A5%E5%8E%86</a></p>
+<blockquote>
+<p>日历API</p>
+</blockquote>
+<p><a href="https://holiday.dreace.top/?date=2025-10-01" target="_blank" rel="noopener noreferrer">https://holiday.dreace.top/?date=2025-10-01</a></p>
+<blockquote>
+<p>日期接口</p>
+</blockquote>
+<p><a href="https://github.com/dreammis/social-auto-upload" target="_blank" rel="noopener noreferrer">https://github.com/dreammis/social-auto-upload</a></p>
+<p><a href="https://sap-doc.nasdaddy.com/" target="_blank" rel="noopener noreferrer">https://sap-doc.nasdaddy.com/</a></p>
+<blockquote>
+<p>自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili</p>
+</blockquote>
+<figure><img src="https://github.com/dreammis/social-auto-upload/raw/main/media/show/tkupload.gif" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/BetaStreetOmnis/xhs_ai_publisher" target="_blank" rel="noopener noreferrer">https://github.com/BetaStreetOmnis/xhs_ai_publisher</a></p>
+<blockquote>
+<p>一键生成标题、文案、配图，自动模拟发布，省 90% 时间。已用两周，0 封号，定时发笔记轻松冲热榜。</p>
+</blockquote>
+<figure><img src="https://github.com/BetaStreetOmnis/xhs_ai_publisher/raw/main/images/ui.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/zhinianboke/xianyu-auto-reply" target="_blank" rel="noopener noreferrer">https://github.com/zhinianboke/xianyu-auto-reply</a></p>
+<p><a href="https://xy.zhinianblog.cn/" target="_blank" rel="noopener noreferrer">https://xy.zhinianblog.cn/</a></p>
+<blockquote>
+<p>闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。</p>
+</blockquote>
+<p><a href="https://tokencounter.co/" target="_blank" rel="noopener noreferrer">https://tokencounter.co/</a></p>
+<blockquote>
+<p>根据文本数量计算token消耗费用</p>
+</blockquote>
+<p><a href="https://github.com/Gar-b-age/CookLikeHOC" target="_blank" rel="noopener noreferrer">https://github.com/Gar-b-age/CookLikeHOC</a></p>
+<p><a href="https://cooklikehoc.soilzhu.su/" target="_blank" rel="noopener noreferrer">https://cooklikehoc.soilzhu.su/</a></p>
+<blockquote>
+<p>像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.</p>
+</blockquote>
+<p><a href="https://github.com/eythaann/Seelen-UI" target="_blank" rel="noopener noreferrer">https://github.com/eythaann/Seelen-UI</a></p>
+<blockquote>
+<p>适用于 Windows 10/11 的完全可定制的桌面环境。</p>
+</blockquote>
+<figure><img src="https://github.com/eythaann/Seelen-UI/raw/master/documentation/images/preview.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>blog</h2>
+<p><a href="https://mp.weixin.qq.com/s/rkEFkFNFLVffGSWr_3P8hQ" target="_blank" rel="noopener noreferrer">9月份最新108个AI角色提示词</a></p>
+<p><a href="https://mp.weixin.qq.com/s/O7cjCYK8U5HH8enIvBO8xw" target="_blank" rel="noopener noreferrer">一组用于优化提示词的提示词</a></p>
+<p><a href="https://mp.weixin.qq.com/s/3Rqa4sWTfp133mTRlNjCMg" target="_blank" rel="noopener noreferrer">一份可以「优化提示词」的提示词</a></p>
+<p><a href="https://mp.weixin.qq.com/s/hNeN2BGbh31xtQImruDdWw" target="_blank" rel="noopener noreferrer">谷歌 Nano Banana 最全用法</a></p>
+]]></content:encoded>
+      <enclosure url="https://github.com/dreammis/social-auto-upload/raw/main/media/show/tkupload.gif" type="image/gif"/>
+    </item>
     <item>
       <title>09-13-凭兰秋思</title>
       <link>https://weekly.nnxx.me/weekly/2025/09-13-%E5%87%AD%E5%85%B0%E7%A7%8B%E6%80%9D.html</link>
@@ -292,6 +406,21 @@ uniprof</p>
 </blockquote>
 <p><a href="https://skymail.ink/" title="https://skymail.ink" target="_blank" rel="noopener noreferrer">skymail.ink</a>
 <img src="https://github.com/eoao/cloud-mail/raw/main/doc/demo/demo2.png" alt="" loading="lazy"></p>
+<p><a href="https://github.com/aaPanel/BillionMail" target="_blank" rel="noopener noreferrer">https://github.com/aaPanel/BillionMail</a></p>
+<blockquote>
+<p>BillionMail 为您提供开源邮件服务器、新闻通讯、电子邮件营销 - 完全自托管、对开发人员友好</p>
+<p>其他：<a href="https://github.com/be3beke/BillionMail" target="_blank" rel="noopener noreferrer">https://github.com/be3beke/BillionMail</a></p>
+</blockquote>
+<figure><img src="https://camo.githubusercontent.com/395c39ca06ac37201bf21e7299faebeabb99c6a1defa246537a01cf3c6eb2f52/68747470733a2f2f7777772e62696c6c696f6e6d61696c2e636f6d2f686f6d652e706e673f7631" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>cloudmail</p>
+<p><a href="https://m2u.io/#google_vignette" target="_blank" rel="noopener noreferrer">https://m2u.io/#google_vignette</a></p>
+<blockquote>
+<p>MailToYou (M2U.IO) - 免费临时教育邮箱服务 | 匿名接收邮件</p>
+</blockquote>
+<p><a href="https://github.com/assimon/dujiaoka" target="_blank" rel="noopener noreferrer">https://github.com/assimon/dujiaoka</a></p>
+<blockquote>
+<p>独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！</p>
+</blockquote>
 <p><a href="https://github.com/caddyserver/caddy" target="_blank" rel="noopener noreferrer">https://github.com/caddyserver/caddy</a></p>
 <blockquote>
 <p>快速且可扩展的多平台 HTTP/1-2-3 Web 服务器，具有自动 HTTPS</p>
@@ -300,8 +429,26 @@ uniprof</p>
 <blockquote>
 <p>使您的网站比任何其他解决方案更安全、更可靠、更具可扩展性。</p>
 </blockquote>
+<p>云服务厂商：</p>
+<p><a href="https://wap.ac/" target="_blank" rel="noopener noreferrer">https://wap.ac/</a></p>
+<p><a href="https://www.bagevm.com/" target="_blank" rel="noopener noreferrer">https://www.bagevm.com/</a></p>
+<blockquote>
+<p>2H4G 5.99$</p>
+</blockquote>
+<p><a href="https://cloudcone.com/" target="_blank" rel="noopener noreferrer">https://cloudcone.com/</a></p>
+<blockquote>
+<p>云服务部署，&nbsp;Pricing starts at&nbsp;**$**0.00564 per hour</p>
+</blockquote>
+<p><a href="https://ohttps.com/" target="_blank" rel="noopener noreferrer">https://ohttps.com/</a></p>
+<blockquote>
+<p>SSL证书，支持各大厂商免费的SSL证书</p>
+</blockquote>
 <h2>blog</h2>
 <p><a href="https://www.cunshao.com/270352.html" target="_blank" rel="noopener noreferrer">使用Docker安装Mailcow自建域名邮箱</a></p>
+<p><a href="https://www.packycode.com/" target="_blank" rel="noopener noreferrer">https://www.packycode.com/</a></p>
+<blockquote>
+<p>claude code购买</p>
+</blockquote>
 ]]></content:encoded>
       <enclosure url="https://github.com/linshenkx/prompt-optimizer/raw/develop/images/demo/cat-maid-roleplay.png" type="image/png"/>
     </item>
@@ -426,6 +573,14 @@ uniprof</p>
 <p><a href="https://trial81.toolooz.com/" target="_blank" rel="noopener noreferrer">https://trial81.toolooz.com/</a></p>
 <blockquote>
 <p>西游记取经路线图 探索《西游记》师徒四人的传奇取经之路！该互动式地图详细展示了九九八十一难的故事，包括时间轴视图、角色介绍和经典场景。无论是学生学习还是文学爱好者研究，这里都提供丰富的文化背景和历史意义。</p>
+</blockquote>
+<p><a href="https://supermaven.com/" target="_blank" rel="noopener noreferrer">https://supermaven.com/</a></p>
+<blockquote>
+<p>maven仓库镜像站</p>
+</blockquote>
+<p><a href="http://ftp.akl.lt/" target="_blank" rel="noopener noreferrer">http://ftp.akl.lt/</a></p>
+<blockquote>
+<p>不知名的资源站</p>
 </blockquote>
 <h2>blog</h2>
 <p><a href="https://tutorials.tinkink.net/zh-hans/git/git-using-different-config-in-different-projects.html" target="_blank" rel="noopener noreferrer">指定项目配置相应用户名</a></p>
@@ -803,6 +958,10 @@ uniprof</p>
 <p>谷歌开源了一个高效的文本提取 Python 库：LangExtract，能让大模型精准地从非结构化文本中提取结构化数据。 支持 Gemini 等模型，可自定义提示词控制输出结构，自动生成交互式可视化界面，方便我们快速检查提取结果。</p>
 </blockquote>
 <figure><img src="https://raw.githubusercontent.com/google/langextract/main/docs/_static/romeo_juliet_basic.gif" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/Visualize-ML/Book1_Python-For-Beginners" target="_blank" rel="noopener noreferrer">https://github.com/Visualize-ML/Book1_Python-For-Beginners</a></p>
+<blockquote>
+<p>Book_1_《编程不难》 | 鸢尾花书：从加减乘除到机器学习</p>
+</blockquote>
 <h2>blog</h2>
 <p><a href="https://guangzhengli.com/blog/zh/indie-hacker-poor-stack" target="_blank" rel="noopener noreferrer">独立开发穷鬼套餐(Web实践篇)</a></p>
 <p><a href="https://xxdq5sjird.feishu.cn/docx/Q9hddJprkoioaSxmPehcIkHDndb" target="_blank" rel="noopener noreferrer">o3 / o3 pro 写的解读《Figma 的 AI 困局》</a></p>
@@ -918,6 +1077,14 @@ uniprof</p>
 </blockquote>
 <figure><img src="https://github.com/Simon-He95/browser-compress-image/raw/master/assets/pic.png" alt="https://github.com/Simon-He95/browser-compress-image/raw/master/assets/pic.png" tabindex="0" loading="lazy"><figcaption>https://github.com/Simon-He95/browser-compress-image/raw/master/assets/pic.png</figcaption></figure>
 <h2>blog</h2>
+<p><a href="https://www.onejuan.top/" target="_blank" rel="noopener noreferrer">https://www.onejuan.top/</a></p>
+<blockquote>
+<p>电子书籍</p>
+</blockquote>
+<p><a href="https://www.dushupai.com/" target="_blank" rel="noopener noreferrer">https://www.dushupai.com/</a></p>
+<blockquote>
+<p>读书派</p>
+</blockquote>
 ]]></content:encoded>
       <enclosure url="https://github.com/guqing/halo-theme-higan/raw/main/screenshots/Theme20220325-221824@2x.png" type="image/png"/>
     </item>
@@ -1174,6 +1341,10 @@ mobaxterm</p>
 <p><strong>这款软件能够将全网连载、完本的流行小说免费下载为 EPUB、TXT 等主流电子书格式，以便导入至自己喜爱的阅读器或设备，从而实现电脑、平板、手机的全设备离线阅读。</strong></p>
 </blockquote>
 <figure><img src="https://github.com/freeok/so-novel/raw/main/assets/preview.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://vidhub.me/" target="_blank" rel="noopener noreferrer">https://vidhub.me/</a></p>
+<blockquote>
+<p>看看电影</p>
+</blockquote>
 <h2>逛逛Github</h2>
 <p>微信AI机器人</p>
 <p><a href="https://github.com/xliking/wechat_ai" target="_blank" rel="noopener noreferrer">https://github.com/xliking/wechat_ai</a></p>
