@@ -6,12 +6,329 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 06 Oct 2025 16:08:18 GMT</pubDate>
-    <lastBuildDate>Mon, 06 Oct 2025 16:08:18 GMT</lastBuildDate>
+    <pubDate>Sun, 19 Oct 2025 17:13:38 GMT</pubDate>
+    <lastBuildDate>Sun, 19 Oct 2025 17:13:38 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
     <category>工具</category>
+    <item>
+      <title>10-18-夜半饮雨</title>
+      <link>https://weekly.nnxx.me/weekly/2025/10-18-%E5%A4%9C%E5%8D%8A%E9%A5%AE%E9%9B%A8.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/10-18-%E5%A4%9C%E5%8D%8A%E9%A5%AE%E9%9B%A8.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">10-18-夜半饮雨</source>
+      <description>分享、实用、有趣、共勉 AI https://opennana.com/awesome-prompt-gallery/ 提示词收藏 https://cto.new/ 云端写代码，云端mcp。邀请码：h7j7vdxvfnvd 、2hqnpsts2mw9 、gzhmbhwb9dyb https://kiro.dev/ kiro https://www.un...</description>
+      <category>周报</category>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p><a href="https://opennana.com/awesome-prompt-gallery/" target="_blank" rel="noopener noreferrer">https://opennana.com/awesome-prompt-gallery/</a></p>
+<blockquote>
+<p>提示词收藏</p>
+</blockquote>
+<p><a href="https://cto.new/" target="_blank" rel="noopener noreferrer">https://cto.new/</a></p>
+<blockquote>
+<p>云端写代码，云端mcp。邀请码：h7j7vdxvfnvd 、2hqnpsts2mw9 、gzhmbhwb9dyb</p>
+</blockquote>
+<p><a href="https://kiro.dev/" target="_blank" rel="noopener noreferrer">https://kiro.dev/</a></p>
+<blockquote>
+<p>kiro</p>
+</blockquote>
+<p><a href="https://www.univibe.cc/" target="_blank" rel="noopener noreferrer">https://www.univibe.cc/</a></p>
+<blockquote>
+<p>Claude code 中转站</p>
+</blockquote>
+<p>88Code中转站</p>
+<p><a href="https://www.88code.org/register?ref=JRUE7J" target="_blank" rel="noopener noreferrer">https://www.88code.org/</a></p>
+<blockquote>
+<p>中转站</p>
+</blockquote>
+<p><a href="https://app.anymodel.xyz/" target="_blank" rel="noopener noreferrer">https://app.anymodel.xyz/</a></p>
+<blockquote>
+<p>AnyModel</p>
+</blockquote>
+<p><a href="https://anyrouter.top/" target="_blank" rel="noopener noreferrer">https://anyrouter.top/</a></p>
+<blockquote>
+<p>anyrouter 中转站</p>
+</blockquote>
+<p><a href="https://github.com/mingcheng/aigitcommit" target="_blank" rel="noopener noreferrer">https://github.com/mingcheng/aigitcommit</a></p>
+<blockquote>
+<p>一个简单的工具，可帮助您使用 AI 编写更好的 Git 提交消息。</p>
+</blockquote>
+<p><img src="https://github.com/mingcheng/aigitcommit/raw/main/assets/screenshots.png" alt="" loading="lazy">
+<a href="https://github.com/chonkie-inc/chonkie" target="_blank" rel="noopener noreferrer">https://github.com/chonkie-inc/chonkie</a></p>
+<blockquote>
+<p>CHONK 文档与 Chonkie - 严肃的 RAG 库</p>
+</blockquote>
+<p><a href="https://github.com/orange2ai/claude-code-now" target="_blank" rel="noopener noreferrer">https://github.com/orange2ai/claude-code-now</a></p>
+<blockquote>
+<p>一键切换API配置。 智谱 GLM、Anthropic官方、自定义API随便切换。</p>
+</blockquote>
+<h2>随便看看</h2>
+<p><a href="https://github.com/LauZzL/remove-doubao-images" target="_blank" rel="noopener noreferrer">https://github.com/LauZzL/remove-doubao-images</a></p>
+<blockquote>
+<p>通过HOOK掉JSON.parse实现豆包AI生图无水印下载的油猴脚本。</p>
+</blockquote>
+<p><a href="https://github.com/LauZzL/doubao-downloader" target="_blank" rel="noopener noreferrer">https://github.com/LauZzL/doubao-downloader</a></p>
+<blockquote>
+<p>支持批量下载豆包AI无水印资源的浏览器扩展/油猴脚本。</p>
+</blockquote>
+<figure><img src="https://camo.githubusercontent.com/1a5d568291a31dae594a0d9f6e83c3ca6b947d26bbb1f2e99832b2b768159b27/68747470733a2f2f69696c692e696f2f4b4f4c643748762e676966" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/sqshq/sampler" target="_blank" rel="noopener noreferrer">https://github.com/sqshq/sampler</a></p>
+<blockquote>
+<p>用于 shell 命令执行、可视化和警报的工具。使用简单的 YAML 文件进行配置。</p>
+</blockquote>
+<figure><img src="https://user-images.githubusercontent.com/6069066/56404396-70b14d00-6234-11e9-93cd-54461bf40c96.gif" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/MatiasDesuu/ThinkDashboard" target="_blank" rel="noopener noreferrer">https://github.com/MatiasDesuu/ThinkDashboard</a></p>
+<blockquote>
+<p>带有键盘快捷键的轻量级自托管书签仪表板。</p>
+</blockquote>
+<figure><img src="https://github.com/MatiasDesuu/ThinkDashboard/raw/main/screenshots/1.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/karminski/claude-code-guide-study" target="_blank" rel="noopener noreferrer">https://github.com/karminski/claude-code-guide-study</a></p>
+<blockquote>
+<p>全自动markdown分片并发翻译工具</p>
+</blockquote>
+<p><a href="https://github.com/superdesigndev/superdesign" target="_blank" rel="noopener noreferrer">https://github.com/superdesigndev/superdesign</a></p>
+<blockquote>
+<p>SuperDesign-IDE 的 AI 设计代理, 不用Figma 也能写 Prompt 画界面</p>
+</blockquote>
+<p><a href="https://www.youtube.com/watch?v=ezldKx-jPag" target="_blank" rel="noopener noreferrer">figma 0基础入门</a></p>
+<p>NCE-Flow</p>
+<p>在线体验：<a href="https://nce.luzhenhua.cn/" target="_blank" rel="noopener noreferrer">https://nce.luzhenhua.cn/</a></p>
+<p><a href="https://github.com/luzhenhua/NCE-Flow" target="_blank" rel="noopener noreferrer">https://github.com/luzhenhua/NCE-Flow</a></p>
+<blockquote>
+<p>新概念英语四册教材制作成可在线点读的系统，更高效地学习英语。点击任意句子即可播放对应音频，还能自动高亮跟随当前播放内容，提供中英文对照、纯英文、纯中文三种显示模式，可以按照个人学习习惯调整。支持收藏、倍速、单句循环。</p>
+<p>新概念英语在线点读，点句即读、连续播放，支持 EN / EN+CN / CN。</p>
+</blockquote>
+<p>NCE</p>
+<p>体验站：<a href="https://nce.fmhis.com/" target="_blank" rel="noopener noreferrer">https://nce.fmhis.com/</a></p>
+<p><a href="https://github.com/magang0425/NCE" target="_blank" rel="noopener noreferrer">https://github.com/magang0425/NCE</a></p>
+<blockquote>
+<p>NCE - 新概念英语学习平台</p>
+</blockquote>
+<p>英语笔记</p>
+<p><a href="https://www.ncego.com/" target="_blank" rel="noopener noreferrer">https://www.ncego.com/</a></p>
+<p><a href="https://github.com/lingdojo/kanadojo" target="_blank" rel="noopener noreferrer">https://github.com/lingdojo/kanadojo</a></p>
+<blockquote>
+<p>一个有趣又极致简约的在线日语学习平台，专为喜爱日语的朋友打造。从基础的平假名、片假名，到进阶的汉字和词汇，无论你是日语小白，还是准备JLPT考试的老手，KanaDojo都能让你保持学习动力，实时追踪进步。</p>
+</blockquote>
+<figure><img src="https://private-user-images.githubusercontent.com/169354375/499183406-b7931764-be5e-43c7-b1b3-9d2568b2fecf.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjA4OTM4NTEsIm5iZiI6MTc2MDg5MzU1MSwicGF0aCI6Ii8xNjkzNTQzNzUvNDk5MTgzNDA2LWI3OTMxNzY0LWJlNWUtNDNjNy1iMWIzLTlkMjU2OGIyZmVjZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAxOVQxNzA1NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNTcxN2JjMDFkMzMyNDUzYjlmN2IyMDUxY2FiOGFhYmQ2ODAxOTg4ZmZiZWU1OWIwNDk0NjAwOWY4YzM4ZWZmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.vwkgGVa0xeMLp48P4FBM380lApeanLph4T7RgZvwqcU" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://vidtransai.com/" target="_blank" rel="noopener noreferrer">https://vidtransai.com/</a></p>
+<blockquote>
+<p>视频翻译，# 1键翻译视频，轻松收获全球粉丝，利用AI技术，自动地翻译你视频中的字幕或者语音，并且对口型</p>
+</blockquote>
+<p><a href="https://www.geogebra.org/calculator" target="_blank" rel="noopener noreferrer">https://www.geogebra.org/calculator</a></p>
+<blockquote>
+<p>在线绘制各种几何图形</p>
+</blockquote>
+<p>docuseal</p>
+<p><a href="https://github.com/docusealco/docuseal" target="_blank" rel="noopener noreferrer">https://github.com/docusealco/docuseal</a></p>
+<p>体验站：<a href="https://www.docuseal.com/" target="_blank" rel="noopener noreferrer">https://www.docuseal.com/</a></p>
+<blockquote>
+<p>开源DocuSign替代品。创建、填充和签署数字文档</p>
+</blockquote>
+<figure><img src="https://private-user-images.githubusercontent.com/5418788/251969508-d8703ea3-361a-423f-8bfe-eff1bd9dbe14.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjA4OTM2NjUsIm5iZiI6MTc2MDg5MzM2NSwicGF0aCI6Ii81NDE4Nzg4LzI1MTk2OTUwOC1kODcwM2VhMy0zNjFhLTQyM2YtOGJmZS1lZmYxYmQ5ZGJlMTQuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MTAxOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTEwMTlUMTcwMjQ1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OWY5ZjZhOWE0YTI5ZDdkZjYwYzEyZWIzOTc5YTRlOGVjZTljMGY5NTA2NjE5ZjQ2ZGJmYTQ1MjhhNjk2YTkxOCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.x6NFQb3BhLzkVScP_GD-fXFE3FRht-eG9OkVxcLkAjw" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://zhuangit.ababtools.com/" target="_blank" rel="noopener noreferrer">https://zhuangit.ababtools.com/</a></p>
+<blockquote>
+<p>装个机 ZhuangIt, 不求人，自己装</p>
+</blockquote>
+<p><a href="https://www.perplexity.ai/finance" target="_blank" rel="noopener noreferrer">https://www.perplexity.ai/finance</a></p>
+<blockquote>
+<p>股票选择</p>
+</blockquote>
+<p>爬虫开源工具——Crawlee</p>
+<p>屏幕录制工具——Cap</p>
+<p>开源压缩工具——PeaZip</p>
+<h2>blog</h2>
+<p><a href="https://mp.weixin.qq.com/s/tewBKHgbyrjxUjAOmkXI7A" target="_blank" rel="noopener noreferrer"> 从ChatGPT到AI Agent，一文讲透 Agent 的底层逻辑</a></p>
+]]></content:encoded>
+      <enclosure url="https://github.com/mingcheng/aigitcommit/raw/main/assets/screenshots.png" type="image/png"/>
+    </item>
+    <item>
+      <title>10-11-谁堪共语</title>
+      <link>https://weekly.nnxx.me/weekly/2025/10-11-%E8%B0%81%E5%A0%AA%E5%85%B1%E8%AF%AD.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/10-11-%E8%B0%81%E5%A0%AA%E5%85%B1%E8%AF%AD.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">10-11-谁堪共语</source>
+      <description>分享、实用、有趣、共勉 AI https://factory.ai/ droid、roo code https://github.com/qianshe/droid2api OpenAI 兼容的 API 代理服务器，统一访问不同的 LLM 模型。 随便看看 https://www.foobar2000.org/ win hifi 听歌软件 foobar...</description>
+      <category>周报</category>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p><a href="https://factory.ai/" target="_blank" rel="noopener noreferrer">https://factory.ai/</a></p>
+<blockquote>
+<p>droid、roo code</p>
+</blockquote>
+<p><a href="https://github.com/qianshe/droid2api" target="_blank" rel="noopener noreferrer">https://github.com/qianshe/droid2api</a></p>
+<blockquote>
+<p>OpenAI 兼容的 API 代理服务器，统一访问不同的 LLM 模型。</p>
+</blockquote>
+<h2>随便看看</h2>
+<p><a href="https://www.foobar2000.org/" target="_blank" rel="noopener noreferrer">https://www.foobar2000.org/</a></p>
+<blockquote>
+<p>win hifi 听歌软件</p>
+</blockquote>
+<p>foobar2000</p>
+<p><a href="https://www.cnblogs.com/asionwu" target="_blank" rel="noopener noreferrer">https://www.cnblogs.com/asionwu</a></p>
+<blockquote>
+<p><a href="https://www.cnblogs.com/asionwu/p/19133632" title="发布于 2025-10-10 18:15" target="_blank" rel="noopener noreferrer">foobar2000 v2.25.2 汉化版(更新日期：2025.10.12)</a>
+foobar2000 是一个 Windows 平台下的高级音频播放器.包含完全支持 unicode 及支持播放增益的高级标签功能,支持的音频格式: MP3, MP4, AAC, CD Audio, WMA, Vorbis,FLAC, WavPack, WAV, AIFF, Musepack, Speex, AU, SND, 通过第三方插件将支持更多的格式.</p>
+</blockquote>
+<p><a href="https://pixpin.cn/" target="_blank" rel="noopener noreferrer">https://pixpin.cn/</a></p>
+<blockquote>
+<p>随心截图,&nbsp;随意贴图, 屏幕截图，录制屏幕，长截图，文字识别，贴图，以及更多功能，其他截图工具：FSCapture</p>
+</blockquote>
+<figure><img src="https://pixpinwebsite.cdn.dfyun.com.cn/images/feature/record.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>OBS 录频软件</p>
+<p><a href="https://obsproject.com/zh-cn/download" target="_blank" rel="noopener noreferrer">https://obsproject.com/zh-cn/download</a></p>
+<blockquote>
+<p>OBS工作室版</p>
+</blockquote>
+<p><a href="https://devtoys.app/" target="_blank" rel="noopener noreferrer">https://devtoys.app/</a></p>
+<blockquote>
+<p>开发者瑞士军刀,  帮助开发人员完成日常任务的桌面应用程序</p>
+</blockquote>
+<figure><img src="https://devtoys.app/images/hero-screenshot.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/chen08209/FlClash" target="_blank" rel="noopener noreferrer">https://github.com/chen08209/FlClash</a></p>
+<blockquote>
+<p>一个基于 ClashMeta 的多平台代理客户端，简单易用，开源且无广告。</p>
+</blockquote>
+<figure><img src="https://github.com/chen08209/FlClash/raw/main/snapshots/desktop.gif" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>inkeys</p>
+<p><a href="https://github.com/Alan-CRL/Inkeys" target="_blank" rel="noopener noreferrer">https://github.com/Alan-CRL/Inkeys</a></p>
+<blockquote>
+<p>标注工具, 将你的创意随心所欲地书写在屏幕的任意角落。智绘教Inkeys 拥有丝滑流畅的高性能画笔、丰富强大的功能，以及众多贴心小设计，全面提升你的效率与使用体验。</p>
+</blockquote>
+<p>WhisperLiveKit</p>
+<p><a href="https://github.com/QuentinFuxa/WhisperLiveKit" target="_blank" rel="noopener noreferrer">https://github.com/QuentinFuxa/WhisperLiveKit</a></p>
+<blockquote>
+<p>实时字幕</p>
+</blockquote>
+<figure><img src="https://raw.githubusercontent.com/QuentinFuxa/WhisperLiveKit/refs/heads/main/demo.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>yt-dlp</p>
+<p><a href="https://github.com/yt-dlp/yt-dlp" target="_blank" rel="noopener noreferrer">https://github.com/yt-dlp/yt-dlp</a></p>
+<blockquote>
+<p>所有在线流媒体网站的下载工具</p>
+</blockquote>
+<p>VirtualBrowser</p>
+<p><a href="https://github.com/Virtual-Browser/VirtualBrowser" target="_blank" rel="noopener noreferrer">https://github.com/Virtual-Browser/VirtualBrowser</a></p>
+<blockquote>
+<p>免费指纹浏览器，分离数字身份</p>
+</blockquote>
+<figure><img src="https://github.com/Virtual-Browser/VirtualBrowser/raw/main/assets/launch.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/barry-ran/QtScrcpy" target="_blank" rel="noopener noreferrer">https://github.com/barry-ran/QtScrcpy</a></p>
+<blockquote>
+<p>手机实时投屏工具</p>
+</blockquote>
+<figure><img src="https://github.com/barry-ran/QtScrcpy/raw/dev/screenshot/win-en.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/viarotel-org/escrcpy" target="_blank" rel="noopener noreferrer">https://github.com/viarotel-org/escrcpy</a></p>
+<blockquote>
+<p>使用 scrcpy 以图形方式显示和控制您的 Android 设备。</p>
+</blockquote>
+<figure><img src="https://github.com/viarotel-org/escrcpy/raw/main/screenshots/zh-CN/overview.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/XAMPPRocky/tokei" target="_blank" rel="noopener noreferrer">https://github.com/XAMPPRocky/tokei</a></p>
+<blockquote>
+<p>快速计算代码</p>
+</blockquote>
+<h2>blog</h2>
+]]></content:encoded>
+      <enclosure url="https://pixpinwebsite.cdn.dfyun.com.cn/images/feature/record.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>09-27-秋风萧瑟</title>
+      <link>https://weekly.nnxx.me/weekly/2025/10-04-%E6%B5%81%E8%8D%86%E9%BB%98%E6%9C%9B.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/10-04-%E6%B5%81%E8%8D%86%E9%BB%98%E6%9C%9B.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">09-27-秋风萧瑟</source>
+      <description>分享、实用、有趣、共勉 AI https://www.wepool.vip/ 专注于 AI IDE 辅助工具开发，为开发者提供高效便捷的工具集。 https://www.88code.org/login augment code 、Claude code等服务中转站 https://longcat.chat/ 对话、api购买 https://hugg...</description>
+      <category>周报</category>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p><a href="https://www.wepool.vip/" target="_blank" rel="noopener noreferrer">https://www.wepool.vip/</a></p>
+<blockquote>
+<p>专注于 AI IDE 辅助工具开发，为开发者提供高效便捷的工具集。</p>
+</blockquote>
+<p><a href="https://www.88code.org/login" target="_blank" rel="noopener noreferrer">https://www.88code.org/login</a></p>
+<blockquote>
+<p>augment code 、Claude code等服务中转站</p>
+</blockquote>
+<p><a href="https://longcat.chat/" target="_blank" rel="noopener noreferrer">https://longcat.chat/</a></p>
+<blockquote>
+<p>对话、api购买</p>
+</blockquote>
+<p><a href="https://huggingface.co/collections/deepseek-ai/deepseek-v32-68da2f317324c70047c28f66" target="_blank" rel="noopener noreferrer">https://huggingface.co/collections/deepseek-ai/deepseek-v32-68da2f317324c70047c28f66</a></p>
+<blockquote>
+<p>deepseek-ai 模型</p>
+</blockquote>
+<p><a href="https://readdy.ai/zh" target="_blank" rel="noopener noreferrer">https://readdy.ai/zh</a></p>
+<blockquote>
+<p>30分钟即可上线您的网站, 只需与 AI 聊天即可构建和发布您的网站。无需编程技能。</p>
+<p>Readdy 是一个完全自动化的网站构建器。无论您是在创业、开设在线商店，还是构建落地页，都可以在几分钟内启动专业网站。</p>
+</blockquote>
+<h2>随便看看</h2>
+<p><a href="https://ip-api.com/" target="_blank" rel="noopener noreferrer">https://ip-api.com/</a></p>
+<blockquote>
+<p>快速、准确、可靠, 非商业用途免费，无需 API 密钥, 易于集成，支持 JSON、XML、CSV、换行符、PHP 格式,  每日处理超过 10 亿次请求，深受数千家企业信赖</p>
+</blockquote>
+<p><a href="https://www.wetest.vip/" target="_blank" rel="noopener noreferrer">https://www.wetest.vip/</a></p>
+<blockquote>
+<p>微测网-全球云服务监测平台, 支持CloudFlare优选、CloudFront、EdgeOne优选等服务。</p>
+</blockquote>
+<p>Playwright MCP server</p>
+<p><a href="https://github.com/microsoft/playwright-mcp" target="_blank" rel="noopener noreferrer">https://github.com/microsoft/playwright-mcp</a></p>
+<blockquote>
+<p>A Model Context Protocol (MCP) server that provides browser automation capabilities using&nbsp;<a href="https://playwright.dev/" target="_blank" rel="noopener noreferrer">Playwright</a>. This server enables LLMs to interact with web pages through structured accessibility snapshots, bypassing the need for screenshots or visually-tuned models.</p>
+</blockquote>
+<p>easyaiot</p>
+<p><a href="https://gitee.com/soaring-xiongkulu/easyaiot" target="_blank" rel="noopener noreferrer">https://gitee.com/soaring-xiongkulu/easyaiot</a></p>
+<blockquote>
+<p>EasyAIoT（云边端一体化智能算法应用平台）</p>
+<h4>支持百级摄像头接入，采集，标注，训练，推理，导出，分析，告警，录像，存储，部署、PaddleOCR文字识别、语音转文本、多模态视觉大模型（物体识别、文字识别）、LLM大语言模型（支持RTSP流、视频、图像、语音、文本等）。</h4>
+</blockquote>
+<p><a href="https://ohttps.com/" target="_blank" rel="noopener noreferrer">https://ohttps.com/</a></p>
+<blockquote>
+<p>OHTTPS 旨在为用户提供简单、高效SSL 证书服务</p>
+</blockquote>
+<p><a href="https://github.com/oiov/wr.do" target="_blank" rel="noopener noreferrer">https://github.com/oiov/wr.do</a></p>
+<p>在线体验：<a href="https://wr.do/" target="_blank" rel="noopener noreferrer">https://wr.do/</a></p>
+<blockquote>
+<p>一站式域名服务平台，支持短链服务、域名邮箱服务、子域名管理、文件存储服务等</p>
+</blockquote>
+<figure><img src="https://mmbiz.qpic.cn/mmbiz_png/DS9rFuZdecJdWrkCWjPaqjYrJO8xK6ms7xskbu9ADgDqq2qjgAsI0ZvLuWzzJcAQlKKmLia5nkeHLUGGuKK8ByQ/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1#imgIndex=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/automazeio/ccpm" target="_blank" rel="noopener noreferrer">https://github.com/automazeio/ccpm</a></p>
+<blockquote>
+<p>Claude Code 的项目管理系统，使用 GitHub 问题和 Git 工作树进行并行代理执行</p>
+</blockquote>
+<figure><img src="https://github.com/automazeio/ccpm/raw/main/screenshot.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/Team-intN18-SoybeanSeclab/Phantom" target="_blank" rel="noopener noreferrer">https://github.com/Team-intN18-SoybeanSeclab/Phantom</a></p>
+<blockquote>
+<p>幻影|一款漏洞挖掘的辅助工具|收集中的隐藏接口和敏感信息</p>
+<p>一款面向 SRC 场景的浏览器插件，自动收集页面及相关资源中的敏感信息与可疑线索，支持基础扫描、深度递归扫描、批量 API 测试及结果导出与自定义正则配置。可以帮助用户高效的测试api接口与探测目录</p>
+<p>一键基础扫描：自动提取页面内的 API、URL、域名、邮箱、手机号、路径、参数、注释、多类 Token/Key 等</p>
+</blockquote>
+<p>PrivacyTools</p>
+<p><a href="https://www.privacytools.io/" target="_blank" rel="noopener noreferrer">https://www.privacytools.io/</a></p>
+<p><a href="https://www.privacyguides.org/en/" target="_blank" rel="noopener noreferrer">https://www.privacyguides.org/en/</a></p>
+<blockquote>
+<p>专门收集和推荐各种注重隐私的开源工具——从浏览器、加密邮箱，通讯工具到密码管理器，主机，路由器固件等等应有尽有，帮你对抗老大哥的偷窥欲和那些偷偷收集你数据不干好事的公司及机构，让你重新掌控自己的网络隐私。</p>
+</blockquote>
+<p><a href="https://www.bairesdev.com/tools/ai-colors" target="_blank" rel="noopener noreferrer">https://www.bairesdev.com/tools/ai-colors</a></p>
+<blockquote>
+<p>AI 配色 网站</p>
+</blockquote>
+<h2>blog</h2>
+<p><a href="https://mp.weixin.qq.com/s/JZGs7UBWUo0IRK_ng9_qnQ" target="_blank" rel="noopener noreferrer">0元部署私有n8n，免费的2CPU+16GB服务器，解锁无限制的工作流体验</a></p>
+<p><a href="https://mp.weixin.qq.com/s/jry1tiYhfl73spv-zwHtZQ" target="_blank" rel="noopener noreferrer">白嫖16G+2vCPU的服务器！超简单教程，有手就会</a></p>
+<p><a href="https://mp.weixin.qq.com/s/quPIVG2BScy9aN7GGZY_Yg" target="_blank" rel="noopener noreferrer">牛逼浏览器自动化 MCP</a></p>
+<p><a href="https://mp.weixin.qq.com/s/wNJlTbhovuY6zMLnZG_CxA" target="_blank" rel="noopener noreferrer">Playwright MCP浏览器自动化教程</a></p>
+]]></content:encoded>
+      <enclosure url="https://mmbiz.qpic.cn/mmbiz_png/DS9rFuZdecJdWrkCWjPaqjYrJO8xK6ms7xskbu9ADgDqq2qjgAsI0ZvLuWzzJcAQlKKmLia5nkeHLUGGuKK8ByQ/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1#imgIndex=4" type="image/"/>
+    </item>
     <item>
       <title>09-27-秋风萧瑟</title>
       <link>https://weekly.nnxx.me/weekly/2025/09-27-%E7%A7%8B%E9%A3%8E%E8%90%A7%E7%91%9F.html</link>
@@ -102,98 +419,6 @@
 </blockquote>
 ]]></content:encoded>
       <enclosure url="https://github.com/Rpeng666/bili_downloader/raw/master/docs/333.png" type="image/png"/>
-    </item>
-    <item>
-      <title>09-27-秋风萧瑟</title>
-      <link>https://weekly.nnxx.me/weekly/2025/10-04-%E6%B5%81%E8%8D%86%E9%BB%98%E6%9C%9B.html</link>
-      <guid>https://weekly.nnxx.me/weekly/2025/10-04-%E6%B5%81%E8%8D%86%E9%BB%98%E6%9C%9B.html</guid>
-      <source url="https://weekly.nnxx.me/rss.xml">09-27-秋风萧瑟</source>
-      <description>分享、实用、有趣、共勉 AI https://www.wepool.vip/ 专注于 AI IDE 辅助工具开发，为开发者提供高效便捷的工具集。 https://www.88code.org/login augment code 、Claude code等服务中转站 https://longcat.chat/ 对话、api购买 https://hugg...</description>
-      <category>周报</category>
-      <pubDate>Sat, 27 Sep 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<blockquote>
-<p>分享、实用、有趣、共勉</p>
-</blockquote>
-<h2>AI</h2>
-<p><a href="https://www.wepool.vip/" target="_blank" rel="noopener noreferrer">https://www.wepool.vip/</a></p>
-<blockquote>
-<p>专注于 AI IDE 辅助工具开发，为开发者提供高效便捷的工具集。</p>
-</blockquote>
-<p><a href="https://www.88code.org/login" target="_blank" rel="noopener noreferrer">https://www.88code.org/login</a></p>
-<blockquote>
-<p>augment code 、Claude code等服务中转站</p>
-</blockquote>
-<p><a href="https://longcat.chat/" target="_blank" rel="noopener noreferrer">https://longcat.chat/</a></p>
-<blockquote>
-<p>对话、api购买</p>
-</blockquote>
-<p><a href="https://huggingface.co/collections/deepseek-ai/deepseek-v32-68da2f317324c70047c28f66" target="_blank" rel="noopener noreferrer">https://huggingface.co/collections/deepseek-ai/deepseek-v32-68da2f317324c70047c28f66</a></p>
-<blockquote>
-<p>deepseek-ai 模型</p>
-</blockquote>
-<p><a href="https://readdy.ai/zh" target="_blank" rel="noopener noreferrer">https://readdy.ai/zh</a></p>
-<blockquote>
-<p>30分钟即可上线您的网站, 只需与 AI 聊天即可构建和发布您的网站。无需编程技能。</p>
-<p>Readdy 是一个完全自动化的网站构建器。无论您是在创业、开设在线商店，还是构建落地页，都可以在几分钟内启动专业网站。</p>
-</blockquote>
-<h2>随便看看</h2>
-<p><a href="https://ip-api.com/" target="_blank" rel="noopener noreferrer">https://ip-api.com/</a></p>
-<blockquote>
-<p>快速、准确、可靠, 非商业用途免费，无需 API 密钥, 易于集成，支持 JSON、XML、CSV、换行符、PHP 格式,  每日处理超过 10 亿次请求，深受数千家企业信赖</p>
-</blockquote>
-<p><a href="https://www.wetest.vip/" target="_blank" rel="noopener noreferrer">https://www.wetest.vip/</a></p>
-<blockquote>
-<p>微测网-全球云服务监测平台, 支持CloudFlare优选、CloudFront、EdgeOne优选等服务。</p>
-</blockquote>
-<p>Playwright MCP server</p>
-<p><a href="https://github.com/microsoft/playwright-mcp" target="_blank" rel="noopener noreferrer">https://github.com/microsoft/playwright-mcp</a></p>
-<blockquote>
-<p>A Model Context Protocol (MCP) server that provides browser automation capabilities using&nbsp;<a href="https://playwright.dev/" target="_blank" rel="noopener noreferrer">Playwright</a>. This server enables LLMs to interact with web pages through structured accessibility snapshots, bypassing the need for screenshots or visually-tuned models.</p>
-</blockquote>
-<p>easyaiot</p>
-<p><a href="https://gitee.com/soaring-xiongkulu/easyaiot" target="_blank" rel="noopener noreferrer">https://gitee.com/soaring-xiongkulu/easyaiot</a></p>
-<blockquote>
-<p>EasyAIoT（云边端一体化智能算法应用平台）</p>
-<h4>支持百级摄像头接入，采集，标注，训练，推理，导出，分析，告警，录像，存储，部署、PaddleOCR文字识别、语音转文本、多模态视觉大模型（物体识别、文字识别）、LLM大语言模型（支持RTSP流、视频、图像、语音、文本等）。</h4>
-</blockquote>
-<p><a href="https://ohttps.com/" target="_blank" rel="noopener noreferrer">https://ohttps.com/</a></p>
-<blockquote>
-<p>OHTTPS 旨在为用户提供简单、高效SSL 证书服务</p>
-</blockquote>
-<p><a href="https://github.com/oiov/wr.do" target="_blank" rel="noopener noreferrer">https://github.com/oiov/wr.do</a></p>
-<p>在线体验：<a href="https://wr.do/" target="_blank" rel="noopener noreferrer">https://wr.do/</a></p>
-<blockquote>
-<p>一站式域名服务平台，支持短链服务、域名邮箱服务、子域名管理、文件存储服务等</p>
-</blockquote>
-<figure><img src="https://mmbiz.qpic.cn/mmbiz_png/DS9rFuZdecJdWrkCWjPaqjYrJO8xK6ms7xskbu9ADgDqq2qjgAsI0ZvLuWzzJcAQlKKmLia5nkeHLUGGuKK8ByQ/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1#imgIndex=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p><a href="https://github.com/automazeio/ccpm" target="_blank" rel="noopener noreferrer">https://github.com/automazeio/ccpm</a></p>
-<blockquote>
-<p>Claude Code 的项目管理系统，使用 GitHub 问题和 Git 工作树进行并行代理执行</p>
-</blockquote>
-<figure><img src="https://github.com/automazeio/ccpm/raw/main/screenshot.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p><a href="https://github.com/Team-intN18-SoybeanSeclab/Phantom" target="_blank" rel="noopener noreferrer">https://github.com/Team-intN18-SoybeanSeclab/Phantom</a></p>
-<blockquote>
-<p>幻影|一款漏洞挖掘的辅助工具|收集中的隐藏接口和敏感信息</p>
-<p>一款面向 SRC 场景的浏览器插件，自动收集页面及相关资源中的敏感信息与可疑线索，支持基础扫描、深度递归扫描、批量 API 测试及结果导出与自定义正则配置。可以帮助用户高效的测试api接口与探测目录</p>
-<p>一键基础扫描：自动提取页面内的 API、URL、域名、邮箱、手机号、路径、参数、注释、多类 Token/Key 等</p>
-</blockquote>
-<p>PrivacyTools</p>
-<p><a href="https://www.privacytools.io/" target="_blank" rel="noopener noreferrer">https://www.privacytools.io/</a></p>
-<p><a href="https://www.privacyguides.org/en/" target="_blank" rel="noopener noreferrer">https://www.privacyguides.org/en/</a></p>
-<blockquote>
-<p>专门收集和推荐各种注重隐私的开源工具——从浏览器、加密邮箱，通讯工具到密码管理器，主机，路由器固件等等应有尽有，帮你对抗老大哥的偷窥欲和那些偷偷收集你数据不干好事的公司及机构，让你重新掌控自己的网络隐私。</p>
-</blockquote>
-<p><a href="https://www.bairesdev.com/tools/ai-colors" target="_blank" rel="noopener noreferrer">https://www.bairesdev.com/tools/ai-colors</a></p>
-<blockquote>
-<p>AI 配色 网站</p>
-</blockquote>
-<h2>blog</h2>
-<p><a href="https://mp.weixin.qq.com/s/JZGs7UBWUo0IRK_ng9_qnQ" target="_blank" rel="noopener noreferrer">0元部署私有n8n，免费的2CPU+16GB服务器，解锁无限制的工作流体验</a></p>
-<p><a href="https://mp.weixin.qq.com/s/jry1tiYhfl73spv-zwHtZQ" target="_blank" rel="noopener noreferrer">白嫖16G+2vCPU的服务器！超简单教程，有手就会</a></p>
-<p><a href="https://mp.weixin.qq.com/s/quPIVG2BScy9aN7GGZY_Yg" target="_blank" rel="noopener noreferrer">牛逼浏览器自动化 MCP</a></p>
-<p><a href="https://mp.weixin.qq.com/s/wNJlTbhovuY6zMLnZG_CxA" target="_blank" rel="noopener noreferrer">Playwright MCP浏览器自动化教程</a></p>
-]]></content:encoded>
-      <enclosure url="https://mmbiz.qpic.cn/mmbiz_png/DS9rFuZdecJdWrkCWjPaqjYrJO8xK6ms7xskbu9ADgDqq2qjgAsI0ZvLuWzzJcAQlKKmLia5nkeHLUGGuKK8ByQ/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1#imgIndex=4" type="image/"/>
     </item>
     <item>
       <title>09-20-秋雨绵绵</title>
@@ -4955,6 +5180,308 @@ Vimium</p>
 <p><a href="https://bejamas.com/compare/cloudflare-d1-vs-planetscale" target="_blank" rel="noopener noreferrer">https://bejamas.com/compare/cloudflare-d1-vs-planetscale</a></p>
 ]]></content:encoded>
       <enclosure url="https://github.com/christian-fei/my-yt/raw/main/preview.png" type="image/png"/>
+    </item>
+    <item>
+      <title>06-23-随缘油图</title>
+      <link>https://weekly.nnxx.me/weekly/2024/06/06-29-%E5%B7%A5%E6%94%B6%E7%94%A8%E5%B0%BD.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2024/06/06-29-%E5%B7%A5%E6%94%B6%E7%94%A8%E5%B0%BD.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">06-23-随缘油图</source>
+      <description>分享、实用、有趣、共勉 window 图拉丁吧工具箱 https://www.tbtool.cn/ 开源、免费、绿色、纯净的硬件检测工具合集，专为所有计算机硬件极客、DIY 爱好者、各路大神及小白制作。集成大量常见硬件检测、评分工具。 https://devink.techartlife.com/zh/ 一个免费的硬件信息查看小工具，单文件，仅3MB ...</description>
+      <category>周报</category>
+      <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>window</h2>
+<p>图拉丁吧工具箱</p>
+<p><a href="https://www.tbtool.cn/" target="_blank" rel="noopener noreferrer">https://www.tbtool.cn/</a></p>
+<blockquote>
+<p>开源、免费、绿色、纯净的硬件检测工具合集，专为所有计算机硬件极客、DIY 爱好者、各路大神及小白制作。集成大量常见硬件检测、评分工具。</p>
+</blockquote>
+<figure><img src="https://www.tbtool.cn/rc_images/aboutimg.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://devink.techartlife.com/zh/" target="_blank" rel="noopener noreferrer">https://devink.techartlife.com/zh/</a></p>
+<blockquote>
+<p>一个免费的硬件信息查看小工具，单文件，仅3MB</p>
+</blockquote>
+<figure><img src="https://devink.techartlife.com/res/zh/main.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>DISM++</p>
+<p><a href="https://github.com/Chuyu-Team/Dism-Multi-language" target="_blank" rel="noopener noreferrer">https://github.com/Chuyu-Team/Dism-Multi-language</a></p>
+<blockquote>
+<p>Windows 系统管理优化与基础优化工具,可以用于重装系统</p>
+</blockquote>
+<p>ZyperWin++</p>
+<p><a href="https://github.com/ZyperWave/ZyperWinOptimize" target="_blank" rel="noopener noreferrer">https://github.com/ZyperWave/ZyperWinOptimize</a></p>
+<blockquote>
+<p>ZyperWin++是一个轻便的Windows优化工具，适用于Win7-Win11最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和Office快速安装。</p>
+</blockquote>
+<figure><img src="https://private-user-images.githubusercontent.com/160504609/498104239-635c393b-d854-4b24-aff1-9c1a4c3af792.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjAyNzg2MzMsIm5iZiI6MTc2MDI3ODMzMywicGF0aCI6Ii8xNjA1MDQ2MDkvNDk4MTA0MjM5LTYzNWMzOTNiLWQ4NTQtNGIyNC1hZmYxLTljMWE0YzNhZjc5Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAxMlQxNDEyMTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MjY3NGI5OWRkYTU5NzczZTFkYzFhNGQ1NTYyYjBiNTY3MjA3Y2IyYjFiMDJhNmY5ZTcwM2VkZDMyNDc2OGY3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.25vG_aYTWILVS_vQyVmnAJ0tPe3uRZYW5xtMIrB-06c" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>WinTune</p>
+<p><a href="https://github.com/tranht17/WinTune" target="_blank" rel="noopener noreferrer">https://github.com/tranht17/WinTune</a></p>
+<blockquote>
+<p>一键脚本工具</p>
+</blockquote>
+<p>PowerToys</p>
+<p><a href="https://github.com/microsoft/PowerToys" target="_blank" rel="noopener noreferrer">https://github.com/microsoft/PowerToys</a></p>
+<blockquote>
+<p>Microsoft PowerToys 是一个实用工具集，可帮助您自定义 Windows 并简化日常任务。
+其中 Windows 命令面板 是个不错的启动器。</p>
+</blockquote>
+<p><a href="https://github.com/vicinaehq/vicinae" target="_blank" rel="noopener noreferrer">https://github.com/vicinaehq/vicinae</a></p>
+<blockquote>
+<p>为您的桌面提供专注的启动器 - 原生、快速、可扩展</p>
+</blockquote>
+<figure><img src="https://github.com/vicinaehq/vicinae/raw/main/.github/assets/clipboard-history-gruvbox.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>quicker</p>
+<p><a href="https://getquicker.net/" target="_blank" rel="noopener noreferrer">https://getquicker.net/</a></p>
+<blockquote></blockquote>
+<p>一键启动软件</p>
+<figure><img src="https://files.getquicker.net/_sitefiles/home/为常用软件创建捷径.gif" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>解压卸载</h2>
+<p>peazip</p>
+<p><a href="https://github.com/peazip/PeaZip/" target="_blank" rel="noopener noreferrer">https://github.com/peazip/PeaZip/</a></p>
+<p><a href="https://peazip.github.io/" target="_blank" rel="noopener noreferrer">https://peazip.github.io/</a></p>
+<blockquote>
+<p>基于 7zip 的免费解压缩工具</p>
+</blockquote>
+<p>7-zip ZS</p>
+<p><a href="https://github.com/mcmilk/7-Zip-zstd" target="_blank" rel="noopener noreferrer">https://github.com/mcmilk/7-Zip-zstd</a></p>
+<blockquote>
+<p>7zip 魔改版，支持新的压缩算法与格式实现更小压缩率。</p>
+</blockquote>
+<p>geek/hibit uninstaller</p>
+<p><a href="https://geekuninstaller.com/download" target="_blank" rel="noopener noreferrer">https://geekuninstaller.com/download</a></p>
+<p><a href="https://www.hibitsoft.ir/Uninstaller.html" target="_blank" rel="noopener noreferrer">https://www.hibitsoft.ir/Uninstaller.html</a></p>
+<blockquote>
+<p>win 软件卸载工具</p>
+</blockquote>
+<p>trafficmonitor</p>
+<p><a href="https://github.com/zhongyang219/TrafficMonitor" target="_blank" rel="noopener noreferrer">https://github.com/zhongyang219/TrafficMonitor</a></p>
+<blockquote>
+<p>这是一个用于显示当前网速、CPU 及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。</p>
+</blockquote>
+<figure><img src="https://github.com/zhongyang219/TrafficMonitor/raw/master/Screenshots/skins.PNG" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>Office Tool Plus</p>
+<p><a href="https://otp.landian.vip/zh-cn/" target="_blank" rel="noopener noreferrer">https://otp.landian.vip/zh-cn/</a></p>
+<p><a href="https://otp.landian.vip/zh-cn/download.html" target="_blank" rel="noopener noreferrer">https://otp.landian.vip/zh-cn/download.html</a></p>
+<blockquote>
+<p>office 安装器</p>
+</blockquote>
+<p>HEU KMS Activator</p>
+<p><a href="https://github.com/zbezj/HEU_KMS_Activator" target="_blank" rel="noopener noreferrer">https://github.com/zbezj/HEU_KMS_Activator</a></p>
+<blockquote>
+<p>windows 激活工具，建议下载 ISO 文件，使用前请关闭杀毒软件。</p>
+</blockquote>
+<p>TranslucentTB</p>
+<p><a href="https://github.com/TranslucentTB/TranslucentTB" target="_blank" rel="noopener noreferrer">https://github.com/TranslucentTB/TranslucentTB</a></p>
+<blockquote>
+<p>一款轻量级（内存占用仅几 MB，CPU 占用几乎为零）的实用工具，可使 Windows 10 和 Windows 11 的任务栏呈现半透明 / 透明效果。</p>
+</blockquote>
+<figure><img src="https://camo.githubusercontent.com/3f60fa1d345352a652d6e6ec1a0b5e87ad2b067b313c611eafd7ec3b336b4561/68747470733a2f2f692e696d6775722e636f6d2f516247374b51412e706e67" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>QuickLook</p>
+<p><a href="https://github.com/QL-Win/QuickLook" target="_blank" rel="noopener noreferrer">https://github.com/QL-Win/QuickLook</a></p>
+<blockquote>
+<p>使用空格进行快捷浏览</p>
+</blockquote>
+<figure><img src="https://user-images.githubusercontent.com/1687847/64730506-2a60d100-d4e8-11e9-95a6-f13dbd869b2a.jpeg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>everything</p>
+<p><a href="https://www.voidtools.com/zh-cn/" target="_blank" rel="noopener noreferrer">https://www.voidtools.com/zh-cn/</a></p>
+<blockquote>
+<p>基于名称快速定位文件和文件夹</p>
+</blockquote>
+<figure><img src="https://www.voidtools.com/sssmall3.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>Ditto</p>
+<p><a href="https://github.com/sabrogden/Ditto" target="_blank" rel="noopener noreferrer">https://github.com/sabrogden/Ditto</a></p>
+<blockquote>
+<p>Ditto 是一个标准的 Windows 剪贴板扩展。它会保存剪贴板上的每一项内容，方便您日后随时访问。Ditto 可以保存任何可以放入剪贴板的信息类型，包括文本、图像、HTML 以及自定义格式。</p>
+</blockquote>
+<p>fastcopy / teracopy</p>
+<blockquote>
+<p>专业文件拷贝工具</p>
+</blockquote>
+<p>IDM</p>
+<p><a href="https://www.internetdownloadmanager.com/" target="_blank" rel="noopener noreferrer">https://www.internetdownloadmanager.com/</a></p>
+<blockquote>
+<p>多线程 下载器</p>
+</blockquote>
+<figure><img src="https://www.internetdownloadmanager.com/images/dynamic.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>ShareMouse</p>
+<p><a href="https://www.sharemouse.com/" target="_blank" rel="noopener noreferrer">https://www.sharemouse.com/</a></p>
+<blockquote>
+<p>多电脑共享鼠标键盘，可拖拽文件等。</p>
+</blockquote>
+<p>AltSnap</p>
+<p><a href="https://github.com/RamonUnch/AltSnap" target="_blank" rel="noopener noreferrer">https://github.com/RamonUnch/AltSnap</a></p>
+<blockquote>
+<p>按住 Alt，左键即可拖拉窗口无需点住标题栏。</p>
+</blockquote>
+<p>UniGetUi</p>
+<p><a href="https://github.com/marticliment/UniGetUI" target="_blank" rel="noopener noreferrer">https://github.com/marticliment/UniGetUI</a></p>
+<blockquote>
+<p>windows 包管理器，类似于软件商店。scoop 安装环境</p>
+</blockquote>
+<p>OneCommander</p>
+<p><a href="https://www.onecommander.com/" target="_blank" rel="noopener noreferrer">https://www.onecommander.com/</a></p>
+<blockquote>
+<p>Windows 上最强现代文件管理器。</p>
+</blockquote>
+<p>Mem Reduct</p>
+<p><a href="https://memreduct.org/" target="_blank" rel="noopener noreferrer">https://memreduct.org/</a></p>
+<blockquote>
+<p>内存清理</p>
+</blockquote>
+<figure><img src="https://memreduct.org/wp-content/uploads/2024/02/memreduct1.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/BluePointLilac/ContextMenuManager" target="_blank" rel="noopener noreferrer">https://github.com/BluePointLilac/ContextMenuManager</a></p>
+<p><a href="https://bluepointlilac.github.io/ContextMenuManager/" target="_blank" rel="noopener noreferrer">https://bluepointlilac.github.io/ContextMenuManager/</a></p>
+<blockquote>
+<p>纯粹的Windows右键菜单管理程序</p>
+</blockquote>
+<figure><img src="https://github.com/BluePointLilac/ContextMenuManager/raw/master/Screenshot/Screenshot.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/leafOfTree/WindowTabs" target="_blank" rel="noopener noreferrer">https://github.com/leafOfTree/WindowTabs</a></p>
+<blockquote>
+<p>一个在桌面环境下实现浏览器式标签页窗口管理的实用工具</p>
+</blockquote>
+<figure><img src="https://raw.githubusercontent.com/leafOfTree/leafOfTree.github.io/master/WindowTabs-example.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>Seelen-UI</p>
+<p><a href="https://github.com/eythaann/Seelen-UI" target="_blank" rel="noopener noreferrer">https://github.com/eythaann/Seelen-UI</a></p>
+<blockquote>
+<p>高度可定制 Windows 桌面美化工具</p>
+</blockquote>
+<figure><img src="https://github.com/eythaann/Seelen-UI/raw/master/documentation/images/preview.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/vladelaina/Catime" target="_blank" rel="noopener noreferrer">https://github.com/vladelaina/Catime</a></p>
+<blockquote>
+<p>一个非常有用的计时器(🍅番茄时钟)</p>
+</blockquote>
+<figure><img src="https://github.com/vladelaina/Catime/raw/main/Images/catime_resize.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>potplayer</p>
+<p><a href="https://potplayer.daum.net/" target="_blank" rel="noopener noreferrer">https://potplayer.daum.net/</a></p>
+<blockquote>
+<p>Windows 上最好的播放器</p>
+</blockquote>
+<p>mpv-lazy</p>
+<p><a href="https://github.com/hooke007/mpv_PlayKit" target="_blank" rel="noopener noreferrer">https://github.com/hooke007/mpv_PlayKit</a></p>
+<p><a href="https://hooke007.github.io/" target="_blank" rel="noopener noreferrer">https://hooke007.github.io/</a></p>
+<blockquote>
+<p>mpv player 播放器折腾记录 windows conf ； 中文注释配置 汉化文档 快速帮助入门 ； mpv-lazy 懒人包 win10 x64 config ； 着色器 shader 滤镜 filter 整合方案</p>
+</blockquote>
+<figure><img src="https://github.com/hooke007/mpv_PlayKit/raw/obs/Temp/IMG/index-新界面与上下文菜单.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>Directory Opus</p>
+<p><a href="https://www.gpsoft.com.au/" target="_blank" rel="noopener noreferrer">https://www.gpsoft.com.au/</a></p>
+<blockquote>
+<p>系统文件管理器</p>
+</blockquote>
+<figure><img src="https://www.gpsoft.com.au/assets/img/product-screen-2.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>图片处理</h2>
+<p>photodemon</p>
+<p><a href="https://photodemon.org/" target="_blank" rel="noopener noreferrer">https://photodemon.org/</a></p>
+<blockquote>
+<p>图片编辑工具
+<img src="https://photodemon.org/media/images/photodemon_9.0.png" alt="" loading="lazy"></p>
+</blockquote>
+<p><a href="https://mazanoke.com/" target="_blank" rel="noopener noreferrer">https://mazanoke.com/</a></p>
+<blockquote>
+<p>图片压缩工具</p>
+</blockquote>
+<p>ImageGlass</p>
+<p><a href="https://github.com/d2phap/ImageGlass" target="_blank" rel="noopener noreferrer">https://github.com/d2phap/ImageGlass</a></p>
+<p><a href="https://imageglass.org/" target="_blank" rel="noopener noreferrer">https://imageglass.org/</a></p>
+<blockquote>
+<p>ImageGlass 是一款开源、无广告的图片查看器，但其开发和维护需要资源。您的经济支持不仅能维持这个项目，还能激励我创作未来的版本。</p>
+</blockquote>
+<figure><img src="https://imageglass.org/img/ribbon.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>LosslessCut</p>
+<p><a href="https://github.com/mifi/lossless-cut" target="_blank" rel="noopener noreferrer">https://github.com/mifi/lossless-cut</a></p>
+<blockquote>
+<p>快速剪辑工具，粗剪工具。</p>
+</blockquote>
+<p>ShanaEncoder</p>
+<p><a href="https://shana.pe.kr/shanaencoder_download/173616" target="_blank" rel="noopener noreferrer">https://shana.pe.kr/shanaencoder_download/173616</a></p>
+<blockquote>
+<p>专业媒体压制工具</p>
+</blockquote>
+<h2>笔记工具</h2>
+<p>Notepad3</p>
+<p><a href="https://github.com/rizonesoft/Notepad3/" target="_blank" rel="noopener noreferrer">https://github.com/rizonesoft/Notepad3/</a></p>
+<blockquote>
+<p>Notepad3 是一款快速且轻量级的基于 Scintilla 的文本编辑器，具有语法高亮功能。它内存占用小，但功能强大，足以处理大多数编程工作。</p>
+</blockquote>
+<p>heynote</p>
+<p><a href="https://heynote.com/" target="_blank" rel="noopener noreferrer">https://heynote.com/</a></p>
+<blockquote>
+<p>专为程序员打造的记事本。</p>
+</blockquote>
+<figure><img src="https://heynote.com/img/light/screenshot2.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>note-gen</p>
+<p><a href="https://github.com/codexu/note-gen" target="_blank" rel="noopener noreferrer">https://github.com/codexu/note-gen</a></p>
+<p><a href="https://notegen.top/cn" target="_blank" rel="noopener noreferrer">https://notegen.top/cn</a></p>
+<blockquote>
+<p>一款跨平台的 Markdown AI 笔记软件，致力于使用 AI 建立记录和写作的桥梁, 比较完善的工具：typora</p>
+</blockquote>
+<figure><img src="https://notegen.top/_next/image?url=https%3A%2F%2Fs2.loli.net%2F2025%2F06%2F13%2FUbVGPrhFl3etnQz.png&amp;w=3840&amp;q=75" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>mind-map</p>
+<p><a href="https://github.com/wanglin2/mind-map" target="_blank" rel="noopener noreferrer">https://github.com/wanglin2/mind-map</a></p>
+<p><a href="https://wanglin2.github.io/mind-map-docs/" target="_blank" rel="noopener noreferrer">https://wanglin2.github.io/mind-map-docs/</a></p>
+<blockquote>
+<p>思维导图工具</p>
+</blockquote>
+<h2>终端工具</h2>
+<p><a href="https://www.xshell.com/zh/xshell/" target="_blank" rel="noopener noreferrer">https://www.xshell.com/zh/xshell/</a></p>
+<blockquote>
+<p>业界最强大的SSH客户机, 使用 Xshell 的会话管理器、快速命令管理器、选项卡管理器和文件管理器，管理远程主机比以往更容易。 将管理器固定到您想要的位置或让它们自动隐藏可以获得更整洁的外观。另外：netsang</p>
+</blockquote>
+<figure><img src="https://www.xshell.com/wp-content/uploads/2024/09/Xshell-Managers_zh.gif" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://mobaxterm.mobatek.net/" target="_blank" rel="noopener noreferrer">https://mobaxterm.mobatek.net/</a></p>
+<blockquote>
+<p>具有 X11 服务器、选项卡式 SSH 客户端、网络工具等功能的增强型 Windows 终端</p>
+</blockquote>
+<figure><img src="https://mobaxterm.mobatek.net/img/slider/Cool-feature-syntax-highlighting.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://tabby.sh/" target="_blank" rel="noopener noreferrer">https://tabby.sh/</a></p>
+<blockquote>
+<p>知了是一款可以无限定制的跨平台终端应用，适用于本地 Shell、串行、SSH 和 Telnet 连接。</p>
+</blockquote>
+<p><a href="https://github.com/electerm/electerm" target="_blank" rel="noopener noreferrer">https://github.com/electerm/electerm</a></p>
+<blockquote>
+<p>Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win)</p>
+</blockquote>
+<p><a href="https://github.com/TermoraDev/termora" target="_blank" rel="noopener noreferrer">https://github.com/TermoraDev/termora</a></p>
+<p>在线体验：<a href="https://www.termora.app/" target="_blank" rel="noopener noreferrer">https://www.termora.app/</a></p>
+<blockquote>
+<p>Termora is a terminal emulator and SSH client for Windows, macOS and Linux.</p>
+</blockquote>
+<figure><img src="https://github.com/TermoraDev/termora/raw/2.x/docs/transfer-edit.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>WindTerm</p>
+<p><a href="https://github.com/KingToolBox/WindTerm" target="_blank" rel="noopener noreferrer">https://github.com/KingToolBox/WindTerm</a></p>
+<p><a href="https://kingtoolbox.github.io/" target="_blank" rel="noopener noreferrer">https://kingtoolbox.github.io/</a></p>
+<blockquote>
+<p>WindTerm 提供无缝的 Tmux 集成，使您能够更轻松、更高效地使用 tmux。通过此集成，tmux 会话、窗口和窗格会被映射并显示在原生用户界面中。所有常用的 tmux 功能都得到完全支持，从而在 tmux 和 WindTerm 之间创建近乎完美的融合。</p>
+</blockquote>
+<p>wezterm</p>
+<p><a href="https://github.com/wezterm/wezterm" target="_blank" rel="noopener noreferrer">https://github.com/wezterm/wezterm</a></p>
+<p><a href="https://wezterm.org/" target="_blank" rel="noopener noreferrer">https://wezterm.org/</a></p>
+<blockquote>
+<p>WezTerm 是一个强大的跨平台终端模拟器和多路复用器，由 @wez 编写并用 Rust 实现。</p>
+</blockquote>
+<p>ImHex</p>
+<p><a href="https://github.com/WerWolv/ImHex" target="_blank" rel="noopener noreferrer">https://github.com/WerWolv/ImHex</a></p>
+<p><a href="https://imhex.werwolv.net/" target="_blank" rel="noopener noreferrer">https://imhex.werwolv.net/</a></p>
+<blockquote>
+<p>二进制分析工具</p>
+</blockquote>
+<figure><img src="https://imhex.werwolv.net/assets/screenshot1.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>copyparty</p>
+<p><a href="https://github.com/9001/copyparty" target="_blank" rel="noopener noreferrer">https://github.com/9001/copyparty</a></p>
+<blockquote>
+<p>HTTP 文件服务器</p>
+</blockquote>
+<p><img src="https://user-images.githubusercontent.com/241032/129635368-3afa6634-c20f-418c-90dc-ec411f3b3897.png" alt="" loading="lazy">
+<a href="https://www.cnblogs.com/asionwu/p/16174088.html" target="_blank" rel="noopener noreferrer">资源导航</a></p>
+<p><a href="https://www.cnblogs.com/asionwu" target="_blank" rel="noopener noreferrer">https://www.cnblogs.com/asionwu</a></p>
+<h2>随便看看</h2>
+<p><a href="https://vert.sh/" target="_blank" rel="noopener noreferrer">https://vert.sh/</a></p>
+<blockquote>
+<p>在线本地文件转换</p>
+</blockquote>
+]]></content:encoded>
+      <enclosure url="https://www.tbtool.cn/rc_images/aboutimg.png" type="image/png"/>
     </item>
     <item>
       <title>06-13-渊渟夏觞</title>
