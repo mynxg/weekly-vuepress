@@ -6,12 +6,136 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 16 Nov 2025 17:16:37 GMT</pubDate>
-    <lastBuildDate>Sun, 16 Nov 2025 17:16:37 GMT</lastBuildDate>
+    <pubDate>Mon, 24 Nov 2025 15:18:12 GMT</pubDate>
+    <lastBuildDate>Mon, 24 Nov 2025 15:18:12 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
     <category>工具</category>
+    <item>
+      <title>11-22-谁堪共语</title>
+      <link>https://weekly.nnxx.me/weekly/2025/11-22-%E8%B0%81%E5%A0%AA%E5%85%B1%E8%AF%AD.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2025/11-22-%E8%B0%81%E5%A0%AA%E5%85%B1%E8%AF%AD.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">11-22-谁堪共语</source>
+      <description>分享、实用、有趣、共勉 AI Banana Prompt https://github.com/glidea/banana-prompt-quicker 文档：https://htmlpreview.github.io/?https://github.com/glidea/banana-prompt-quicker/blob/main/landing....</description>
+      <category>周报</category>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p>Banana Prompt</p>
+<p><a href="https://github.com/glidea/banana-prompt-quicker" target="_blank" rel="noopener noreferrer">https://github.com/glidea/banana-prompt-quicker</a></p>
+<p>文档：<a href="https://htmlpreview.github.io/?https://github.com/glidea/banana-prompt-quicker/blob/main/landing.html" target="_blank" rel="noopener noreferrer">https://htmlpreview.github.io/?https://github.com/glidea/banana-prompt-quicker/blob/main/landing.html</a></p>
+<blockquote>
+<p>Banana 提示词</p>
+</blockquote>
+<p><a href="https://opennana.com/awesome-prompt-gallery/" target="_blank" rel="noopener noreferrer">https://opennana.com/awesome-prompt-gallery/</a></p>
+<blockquote>
+<p>OpenNana提示词图库</p>
+</blockquote>
+<p><a href="https://github.com/muset-ai/awesome-nano-banana-pro" target="_blank" rel="noopener noreferrer">https://github.com/muset-ai/awesome-nano-banana-pro</a></p>
+<blockquote>
+<p>awesome-nano-banana-pro</p>
+</blockquote>
+<p>acemcp</p>
+<p><a href="https://github.com/qy527145/acemcp" target="_blank" rel="noopener noreferrer">https://github.com/qy527145/acemcp</a></p>
+<blockquote>
+<p>一个将ACE(Augment Context Engine) 做成MCP的项目</p>
+</blockquote>
+<p>Antigravity2api</p>
+<p><a href="https://github.com/link0518/Antigravity2api" target="_blank" rel="noopener noreferrer">https://github.com/link0518/Antigravity2api</a></p>
+<blockquote>
+<p>将 Google Antigravity API 转换为 OpenAI 兼容格式的高性能网关服务。<br>
+内置现代化管理后台，支持多账号轮询、Token 自动刷新、密钥管理与实时监控。</p>
+</blockquote>
+<p><a href="https://github.com/lwl2005/Antigravity-" target="_blank" rel="noopener noreferrer">https://github.com/lwl2005/Antigravity-</a></p>
+<blockquote>
+<p>Antigravity to OpenAI API 代理服务</p>
+</blockquote>
+<p>vibe-coding</p>
+<p><a href="https://github.com/EnzeD/vibe-coding" target="_blank" rel="noopener noreferrer">https://github.com/EnzeD/vibe-coding</a></p>
+<p><a href="https://github.com/tukuaiai/vibe-coding-cn/blob/main/README.md" target="_blank" rel="noopener noreferrer">https://github.com/tukuaiai/vibe-coding-cn/blob/main/README.md</a></p>
+<blockquote>
+<p>Vibe Coding V1.2 终极指南</p>
+</blockquote>
+<h2>随便看看</h2>
+<p>邮箱管理系统</p>
+<p><a href="https://github.com/zqq-nuli/Email-Management" target="_blank" rel="noopener noreferrer">https://github.com/zqq-nuli/Email-Management</a></p>
+<blockquote>
+<p>一个基于&nbsp;<strong>Cloudflare Workers Pages</strong>&nbsp;的现代化邮箱账号管理系统，支持批量导入、平台分类、API 调用等功能。</p>
+</blockquote>
+<p><a href="https://github.com/Vanilagy/mediabunny" target="_blank" rel="noopener noreferrer">https://github.com/Vanilagy/mediabunny</a></p>
+<blockquote>
+<p>纯粹的 TypeScript 媒体工具包，用于直接在浏览器中读取、写入和转换视频和音频文件。</p>
+</blockquote>
+<p>Logo API</p>
+<p><a href="https://www.logo.dev/" target="_blank" rel="noopener noreferrer">https://www.logo.dev/</a></p>
+<blockquote>
+<p>Logo API——通过 API 获取公司 logo 提供便捷的 API，让开发者能够快速获取公司 logo。支持 SVG、PNG 和 WebP 等多种格式，拥有数百万个经过验证的品牌 logo。用户可以在几秒钟内通过输入公司名称获取所需的 logo，免费套餐还提供慷慨的每月请求次数</p>
+</blockquote>
+<p>FFmpegFreeUI</p>
+<p><a href="https://github.com/Lake1059/FFmpegFreeUI" target="_blank" rel="noopener noreferrer">https://github.com/Lake1059/FFmpegFreeUI</a></p>
+<p><a href="https://3fui.top/" target="_blank" rel="noopener noreferrer">https://3fui.top/</a></p>
+<blockquote>
+<p>3FUI 是 ffmpeg 在 Windows 上的轻度专业交互外壳，收录大量参数，界面美观，交互友好。此项目面向国内使用环境，让普通人也能够轻松压制视频和转换格式。</p>
+</blockquote>
+<figure><img src="https://3fui.top/images/feature-ui.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>weibo-crawler</p>
+<p><a href="https://github.com/dataabc/weibo-crawler" target="_blank" rel="noopener noreferrer">https://github.com/dataabc/weibo-crawler</a></p>
+<blockquote>
+<p>新浪微博爬虫，用python爬取新浪微博数据，并下载微博图片和微博视频</p>
+</blockquote>
+<p>命令行magic-wormhole</p>
+<p><a href="https://github.com/magic-wormhole/magic-wormhole" target="_blank" rel="noopener noreferrer">https://github.com/magic-wormhole/magic-wormhole</a></p>
+<blockquote>
+<p>将文件从一台电脑安全地传送到另一台电脑</p>
+</blockquote>
+<p>localsend</p>
+<p><a href="https://localsend.org/" target="_blank" rel="noopener noreferrer">https://localsend.org/</a></p>
+<p><a href="https://github.com/localsend/localsend" target="_blank" rel="noopener noreferrer">https://github.com/localsend/localsend</a></p>
+<blockquote>
+<p>一个开源的、跨平台的 AirDrop 替代方案</p>
+</blockquote>
+<p><a href="https://66chuan.com/" target="_blank" rel="noopener noreferrer">https://66chuan.com/</a></p>
+<blockquote>
+<p>66传 – 文件变现神器  , 让分享更有价值</p>
+</blockquote>
+<p><a href="https://github.com/tonyantony300/alt-sendme" target="_blank" rel="noopener noreferrer">https://github.com/tonyantony300/alt-sendme</a></p>
+<blockquote>
+<p>无需存储在云端，即可在全球范围内发送任何大小、任何格式的文件和文件夹——无需帐户，没有限制。</p>
+</blockquote>
+<p>typewords</p>
+<p><a href="https://github.com/zyronon/TypeWords" target="_blank" rel="noopener noreferrer">https://github.com/zyronon/TypeWords</a></p>
+<p><a href="https://typewords.cc/" target="_blank" rel="noopener noreferrer">https://typewords.cc/</a></p>
+<blockquote>
+<p>练习英语，一次敲击，一点进步；Practice English, one strike, one step forward</p>
+</blockquote>
+<figure><img src="https://private-user-images.githubusercontent.com/19986642/501247433-383ed437-856e-48fe-92b0-9619babb49be.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM5MTA1NjEsIm5iZiI6MTc2MzkxMDI2MSwicGF0aCI6Ii8xOTk4NjY0Mi81MDEyNDc0MzMtMzgzZWQ0MzctODU2ZS00OGZlLTkyYjAtOTYxOWJhYmI0OWJlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTIzVDE1MDQyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM1ZjM1MDM0NThmNGNjZDI2ODkyMWVkNDEyZmE3Nzg2MDM1OWI0ZGJlYzgxMDFlYzI1ZDc4MWM4ZGViZDRhNDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.92c5z6AeP8MPdREgf3Z4p89et6AD1pnWkG4EC1hAR5I" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>FileCodeBox</p>
+<p><a href="https://github.com/zy84338719/FileCodeBox" target="_blank" rel="noopener noreferrer">https://github.com/zy84338719/FileCodeBox</a></p>
+<blockquote>
+<p>FileCodeBox的高性能Golang实现 - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件</p>
+</blockquote>
+<p><a href="https://nexty.dev/" target="_blank" rel="noopener noreferrer">https://nexty.dev/</a></p>
+<blockquote>
+<p>在几天内而不是几周内构建您的 SaaS</p>
+</blockquote>
+<p><a href="https://github.com/cclank/lumina-style-studio" target="_blank" rel="noopener noreferrer">https://github.com/cclank/lumina-style-studio</a></p>
+<p><a href="https://lumina-style-studio.vercel.app/" target="_blank" rel="noopener noreferrer">https://lumina-style-studio.vercel.app/</a></p>
+<blockquote>
+<p>网站配色自定义</p>
+</blockquote>
+<p><a href="https://app.oppscan.xyz/" target="_blank" rel="noopener noreferrer">https://app.oppscan.xyz/</a></p>
+<blockquote>
+<p>量化交易体验站</p>
+</blockquote>
+<h2>blog</h2>
+<p><a href="https://dqxf1izhlm.feishu.cn/wiki/OKvFwmmaIiBlPYkDGo3c8Z0EnCE" target="_blank" rel="noopener noreferrer">重磅！你的 Prompt 工程白学了？“懒人提示词”技巧，让AI瞬间懂你</a></p>
+<p><a href="https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ" target="_blank" rel="noopener noreferrer"># Nano Banana Pro</a></p>
+]]></content:encoded>
+      <enclosure url="https://3fui.top/images/feature-ui.webp" type="image/webp"/>
+    </item>
     <item>
       <title>11-15-工具收藏</title>
       <link>https://weekly.nnxx.me/weekly/2025/11-15-%E5%B7%A5%E5%85%B7%E6%94%B6%E8%97%8F.html</link>
@@ -311,6 +435,11 @@ Docker：极速 Docker 替代品</p>
 <blockquote>
 <p>ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益</p>
 </blockquote>
+<p>ytb2bili</p>
+<p><a href="https://github.com/difyz9/ytb2bili" target="_blank" rel="noopener noreferrer">https://github.com/difyz9/ytb2bili</a></p>
+<blockquote>
+<p>一个功能完整的视频自动化处理系统，支持从 YouTube 等平台下载视频，自动生成字幕、翻译内容、生成元数据，并定时上传到 Bilibili。</p>
+</blockquote>
 <h2>blog</h2>
 <p><a href="https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e" target="_blank" rel="noopener noreferrer">通往AGI之路</a></p>
 ]]></content:encoded>
@@ -321,7 +450,7 @@ Docker：极速 Docker 替代品</p>
       <link>https://weekly.nnxx.me/weekly/2025/10-25-%E5%87%AD%E5%85%B0%E7%A7%8B%E6%80%9D.html</link>
       <guid>https://weekly.nnxx.me/weekly/2025/10-25-%E5%87%AD%E5%85%B0%E7%A7%8B%E6%80%9D.html</guid>
       <source url="https://weekly.nnxx.me/rss.xml">10-25-凭兰秋思</source>
-      <description>分享、实用、有趣、共勉 AI https://github.com/t59688/arboris-novel 在线站: https://arboris.aozhiai.com/ AI 写作伙伴，点亮你的创作灵感 随便看看 PanSou https://github.com/fish2018/pansou PanSou是一个高性能的网盘资源搜索API服务...</description>
+      <description>分享、实用、有趣、共勉 AI https://github.com/t59688/arboris-novel 在线站: https://arboris.aozhiai.com/ AI 写作伙伴，点亮你的创作灵感 随便看看 Jaison https://github.com/querycatai/jaison 一个强大且容错的 JSON 解析器，专门设计...</description>
       <category>周报</category>
       <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
@@ -334,6 +463,11 @@ Docker：极速 Docker 替代品</p>
 <p>AI 写作伙伴，点亮你的创作灵感</p>
 </blockquote>
 <h2>随便看看</h2>
+<p>Jaison</p>
+<p><a href="https://github.com/querycatai/jaison" target="_blank" rel="noopener noreferrer">https://github.com/querycatai/jaison</a></p>
+<blockquote>
+<p>一个强大且容错的 JSON 解析器，专门设计用于处理来自 AI 系统和语言模型的格式错误的 JSON 输出。Jaison 能够智能地修复常见的结构错误，同时提供有关所有已应用修复的详细反馈。</p>
+</blockquote>
 <p>PanSou</p>
 <p><a href="https://github.com/fish2018/pansou" target="_blank" rel="noopener noreferrer">https://github.com/fish2018/pansou</a></p>
 <blockquote>
@@ -352,6 +486,18 @@ Docker：极速 Docker 替代品</p>
 <p><a href="https://github.com/1420970597/fucto" target="_blank" rel="noopener noreferrer">https://github.com/1420970597/fucto</a></p>
 <blockquote>
 <p>CTO中转</p>
+</blockquote>
+<p><a href="https://github.com/TapXWorld/ChinaTextbook/" target="_blank" rel="noopener noreferrer">https://github.com/TapXWorld/ChinaTextbook/</a></p>
+<blockquote>
+<p>所有小初高、大学PDF教材。</p>
+</blockquote>
+<p><a href="https://github.com/TapXWorld/ChinaTextbook/issues/42" target="_blank" rel="noopener noreferrer">https://github.com/TapXWorld/ChinaTextbook/issues/42</a></p>
+<blockquote>
+<p>中小学智慧教育平台提供了小学到高中的所有教材</p>
+</blockquote>
+<p><a href="https://clianpro.cn/" target="_blank" rel="noopener noreferrer">https://clianpro.cn/</a></p>
+<blockquote>
+<p>网盘高速下载 - 超链PRO • 专攻网盘下载限速，直链解析神器，提速必备 • 一键获取直链，批量下载不限速，Aria2加速加持 • 完全免费，无需登录，开箱即用，开源透明可靠</p>
 </blockquote>
 <h2>blog</h2>
 ]]></content:encoded>
@@ -10804,154 +10950,6 @@ ChatGPT神器Code Interpreter，</p>
 <p>各类资源共享：<a href="https://dwz.date/fxmN" target="_blank" rel="noopener noreferrer">https://dwz.date/fxmN</a></p>
 <p>游戏资源：<a href="https://dwz.date/fxmP" target="_blank" rel="noopener noreferrer">https://dwz.date/fxmP</a></p>
 </blockquote>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>06-17-一曲很少</title>
-      <link>https://weekly.nnxx.me/weekly/2023/%E4%B8%80%E6%9B%B2%E5%BE%88%E5%B0%91.html</link>
-      <guid>https://weekly.nnxx.me/weekly/2023/%E4%B8%80%E6%9B%B2%E5%BE%88%E5%B0%91.html</guid>
-      <source url="https://weekly.nnxx.me/rss.xml">06-17-一曲很少</source>
-      <description>AI chatgpt 镜像：https://chat.wuguokai.cn/ Pandora-Vercel 项目地址：https://github.com/AngelOver/pandora-vercel 在线地址：pandora-vercel-mauve.vercel.app https://pandora-vercel-mauve.vercel....</description>
-      <category>周报</category>
-      <pubDate>Sat, 17 Jun 2023 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>AI</h2>
-<blockquote>
-<p>chatgpt 镜像：<a href="https://chat.wuguokai.cn/" target="_blank" rel="noopener noreferrer">https://chat.wuguokai.cn/</a></p>
-</blockquote>
-<h3>Pandora-Vercel</h3>
-<blockquote>
-<p>项目地址：<a href="https://github.com/AngelOver/pandora-vercel" target="_blank" rel="noopener noreferrer">https://github.com/AngelOver/pandora-vercel</a></p>
-<p>在线地址：<a href="https://pandora-vercel-mauve.vercel.app/" title="https://pandora-vercel-mauve.vercel.app" target="_blank" rel="noopener noreferrer">pandora-vercel-mauve.vercel.app</a></p>
-<p>https://pandora-vercel-mauve.vercel.app/auth/login</p>
-</blockquote>
-<p>
-</p>
-<blockquote>
-<p>在线案例：</p>
-<ol>
-<li><a href="http://chatgpt-site.zhaoyeqing.cn/#/home" target="_blank" rel="noopener noreferrer">照夜清的AI小宇宙 — ChatGPT 网站！</a></li>
-<li><a href="https://chat-shared2.zhile.io/" target="_blank" rel="noopener noreferrer">共享ChatGPT账号-we端直接使用</a></li>
-</ol>
-</blockquote>
-<h3>new bing镜像：</h3>
-<blockquote>
-<p>项目地址：<a href="https://github.com/adams549659584/go-proxy-bingai" target="_blank" rel="noopener noreferrer">用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用</a></p>
-</blockquote>
-<p>在线地址：<a href="https://bing.vcanbb.top/web/#/" target="_blank" rel="noopener noreferrer">BingAI - 聊天 (vcanbb.top)</a></p>
-<blockquote>
-<p>使用教程：<a href="https://pinqmsof0xj.feishu.cn/docx/QL4vd0kdhoB3nIx44x4cQDN3nKf" target="_blank" rel="noopener noreferrer">Docs (feishu.cn)</a></p>
-</blockquote>
-<figure><figcaption></figcaption></figure>
-<h3>ChatAll</h3>
-<blockquote>
-<p>项目地址：<a href="https://github.com/sunner/ChatALL" target="_blank" rel="noopener noreferrer">sunner/ChatAll</a></p>
-<p>支持：Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers</p>
-<p>多个大型语言模型（LLMs）的 AI 机器人</p>
-</blockquote>
-<figure><figcaption></figcaption></figure>
-<h3>ChatGPT+Midjourney</h3>
-<p>ChatGPT-Midjourney: &nbsp;ChatGPT+Midjourney 网页应用</p>
-<blockquote>
-<p>项目地址: https://github.com/Licoy/ChatGPT-Midjourney</p>
-<p>一键免费部署你的私人 ChatGPT+Midjourney 网页应用。集成了ChatGPT的网页聊天+Midjourney的图片生成服务。</p>
-</blockquote>
-<figure><figcaption></figcaption></figure>
-<h3>FlowGPT</h3>
-<blockquote>
-<p>项目地址：<a href="https://flowgpt.com/" target="_blank" rel="noopener noreferrer">https://flowgpt.com/</a></p>
-<p>Prompt 集合社区</p>
-</blockquote>
-<h2>局域网</h2>
-<p>局域网文件传输文件：</p>
-<blockquote>
-<p>在线地址：<a href="https://snapdrop.net/" target="_blank" rel="noopener noreferrer">https://snapdrop.net/</a></p>
-</blockquote>
-<figure><figcaption></figcaption></figure>
-<p>其他工具：</p>
-<blockquote>
-<p>localsend : https://localsend.org/</p>
-<p>传输速度比较慢</p>
-<p>飞秋：<a href="http://www.feiq18.com/" target="_blank" rel="noopener noreferrer">http://www.feiq18.com/</a></p>
-</blockquote>
-<p>HandBrake 视频格式处理工具</p>
-<blockquote>
-<p>在线地址：<a href="https://handbrake.fr/" target="_blank" rel="noopener noreferrer">https://handbrake.fr/</a></p>
-<p>「免费开源的视频格式万能处理工具HandBrake」，可以几乎将视频从任何格式转换为主流平台的视频格式，并压缩到合适的大小，做得挺好的，很方便。</p>
-</blockquote>
-<figure><figcaption></figcaption></figure>
-<h2>学习</h2>
-<h3>go-demo</h3>
-<blockquote>
-<p>项目地址：<a href="https://github.com/pibigstar/go-demo" target="_blank" rel="noopener noreferrer">https://github.com/pibigstar/go-demo</a></p>
-<p>Go语言实例教程从入门到进阶，包括基础库使用、设计模式、面试易错点、工具类、对接第三方等。</p>
-</blockquote>
-<h3>BoxCoding</h3>
-<blockquote>
-<p>项目地址：<a href="https://avabucks.it/index" target="_blank" rel="noopener noreferrer">https://avabucks.it/index</a></p>
-<p>前端初学者的工具网站「BoxCoding」，有不少使用原生HTML/CSS/JavaScript实现的常用效果，做得很精致，同时代码实现挺不错，也适合突然想找某个 Ui 的实现场景。</p>
-</blockquote>
-<h3>正则表达式</h3>
-<blockquote>
-<p>项目地址：<a href="https://regex101.com" target="_blank" rel="noopener noreferrer">https://regex101.com</a></p>
-<p>写正则表达式</p>
-</blockquote>
-<h2>扩展</h2>
-<h3>Docker-OSX</h3>
-<blockquote>
-<p>项目地址：<a href="https://github.com/sickcodes/Docker-OSX" target="_blank" rel="noopener noreferrer">https://github.com/sickcodes/Docker-OSX</a></p>
-<p>一个运行 macOS 虚拟机的 Docker 镜像。</p>
-</blockquote>
-<h3>PLExtension: 一个图床上传浏览器扩展</h3>
-<blockquote>
-<p>项目地址：<a href="https://github.com/ZenEcho/PLExtension" target="_blank" rel="noopener noreferrer">https://github.com/ZenEcho/PLExtension</a></p>
-<p>一款免费的上传扩展程序提供兰空图床,简单图床,chevereto,阿里云oss,AWS S3,GitHub等程序的文件上传。开源代码，支持粘贴、拖拽、右键上传。</p>
-</blockquote>
-<h3>Progress-一个命令行工具</h3>
-<blockquote>
-<p>项目地址：<a href="https://github.com/Xfennec/progress" target="_blank" rel="noopener noreferrer">https://github.com/Xfennec/progress</a></p>
-<p>Progress 可以显示当前一些耗时操作的进度，比如 大文件的 cp/mv/dd, &nbsp;甚至还可以显示下载进度等等。它还提供了一个类似 top 的界面，可以全面监控各种进度。</p>
-</blockquote>
-<h3>黑苹果 折腾指南</h3>
-<blockquote>
-<p>现在有 #OpenCore 保驾护航，即使 #macOS 大版本更新也无忧，如今技术不断进步， #Github 上有他人分享的EFI，购买硬件和组装变得更加简单。分享几个黑果技术网站，组装出自己的黑苹果电脑。</p>
-</blockquote>
-<ul>
-<li>
-<p>OpenCore 中文安装指南：<a href="https://sumingyd.github.io/OpenCore-Install-Guide/" target="_blank" rel="noopener noreferrer">https://sumingyd.github.io/OpenCore-Install-Guide/</a></p>
-</li>
-<li>
-<p>黑果小兵：<a href="https://blog.daliansky.net/" target="_blank" rel="noopener noreferrer">https://blog.daliansky.net/</a></p>
-</li>
-<li>
-<p>远景论坛：<a href="https://bbs.pcbeta.com/forum.php?gid=86" target="_blank" rel="noopener noreferrer">https://bbs.pcbeta.com/forum.php?gid=86</a></p>
-</li>
-<li>
-<p>国光OpenCore配置教程：<a href="https://apple.sqlsec.com/" target="_blank" rel="noopener noreferrer">https://apple.sqlsec.com/</a></p>
-</li>
-<li>
-<p>Github搜索EFI：<a href="https://github.com/search?q=EFI" target="_blank" rel="noopener noreferrer">https://github.com/search?q=EFI</a></p>
-</li>
-<li>
-<p>Github搜索Hackintosh：<a href="https://github.com/search?q=Hackintosh" target="_blank" rel="noopener noreferrer">https://github.com/search?q=Hackintosh</a></p>
-</li>
-<li>
-<p>GeQ1an的EFI：<a href="https://github.com/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI" target="_blank" rel="noopener noreferrer">https://github.com/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI</a></p>
-</li>
-</ul>
-<p>盘库吧</p>
-<p><a href="https://panku8.com/" target="_blank" rel="noopener noreferrer">https://panku8.com/</a></p>
-<blockquote>
-<p>支持搜索阿里云盘资源</p>
-</blockquote>
-<h2>项目推荐</h2>
-<blockquote>
-<p>开发设计资源</p>
-</blockquote>
-<p>https://github.com/bradtraversy/design-resources-for-developers</p>
-<blockquote>
-<p>五十个项目</p>
-</blockquote>
-<p>https://github.com/bradtraversy/50projects50days</p>
 ]]></content:encoded>
     </item>
   </channel>
