@@ -19,6 +19,14 @@ export const zhSidebar = sidebar({
       children: "structure",
     },
     {
+      text: "2025",
+      // icon: "laptop-code",
+      collapsible: true,
+      prefix: "2025/",
+      link: "/weekly/2025/",
+      children: "structure",
+    },
+    {
       text: "2026",
       // icon: "laptop-code",
       collapsible: true,
