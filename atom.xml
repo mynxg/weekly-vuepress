@@ -3,16 +3,149 @@
   <id>https://weekly.nnxx.me/</id>
   <title>Weekly</title>
   <subtitle>行动胜于空谈</subtitle>
-  <updated>2026-01-25T12:52:55.999Z</updated>
+  <updated>2026-02-01T15:36:34.956Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://weekly.nnxx.me/atom.xml"/>
   <link rel="alternate" href="https://weekly.nnxx.me/"/>
   <category term="周报"/>
   <entry>
+    <title type="text">01-31-混乱麻痹</title>
+    <id>https://weekly.nnxx.me/weekly/2026/01-31-%E6%B7%B7%E4%B9%B1%E9%BA%BB%E7%97%B9.html</id>
+    <link href="https://weekly.nnxx.me/weekly/2026/01-31-%E6%B7%B7%E4%B9%B1%E9%BA%BB%E7%97%B9.html"/>
+    <updated>2026-02-01T15:36:34.959Z</updated>
+    <summary type="html"><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p>superpowers</p>
+<p><a href="https://github.com/obra/superpowers" target="_blank" rel="noopener noreferrer">https://github.com/obra/superpowers</a></p>
+<blockquote>
+<p>Brainstorming和TDD在内的7个优质的Skills</p>
+</blockquote>
+<h2>随便看看</h2>
+<p>awesome-openclaw-skills</p>]]></summary>
+    <content type="html"><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p>superpowers</p>
+<p><a href="https://github.com/obra/superpowers" target="_blank" rel="noopener noreferrer">https://github.com/obra/superpowers</a></p>
+<blockquote>
+<p>Brainstorming和TDD在内的7个优质的Skills</p>
+</blockquote>
+<h2>随便看看</h2>
+<p>awesome-openclaw-skills</p>
+<p><a href="https://github.com/VoltAgent/awesome-openclaw-skills" target="_blank" rel="noopener noreferrer">https://github.com/VoltAgent/awesome-openclaw-skills</a></p>
+<p><a href="https://github.com/VoltAgent/voltagent" target="_blank" rel="noopener noreferrer">https://github.com/VoltAgent/voltagent</a></p>
+<blockquote>
+<p>OpenClaw 技能合集，已收录了 700+ 个实用命令插件</p>
+<p>OpenClaw Skills 的精彩合集。前身是 Moltbot，最初是 Clawdbot。</p>
+</blockquote>
+<p>OpenClawInstaller</p>
+<p><a href="https://github.com/miaoxworld/OpenClawInstaller" target="_blank" rel="noopener noreferrer">https://github.com/miaoxworld/OpenClawInstaller</a></p>
+<blockquote>
+<p>ClawdBot 一键部署工具</p>
+</blockquote>
+<figure><img src="https://github.com/miaoxworld/OpenClawInstaller/raw/main/photo/menu.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>awesome-os-setup</p>
+<p><a href="https://github.com/AmineDjeghri/awesome-os-setup" target="_blank" rel="noopener noreferrer">https://github.com/AmineDjeghri/awesome-os-setup</a></p>
+<blockquote>
+<p>Windows、Linux 和 MacOS 自动化脚本和文档，以提高您的用户体验和生产力（包括 WSL2、conda、GPU 驱动程序和开发工具）</p>
+</blockquote>
+<figure><img src="https://github.com/AmineDjeghri/awesome-os-setup/raw/main/docs/images/windows_wsl_terminal.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://skills.sh/anthropics/skills/xlsx" target="_blank" rel="noopener noreferrer">https://skills.sh/anthropics/skills/xlsx</a></p>
+<blockquote>
+<p>所有Excel模型交付时必须零公式错误（#REF!, #DIV/0!, #VALUE!, #N/A, #NAME?）。</p>
+</blockquote>
+<p><a href="https://github.com/burpheart/cursor-tap" target="_blank" rel="noopener noreferrer">https://github.com/burpheart/cursor-tap</a></p>
+<blockquote>
+<p>Cursor gRPC 通信流量分析工具</p>
+</blockquote>
+<p>Multi-Agent</p>
+<p><a href="https://www.hi-light.ai/" target="_blank" rel="noopener noreferrer">https://www.hi-light.ai/</a></p>
+<blockquote>
+<p>根据产品链接生成社媒视频</p>
+<p>解说：<a href="https://mp.weixin.qq.com/s/NWtBiatpC61_hym7P7_Tbw" target="_blank" rel="noopener noreferrer"> 全球首个AI原生电商视频Multi-Agent来了， 上传商品链接可一键出营销视频！</a></p>
+</blockquote>
+<h2>blog</h2>
+<p><a href="https://mksaas.me/" target="_blank" rel="noopener noreferrer">https://mksaas.me/</a></p>
+<blockquote>
+<p>一名全栈开发者和独立黑客。</p>
+</blockquote>
+]]></content>
+    <category term="周报"/>
+    <published>2026-01-31T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">01-24-冷冷清清</title>
+    <id>https://weekly.nnxx.me/weekly/2026/01-24-%E5%86%B7%E5%86%B7%E6%B8%85%E6%B8%85.html</id>
+    <link href="https://weekly.nnxx.me/weekly/2026/01-24-%E5%86%B7%E5%86%B7%E6%B8%85%E6%B8%85.html"/>
+    <updated>2026-02-01T15:36:34.963Z</updated>
+    <summary type="html"><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p>happy</p>
+<p><a href="https://github.com/slopus/happy" target="_blank" rel="noopener noreferrer">https://github.com/slopus/happy</a></p>
+<blockquote>
+<p>Codex和Claude代码的移动和Web客户端，具有实时语音、加密和完整功能。</p>
+</blockquote>
+<p><a href="https://www.pencil.dev/" target="_blank" rel="noopener noreferrer">https://www.pencil.dev/</a></p>]]></summary>
+    <content type="html"><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p>happy</p>
+<p><a href="https://github.com/slopus/happy" target="_blank" rel="noopener noreferrer">https://github.com/slopus/happy</a></p>
+<blockquote>
+<p>Codex和Claude代码的移动和Web客户端，具有实时语音、加密和完整功能。</p>
+</blockquote>
+<p><a href="https://www.pencil.dev/" target="_blank" rel="noopener noreferrer">https://www.pencil.dev/</a></p>
+<blockquote>
+<p>精选设计套件，即取即用，或自带设计。利用精选的、基于组件的设计套件来构建精美的产品。 获得资深设计师的工艺和品味，或者直接从代码库中插入团队现有的设计系统。</p>
+</blockquote>
+<figure><img src="https://www.pencil.dev/_next/image?url=%2Fscreen-multiplayer.png&amp;w=3840&amp;q=75" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://fatespiral.com" target="_blank" rel="noopener noreferrer">https://fatespiral.com</a></p>
+<blockquote>
+<p>人工智能驱动的互动叙事游戏, 命运，由你撰写, - 在一个无限可能的世界里，每一个选择都改变着你的命运。</p>
+</blockquote>
+<p>呜哩</p>
+<p><a href="https://wuli.art/" target="_blank" rel="noopener noreferrer">https://wuli.art/</a></p>
+<blockquote>
+<p>阿里 AI生图和AI视频</p>
+</blockquote>
+<h2>随便看看</h2>
+<p>Crawlee</p>
+<p><a href="https://github.com/apify/crawlee" target="_blank" rel="noopener noreferrer">https://github.com/apify/crawlee</a></p>
+<blockquote>
+<p>Crawlee——一个用于 Node.js 的网络爬虫和浏览器自动化库，用于构建可靠的爬虫。使用 JavaScript 和 TypeScript 编写。提取数据用于 AI、LLM、RAG 或 GPT。从网站下载 HTML、PDF、JPG、PNG 和其他文件。可与 Puppeteer、Playwright、Cheerio、JSDOM 和原始 HTTP 协同工作。支持有头和无头模式，并具有代理轮换功能。</p>
+</blockquote>
+<p><a href="https://github.com/lza6/doubao-2api" target="_blank" rel="noopener noreferrer">https://github.com/lza6/doubao-2api</a></p>
+<blockquote>
+<p>豆包 api</p>
+</blockquote>
+<p>clashmac</p>
+<p><a href="https://github.com/666OS/ClashMac" target="_blank" rel="noopener noreferrer">https://github.com/666OS/ClashMac</a></p>
+<p><a href="https://clashmac.app/" target="_blank" rel="noopener noreferrer">https://clashmac.app/</a></p>
+<blockquote>
+<p>Native Proxy Experience Built for macOS</p>
+</blockquote>
+<figure><img src="https://github.com/666OS/ClashMac/raw/main/assets/dashboard_b.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://my.feishu.cn/wiki/S5nowuX3uiHXq4kNPb3c7cPpngh?table=tblJT29vyAEQmZzq&amp;view=vewBBRuwm1" target="_blank" rel="noopener noreferrer">https://my.feishu.cn/wiki/S5nowuX3uiHXq4kNPb3c7cPpngh?table=tblJT29vyAEQmZzq&amp;view=vewBBRuwm1</a></p>
+<blockquote>
+<p>香蕉案例合集</p>
+</blockquote>
+<h2>blog</h2>
+<p><a href="https://github.com/Olcmyk/HuChenFeng" target="_blank" rel="noopener noreferrer">收集户子的所有内容</a></p>
+]]></content>
+    <category term="周报"/>
+    <published>2026-01-24T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">01-17-平平淡淡</title>
     <id>https://weekly.nnxx.me/weekly/2026/01-17-%E5%B9%B3%E5%B9%B3%E6%B7%A1%E6%B7%A1.html</id>
     <link href="https://weekly.nnxx.me/weekly/2026/01-17-%E5%B9%B3%E5%B9%B3%E6%B7%A1%E6%B7%A1.html"/>
-    <updated>2026-01-25T12:52:56.002Z</updated>
+    <updated>2026-02-01T15:36:34.966Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -181,7 +314,7 @@
     <title type="text">01-10-漫无目的</title>
     <id>https://weekly.nnxx.me/weekly/2026/01-10-%E6%BC%AB%E6%97%A0%E7%9B%AE%E7%9A%84.html</id>
     <link href="https://weekly.nnxx.me/weekly/2026/01-10-%E6%BC%AB%E6%97%A0%E7%9B%AE%E7%9A%84.html"/>
-    <updated>2026-01-25T12:52:56.012Z</updated>
+    <updated>2026-02-01T15:36:34.976Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -255,7 +388,7 @@ The Fastest local Route. The Strongest Performance.Lightning-fast connectivity f
     <title type="text">01-03-此去一年</title>
     <id>https://weekly.nnxx.me/weekly/2026/01-03-%E6%AD%A4%E5%8E%BB%E4%B8%80%E5%B9%B4.html</id>
     <link href="https://weekly.nnxx.me/weekly/2026/01-03-%E6%AD%A4%E5%8E%BB%E4%B8%80%E5%B9%B4.html"/>
-    <updated>2026-01-25T12:52:56.015Z</updated>
+    <updated>2026-02-01T15:36:34.988Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -324,7 +457,7 @@ The Fastest local Route. The Strongest Performance.Lightning-fast connectivity f
     <title type="text">12-27-一去不返</title>
     <id>https://weekly.nnxx.me/weekly/2025/12-27-%E4%B8%80%E5%8E%BB%E4%B8%8D%E8%BF%94.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/12-27-%E4%B8%80%E5%8E%BB%E4%B8%8D%E8%BF%94.html"/>
-    <updated>2026-01-25T12:52:56.019Z</updated>
+    <updated>2026-02-01T15:36:34.993Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -410,7 +543,7 @@ The Fastest local Route. The Strongest Performance.Lightning-fast connectivity f
     <title type="text">12-20-宛如红袖</title>
     <id>https://weekly.nnxx.me/weekly/2025/12-20-%E5%AE%9B%E5%A6%82%E7%BA%A2%E8%A2%96.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/12-20-%E5%AE%9B%E5%A6%82%E7%BA%A2%E8%A2%96.html"/>
-    <updated>2026-01-25T12:52:56.031Z</updated>
+    <updated>2026-02-01T15:36:34.997Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -585,7 +718,7 @@ The Fastest local Route. The Strongest Performance.Lightning-fast connectivity f
     <title type="text">12-13-先礼后兵</title>
     <id>https://weekly.nnxx.me/weekly/2025/12-13-%E5%85%88%E7%A4%BC%E5%90%8E%E5%85%B5.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/12-13-%E5%85%88%E7%A4%BC%E5%90%8E%E5%85%B5.html"/>
-    <updated>2026-01-25T12:52:56.041Z</updated>
+    <updated>2026-02-01T15:36:35.002Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -690,7 +823,7 @@ The Fastest local Route. The Strongest Performance.Lightning-fast connectivity f
     <title type="text">12-06-不合时宜</title>
     <id>https://weekly.nnxx.me/weekly/2025/12-06-%E4%B8%8D%E5%90%88%E6%97%B6%E5%AE%9C.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/12-06-%E4%B8%8D%E5%90%88%E6%97%B6%E5%AE%9C.html"/>
-    <updated>2026-01-25T12:52:56.044Z</updated>
+    <updated>2026-02-01T15:36:35.006Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -803,7 +936,7 @@ zencoder</p>
     <title type="text">11-29-阳光明媚</title>
     <id>https://weekly.nnxx.me/weekly/2025/11-29-%E9%98%B3%E5%85%89%E6%98%8E%E5%AA%9A.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/11-29-%E9%98%B3%E5%85%89%E6%98%8E%E5%AA%9A.html"/>
-    <updated>2026-01-25T12:52:56.050Z</updated>
+    <updated>2026-02-01T15:36:35.010Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -917,7 +1050,7 @@ zencoder</p>
     <title type="text">11-22-谁堪共语</title>
     <id>https://weekly.nnxx.me/weekly/2025/11-22-%E8%B0%81%E5%A0%AA%E5%85%B1%E8%AF%AD.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/11-22-%E8%B0%81%E5%A0%AA%E5%85%B1%E8%AF%AD.html"/>
-    <updated>2026-01-25T12:52:56.055Z</updated>
+    <updated>2026-02-01T15:36:35.019Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -1046,7 +1179,7 @@ zencoder</p>
     <title type="text">11-15-工具收藏</title>
     <id>https://weekly.nnxx.me/weekly/2025/11-15-%E5%B7%A5%E5%85%B7%E6%94%B6%E8%97%8F.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/11-15-%E5%B7%A5%E5%85%B7%E6%94%B6%E8%97%8F.html"/>
-    <updated>2026-01-25T12:52:56.064Z</updated>
+    <updated>2026-02-01T15:36:35.023Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -1172,7 +1305,7 @@ Docker：极速 Docker 替代品</p>
     <title type="text">11-08-若如初见</title>
     <id>https://weekly.nnxx.me/weekly/2025/11-08-%E8%8B%A5%E5%A6%82%E5%88%9D%E8%A7%81.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/11-08-%E8%8B%A5%E5%A6%82%E5%88%9D%E8%A7%81.html"/>
-    <updated>2026-01-25T12:52:56.067Z</updated>
+    <updated>2026-02-01T15:36:35.026Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -1314,7 +1447,7 @@ Docker：极速 Docker 替代品</p>
     <title type="text">11-01-金风送爽</title>
     <id>https://weekly.nnxx.me/weekly/2025/11-01-%E9%87%91%E9%A3%8E%E9%80%81%E7%88%BD.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/11-01-%E9%87%91%E9%A3%8E%E9%80%81%E7%88%BD.html"/>
-    <updated>2026-01-25T12:52:56.072Z</updated>
+    <updated>2026-02-01T15:36:35.033Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -1388,7 +1521,7 @@ Docker：极速 Docker 替代品</p>
     <title type="text">10-25-凭兰秋思</title>
     <id>https://weekly.nnxx.me/weekly/2025/10-25-%E5%87%AD%E5%85%B0%E7%A7%8B%E6%80%9D.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/10-25-%E5%87%AD%E5%85%B0%E7%A7%8B%E6%80%9D.html"/>
-    <updated>2026-01-25T12:52:56.074Z</updated>
+    <updated>2026-02-01T15:36:35.037Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -1450,7 +1583,7 @@ Docker：极速 Docker 替代品</p>
     <title type="text">10-18-夜半饮雨</title>
     <id>https://weekly.nnxx.me/weekly/2025/10-18-%E5%A4%9C%E5%8D%8A%E9%A5%AE%E9%9B%A8.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/10-18-%E5%A4%9C%E5%8D%8A%E9%A5%AE%E9%9B%A8.html"/>
-    <updated>2026-01-25T12:52:56.076Z</updated>
+    <updated>2026-02-01T15:36:35.044Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -1591,7 +1724,7 @@ Docker：极速 Docker 替代品</p>
     <title type="text">10-11-谁堪共语</title>
     <id>https://weekly.nnxx.me/weekly/2025/10-11-%E8%B0%81%E5%A0%AA%E5%85%B1%E8%AF%AD.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/10-11-%E8%B0%81%E5%A0%AA%E5%85%B1%E8%AF%AD.html"/>
-    <updated>2026-01-25T12:52:56.088Z</updated>
+    <updated>2026-02-01T15:36:35.049Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -1689,7 +1822,7 @@ foobar2000 是一个 Windows 平台下的高级音频播放器.包含完全支�
     <title type="text">09-27-秋风萧瑟</title>
     <id>https://weekly.nnxx.me/weekly/2025/10-04-%E6%B5%81%E8%8D%86%E9%BB%98%E6%9C%9B.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/10-04-%E6%B5%81%E8%8D%86%E9%BB%98%E6%9C%9B.html"/>
-    <updated>2026-01-25T12:52:56.093Z</updated>
+    <updated>2026-02-01T15:36:35.052Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -1788,7 +1921,7 @@ foobar2000 是一个 Windows 平台下的高级音频播放器.包含完全支�
     <title type="text">09-27-秋风萧瑟</title>
     <id>https://weekly.nnxx.me/weekly/2025/09-27-%E7%A7%8B%E9%A3%8E%E8%90%A7%E7%91%9F.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/09-27-%E7%A7%8B%E9%A3%8E%E8%90%A7%E7%91%9F.html"/>
-    <updated>2026-01-25T12:52:56.097Z</updated>
+    <updated>2026-02-01T15:36:35.056Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -1883,7 +2016,7 @@ foobar2000 是一个 Windows 平台下的高级音频播放器.包含完全支�
     <title type="text">09-20-秋雨绵绵</title>
     <id>https://weekly.nnxx.me/weekly/2025/09-20-%E7%A7%8B%E9%9B%A8%E7%BB%B5%E7%BB%B5.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/09-20-%E7%A7%8B%E9%9B%A8%E7%BB%B5%E7%BB%B5.html"/>
-    <updated>2026-01-25T12:52:56.100Z</updated>
+    <updated>2026-02-01T15:36:35.059Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -2004,7 +2137,7 @@ foobar2000 是一个 Windows 平台下的高级音频播放器.包含完全支�
     <title type="text">09-13-凭兰秋思</title>
     <id>https://weekly.nnxx.me/weekly/2025/09-13-%E5%87%AD%E5%85%B0%E7%A7%8B%E6%80%9D.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/09-13-%E5%87%AD%E5%85%B0%E7%A7%8B%E6%80%9D.html"/>
-    <updated>2026-01-25T12:52:56.104Z</updated>
+    <updated>2026-02-01T15:36:35.065Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -2089,7 +2222,7 @@ foobar2000 是一个 Windows 平台下的高级音频播放器.包含完全支�
     <title type="text">09-06-轻云蔽月</title>
     <id>https://weekly.nnxx.me/weekly/2025/09-06-%E8%BD%BB%E4%BA%91%E8%94%BD%E6%9C%88.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/09-06-%E8%BD%BB%E4%BA%91%E8%94%BD%E6%9C%88.html"/>
-    <updated>2026-01-25T12:52:56.106Z</updated>
+    <updated>2026-02-01T15:36:35.074Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -2179,7 +2312,7 @@ archLinux 桌面</p>
     <title type="text">08-30-秋意深深</title>
     <id>https://weekly.nnxx.me/weekly/2025/08-30-%E7%A7%8B%E6%84%8F%E6%B7%B1%E6%B7%B1.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/08-30-%E7%A7%8B%E6%84%8F%E6%B7%B1%E6%B7%B1.html"/>
-    <updated>2026-01-25T12:52:56.114Z</updated>
+    <updated>2026-02-01T15:36:35.078Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -2244,7 +2377,7 @@ uniprof</p>
     <title type="text">08-23-秋兰飘香</title>
     <id>https://weekly.nnxx.me/weekly/2025/08-23-%E7%A7%8B%E5%85%B0%E9%A3%98%E9%A6%99.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/08-23-%E7%A7%8B%E5%85%B0%E9%A3%98%E9%A6%99.html"/>
-    <updated>2026-01-25T12:52:56.117Z</updated>
+    <updated>2026-02-01T15:36:35.080Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -2366,7 +2499,7 @@ uniprof</p>
     <title type="text">08-16-秋雨绵绵</title>
     <id>https://weekly.nnxx.me/weekly/2025/08-16-%E7%A7%8B%E9%9B%A8%E7%BB%B5%E7%BB%B5.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/08-16-%E7%A7%8B%E9%9B%A8%E7%BB%B5%E7%BB%B5.html"/>
-    <updated>2026-01-25T12:52:56.120Z</updated>
+    <updated>2026-02-01T15:36:35.083Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -2445,7 +2578,7 @@ uniprof</p>
     <title type="text">08-09-醉释浮屠</title>
     <id>https://weekly.nnxx.me/weekly/2025/08-09-%E9%86%89%E9%87%8A%E6%B5%AE%E5%B1%A0.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/08-09-%E9%86%89%E9%87%8A%E6%B5%AE%E5%B1%A0.html"/>
-    <updated>2026-01-25T12:52:56.123Z</updated>
+    <updated>2026-02-01T15:36:35.085Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -2520,7 +2653,7 @@ uniprof</p>
     <title type="text">08-02-高耸入云</title>
     <id>https://weekly.nnxx.me/weekly/2025/08-02-%E9%AB%98%E8%80%B8%E5%85%A5%E4%BA%91.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/08-02-%E9%AB%98%E8%80%B8%E5%85%A5%E4%BA%91.html"/>
-    <updated>2026-01-25T12:52:56.125Z</updated>
+    <updated>2026-02-01T15:36:35.087Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -2610,7 +2743,7 @@ uniprof</p>
     <title type="text">07-26-盛夏光年</title>
     <id>https://weekly.nnxx.me/weekly/2025/07-26-%E7%9B%9B%E5%A4%8F%E5%85%89%E5%B9%B4.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/07-26-%E7%9B%9B%E5%A4%8F%E5%85%89%E5%B9%B4.html"/>
-    <updated>2026-01-25T12:52:56.127Z</updated>
+    <updated>2026-02-01T15:36:35.094Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -2694,7 +2827,7 @@ uniprof</p>
     <title type="text">07-19-孤舟停泊</title>
     <id>https://weekly.nnxx.me/weekly/2025/07-19-%E5%AD%A4%E8%88%9F%E5%81%9C%E6%B3%8A.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/07-19-%E5%AD%A4%E8%88%9F%E5%81%9C%E6%B3%8A.html"/>
-    <updated>2026-01-25T12:52:56.130Z</updated>
+    <updated>2026-02-01T15:36:35.098Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -2783,7 +2916,7 @@ uniprof</p>
     <title type="text">07-12-夜半饮雨</title>
     <id>https://weekly.nnxx.me/weekly/2025/07-12-%E5%A4%9C%E5%8D%8A%E9%A5%AE%E9%9B%A8.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/07-12-%E5%A4%9C%E5%8D%8A%E9%A5%AE%E9%9B%A8.html"/>
-    <updated>2026-01-25T12:52:56.136Z</updated>
+    <updated>2026-02-01T15:36:35.102Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -2923,7 +3056,7 @@ uniprof</p>
     <title type="text">07-05-赏心悦目</title>
     <id>https://weekly.nnxx.me/weekly/2025/07-05-%E8%B5%8F%E5%BF%83%E6%82%A6%E7%9B%AE.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/07-05-%E8%B5%8F%E5%BF%83%E6%82%A6%E7%9B%AE.html"/>
-    <updated>2026-01-25T12:52:56.140Z</updated>
+    <updated>2026-02-01T15:36:35.108Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -3046,7 +3179,7 @@ uniprof</p>
     <title type="text">06-28-静水流深</title>
     <id>https://weekly.nnxx.me/weekly/2025/06-28-%E9%9D%99%E6%B0%B4%E6%B5%81%E6%B7%B1.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/06-28-%E9%9D%99%E6%B0%B4%E6%B5%81%E6%B7%B1.html"/>
-    <updated>2026-01-25T12:52:56.143Z</updated>
+    <updated>2026-02-01T15:36:35.111Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -3136,7 +3269,7 @@ uniprof</p>
     <title type="text">06-21-高山流水</title>
     <id>https://weekly.nnxx.me/weekly/2025/06-21-%E9%AB%98%E5%B1%B1%E6%B5%81%E6%B0%B4.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/06-21-%E9%AB%98%E5%B1%B1%E6%B5%81%E6%B0%B4.html"/>
-    <updated>2026-01-25T12:52:56.146Z</updated>
+    <updated>2026-02-01T15:36:35.114Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -3251,7 +3384,7 @@ mobaxterm</p>
     <title type="text">06-14-繁花似锦</title>
     <id>https://weekly.nnxx.me/weekly/2025/06-14-%E7%B9%81%E8%8A%B1%E4%BC%BC%E9%94%A6.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/06-14-%E7%B9%81%E8%8A%B1%E4%BC%BC%E9%94%A6.html"/>
-    <updated>2026-01-25T12:52:56.148Z</updated>
+    <updated>2026-02-01T15:36:35.121Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -3395,7 +3528,7 @@ mobaxterm</p>
     <title type="text">06-07-六月未果</title>
     <id>https://weekly.nnxx.me/weekly/2025/06-07-%E5%85%AD%E6%9C%88%E6%9C%AA%E6%9E%9C.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/06-07-%E5%85%AD%E6%9C%88%E6%9C%AA%E6%9E%9C.html"/>
-    <updated>2026-01-25T12:52:56.157Z</updated>
+    <updated>2026-02-01T15:36:35.125Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -3527,7 +3660,7 @@ mobaxterm</p>
     <title type="text">05-17-山明水秀</title>
     <id>https://weekly.nnxx.me/weekly/2025/05-17-%E5%B1%B1%E6%98%8E%E6%B0%B4%E7%A7%80.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/05-17-%E5%B1%B1%E6%98%8E%E6%B0%B4%E7%A7%80.html"/>
-    <updated>2026-01-25T12:52:56.163Z</updated>
+    <updated>2026-02-01T15:36:35.131Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -3636,7 +3769,7 @@ mobaxterm</p>
     <title type="text">05-07-五月未了</title>
     <id>https://weekly.nnxx.me/weekly/2025/05-07-%E4%BA%94%E6%9C%88%E6%9C%AA%E4%BA%86.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/05-07-%E4%BA%94%E6%9C%88%E6%9C%AA%E4%BA%86.html"/>
-    <updated>2026-01-25T12:52:56.166Z</updated>
+    <updated>2026-02-01T15:36:35.134Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -3808,7 +3941,7 @@ mobaxterm</p>
     <title type="text">04-12-醉释浮屠</title>
     <id>https://weekly.nnxx.me/weekly/2025/04-12-%E9%86%89%E9%87%8A%E6%B5%AE%E5%B1%A0.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/04-12-%E9%86%89%E9%87%8A%E6%B5%AE%E5%B1%A0.html"/>
-    <updated>2026-01-25T12:52:56.178Z</updated>
+    <updated>2026-02-01T15:36:35.144Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -3983,7 +4116,7 @@ mobaxterm</p>
     <title type="text">04-05-三更凋落</title>
     <id>https://weekly.nnxx.me/weekly/2025/04-05-%E4%B8%89%E6%9B%B4%E5%87%8B%E8%90%BD.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/04-05-%E4%B8%89%E6%9B%B4%E5%87%8B%E8%90%BD.html"/>
-    <updated>2026-01-25T12:52:56.186Z</updated>
+    <updated>2026-02-01T15:36:35.152Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -4136,7 +4269,7 @@ mobaxterm</p>
     <title type="text">03-29-夏浅话残</title>
     <id>https://weekly.nnxx.me/weekly/2025/03-29-%E5%A4%8F%E6%B5%85%E8%AF%9D%E6%AE%8B.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/03-29-%E5%A4%8F%E6%B5%85%E8%AF%9D%E6%AE%8B.html"/>
-    <updated>2026-01-25T12:52:56.190Z</updated>
+    <updated>2026-02-01T15:36:35.156Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -4266,7 +4399,7 @@ mobaxterm</p>
     <title type="text">03-22-染指年华</title>
     <id>https://weekly.nnxx.me/weekly/2025/03-22-%E6%9F%93%E6%8C%87%E5%B9%B4%E5%8D%8E.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/03-22-%E6%9F%93%E6%8C%87%E5%B9%B4%E5%8D%8E.html"/>
-    <updated>2026-01-25T12:52:56.193Z</updated>
+    <updated>2026-02-01T15:36:35.159Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -4388,7 +4521,7 @@ mobaxterm</p>
     <title type="text">03-15-倚楼听风</title>
     <id>https://weekly.nnxx.me/weekly/2025/03-15-%E5%80%9A%E6%A5%BC%E5%90%AC%E9%A3%8E.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/03-15-%E5%80%9A%E6%A5%BC%E5%90%AC%E9%A3%8E.html"/>
-    <updated>2026-01-25T12:52:56.196Z</updated>
+    <updated>2026-02-01T15:36:35.167Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -4530,7 +4663,7 @@ mobaxterm</p>
     <title type="text">03-08-静水流深</title>
     <id>https://weekly.nnxx.me/weekly/2025/03-08-%E9%9D%99%E6%B0%B4%E6%B5%81%E6%B7%B1.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/03-08-%E9%9D%99%E6%B0%B4%E6%B5%81%E6%B7%B1.html"/>
-    <updated>2026-01-25T12:52:56.205Z</updated>
+    <updated>2026-02-01T15:36:35.171Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -4694,7 +4827,7 @@ mobaxterm</p>
     <title type="text">03-01-染指浮华</title>
     <id>https://weekly.nnxx.me/weekly/2025/03-01-%E6%9F%93%E6%8C%87%E6%B5%AE%E5%8D%8E.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/03-01-%E6%9F%93%E6%8C%87%E6%B5%AE%E5%8D%8E.html"/>
-    <updated>2026-01-25T12:52:56.211Z</updated>
+    <updated>2026-02-01T15:36:35.175Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -4823,7 +4956,7 @@ mobaxterm</p>
     <title type="text">02-22-沧桑年倦</title>
     <id>https://weekly.nnxx.me/weekly/2025/02-22-%E6%B2%A7%E6%A1%91%E5%B9%B4%E5%80%A6.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/02-22-%E6%B2%A7%E6%A1%91%E5%B9%B4%E5%80%A6.html"/>
-    <updated>2026-01-25T12:52:56.217Z</updated>
+    <updated>2026-02-01T15:36:35.179Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -4904,7 +5037,7 @@ mobaxterm</p>
     <title type="text">02-15-烟波浩渺</title>
     <id>https://weekly.nnxx.me/weekly/2025/02-15-%E7%83%9F%E6%B3%A2%E6%B5%A9%E6%B8%BA.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/02-15-%E7%83%9F%E6%B3%A2%E6%B5%A9%E6%B8%BA.html"/>
-    <updated>2026-01-25T12:52:56.220Z</updated>
+    <updated>2026-02-01T15:36:35.185Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -5033,7 +5166,7 @@ mobaxterm</p>
     <title type="text">02-08-浅墨泼夏</title>
     <id>https://weekly.nnxx.me/weekly/2025/02-08-%E6%B5%85%E5%A2%A8%E6%B3%BC%E5%A4%8F.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/02-08-%E6%B5%85%E5%A2%A8%E6%B3%BC%E5%A4%8F.html"/>
-    <updated>2026-01-25T12:52:56.227Z</updated>
+    <updated>2026-02-01T15:36:35.188Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -5142,7 +5275,7 @@ mobaxterm</p>
     <title type="text">02-01-流荆默望</title>
     <id>https://weekly.nnxx.me/weekly/2025/02-01-%E6%B5%81%E8%8D%86%E9%BB%98%E6%9C%9B.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/02-01-%E6%B5%81%E8%8D%86%E9%BB%98%E6%9C%9B.html"/>
-    <updated>2026-01-25T12:52:56.230Z</updated>
+    <updated>2026-02-01T15:36:35.191Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -5221,7 +5354,7 @@ mobaxterm</p>
     <title type="text">01-25-此去经年</title>
     <id>https://weekly.nnxx.me/weekly/2025/01-25-%E6%AD%A4%E5%8E%BB%E7%BB%8F%E5%B9%B4.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/01-25-%E6%AD%A4%E5%8E%BB%E7%BB%8F%E5%B9%B4.html"/>
-    <updated>2026-01-25T12:52:56.232Z</updated>
+    <updated>2026-02-01T15:36:35.193Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -5311,7 +5444,7 @@ mobaxterm</p>
     <title type="text">01-18-无拘无束</title>
     <id>https://weekly.nnxx.me/weekly/2025/01-18-%E6%97%A0%E6%8B%98%E6%97%A0%E6%9D%9F.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/01-18-%E6%97%A0%E6%8B%98%E6%97%A0%E6%9D%9F.html"/>
-    <updated>2026-01-25T12:52:56.235Z</updated>
+    <updated>2026-02-01T15:36:35.195Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -5393,7 +5526,7 @@ mobaxterm</p>
     <title type="text">01-11-情愫未开</title>
     <id>https://weekly.nnxx.me/weekly/2025/01-11-%E6%83%85%E6%84%AB%E6%9C%AA%E5%BC%80.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/01-11-%E6%83%85%E6%84%AB%E6%9C%AA%E5%BC%80.html"/>
-    <updated>2026-01-25T12:52:56.237Z</updated>
+    <updated>2026-02-01T15:36:35.197Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -5442,7 +5575,7 @@ mobaxterm</p>
     <title type="text">01-04-不寒而栗</title>
     <id>https://weekly.nnxx.me/weekly/2025/01-04-%E4%B8%8D%E5%AF%92%E8%80%8C%E6%A0%97.html</id>
     <link href="https://weekly.nnxx.me/weekly/2025/01-04-%E4%B8%8D%E5%AF%92%E8%80%8C%E6%A0%97.html"/>
-    <updated>2026-01-25T12:52:56.238Z</updated>
+    <updated>2026-02-01T15:36:35.199Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -5511,7 +5644,7 @@ mobaxterm</p>
     <title type="text">12-28-清风明月</title>
     <id>https://weekly.nnxx.me/weekly/2024/12/12-28-%E6%B8%85%E9%A3%8E%E6%98%8E%E6%9C%88.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/12/12-28-%E6%B8%85%E9%A3%8E%E6%98%8E%E6%9C%88.html"/>
-    <updated>2026-01-25T12:52:56.240Z</updated>
+    <updated>2026-02-01T15:36:35.205Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://raw.githubusercontent.com/mYu4N/mytracer/refs/heads/main/Linux 数据包收发内核路径图--0919.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -5590,7 +5723,7 @@ mobaxterm</p>
     <title type="text">12-21-抽象愁绪</title>
     <id>https://weekly.nnxx.me/weekly/2024/12/12-21-%E6%8A%BD%E8%B1%A1%E6%84%81%E7%BB%AA.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/12/12-21-%E6%8A%BD%E8%B1%A1%E6%84%81%E7%BB%AA.html"/>
-    <updated>2026-01-25T12:52:56.246Z</updated>
+    <updated>2026-02-01T15:36:35.207Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -5672,7 +5805,7 @@ mobaxterm</p>
     <title type="text">12-14-一剪梅</title>
     <id>https://weekly.nnxx.me/weekly/2024/12/12-14-%E4%B8%80%E5%89%AA%E6%A2%85.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/12/12-14-%E4%B8%80%E5%89%AA%E6%A2%85.html"/>
-    <updated>2026-01-25T12:52:56.248Z</updated>
+    <updated>2026-02-01T15:36:35.209Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -5770,7 +5903,7 @@ mobaxterm</p>
     <title type="text">11-16-全干开发</title>
     <id>https://weekly.nnxx.me/weekly/2024/11/11-16-%E5%85%A8%E5%B9%B2%E5%BC%80%E5%8F%91.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/11/11-16-%E5%85%A8%E5%B9%B2%E5%BC%80%E5%8F%91.html"/>
-    <updated>2026-01-25T12:52:56.251Z</updated>
+    <updated>2026-02-01T15:36:35.211Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -5873,7 +6006,7 @@ mobaxterm</p>
     <title type="text">11-09-前端导游</title>
     <id>https://weekly.nnxx.me/weekly/2024/11/11-09-%E5%89%8D%E7%AB%AF%E5%AF%BC%E6%B8%B8.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/11/11-09-%E5%89%8D%E7%AB%AF%E5%AF%BC%E6%B8%B8.html"/>
-    <updated>2026-01-25T12:52:56.253Z</updated>
+    <updated>2026-02-01T15:36:35.213Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/06fec41a7d2808196218b-a1ec39b9d1ee4f4098.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -5958,7 +6091,7 @@ mobaxterm</p>
     <title type="text">11-02-清风吹空月舒波</title>
     <id>https://weekly.nnxx.me/weekly/2024/11/11-02-%E6%B8%85%E9%A3%8E%E5%90%B9%E7%A9%BA%E6%9C%88%E6%B3%A2.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/11/11-02-%E6%B8%85%E9%A3%8E%E5%90%B9%E7%A9%BA%E6%9C%88%E6%B3%A2.html"/>
-    <updated>2026-01-25T12:52:56.256Z</updated>
+    <updated>2026-02-01T15:36:35.216Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/06fec41a7d2808196218b-a1ec39b9d1ee4f4098.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -6053,7 +6186,7 @@ mobaxterm</p>
     <title type="text">10-27-专署同源</title>
     <id>https://weekly.nnxx.me/weekly/2024/10/10-27-%E4%B8%93%E7%BD%B2%E5%90%8C%E6%BA%90.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/10/10-27-%E4%B8%93%E7%BD%B2%E5%90%8C%E6%BA%90.html"/>
-    <updated>2026-01-25T12:52:56.258Z</updated>
+    <updated>2026-02-01T15:36:35.217Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/06fec41a7d2808196218b-a1ec39b9d1ee4f4098.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -6225,7 +6358,7 @@ mobaxterm</p>
     <title type="text">10-20-千虑一得</title>
     <id>https://weekly.nnxx.me/weekly/2024/10/10-20-%E5%8D%83%E8%99%91%E4%B8%80%E5%BE%97.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/10/10-20-%E5%8D%83%E8%99%91%E4%B8%80%E5%BE%97.html"/>
-    <updated>2026-01-25T12:52:56.262Z</updated>
+    <updated>2026-02-01T15:36:35.228Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/06fec41a7d2808196218b-a1ec39b9d1ee4f4098.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -6337,7 +6470,7 @@ mobaxterm</p>
     <title type="text">10-13-梦幻泡影</title>
     <id>https://weekly.nnxx.me/weekly/2024/10/10-13-%E6%A2%A6%E5%B9%BB%E6%B3%A1%E5%BD%B1.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/10/10-13-%E6%A2%A6%E5%B9%BB%E6%B3%A1%E5%BD%B1.html"/>
-    <updated>2026-01-25T12:52:56.269Z</updated>
+    <updated>2026-02-01T15:36:35.230Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://api.paugram.com/bing" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -6479,7 +6612,7 @@ mobaxterm</p>
     <title type="text">10-06-冬日可爱</title>
     <id>https://weekly.nnxx.me/weekly/2024/10/10-06-%E5%86%AC%E6%97%A5%E5%8F%AF%E7%88%B1.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/10/10-06-%E5%86%AC%E6%97%A5%E5%8F%AF%E7%88%B1.html"/>
-    <updated>2026-01-25T12:52:56.273Z</updated>
+    <updated>2026-02-01T15:36:35.234Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/06fec41a7d2808196218b-a1ec39b9d1ee4f4098.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -6625,7 +6758,7 @@ Vimium</p>
     <title type="text">09-29-此中三昧</title>
     <id>https://weekly.nnxx.me/weekly/2024/09/09-29-%E6%AD%A4%E4%B8%AD%E4%B8%89%E6%98%A7.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/09/09-29-%E6%AD%A4%E4%B8%AD%E4%B8%89%E6%98%A7.html"/>
-    <updated>2026-01-25T12:52:56.276Z</updated>
+    <updated>2026-02-01T15:36:35.237Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/06fec41a7d2808196218b-a1ec39b9d1ee4f4098.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -6771,7 +6904,7 @@ Vimium</p>
     <title type="text">09-22-风雨过后</title>
     <id>https://weekly.nnxx.me/weekly/2024/09/09-22-%E9%A3%8E%E9%9B%A8%E8%BF%87%E5%90%8E.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/09/09-22-%E9%A3%8E%E9%9B%A8%E8%BF%87%E5%90%8E.html"/>
-    <updated>2026-01-25T12:52:56.280Z</updated>
+    <updated>2026-02-01T15:36:35.246Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/06fec41a7d2808196218b-a1ec39b9d1ee4f4098.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -6843,7 +6976,7 @@ Vimium</p>
     <title type="text">08-31-流式输出</title>
     <id>https://weekly.nnxx.me/weekly/2024/08/08-31-%E6%B5%81%E5%BC%8F%E8%BE%93%E5%87%BA.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/08/08-31-%E6%B5%81%E5%BC%8F%E8%BE%93%E5%87%BA.html"/>
-    <updated>2026-01-25T12:52:56.287Z</updated>
+    <updated>2026-02-01T15:36:35.248Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -6920,7 +7053,7 @@ Vimium</p>
     <title type="text">06-23-随缘油图</title>
     <id>https://weekly.nnxx.me/weekly/2024/06/06-23-%E9%9A%8F%E7%BC%98%E6%B2%B9%E5%9B%BE.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/06/06-23-%E9%9A%8F%E7%BC%98%E6%B2%B9%E5%9B%BE.html"/>
-    <updated>2026-01-25T12:52:56.289Z</updated>
+    <updated>2026-02-01T15:36:35.250Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -6979,7 +7112,7 @@ Vimium</p>
     <title type="text">06-23-随缘油图</title>
     <id>https://weekly.nnxx.me/weekly/2024/06/06-29-%E5%B7%A5%E6%94%B6%E7%94%A8%E5%B0%BD.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/06/06-29-%E5%B7%A5%E6%94%B6%E7%94%A8%E5%B0%BD.html"/>
-    <updated>2026-01-25T12:52:56.290Z</updated>
+    <updated>2026-02-01T15:36:35.251Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -7289,7 +7422,7 @@ Vimium</p>
     <title type="text">06-13-渊渟夏觞</title>
     <id>https://weekly.nnxx.me/weekly/2024/06/06-13-%E6%B8%8A%E6%B8%9F%E5%A4%8F%E8%A7%9E.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/06/06-13-%E6%B8%8A%E6%B8%9F%E5%A4%8F%E8%A7%9E.html"/>
-    <updated>2026-01-25T12:52:56.298Z</updated>
+    <updated>2026-02-01T15:36:35.263Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -7330,7 +7463,7 @@ Vimium</p>
     <title type="text">06-06-浅墨泼夏</title>
     <id>https://weekly.nnxx.me/weekly/2024/06/06-06-%E6%B5%85%E5%A2%A8%E6%B3%BC%E5%A4%8F.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/06/06-06-%E6%B5%85%E5%A2%A8%E6%B3%BC%E5%A4%8F.html"/>
-    <updated>2026-01-25T12:52:56.299Z</updated>
+    <updated>2026-02-01T15:36:35.264Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -7404,7 +7537,7 @@ Vimium</p>
     <title type="text">找工作信息源</title>
     <id>https://weekly.nnxx.me/weekly/work/%E6%89%BE%E5%B7%A5%E4%BD%9C%E4%BF%A1%E6%81%AF%E6%BA%90.html</id>
     <link href="https://weekly.nnxx.me/weekly/work/%E6%89%BE%E5%B7%A5%E4%BD%9C%E4%BF%A1%E6%81%AF%E6%BA%90.html"/>
-    <updated>2026-01-25T12:52:56.306Z</updated>
+    <updated>2026-02-01T15:36:35.266Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -7434,7 +7567,7 @@ Vimium</p>
     <title type="text">05-31-随心编程</title>
     <id>https://weekly.nnxx.me/weekly/2024/05/05-31-%E9%9A%8F%E5%BF%83%E7%BC%96%E7%A8%8B.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/05/05-31-%E9%9A%8F%E5%BF%83%E7%BC%96%E7%A8%8B.html"/>
-    <updated>2026-01-25T12:52:56.306Z</updated>
+    <updated>2026-02-01T15:36:35.267Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -7529,7 +7662,7 @@ Vimium</p>
     <title type="text">05-23-随心资料</title>
     <id>https://weekly.nnxx.me/weekly/2024/05/05-23-%E9%9A%8F%E5%BF%83%E8%B5%84%E6%96%99.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/05/05-23-%E9%9A%8F%E5%BF%83%E8%B5%84%E6%96%99.html"/>
-    <updated>2026-01-25T12:52:56.309Z</updated>
+    <updated>2026-02-01T15:36:35.269Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -7687,7 +7820,7 @@ Vimium</p>
     <title type="text">05-16-古诗词艾</title>
     <id>https://weekly.nnxx.me/weekly/2024/05/05-16-%E5%8F%A4%E8%AF%97%E8%AF%8D%E8%89%BE.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/05/05-16-%E5%8F%A4%E8%AF%97%E8%AF%8D%E8%89%BE.html"/>
-    <updated>2026-01-25T12:52:56.313Z</updated>
+    <updated>2026-02-01T15:36:35.273Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -7751,7 +7884,7 @@ Vimium</p>
     <title type="text">05-09-浅尝辄止</title>
     <id>https://weekly.nnxx.me/weekly/2024/05/05-09-%E6%B5%85%E5%B0%9D%E8%BE%84%E6%AD%A2.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/05/05-09-%E6%B5%85%E5%B0%9D%E8%BE%84%E6%AD%A2.html"/>
-    <updated>2026-01-25T12:52:56.314Z</updated>
+    <updated>2026-02-01T15:36:35.275Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -7905,7 +8038,7 @@ Vimium</p>
     <title type="text">04-25-AI导航</title>
     <id>https://weekly.nnxx.me/weekly/2024/04/04-25-AI%E5%AF%BC%E8%88%AA.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/04/04-25-AI%E5%AF%BC%E8%88%AA.html"/>
-    <updated>2026-01-25T12:52:56.318Z</updated>
+    <updated>2026-02-01T15:36:35.278Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -7999,7 +8132,7 @@ Vimium</p>
     <title type="text">04-19-AI学习</title>
     <id>https://weekly.nnxx.me/weekly/2024/04/04-19-AI%E5%AD%A6%E4%B9%A0.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/04/04-19-AI%E5%AD%A6%E4%B9%A0.html"/>
-    <updated>2026-01-25T12:52:56.320Z</updated>
+    <updated>2026-02-01T15:36:35.285Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -8141,7 +8274,7 @@ Vimium</p>
     <title type="text">04-13-Earn-extra-income</title>
     <id>https://weekly.nnxx.me/weekly/2024/04/04-13-Earn-extra-income.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/04/04-13-Earn-extra-income.html"/>
-    <updated>2026-01-25T12:52:56.331Z</updated>
+    <updated>2026-02-01T15:36:35.291Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -8220,7 +8353,7 @@ Vimium</p>
     <title type="text">04-05-read-info</title>
     <id>https://weekly.nnxx.me/weekly/2024/04/04-05-read-info.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/04/04-05-read-info.html"/>
-    <updated>2026-01-25T12:52:56.333Z</updated>
+    <updated>2026-02-01T15:36:35.293Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -8342,7 +8475,7 @@ Vimium</p>
     <title type="text">03-25-随意编程</title>
     <id>https://weekly.nnxx.me/weekly/2024/03/03-25-%E9%9A%8F%E6%84%8F%E7%BC%96%E7%A8%8B.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/03/03-25-%E9%9A%8F%E6%84%8F%E7%BC%96%E7%A8%8B.html"/>
-    <updated>2026-01-25T12:52:56.336Z</updated>
+    <updated>2026-02-01T15:36:35.296Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -8398,7 +8531,7 @@ Vimium</p>
     <title type="text">03-16-PC-NOTE</title>
     <id>https://weekly.nnxx.me/weekly/2024/03/03-16-PC-NOTE.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/03/03-16-PC-NOTE.html"/>
-    <updated>2026-01-25T12:52:56.337Z</updated>
+    <updated>2026-02-01T15:36:35.302Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -8564,7 +8697,7 @@ Vimium</p>
     <title type="text">03-09-MAC-SOFT</title>
     <id>https://weekly.nnxx.me/weekly/2024/03/03-09-MAC-SOFT.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/03/03-09-MAC-SOFT.html"/>
-    <updated>2026-01-25T12:52:56.346Z</updated>
+    <updated>2026-02-01T15:36:35.306Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -8617,7 +8750,7 @@ screenstudio</p>
     <title type="text">03-02-PC-SOFT</title>
     <id>https://weekly.nnxx.me/weekly/2024/03/03-02-PC-SOFT.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/03/03-02-PC-SOFT.html"/>
-    <updated>2026-01-25T12:52:56.348Z</updated>
+    <updated>2026-02-01T15:36:35.307Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -8888,7 +9021,7 @@ screenstudio</p>
     <title type="text">02-24-interest</title>
     <id>https://weekly.nnxx.me/weekly/2024/02/02-24-interest.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/02/02-24-interest.html"/>
-    <updated>2026-01-25T12:52:56.354Z</updated>
+    <updated>2026-02-01T15:36:35.314Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -9006,7 +9139,7 @@ Redis服务</p>
     <title type="text">02-17-use-tool</title>
     <id>https://weekly.nnxx.me/weekly/2024/02/02-17-use-tool.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/02/02-17-use-tool.html"/>
-    <updated>2026-01-25T12:52:56.357Z</updated>
+    <updated>2026-02-01T15:36:35.321Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -9185,7 +9318,7 @@ Redis服务</p>
     <title type="text">02-10-有趣玩意</title>
     <id>https://weekly.nnxx.me/weekly/2024/02/02-10-%E6%9C%89%E8%B6%A3%E7%8E%A9%E6%84%8F.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/02/02-10-%E6%9C%89%E8%B6%A3%E7%8E%A9%E6%84%8F.html"/>
-    <updated>2026-01-25T12:52:56.365Z</updated>
+    <updated>2026-02-01T15:36:35.325Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -9261,7 +9394,7 @@ Redis服务</p>
     <title type="text">02-03-捣鼓捣鼓</title>
     <id>https://weekly.nnxx.me/weekly/2024/02/02-03-%E6%8D%A3%E9%BC%93%E6%8D%A3%E9%BC%93.html</id>
     <link href="https://weekly.nnxx.me/weekly/2024/02/02-03-%E6%8D%A3%E9%BC%93%E6%8D%A3%E9%BC%93.html"/>
-    <updated>2026-01-25T12:52:56.368Z</updated>
+    <updated>2026-02-01T15:36:35.328Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -9313,7 +9446,7 @@ Redis服务</p>
     <title type="text">12-03-绝有一览</title>
     <id>https://weekly.nnxx.me/weekly/2023/12-03-%E7%BB%9D%E6%9C%89%E4%B8%80%E8%A7%88.html</id>
     <link href="https://weekly.nnxx.me/weekly/2023/12-03-%E7%BB%9D%E6%9C%89%E4%B8%80%E8%A7%88.html"/>
-    <updated>2026-01-25T12:52:56.371Z</updated>
+    <updated>2026-02-01T15:36:35.331Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/5a500390f31add8c94c98.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -9436,7 +9569,7 @@ Redis服务</p>
     <title type="text">11-25-月挽星回</title>
     <id>https://weekly.nnxx.me/weekly/2023/11-25-%E6%9C%88%E6%8C%BD%E6%98%9F%E5%9B%9E.html</id>
     <link href="https://weekly.nnxx.me/weekly/2023/11-25-%E6%9C%88%E6%8C%BD%E6%98%9F%E5%9B%9E.html"/>
-    <updated>2026-01-25T12:52:56.374Z</updated>
+    <updated>2026-02-01T15:36:35.336Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/3f40b5e181b54cf7ee5b3.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -9530,7 +9663,7 @@ Redis服务</p>
     <title type="text">11-18-干货满满</title>
     <id>https://weekly.nnxx.me/weekly/2023/11-18-%E5%B9%B2%E8%B4%A7%E6%BB%A1%E6%BB%A1.html</id>
     <link href="https://weekly.nnxx.me/weekly/2023/11-18-%E5%B9%B2%E8%B4%A7%E6%BB%A1%E6%BB%A1.html"/>
-    <updated>2026-01-25T12:52:56.376Z</updated>
+    <updated>2026-02-01T15:36:35.346Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/495fbb53dee6f3770f14a.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -9634,7 +9767,7 @@ Redis服务</p>
     <title type="text">11-11-浅尝辄止</title>
     <id>https://weekly.nnxx.me/weekly/2023/11-11-%E6%B5%85%E5%B0%9D%E8%BE%84%E6%AD%A2.html</id>
     <link href="https://weekly.nnxx.me/weekly/2023/11-11-%E6%B5%85%E5%B0%9D%E8%BE%84%E6%AD%A2.html"/>
-    <updated>2026-01-25T12:52:56.383Z</updated>
+    <updated>2026-02-01T15:36:35.348Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/691b21c45ea675a58a884.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -9843,7 +9976,7 @@ Redis服务</p>
     <title type="text">11-04-血色空间</title>
     <id>https://weekly.nnxx.me/weekly/2023/11-04-%E8%A1%80%E8%89%B2%E7%A9%BA%E9%97%B4.html</id>
     <link href="https://weekly.nnxx.me/weekly/2023/11-04-%E8%A1%80%E8%89%B2%E7%A9%BA%E9%97%B4.html"/>
-    <updated>2026-01-25T12:52:56.386Z</updated>
+    <updated>2026-02-01T15:36:35.352Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/17f4aafba09d24c20b5a9.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -9984,7 +10117,7 @@ Redis服务</p>
     <title type="text">10-28-可有可无</title>
     <id>https://weekly.nnxx.me/weekly/2023/10-28-%E5%8F%AF%E6%9C%89%E5%8F%AF%E6%97%A0.html</id>
     <link href="https://weekly.nnxx.me/weekly/2023/10-28-%E5%8F%AF%E6%9C%89%E5%8F%AF%E6%97%A0.html"/>
-    <updated>2026-01-25T12:52:56.389Z</updated>
+    <updated>2026-02-01T15:36:35.355Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/f13a3e385bb3bc50008f7.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -10118,7 +10251,7 @@ Redis服务</p>
     <title type="text">10-21-趋之若鹜</title>
     <id>https://weekly.nnxx.me/weekly/2023/10-21-%E8%B6%8B%E4%B9%8B%E8%8B%A5%E9%B9%9C.html</id>
     <link href="https://weekly.nnxx.me/weekly/2023/10-21-%E8%B6%8B%E4%B9%8B%E8%8B%A5%E9%B9%9C.html"/>
-    <updated>2026-01-25T12:52:56.392Z</updated>
+    <updated>2026-02-01T15:36:35.358Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/c990791047530ea7f114b.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -10220,7 +10353,7 @@ Redis服务</p>
     <title type="text">10-14-如期所取</title>
     <id>https://weekly.nnxx.me/weekly/2023/10-14-%E5%A6%82%E6%9C%9F%E6%89%80%E5%8F%96.html</id>
     <link href="https://weekly.nnxx.me/weekly/2023/10-14-%E5%A6%82%E6%9C%9F%E6%89%80%E5%8F%96.html"/>
-    <updated>2026-01-25T12:52:56.395Z</updated>
+    <updated>2026-02-01T15:36:35.365Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/6eb0a460ba9cb84d00641.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -10346,7 +10479,7 @@ Redis服务</p>
     <title type="text">10-07-久宽遇逢</title>
     <id>https://weekly.nnxx.me/weekly/2023/10-07-%E4%B9%85%E5%AE%BD%E9%81%87%E9%80%A2.html</id>
     <link href="https://weekly.nnxx.me/weekly/2023/10-07-%E4%B9%85%E5%AE%BD%E9%81%87%E9%80%A2.html"/>
-    <updated>2026-01-25T12:52:56.402Z</updated>
+    <updated>2026-02-01T15:36:35.368Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://api.hanximeng.com/bing/" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -10476,7 +10609,7 @@ Redis服务</p>
     <title type="text">09-30-清微淡远</title>
     <id>https://weekly.nnxx.me/weekly/2023/09-30-%E6%B8%85%E5%BE%AE%E6%B7%A1%E8%BF%9C.html</id>
     <link href="https://weekly.nnxx.me/weekly/2023/09-30-%E6%B8%85%E5%BE%AE%E6%B7%A1%E8%BF%9C.html"/>
-    <updated>2026-01-25T12:52:56.405Z</updated>
+    <updated>2026-02-01T15:36:35.371Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://img.nnxx.me/file/fc8464f48ce5084032a1c.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -10691,7 +10824,7 @@ Netdata可以提供有关服务器的磁盘I/O、CPU使用率、RAM使用率和�
     <title type="text">09-23-择善而行</title>
     <id>https://weekly.nnxx.me/weekly/2023/09-23-%E6%8B%A9%E5%96%84%E8%80%8C%E8%A1%8C.html</id>
     <link href="https://weekly.nnxx.me/weekly/2023/09-23-%E6%8B%A9%E5%96%84%E8%80%8C%E8%A1%8C.html"/>
-    <updated>2026-01-25T12:52:56.410Z</updated>
+    <updated>2026-02-01T15:36:35.376Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://api.hanximeng.com/bing/" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -10866,7 +10999,7 @@ Netdata可以提供有关服务器的磁盘I/O、CPU使用率、RAM使用率和�
     <title type="text">09-17-千变万化</title>
     <id>https://weekly.nnxx.me/weekly/2023/09-17-%E5%8D%83%E5%8F%98%E4%B8%87%E5%8C%96.html</id>
     <link href="https://weekly.nnxx.me/weekly/2023/09-17-%E5%8D%83%E5%8F%98%E4%B8%87%E5%8C%96.html"/>
-    <updated>2026-01-25T12:52:56.414Z</updated>
+    <updated>2026-02-01T15:36:35.384Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/wdvnf9.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -11164,7 +11297,7 @@ Netdata可以提供有关服务器的磁盘I/O、CPU使用率、RAM使用率和�
     <title type="text">09-10-秋风落叶</title>
     <id>https://weekly.nnxx.me/weekly/2023/09-10-%E7%A7%8B%E9%A3%8E%E8%90%BD%E5%8F%B6.html</id>
     <link href="https://weekly.nnxx.me/weekly/2023/09-10-%E7%A7%8B%E9%A3%8E%E8%90%BD%E5%8F%B6.html"/>
-    <updated>2026-01-25T12:52:56.424Z</updated>
+    <updated>2026-02-01T15:36:35.390Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>分享、实用、有趣、共勉</p>
 </blockquote>
@@ -11320,7 +11453,7 @@ Netdata可以提供有关服务器的磁盘I/O、CPU使用率、RAM使用率和�
     <title type="text">09-02-心驰神往</title>
     <id>https://weekly.nnxx.me/weekly/2023/09-02-%E5%BF%83%E9%A9%B0%E7%A5%9E%E5%BE%80.html</id>
     <link href="https://weekly.nnxx.me/weekly/2023/09-02-%E5%BF%83%E9%A9%B0%E7%A5%9E%E5%BE%80.html"/>
-    <updated>2026-01-25T12:52:56.427Z</updated>
+    <updated>2026-02-01T15:36:35.393Z</updated>
     <summary type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/wdvhm6.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>分享、实用、有趣、共勉</p>
@@ -11438,244 +11571,5 @@ Android IOS &amp; OSx</p>
 ]]></content>
     <category term="周报"/>
     <published>2023-09-02T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">08-26-空谷幽兰</title>
-    <id>https://weekly.nnxx.me/weekly/2023/08-26-%E7%A9%BA%E8%B0%B7%E5%B9%BD%E5%85%B0.html</id>
-    <link href="https://weekly.nnxx.me/weekly/2023/08-26-%E7%A9%BA%E8%B0%B7%E5%B9%BD%E5%85%B0.html"/>
-    <updated>2026-01-25T12:52:56.430Z</updated>
-    <summary type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/wdvhbf.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<blockquote>
-<p>分享、实用、有趣、共勉</p>
-</blockquote>
-<h2>资源推荐</h2>
-<p>优质信息或聚合</p>
-<blockquote>
-<p>在线地址：<a href="https://buerc.notion.site/1c9e865c15744f2ab88d9d3a382b2170" target="_blank" rel="noopener noreferrer">https://buerc.notion.site/1c9e865c15744f2ab88d9d3a382b2170</a></p>
-</blockquote>]]></summary>
-    <content type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/wdvhbf.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<blockquote>
-<p>分享、实用、有趣、共勉</p>
-</blockquote>
-<h2>资源推荐</h2>
-<p>优质信息或聚合</p>
-<blockquote>
-<p>在线地址：<a href="https://buerc.notion.site/1c9e865c15744f2ab88d9d3a382b2170" target="_blank" rel="noopener noreferrer">https://buerc.notion.site/1c9e865c15744f2ab88d9d3a382b2170</a></p>
-</blockquote>
-<p>RSSHub-订阅工具</p>
-<blockquote>
-<p>在线地址：<a href="https://docs.rsshub.app" target="_blank" rel="noopener noreferrer">https://docs.rsshub.app</a></p>
-<p>RSS阅读器</p>
-<p>在线地址：<a href="https://www.inoreader.com/" target="_blank" rel="noopener noreferrer">https://www.inoreader.com/</a></p>
-<p>付费产品，但免费额度足够使用了</p>
-</blockquote>
-<p>微博博主</p>
-<blockquote>
-<p>在线地址：<a href="https://www.weibo.com/u/2166767661" target="_blank" rel="noopener noreferrer">https://www.weibo.com/u/2166767661</a></p>
-<p>有思维方式与认知、公开写作、关于做笔记、读书分享等</p>
-</blockquote>
-<p>各知名科技公司技术博客合集</p>
-<blockquote>
-<p>在线地址：<a href="https://www.luxiangdong.com/2023/07/20/techblog/" target="_blank" rel="noopener noreferrer">https://www.luxiangdong.com/2023/07/20/techblog/</a></p>
-<p>Meta、Google、AWS、Quora、Spotify、Instagram 等等</p>
-</blockquote>
-<h2>工具</h2>
-<p>电子书下载：</p>
-<blockquote>
-<p>在线地址：<a href="https://scz.617.cn/misc/202307102046.txt" target="_blank" rel="noopener noreferrer">https://scz.617.cn/misc/202307102046.txt</a></p>
-<p>电子书下载站Z-Library使用</p>
-</blockquote>
-<p>PDF提取器 – extractpdf</p>
-<blockquote>
-<p>在线地址：<a href="https://www.extractpdf.com/zh.html" target="_blank" rel="noopener noreferrer">https://www.extractpdf.com/zh.html</a></p>
-<p>把图片、文字、字体分门别类提取好，经常使用 PDF 转 word 的非常适用</p>
-</blockquote>
-<p>一个超级高效的 PDF 文件万能处理工具</p>
-<blockquote>
-<p>在线地址：<a href="http://smallpdf.com" target="_blank" rel="noopener noreferrer">http://smallpdf.com</a></p>
-</blockquote>
-<p>instaSpeak</p>
-<blockquote>
-<p>在线地址：<a href="https://app.insta-speak.com/" target="_blank" rel="noopener noreferrer">https://app.insta-speak.com/</a></p>
-<p>在线免费AI英语雅思口语分析机器人，是一个基于人工智能的音频分析工具，为用户提供全面、准确的音频数据报告，帮助用户提高英语口语水平。而且使用简单，直接根据屏幕给出的提示主题，使用英文讲述一分钟，期间会进行录音，点击结束后，AI口语机器人将对录音进行分析，提供WPM、词汇量、停顿时间等等结果分析，并且还会给出建议，而且还是免费的。</p>
-</blockquote>
-<h2>AI</h2>
-<p>Midjourney-AI工具</p>
-<blockquote>
-<p>在线地址：<a href="https://learningprompt.wiki/zh-Hans/docs/midjourney-learning-path" target="_blank" rel="noopener noreferrer">https://learningprompt.wiki/zh-Hans/docs/midjourney-learning-path</a></p>
-<p>包括完整的从注册到使用流程
-常用参数和技巧一网打尽
-进阶的高级参数操作</p>
-</blockquote>
-<p>提示词</p>
-<blockquote>
-<p>在线地址：<a href="https://www.prompthunt.com/" target="_blank" rel="noopener noreferrer">https://www.prompthunt.com/</a></p>
-<p>在线地址：<a href="https://www.krea.ai/" target="_blank" rel="noopener noreferrer">https://www.krea.ai/</a></p>
-<p>最欢迎的 AI 绘画提示词网站，内容包括Midjourney、Stable Diffusion、DALL-E关键词</p>
-</blockquote>
-<p>CodeGPT</p>
-<blockquote>
-<p>在线地址：<a href="https://docs.codegpt.co/" target="_blank" rel="noopener noreferrer">https://docs.codegpt.co/</a></p>
-<p>CodeGPT是一个VSCode的插件，可以实现类似于GitHub Copilot的功能，能生成代码、聊天、重构、写测试代码等，并且它可以支持多种不同的LLM，例如OpenAI、Judini、Cohere、AI21、Anthropic 或 GPT4All。 现在它已经支持了Meta最新的CodeLlama。</p>
-</blockquote>
-<p>本地字幕</p>
-<blockquote>
-<p>在线地址：<a href="https://memo.ac/releases.html" target="_blank" rel="noopener noreferrer">https://memo.ac/releases.html</a></p>
-<p>Memo AI 现已支持导入字幕翻译以及双语导出。目前支持有微软、谷歌、Open AI、火山、DeepL 等翻译平台。轻松应对学习外语、做外语字幕，看外语文稿场景。Memo AI 本身就支持九十多种语言本地语音转文字。</p>
-</blockquote>
-<p>AI行业报告</p>
-<blockquote>
-<p>在线地址：<a href="https://waytoagi.feishu.cn/wiki/WvhZwk16WiEnSvk8AcpcdZetnMe?table=tblBU3JnSWPnQSud&amp;view=vewGyCP4R0" target="_blank" rel="noopener noreferrer">https://waytoagi.feishu.cn/wiki/WvhZwk16WiEnSvk8AcpcdZetnMe?table=tblBU3JnSWPnQSud&amp;view=vewGyCP4R0</a></p>
-<p>拾象报告系列、陆奇的报告和甲子光年的报告</p>
-</blockquote>
-<h2>前端</h2>
-<p>有趣的动画库</p>
-<blockquote>
-<p>在线地址：<a href="https://auto-animate.formkit.com/" target="_blank" rel="noopener noreferrer">https://auto-animate.formkit.com/</a></p>
-<p>AutoAnimate 可以帮你自动在整个应用添加合适的动画</p>
-</blockquote>
-<h2>扩展</h2>
-<p>万物皆可识别和“一键抠图”</p>
-<blockquote>
-<p>项目地址：<a href="https://github.com/facebookresearch/segment-anything" target="_blank" rel="noopener noreferrer">https://github.com/facebookresearch/segment-anything</a></p>
-<p>免费 Github 37k星 Meta AI开发 根据文本指令等方式实现图像分割 上传图片点击物体即可识别</p>
-</blockquote>
-<p>qwerty-learner</p>
-<blockquote>
-<p>在线地址：<a href="https://qwerty.kaiyi.cool/" target="_blank" rel="noopener noreferrer">https://qwerty.kaiyi.cool/</a></p>
-<p>一个为键盘工作者设计的单词与肌肉记忆锻炼软件 很多人打中文速度很快，但输入英语很慢而且容易出现错字，这是因为英语输入的肌肉记忆相对弱。 qwerty 将打字练习和英语背诵结合在一起，可以在背诵单词的同时巩固肌肉记忆</p>
-</blockquote>
-<h2>工具推荐</h2>
-<p>utool</p>
-<p><a href="https://www.u-tools.cn/download/" target="_blank" rel="noopener noreferrer">https://www.u-tools.cn/download/</a></p>
-<blockquote>
-<p>uTools 是一种高效工作方式，AI 加持的超级助手，一个入口，无限能力</p>
-</blockquote>
-<p>有道翻译</p>
-<blockquote>
-<p>可以快捷翻译</p>
-</blockquote>
-]]></content>
-    <category term="周报"/>
-    <published>2023-08-26T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">08-19-一叶知秋</title>
-    <id>https://weekly.nnxx.me/weekly/2023/08-19-%E4%B8%80%E5%8F%B6%E7%9F%A5%E7%A7%8B.html</id>
-    <link href="https://weekly.nnxx.me/weekly/2023/08-19-%E4%B8%80%E5%8F%B6%E7%9F%A5%E7%A7%8B.html"/>
-    <updated>2026-01-25T12:52:56.432Z</updated>
-    <summary type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/x3dazk.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<blockquote>
-<p>分享、实用、有趣、共勉</p>
-</blockquote>
-<h2>周刊</h2>
-<p>周刊博客：</p>
-<blockquote>
-<p><a href="http://www.ruanyifeng.com/blog/" target="_blank" rel="noopener noreferrer">阮一峰的网络日志 (ruanyifeng.com)</a></p>
-<p><a href="https://weekly.tw93.fun/" target="_blank" rel="noopener noreferrer">潮流周刊 (tw93.fun)</a></p>
-<p><a href="https://www.yuque.com/chencheng/mdh-weekly" target="_blank" rel="noopener noreferrer">MDH 前端周刊 (yuque.com)</a></p>
-<p><a href="https://hellogithub.com/" target="_blank" rel="noopener noreferrer">HelloGitHub</a></p>
-<p><a href="https://github.com/versun/54321-Weekly" target="_blank" rel="noopener noreferrer">54321-Weekly</a></p>
-<p><a href="https://x.yct.ee/tag/Weekly" target="_blank" rel="noopener noreferrer">Weekly</a></p>
-</blockquote>]]></summary>
-    <content type="html"><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/x3dazk.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<blockquote>
-<p>分享、实用、有趣、共勉</p>
-</blockquote>
-<h2>周刊</h2>
-<p>周刊博客：</p>
-<blockquote>
-<p><a href="http://www.ruanyifeng.com/blog/" target="_blank" rel="noopener noreferrer">阮一峰的网络日志 (ruanyifeng.com)</a></p>
-<p><a href="https://weekly.tw93.fun/" target="_blank" rel="noopener noreferrer">潮流周刊 (tw93.fun)</a></p>
-<p><a href="https://www.yuque.com/chencheng/mdh-weekly" target="_blank" rel="noopener noreferrer">MDH 前端周刊 (yuque.com)</a></p>
-<p><a href="https://hellogithub.com/" target="_blank" rel="noopener noreferrer">HelloGitHub</a></p>
-<p><a href="https://github.com/versun/54321-Weekly" target="_blank" rel="noopener noreferrer">54321-Weekly</a></p>
-<p><a href="https://x.yct.ee/tag/Weekly" target="_blank" rel="noopener noreferrer">Weekly</a></p>
-</blockquote>
-<h2>工具</h2>
-<blockquote>
-<p>分享比较实用的工具，便于提高工作效率</p>
-</blockquote>
-<h3>一款跨平台的划词翻译软件</h3>
-<blockquote>
-<p>文档：<a href="https://pot-app.com/docs/tutorial/intro" target="_blank" rel="noopener noreferrer">https://pot-app.com/docs/tutorial/intro</a></p>
-<p>项目地址：<a href="https://github.com/pot-app/pot-desktop" target="_blank" rel="noopener noreferrer">https://github.com/pot-app/pot-desktop</a></p>
-<p>支持划词翻译、输入翻译、截图翻译等多种模式的翻译工具，适用于 Windows、macOS 和 Linux。</p>
-</blockquote>
-<h3>浏览器插件--沉浸式翻译</h3>
-<blockquote>
-<p>在线地址：[<a href="https://immersivetranslate.com/" target="_blank" rel="noopener noreferrer">沉浸式翻译 - 双语网页翻译扩展, 电子书翻译, PDF翻译, 字幕翻译 (immersivetranslate.com)</a>]</p>
-<p>一键开启双语阅读，提升信息获取效率</p>
-<p>沉浸式翻译是一款浏览器插件，可以智能识别网页主内容区进行双语翻译，插件支持全平台浏览器，PDF文件翻译，EPUB电子书双语翻译、制作、导出，字幕文件翻译等功能。</p>
-</blockquote>
-<h3>快速搜索本地文件</h3>
-<blockquote>
-<p>在线地址：<a href="https://www.voidtools.com/" target="_blank" rel="noopener noreferrer">https://www.voidtools.com/</a></p>
-<p>windows 平台的一款本地文件搜索引擎，具有轻量，快速，干净的特点 支持中文，让你快速检索本地文件</p>
-</blockquote>
-<h2>文档</h2>
-<p>飞书文档</p>
-<blockquote>
-<p>在线地址：[<a href="https://ocxfa4l2ug.feishu.cn/drive/me/" target="_blank" rel="noopener noreferrer">我的空间 - 飞书云文档 (feishu.cn)</a>]</p>
-<p>飞书文档是新一代高效协作工具，在线文档支持一键插入表格、图片、视频、文件，投票、代码块、任务列表，协同文档满足多场景创作需求。 更有多元化表格，数据表和看板形式，仪表盘等。</p>
-<p>个人觉得很好使用，也很容易上手使用。例如：待办事项、个人记账可视化等。</p>
-</blockquote>
-<figure><figcaption></figcaption></figure>
-<blockquote>
-<p>个人尝试过notion、语雀、石墨文档、FlowWs等，每个都有自己的优势和不足，最近尝试找一款可以降低成本、提高效率的管理工具，于是就再次重启使用飞书文档了，之前使用过，觉得太工作化了，但现在不这么觉得了，觉得很方便很适合我的需求。</p>
-</blockquote>
-<p>notion</p>
-<blockquote>
-<p>在线地址：<a href="https://www.notion.so/zh-cn" target="_blank" rel="noopener noreferrer">https://www.notion.so/zh-cn</a></p>
-<p><strong>Notion</strong>是一款将笔记、知识库和任务管理无缝整合的协作平台。它具有无限的层级和相互链接的组织弹性，给笔记间的关系提供了足够自由的组织方式；它排版灵活，能够把笔记里的内容按块（Block）进行组织和拖拽，甚至可以做出 Trello 看板进行项目管理；它的内容类型丰富，可以嵌入图片、网页、文档甚至视频，几乎无所不能。</p>
-<p>国内访问速度慢，体验不是那么好</p>
-</blockquote>
-<h2>扩展</h2>
-<p>浏览器输入 <a href="1.1.1.1">1.1.1.1</a> 获取免费的科学网络姿势</p>
-<blockquote>
-<p>不会使用的可以参考：<a href="https://www.barryi.me/posts/CloudflareZeroTrust.html" target="_blank" rel="noopener noreferrer">一个访问全球互联网的“备用机”</a></p>
-<p>视频教程：<a href="https://www.youtube.com/watch?v=LNtSnbsONK0" target="_blank" rel="noopener noreferrer">warp连不上？一直连接中</a></p>
-</blockquote>
-<p>录制操作网页行为</p>
-<blockquote>
-<p>谷歌浏览行为记录：<a href="https://developer.chrome.com/docs/devtools/recorder/" target="_blank" rel="noopener noreferrer">https://developer.chrome.com/docs/devtools/recorder/</a></p>
-<p>项目地址：<a href="https://github.com/puppeteer/replay" target="_blank" rel="noopener noreferrer">https://github.com/puppeteer/replay</a></p>
-<p>利用它可以将操作者在 Chrome 的行为路径 Record 下来，然后使用 Replay 进行浏览器层面的回放，记录包括页面跳转、内容输入、点击、鼠标移动等等。</p>
-</blockquote>
-<p>chatgpt插件 5.4</p>
-<blockquote>
-<p>在线地址：<a href="https://three-recorder-52a.notion.site/chatgpt-5-4-34551fe088b04e38888d44a275aa22aa" target="_blank" rel="noopener noreferrer">https://three-recorder-52a.notion.site/chatgpt-5-4-34551fe088b04e38888d44a275aa22aa</a></p>
-</blockquote>
-<p>研报客官网</p>
-<blockquote>
-<p>在线地址：<a href="https://www.yanbaoke.com/index" target="_blank" rel="noopener noreferrer">https://www.yanbaoke.com/index</a></p>
-<p>研报客官网（<a href="www.yanbaoke.com">www.yanbaoke.com</a>）是一个提供全球智库研报、全行业研究报告、调查调研报告以及趋势前景深度报告的网站。该网站实时更新，并允许用户免费下载pdf、doc和ppt格式的报告。</p>
-<p>研报客官网的核心特色在于其提供的全面的研究报告服务：</p>
-<ol>
-<li>提供全球智库研报，涵盖多个领域的专业研究。</li>
-<li>提供全行业研究报告，帮助用户了解各个行业的最新动态和发展趋势。</li>
-<li>提供调查调研报告，为用户提供深入的市场分析和数据。</li>
-<li>提供趋势前景深度报告，为用户提供行业的前瞻性分析。</li>
-<li>实时更新，确保用户能够获取到最新的研究资料。</li>
-<li>支持免费下载，用户可以方便地获取pdf、doc和ppt格式的报告。</li>
-</ol>
-</blockquote>
-<p>中文 Newsletter 导航</p>
-<blockquote>
-<p>在线地址：<a href="https://www.notion.so/kfang/Newsletter-68ee46c0a4574f659fb8a873ead438c6" target="_blank" rel="noopener noreferrer">https://www.notion.so/kfang/Newsletter-68ee46c0a4574f659fb8a873ead438c6</a></p>
-<p>包含了新闻、产品、科技、技术、阅读、教育、实事、艺术等</p>
-</blockquote>
-<figure><figcaption></figcaption></figure>
-<h2>Github推荐</h2>
-<blockquote>
-<p>Github用户：
-<a href="https://github.com/QuintGao" target="_blank" rel="noopener noreferrer">QuintGao</a>
-<a href="https://github.com/imnxg?tab=stars" target="_blank" rel="noopener noreferrer">imnxg</a>
-<a href="https://github.com/caro401?tab=stars" target="_blank" rel="noopener noreferrer">caro401?</a>
-<a href="https://github.com/versun?tab=stars" target="_blank" rel="noopener noreferrer">versun</a></p>
-</blockquote>
-]]></content>
-    <category term="周报"/>
-    <published>2023-08-19T00:00:00.000Z</published>
   </entry>
 </feed>

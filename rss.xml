@@ -6,11 +6,127 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 25 Jan 2026 12:52:55 GMT</pubDate>
-    <lastBuildDate>Sun, 25 Jan 2026 12:52:55 GMT</lastBuildDate>
+    <pubDate>Sun, 01 Feb 2026 15:36:34 GMT</pubDate>
+    <lastBuildDate>Sun, 01 Feb 2026 15:36:34 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
+    <item>
+      <title>01-31-混乱麻痹</title>
+      <link>https://weekly.nnxx.me/weekly/2026/01-31-%E6%B7%B7%E4%B9%B1%E9%BA%BB%E7%97%B9.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2026/01-31-%E6%B7%B7%E4%B9%B1%E9%BA%BB%E7%97%B9.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">01-31-混乱麻痹</source>
+      <description>分享、实用、有趣、共勉 AI superpowers https://github.com/obra/superpowers Brainstorming和TDD在内的7个优质的Skills 随便看看 awesome-openclaw-skills https://github.com/VoltAgent/awesome-openclaw-skills ...</description>
+      <category>周报</category>
+      <pubDate>Sat, 31 Jan 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p>superpowers</p>
+<p><a href="https://github.com/obra/superpowers" target="_blank" rel="noopener noreferrer">https://github.com/obra/superpowers</a></p>
+<blockquote>
+<p>Brainstorming和TDD在内的7个优质的Skills</p>
+</blockquote>
+<h2>随便看看</h2>
+<p>awesome-openclaw-skills</p>
+<p><a href="https://github.com/VoltAgent/awesome-openclaw-skills" target="_blank" rel="noopener noreferrer">https://github.com/VoltAgent/awesome-openclaw-skills</a></p>
+<p><a href="https://github.com/VoltAgent/voltagent" target="_blank" rel="noopener noreferrer">https://github.com/VoltAgent/voltagent</a></p>
+<blockquote>
+<p>OpenClaw 技能合集，已收录了 700+ 个实用命令插件</p>
+<p>OpenClaw Skills 的精彩合集。前身是 Moltbot，最初是 Clawdbot。</p>
+</blockquote>
+<p>OpenClawInstaller</p>
+<p><a href="https://github.com/miaoxworld/OpenClawInstaller" target="_blank" rel="noopener noreferrer">https://github.com/miaoxworld/OpenClawInstaller</a></p>
+<blockquote>
+<p>ClawdBot 一键部署工具</p>
+</blockquote>
+<figure><img src="https://github.com/miaoxworld/OpenClawInstaller/raw/main/photo/menu.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>awesome-os-setup</p>
+<p><a href="https://github.com/AmineDjeghri/awesome-os-setup" target="_blank" rel="noopener noreferrer">https://github.com/AmineDjeghri/awesome-os-setup</a></p>
+<blockquote>
+<p>Windows、Linux 和 MacOS 自动化脚本和文档，以提高您的用户体验和生产力（包括 WSL2、conda、GPU 驱动程序和开发工具）</p>
+</blockquote>
+<figure><img src="https://github.com/AmineDjeghri/awesome-os-setup/raw/main/docs/images/windows_wsl_terminal.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://skills.sh/anthropics/skills/xlsx" target="_blank" rel="noopener noreferrer">https://skills.sh/anthropics/skills/xlsx</a></p>
+<blockquote>
+<p>所有Excel模型交付时必须零公式错误（#REF!, #DIV/0!, #VALUE!, #N/A, #NAME?）。</p>
+</blockquote>
+<p><a href="https://github.com/burpheart/cursor-tap" target="_blank" rel="noopener noreferrer">https://github.com/burpheart/cursor-tap</a></p>
+<blockquote>
+<p>Cursor gRPC 通信流量分析工具</p>
+</blockquote>
+<p>Multi-Agent</p>
+<p><a href="https://www.hi-light.ai/" target="_blank" rel="noopener noreferrer">https://www.hi-light.ai/</a></p>
+<blockquote>
+<p>根据产品链接生成社媒视频</p>
+<p>解说：<a href="https://mp.weixin.qq.com/s/NWtBiatpC61_hym7P7_Tbw" target="_blank" rel="noopener noreferrer"> 全球首个AI原生电商视频Multi-Agent来了， 上传商品链接可一键出营销视频！</a></p>
+</blockquote>
+<h2>blog</h2>
+<p><a href="https://mksaas.me/" target="_blank" rel="noopener noreferrer">https://mksaas.me/</a></p>
+<blockquote>
+<p>一名全栈开发者和独立黑客。</p>
+</blockquote>
+]]></content:encoded>
+      <enclosure url="https://github.com/miaoxworld/OpenClawInstaller/raw/main/photo/menu.png" type="image/png"/>
+    </item>
+    <item>
+      <title>01-24-冷冷清清</title>
+      <link>https://weekly.nnxx.me/weekly/2026/01-24-%E5%86%B7%E5%86%B7%E6%B8%85%E6%B8%85.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2026/01-24-%E5%86%B7%E5%86%B7%E6%B8%85%E6%B8%85.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">01-24-冷冷清清</source>
+      <description>分享、实用、有趣、共勉 AI happy https://github.com/slopus/happy Codex和Claude代码的移动和Web客户端，具有实时语音、加密和完整功能。 https://www.pencil.dev/ 精选设计套件，即取即用，或自带设计。利用精选的、基于组件的设计套件来构建精美的产品。 获得资深设计师的工艺和品味，或者...</description>
+      <category>周报</category>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p>happy</p>
+<p><a href="https://github.com/slopus/happy" target="_blank" rel="noopener noreferrer">https://github.com/slopus/happy</a></p>
+<blockquote>
+<p>Codex和Claude代码的移动和Web客户端，具有实时语音、加密和完整功能。</p>
+</blockquote>
+<p><a href="https://www.pencil.dev/" target="_blank" rel="noopener noreferrer">https://www.pencil.dev/</a></p>
+<blockquote>
+<p>精选设计套件，即取即用，或自带设计。利用精选的、基于组件的设计套件来构建精美的产品。 获得资深设计师的工艺和品味，或者直接从代码库中插入团队现有的设计系统。</p>
+</blockquote>
+<figure><img src="https://www.pencil.dev/_next/image?url=%2Fscreen-multiplayer.png&amp;w=3840&amp;q=75" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://fatespiral.com" target="_blank" rel="noopener noreferrer">https://fatespiral.com</a></p>
+<blockquote>
+<p>人工智能驱动的互动叙事游戏, 命运，由你撰写, - 在一个无限可能的世界里，每一个选择都改变着你的命运。</p>
+</blockquote>
+<p>呜哩</p>
+<p><a href="https://wuli.art/" target="_blank" rel="noopener noreferrer">https://wuli.art/</a></p>
+<blockquote>
+<p>阿里 AI生图和AI视频</p>
+</blockquote>
+<h2>随便看看</h2>
+<p>Crawlee</p>
+<p><a href="https://github.com/apify/crawlee" target="_blank" rel="noopener noreferrer">https://github.com/apify/crawlee</a></p>
+<blockquote>
+<p>Crawlee——一个用于 Node.js 的网络爬虫和浏览器自动化库，用于构建可靠的爬虫。使用 JavaScript 和 TypeScript 编写。提取数据用于 AI、LLM、RAG 或 GPT。从网站下载 HTML、PDF、JPG、PNG 和其他文件。可与 Puppeteer、Playwright、Cheerio、JSDOM 和原始 HTTP 协同工作。支持有头和无头模式，并具有代理轮换功能。</p>
+</blockquote>
+<p><a href="https://github.com/lza6/doubao-2api" target="_blank" rel="noopener noreferrer">https://github.com/lza6/doubao-2api</a></p>
+<blockquote>
+<p>豆包 api</p>
+</blockquote>
+<p>clashmac</p>
+<p><a href="https://github.com/666OS/ClashMac" target="_blank" rel="noopener noreferrer">https://github.com/666OS/ClashMac</a></p>
+<p><a href="https://clashmac.app/" target="_blank" rel="noopener noreferrer">https://clashmac.app/</a></p>
+<blockquote>
+<p>Native Proxy Experience Built for macOS</p>
+</blockquote>
+<figure><img src="https://github.com/666OS/ClashMac/raw/main/assets/dashboard_b.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://my.feishu.cn/wiki/S5nowuX3uiHXq4kNPb3c7cPpngh?table=tblJT29vyAEQmZzq&amp;view=vewBBRuwm1" target="_blank" rel="noopener noreferrer">https://my.feishu.cn/wiki/S5nowuX3uiHXq4kNPb3c7cPpngh?table=tblJT29vyAEQmZzq&amp;view=vewBBRuwm1</a></p>
+<blockquote>
+<p>香蕉案例合集</p>
+</blockquote>
+<h2>blog</h2>
+<p><a href="https://github.com/Olcmyk/HuChenFeng" target="_blank" rel="noopener noreferrer">收集户子的所有内容</a></p>
+]]></content:encoded>
+      <enclosure url="https://www.pencil.dev/_next/image?url=%2Fscreen-multiplayer.png&amp;w=3840&amp;q=75" type="image/"/>
+    </item>
     <item>
       <title>01-17-平平淡淡</title>
       <link>https://weekly.nnxx.me/weekly/2026/01-17-%E5%B9%B3%E5%B9%B3%E6%B7%A1%E6%B7%A1.html</link>
@@ -10749,226 +10865,6 @@ Android IOS &amp; OSx</p>
 </blockquote>
 ]]></content:encoded>
       <enclosure url="https://easyimage.smitten.top/i/2023/03/06/wdvhm6.webp" type="image/webp"/>
-    </item>
-    <item>
-      <title>08-26-空谷幽兰</title>
-      <link>https://weekly.nnxx.me/weekly/2023/08-26-%E7%A9%BA%E8%B0%B7%E5%B9%BD%E5%85%B0.html</link>
-      <guid>https://weekly.nnxx.me/weekly/2023/08-26-%E7%A9%BA%E8%B0%B7%E5%B9%BD%E5%85%B0.html</guid>
-      <source url="https://weekly.nnxx.me/rss.xml">08-26-空谷幽兰</source>
-      <description>分享、实用、有趣、共勉 资源推荐 优质信息或聚合 在线地址：https://buerc.notion.site/1c9e865c15744f2ab88d9d3a382b2170 RSSHub-订阅工具 在线地址：https://docs.rsshub.app RSS阅读器 在线地址：https://www.inoreader.com/ 付费产品，但免费...</description>
-      <category>周报</category>
-      <pubDate>Sat, 26 Aug 2023 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/wdvhbf.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<blockquote>
-<p>分享、实用、有趣、共勉</p>
-</blockquote>
-<h2>资源推荐</h2>
-<p>优质信息或聚合</p>
-<blockquote>
-<p>在线地址：<a href="https://buerc.notion.site/1c9e865c15744f2ab88d9d3a382b2170" target="_blank" rel="noopener noreferrer">https://buerc.notion.site/1c9e865c15744f2ab88d9d3a382b2170</a></p>
-</blockquote>
-<p>RSSHub-订阅工具</p>
-<blockquote>
-<p>在线地址：<a href="https://docs.rsshub.app" target="_blank" rel="noopener noreferrer">https://docs.rsshub.app</a></p>
-<p>RSS阅读器</p>
-<p>在线地址：<a href="https://www.inoreader.com/" target="_blank" rel="noopener noreferrer">https://www.inoreader.com/</a></p>
-<p>付费产品，但免费额度足够使用了</p>
-</blockquote>
-<p>微博博主</p>
-<blockquote>
-<p>在线地址：<a href="https://www.weibo.com/u/2166767661" target="_blank" rel="noopener noreferrer">https://www.weibo.com/u/2166767661</a></p>
-<p>有思维方式与认知、公开写作、关于做笔记、读书分享等</p>
-</blockquote>
-<p>各知名科技公司技术博客合集</p>
-<blockquote>
-<p>在线地址：<a href="https://www.luxiangdong.com/2023/07/20/techblog/" target="_blank" rel="noopener noreferrer">https://www.luxiangdong.com/2023/07/20/techblog/</a></p>
-<p>Meta、Google、AWS、Quora、Spotify、Instagram 等等</p>
-</blockquote>
-<h2>工具</h2>
-<p>电子书下载：</p>
-<blockquote>
-<p>在线地址：<a href="https://scz.617.cn/misc/202307102046.txt" target="_blank" rel="noopener noreferrer">https://scz.617.cn/misc/202307102046.txt</a></p>
-<p>电子书下载站Z-Library使用</p>
-</blockquote>
-<p>PDF提取器 – extractpdf</p>
-<blockquote>
-<p>在线地址：<a href="https://www.extractpdf.com/zh.html" target="_blank" rel="noopener noreferrer">https://www.extractpdf.com/zh.html</a></p>
-<p>把图片、文字、字体分门别类提取好，经常使用 PDF 转 word 的非常适用</p>
-</blockquote>
-<p>一个超级高效的 PDF 文件万能处理工具</p>
-<blockquote>
-<p>在线地址：<a href="http://smallpdf.com" target="_blank" rel="noopener noreferrer">http://smallpdf.com</a></p>
-</blockquote>
-<p>instaSpeak</p>
-<blockquote>
-<p>在线地址：<a href="https://app.insta-speak.com/" target="_blank" rel="noopener noreferrer">https://app.insta-speak.com/</a></p>
-<p>在线免费AI英语雅思口语分析机器人，是一个基于人工智能的音频分析工具，为用户提供全面、准确的音频数据报告，帮助用户提高英语口语水平。而且使用简单，直接根据屏幕给出的提示主题，使用英文讲述一分钟，期间会进行录音，点击结束后，AI口语机器人将对录音进行分析，提供WPM、词汇量、停顿时间等等结果分析，并且还会给出建议，而且还是免费的。</p>
-</blockquote>
-<h2>AI</h2>
-<p>Midjourney-AI工具</p>
-<blockquote>
-<p>在线地址：<a href="https://learningprompt.wiki/zh-Hans/docs/midjourney-learning-path" target="_blank" rel="noopener noreferrer">https://learningprompt.wiki/zh-Hans/docs/midjourney-learning-path</a></p>
-<p>包括完整的从注册到使用流程
-常用参数和技巧一网打尽
-进阶的高级参数操作</p>
-</blockquote>
-<p>提示词</p>
-<blockquote>
-<p>在线地址：<a href="https://www.prompthunt.com/" target="_blank" rel="noopener noreferrer">https://www.prompthunt.com/</a></p>
-<p>在线地址：<a href="https://www.krea.ai/" target="_blank" rel="noopener noreferrer">https://www.krea.ai/</a></p>
-<p>最欢迎的 AI 绘画提示词网站，内容包括Midjourney、Stable Diffusion、DALL-E关键词</p>
-</blockquote>
-<p>CodeGPT</p>
-<blockquote>
-<p>在线地址：<a href="https://docs.codegpt.co/" target="_blank" rel="noopener noreferrer">https://docs.codegpt.co/</a></p>
-<p>CodeGPT是一个VSCode的插件，可以实现类似于GitHub Copilot的功能，能生成代码、聊天、重构、写测试代码等，并且它可以支持多种不同的LLM，例如OpenAI、Judini、Cohere、AI21、Anthropic 或 GPT4All。 现在它已经支持了Meta最新的CodeLlama。</p>
-</blockquote>
-<p>本地字幕</p>
-<blockquote>
-<p>在线地址：<a href="https://memo.ac/releases.html" target="_blank" rel="noopener noreferrer">https://memo.ac/releases.html</a></p>
-<p>Memo AI 现已支持导入字幕翻译以及双语导出。目前支持有微软、谷歌、Open AI、火山、DeepL 等翻译平台。轻松应对学习外语、做外语字幕，看外语文稿场景。Memo AI 本身就支持九十多种语言本地语音转文字。</p>
-</blockquote>
-<p>AI行业报告</p>
-<blockquote>
-<p>在线地址：<a href="https://waytoagi.feishu.cn/wiki/WvhZwk16WiEnSvk8AcpcdZetnMe?table=tblBU3JnSWPnQSud&amp;view=vewGyCP4R0" target="_blank" rel="noopener noreferrer">https://waytoagi.feishu.cn/wiki/WvhZwk16WiEnSvk8AcpcdZetnMe?table=tblBU3JnSWPnQSud&amp;view=vewGyCP4R0</a></p>
-<p>拾象报告系列、陆奇的报告和甲子光年的报告</p>
-</blockquote>
-<h2>前端</h2>
-<p>有趣的动画库</p>
-<blockquote>
-<p>在线地址：<a href="https://auto-animate.formkit.com/" target="_blank" rel="noopener noreferrer">https://auto-animate.formkit.com/</a></p>
-<p>AutoAnimate 可以帮你自动在整个应用添加合适的动画</p>
-</blockquote>
-<h2>扩展</h2>
-<p>万物皆可识别和“一键抠图”</p>
-<blockquote>
-<p>项目地址：<a href="https://github.com/facebookresearch/segment-anything" target="_blank" rel="noopener noreferrer">https://github.com/facebookresearch/segment-anything</a></p>
-<p>免费 Github 37k星 Meta AI开发 根据文本指令等方式实现图像分割 上传图片点击物体即可识别</p>
-</blockquote>
-<p>qwerty-learner</p>
-<blockquote>
-<p>在线地址：<a href="https://qwerty.kaiyi.cool/" target="_blank" rel="noopener noreferrer">https://qwerty.kaiyi.cool/</a></p>
-<p>一个为键盘工作者设计的单词与肌肉记忆锻炼软件 很多人打中文速度很快，但输入英语很慢而且容易出现错字，这是因为英语输入的肌肉记忆相对弱。 qwerty 将打字练习和英语背诵结合在一起，可以在背诵单词的同时巩固肌肉记忆</p>
-</blockquote>
-<h2>工具推荐</h2>
-<p>utool</p>
-<p><a href="https://www.u-tools.cn/download/" target="_blank" rel="noopener noreferrer">https://www.u-tools.cn/download/</a></p>
-<blockquote>
-<p>uTools 是一种高效工作方式，AI 加持的超级助手，一个入口，无限能力</p>
-</blockquote>
-<p>有道翻译</p>
-<blockquote>
-<p>可以快捷翻译</p>
-</blockquote>
-]]></content:encoded>
-      <enclosure url="https://easyimage.smitten.top/i/2023/03/06/wdvhbf.webp" type="image/webp"/>
-    </item>
-    <item>
-      <title>08-19-一叶知秋</title>
-      <link>https://weekly.nnxx.me/weekly/2023/08-19-%E4%B8%80%E5%8F%B6%E7%9F%A5%E7%A7%8B.html</link>
-      <guid>https://weekly.nnxx.me/weekly/2023/08-19-%E4%B8%80%E5%8F%B6%E7%9F%A5%E7%A7%8B.html</guid>
-      <source url="https://weekly.nnxx.me/rss.xml">08-19-一叶知秋</source>
-      <description>分享、实用、有趣、共勉 周刊 周刊博客： 阮一峰的网络日志 (ruanyifeng.com) 潮流周刊 (tw93.fun) MDH 前端周刊 (yuque.com) HelloGitHub 54321-Weekly Weekly 工具 分享比较实用的工具，便于提高工作效率 一款跨平台的划词翻译软件 文档：https://pot-app.com/doc...</description>
-      <category>周报</category>
-      <pubDate>Sat, 19 Aug 2023 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<figure><img src="https://easyimage.smitten.top/i/2023/03/06/x3dazk.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<blockquote>
-<p>分享、实用、有趣、共勉</p>
-</blockquote>
-<h2>周刊</h2>
-<p>周刊博客：</p>
-<blockquote>
-<p><a href="http://www.ruanyifeng.com/blog/" target="_blank" rel="noopener noreferrer">阮一峰的网络日志 (ruanyifeng.com)</a></p>
-<p><a href="https://weekly.tw93.fun/" target="_blank" rel="noopener noreferrer">潮流周刊 (tw93.fun)</a></p>
-<p><a href="https://www.yuque.com/chencheng/mdh-weekly" target="_blank" rel="noopener noreferrer">MDH 前端周刊 (yuque.com)</a></p>
-<p><a href="https://hellogithub.com/" target="_blank" rel="noopener noreferrer">HelloGitHub</a></p>
-<p><a href="https://github.com/versun/54321-Weekly" target="_blank" rel="noopener noreferrer">54321-Weekly</a></p>
-<p><a href="https://x.yct.ee/tag/Weekly" target="_blank" rel="noopener noreferrer">Weekly</a></p>
-</blockquote>
-<h2>工具</h2>
-<blockquote>
-<p>分享比较实用的工具，便于提高工作效率</p>
-</blockquote>
-<h3>一款跨平台的划词翻译软件</h3>
-<blockquote>
-<p>文档：<a href="https://pot-app.com/docs/tutorial/intro" target="_blank" rel="noopener noreferrer">https://pot-app.com/docs/tutorial/intro</a></p>
-<p>项目地址：<a href="https://github.com/pot-app/pot-desktop" target="_blank" rel="noopener noreferrer">https://github.com/pot-app/pot-desktop</a></p>
-<p>支持划词翻译、输入翻译、截图翻译等多种模式的翻译工具，适用于 Windows、macOS 和 Linux。</p>
-</blockquote>
-<h3>浏览器插件--沉浸式翻译</h3>
-<blockquote>
-<p>在线地址：[<a href="https://immersivetranslate.com/" target="_blank" rel="noopener noreferrer">沉浸式翻译 - 双语网页翻译扩展, 电子书翻译, PDF翻译, 字幕翻译 (immersivetranslate.com)</a>]</p>
-<p>一键开启双语阅读，提升信息获取效率</p>
-<p>沉浸式翻译是一款浏览器插件，可以智能识别网页主内容区进行双语翻译，插件支持全平台浏览器，PDF文件翻译，EPUB电子书双语翻译、制作、导出，字幕文件翻译等功能。</p>
-</blockquote>
-<h3>快速搜索本地文件</h3>
-<blockquote>
-<p>在线地址：<a href="https://www.voidtools.com/" target="_blank" rel="noopener noreferrer">https://www.voidtools.com/</a></p>
-<p>windows 平台的一款本地文件搜索引擎，具有轻量，快速，干净的特点 支持中文，让你快速检索本地文件</p>
-</blockquote>
-<h2>文档</h2>
-<p>飞书文档</p>
-<blockquote>
-<p>在线地址：[<a href="https://ocxfa4l2ug.feishu.cn/drive/me/" target="_blank" rel="noopener noreferrer">我的空间 - 飞书云文档 (feishu.cn)</a>]</p>
-<p>飞书文档是新一代高效协作工具，在线文档支持一键插入表格、图片、视频、文件，投票、代码块、任务列表，协同文档满足多场景创作需求。 更有多元化表格，数据表和看板形式，仪表盘等。</p>
-<p>个人觉得很好使用，也很容易上手使用。例如：待办事项、个人记账可视化等。</p>
-</blockquote>
-<figure><figcaption></figcaption></figure>
-<blockquote>
-<p>个人尝试过notion、语雀、石墨文档、FlowWs等，每个都有自己的优势和不足，最近尝试找一款可以降低成本、提高效率的管理工具，于是就再次重启使用飞书文档了，之前使用过，觉得太工作化了，但现在不这么觉得了，觉得很方便很适合我的需求。</p>
-</blockquote>
-<p>notion</p>
-<blockquote>
-<p>在线地址：<a href="https://www.notion.so/zh-cn" target="_blank" rel="noopener noreferrer">https://www.notion.so/zh-cn</a></p>
-<p><strong>Notion</strong>是一款将笔记、知识库和任务管理无缝整合的协作平台。它具有无限的层级和相互链接的组织弹性，给笔记间的关系提供了足够自由的组织方式；它排版灵活，能够把笔记里的内容按块（Block）进行组织和拖拽，甚至可以做出 Trello 看板进行项目管理；它的内容类型丰富，可以嵌入图片、网页、文档甚至视频，几乎无所不能。</p>
-<p>国内访问速度慢，体验不是那么好</p>
-</blockquote>
-<h2>扩展</h2>
-<p>浏览器输入 <a href="1.1.1.1">1.1.1.1</a> 获取免费的科学网络姿势</p>
-<blockquote>
-<p>不会使用的可以参考：<a href="https://www.barryi.me/posts/CloudflareZeroTrust.html" target="_blank" rel="noopener noreferrer">一个访问全球互联网的“备用机”</a></p>
-<p>视频教程：<a href="https://www.youtube.com/watch?v=LNtSnbsONK0" target="_blank" rel="noopener noreferrer">warp连不上？一直连接中</a></p>
-</blockquote>
-<p>录制操作网页行为</p>
-<blockquote>
-<p>谷歌浏览行为记录：<a href="https://developer.chrome.com/docs/devtools/recorder/" target="_blank" rel="noopener noreferrer">https://developer.chrome.com/docs/devtools/recorder/</a></p>
-<p>项目地址：<a href="https://github.com/puppeteer/replay" target="_blank" rel="noopener noreferrer">https://github.com/puppeteer/replay</a></p>
-<p>利用它可以将操作者在 Chrome 的行为路径 Record 下来，然后使用 Replay 进行浏览器层面的回放，记录包括页面跳转、内容输入、点击、鼠标移动等等。</p>
-</blockquote>
-<p>chatgpt插件 5.4</p>
-<blockquote>
-<p>在线地址：<a href="https://three-recorder-52a.notion.site/chatgpt-5-4-34551fe088b04e38888d44a275aa22aa" target="_blank" rel="noopener noreferrer">https://three-recorder-52a.notion.site/chatgpt-5-4-34551fe088b04e38888d44a275aa22aa</a></p>
-</blockquote>
-<p>研报客官网</p>
-<blockquote>
-<p>在线地址：<a href="https://www.yanbaoke.com/index" target="_blank" rel="noopener noreferrer">https://www.yanbaoke.com/index</a></p>
-<p>研报客官网（<a href="www.yanbaoke.com">www.yanbaoke.com</a>）是一个提供全球智库研报、全行业研究报告、调查调研报告以及趋势前景深度报告的网站。该网站实时更新，并允许用户免费下载pdf、doc和ppt格式的报告。</p>
-<p>研报客官网的核心特色在于其提供的全面的研究报告服务：</p>
-<ol>
-<li>提供全球智库研报，涵盖多个领域的专业研究。</li>
-<li>提供全行业研究报告，帮助用户了解各个行业的最新动态和发展趋势。</li>
-<li>提供调查调研报告，为用户提供深入的市场分析和数据。</li>
-<li>提供趋势前景深度报告，为用户提供行业的前瞻性分析。</li>
-<li>实时更新，确保用户能够获取到最新的研究资料。</li>
-<li>支持免费下载，用户可以方便地获取pdf、doc和ppt格式的报告。</li>
-</ol>
-</blockquote>
-<p>中文 Newsletter 导航</p>
-<blockquote>
-<p>在线地址：<a href="https://www.notion.so/kfang/Newsletter-68ee46c0a4574f659fb8a873ead438c6" target="_blank" rel="noopener noreferrer">https://www.notion.so/kfang/Newsletter-68ee46c0a4574f659fb8a873ead438c6</a></p>
-<p>包含了新闻、产品、科技、技术、阅读、教育、实事、艺术等</p>
-</blockquote>
-<figure><figcaption></figcaption></figure>
-<h2>Github推荐</h2>
-<blockquote>
-<p>Github用户：
-<a href="https://github.com/QuintGao" target="_blank" rel="noopener noreferrer">QuintGao</a>
-<a href="https://github.com/imnxg?tab=stars" target="_blank" rel="noopener noreferrer">imnxg</a>
-<a href="https://github.com/caro401?tab=stars" target="_blank" rel="noopener noreferrer">caro401?</a>
-<a href="https://github.com/versun?tab=stars" target="_blank" rel="noopener noreferrer">versun</a></p>
-</blockquote>
-]]></content:encoded>
-      <enclosure url="https://easyimage.smitten.top/i/2023/03/06/x3dazk.webp" type="image/webp"/>
     </item>
   </channel>
 </rss>
