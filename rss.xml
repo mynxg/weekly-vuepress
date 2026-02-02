@@ -6,8 +6,8 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 01 Feb 2026 15:36:34 GMT</pubDate>
-    <lastBuildDate>Sun, 01 Feb 2026 15:36:34 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Feb 2026 15:37:14 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Feb 2026 15:37:14 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
@@ -16,7 +16,7 @@
       <link>https://weekly.nnxx.me/weekly/2026/01-31-%E6%B7%B7%E4%B9%B1%E9%BA%BB%E7%97%B9.html</link>
       <guid>https://weekly.nnxx.me/weekly/2026/01-31-%E6%B7%B7%E4%B9%B1%E9%BA%BB%E7%97%B9.html</guid>
       <source url="https://weekly.nnxx.me/rss.xml">01-31-混乱麻痹</source>
-      <description>分享、实用、有趣、共勉 AI superpowers https://github.com/obra/superpowers Brainstorming和TDD在内的7个优质的Skills 随便看看 awesome-openclaw-skills https://github.com/VoltAgent/awesome-openclaw-skills ...</description>
+      <description>分享、实用、有趣、共勉 AI superpowers https://github.com/obra/superpowers Brainstorming和TDD在内的7个优质的Skills https://github.com/snarktank/ralph ralph是一个自主的AI代理循环，它会重复运行，直到所有PRD项目都完成。 planning...</description>
       <category>周报</category>
       <pubDate>Sat, 31 Jan 2026 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
@@ -28,7 +28,42 @@
 <blockquote>
 <p>Brainstorming和TDD在内的7个优质的Skills</p>
 </blockquote>
+<p><a href="https://github.com/snarktank/ralph" target="_blank" rel="noopener noreferrer">https://github.com/snarktank/ralph</a></p>
+<blockquote>
+<p>ralph是一个自主的AI代理循环，它会重复运行，直到所有PRD项目都完成。</p>
+</blockquote>
+<figure><img src="https://github.com/snarktank/ralph/raw/main/ralph-flowchart.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>planning-with-files</p>
+<p><a href="https://context7.com/skills/OthmanAdi/planning-with-files/planning-with-files" target="_blank" rel="noopener noreferrer">https://context7.com/skills/OthmanAdi/planning-with-files/planning-with-files</a></p>
+<blockquote>
+<p>实现Manus风格的基于文件的复杂任务规划。创建 task_plan.md、findings.md 和 progress.md。当开始复杂的多步骤任务、研究项目或任何需要超过 5 次工具调用的任务时使用。</p>
+</blockquote>
+<p><a href="https://github.com/upstash/context7#installation" target="_blank" rel="noopener noreferrer">https://github.com/upstash/context7#installation</a></p>
+<blockquote>
+<p>Context7 MCP 服务器 -- 面向 LLM 和 AI 代码编辑器的最新代码文档</p>
+</blockquote>
 <h2>随便看看</h2>
+<p>ok-skills</p>
+<p><a href="https://github.com/mxyhi/ok-skills" target="_blank" rel="noopener noreferrer">https://github.com/mxyhi/ok-skills</a></p>
+<blockquote>
+<p>面向 pi coding agent / Codex / Claude Code 等 agents 的技能集合。</p>
+</blockquote>
+<p>skill技能汇总</p>
+<p><a href="https://skillsmp.com/zh" target="_blank" rel="noopener noreferrer">https://skillsmp.com/zh</a></p>
+<blockquote>
+<p>智能代理技能市场
+适用于开放的 SKILL.md 生态系统
+Agent Skills Marketplace for Claude Code, Codex &amp; ChatGPT</p>
+</blockquote>
+<p><a href="https://skills.sh/" target="_blank" rel="noopener noreferrer">https://skills.sh/</a></p>
+<blockquote>
+<p>技能是人工智能代理可重复使用的能力。只需一个命令即可安装它们，以增强您的代理对程序性知识的访问。</p>
+</blockquote>
+<p>顶级 Claude 技能</p>
+<p><a href="https://mcpmarket.com/zh/tools/skills/leaderboard" target="_blank" rel="noopener noreferrer">https://mcpmarket.com/zh/tools/skills/leaderboard</a></p>
+<blockquote>
+<p>顶级 Claude&nbsp;技能, 探索按 GitHub 星标数排名的最受欢迎和评价最高的 Claude Code 技能。</p>
+</blockquote>
 <p>awesome-openclaw-skills</p>
 <p><a href="https://github.com/VoltAgent/awesome-openclaw-skills" target="_blank" rel="noopener noreferrer">https://github.com/VoltAgent/awesome-openclaw-skills</a></p>
 <p><a href="https://github.com/VoltAgent/voltagent" target="_blank" rel="noopener noreferrer">https://github.com/VoltAgent/voltagent</a></p>
@@ -42,6 +77,11 @@
 <p>ClawdBot 一键部署工具</p>
 </blockquote>
 <figure><img src="https://github.com/miaoxworld/OpenClawInstaller/raw/main/photo/menu.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>awesome-claude-plugins</p>
+<p><a href="https://github.com/quemsah/awesome-claude-plugins" target="_blank" rel="noopener noreferrer">https://github.com/quemsah/awesome-claude-plugins</a></p>
+<blockquote>
+<p>使用 n8n 工作流程自动收集 GitHub 存储库中 Claude Code 插件的采用指标</p>
+</blockquote>
 <p>awesome-os-setup</p>
 <p><a href="https://github.com/AmineDjeghri/awesome-os-setup" target="_blank" rel="noopener noreferrer">https://github.com/AmineDjeghri/awesome-os-setup</a></p>
 <blockquote>
@@ -62,13 +102,21 @@
 <p>根据产品链接生成社媒视频</p>
 <p>解说：<a href="https://mp.weixin.qq.com/s/NWtBiatpC61_hym7P7_Tbw" target="_blank" rel="noopener noreferrer"> 全球首个AI原生电商视频Multi-Agent来了， 上传商品链接可一键出营销视频！</a></p>
 </blockquote>
+<p><a href="https://test.ustc.edu.cn/" target="_blank" rel="noopener noreferrer">https://test.ustc.edu.cn/</a></p>
+<blockquote>
+<p>宽度测速</p>
+</blockquote>
 <h2>blog</h2>
 <p><a href="https://mksaas.me/" target="_blank" rel="noopener noreferrer">https://mksaas.me/</a></p>
 <blockquote>
 <p>一名全栈开发者和独立黑客。</p>
 </blockquote>
+<p><a href="https://mariozechner.at/posts/2025-11-30-pi-coding-agent/#toc_16" target="_blank" rel="noopener noreferrer">https://mariozechner.at/posts/2025-11-30-pi-coding-agent/#toc_16</a></p>
+<blockquote>
+<p>构建一个有主见且极简的编码代理，我所学到的东西</p>
+</blockquote>
 ]]></content:encoded>
-      <enclosure url="https://github.com/miaoxworld/OpenClawInstaller/raw/main/photo/menu.png" type="image/png"/>
+      <enclosure url="https://github.com/snarktank/ralph/raw/main/ralph-flowchart.png" type="image/png"/>
     </item>
     <item>
       <title>01-24-冷冷清清</title>
@@ -101,6 +149,16 @@
 <blockquote>
 <p>阿里 AI生图和AI视频</p>
 </blockquote>
+<p><a href="https://github.com/bestruirui/octopus" target="_blank" rel="noopener noreferrer">https://github.com/bestruirui/octopus</a></p>
+<blockquote>
+<p>One Hub All LLMs For You | 为个人打造的 LLM API 聚合服务, 类似的有newapi</p>
+</blockquote>
+<figure><img src="https://github.com/bestruirui/octopus/raw/dev/web/public/screenshot/desktop-home.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>Agent Template</p>
+<p><a href="https://github.com/Hzyy99/agent-template" target="_blank" rel="noopener noreferrer">https://github.com/Hzyy99/agent-template</a></p>
+<blockquote>
+<p><strong>基于 LangChain + LangGraph 构建的生产级 AI Agent 框架</strong>, 具有 LangGraph 工作流程、RAG、内存和多 LLM 支持的企业 AI 代理模板。</p>
+</blockquote>
 <h2>随便看看</h2>
 <p>Crawlee</p>
 <p><a href="https://github.com/apify/crawlee" target="_blank" rel="noopener noreferrer">https://github.com/apify/crawlee</a></p>
@@ -122,8 +180,28 @@
 <blockquote>
 <p>香蕉案例合集</p>
 </blockquote>
+<p>PageIndex</p>
+<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank" rel="noopener noreferrer">https://github.com/VectifyAI/PageIndex</a></p>
+<blockquote>
+<p>PageIndex：用于无向量、基于推理的 RAG 的文档索引</p>
+</blockquote>
+<p>agentation</p>
+<p><a href="https://agentation.dev/install" target="_blank" rel="noopener noreferrer">https://agentation.dev/install</a></p>
+<blockquote>
+<p>挺有意思的agentation</p>
+</blockquote>
+<p><a href="https://github.com/wechatsync/Wechatsync" target="_blank" rel="noopener noreferrer">https://github.com/wechatsync/Wechatsync</a></p>
+<blockquote>
+<p>一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力</p>
+<p>支持&nbsp;<strong>Anthropic MCP 协议</strong>，可在 Claude Desktop / Claude Code 中通过 AI 一键发布文章</p>
+</blockquote>
 <h2>blog</h2>
 <p><a href="https://github.com/Olcmyk/HuChenFeng" target="_blank" rel="noopener noreferrer">收集户子的所有内容</a></p>
+<p><a href="https://www.owenyoung.com/" target="_blank" rel="noopener noreferrer">https://www.owenyoung.com/</a></p>
+<blockquote>
+<p>owen 博客</p>
+</blockquote>
+<p><a href="https://linux.do/t/topic/1504310" target="_blank" rel="noopener noreferrer">Codex 不好用？来看看你的配置是否有问题！！！Codex 示例配置（config.toml）</a></p>
 ]]></content:encoded>
       <enclosure url="https://www.pencil.dev/_next/image?url=%2Fscreen-multiplayer.png&amp;w=3840&amp;q=75" type="image/"/>
     </item>
@@ -198,12 +276,9 @@
 <p>停止管理多个AI账号。Quotio 是一款漂亮的 macOS 原生菜单栏应用程序，可统一您的 Claude、Gemini、OpenAI、Qwen 和 Antigravity 订阅——具有实时配额跟踪和智能自动故障转移功能，适用于 Claude Code、OpenCode 和 Droid 等 AI 编码工具。</p>
 </blockquote>
 <figure><img src="https://github.com/nguyenphutrong/quotio/raw/master/screenshots/menu_bar.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://flowith.io/" target="_blank" rel="noopener noreferrer">https://flowith.io/</a></p>
+<blockquote></blockquote>
 <h2>随便看看</h2>
-<p>skill技能汇总</p>
-<p><a href="https://skillsmp.com/" target="_blank" rel="noopener noreferrer">https://skillsmp.com/</a></p>
-<blockquote>
-<p>Agent Skills Marketplace for Claude Code, Codex &amp; ChatGPT</p>
-</blockquote>
 <p><a href="https://github.com/yusixian/moe-copy-ai" target="_blank" rel="noopener noreferrer">https://github.com/yusixian/moe-copy-ai</a></p>
 <blockquote>
 <p>AI 网页数据提取助手</p>
@@ -272,13 +347,20 @@
 <p>把家用 USB 打印机变成随时可访问的网络打印服务</p>
 </blockquote>
 <figure><img src="https://github.com/hanxi/cups-web/raw/master/screenshots/print1.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>Linux do app</p>
+<p><a href="https://github.com/Lingyan000/fluxdo" target="_blank" rel="noopener noreferrer">https://github.com/Lingyan000/fluxdo</a></p>
+<blockquote>
+<p>Linuxdo安卓app版</p>
+</blockquote>
 <p><a href="https://github.com/obra/superpowers" target="_blank" rel="noopener noreferrer">https://github.com/obra/superpowers</a></p>
 <blockquote>
 <p>自主技能框架和有效的软件开发方法。</p>
 </blockquote>
 <h2>blog</h2>
 <p><a href="https://substack.com/@thedankoe" target="_blank" rel="noopener noreferrer">https://substack.com/@thedankoe</a></p>
-<blockquote></blockquote>
+<blockquote>
+<p>thedankoe</p>
+</blockquote>
 <p><a href="https://github.com/Penny777btc/lenny-podcast-chinese/blob/main/pdf/anton-osika.pdf" target="_blank" rel="noopener noreferrer">Anton Osika - 欧洲增长最快的 AI 公司，实战策略</a></p>
 <p><a href="https://simonwillison.net/" target="_blank" rel="noopener noreferrer">https://simonwillison.net/</a></p>
 <blockquote>
@@ -308,6 +390,16 @@
 <blockquote>
 <p>开源人工智能编码助手</p>
 </blockquote>
+<p><a href="https://github.com/ztx888/open-webui" target="_blank" rel="noopener noreferrer">https://github.com/ztx888/open-webui</a></p>
+<blockquote>
+<p>基于官方OpenWebUI，汉化界面提高中文使用体验，增加了模型计费和用量统计</p>
+</blockquote>
+<p>lobehub</p>
+<p><a href="https://lobehub.com/zh" target="_blank" rel="noopener noreferrer">https://lobehub.com/zh</a></p>
+<blockquote>
+<p>LobeHub 是你工作与生活的终极空间：在这里发现、构建并与 Agent 团队一起无限进步，我们正在打造全球最大的、人与 Agent 共同演化的网络。</p>
+</blockquote>
+<figure><img src="https://hub-apac-1.lobeobjects.space/landing/images/home/overview-dark.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <h2>随便看看</h2>
 <p><a href="https://gomami.io/" target="_blank" rel="noopener noreferrer">https://gomami.io/</a></p>
 <blockquote>
@@ -349,17 +441,36 @@ The Fastest local Route. The Strongest Performance.Lightning-fast connectivity f
 <blockquote>
 <p>ip检测：出口 IP、 WebRTC 检测、 DNS 泄露、 TCP/IP 指纹、TCP/WS RTT 对比</p>
 </blockquote>
+<p><a href="https://www.iptvkk.com/category/android/video" target="_blank" rel="noopener noreferrer">https://www.iptvkk.com/category/android/video</a></p>
+<blockquote>
+<p>iptv 云视界 软件 apk</p>
+</blockquote>
+<p>share mouse</p>
+<p><a href="https://github.com/deskflow/deskflow" target="_blank" rel="noopener noreferrer">https://github.com/deskflow/deskflow</a></p>
+<blockquote>
+<p>Deskflow 是一款免费且开源的键盘和鼠标共享应用。使用一台电脑的键盘、鼠标或触控板来控制附近的电脑，从而在它们之间无缝工作。它就像一个软件 KVM（但没有视频）。默认启用 TLS 加密。支持 Wayland。支持剪贴板共享。
+能两台电脑互拖文件复制</p>
+</blockquote>
+<p><a href="https://www.creem.io/" target="_blank" rel="noopener noreferrer">https://www.creem.io/</a></p>
+<blockquote>
+<p>您在全球销售所需的一切 全球支付、自动合规和智能收入分成。专注于您的产品，剩下的交给我们。</p>
+</blockquote>
 <h2>blog</h2>
 <p><a href="https://www.aivi.fyi/llms/introduce-oh-my-opencode" target="_blank" rel="noopener noreferrer">一人抵一个开发团队！OpenCode最强插件Oh My OpenCode让你拥有GPT 5.2+Gemini 3 Pro+Claude Opus 4.5组成的AI开发团队，一个咒语实现全自动编程开发</a></p>
 <p><a href="https://www.helpaio.com/transit" target="_blank" rel="noopener noreferrer"> AI 中转站评测比价</a></p>
+<p><a href="https://www.fhai777.top/post/linux-bu-shu-postgresql-fu-zhu-wen-dang" target="_blank" rel="noopener noreferrer">https://www.fhai777.top/post/linux-bu-shu-postgresql-fu-zhu-wen-dang</a></p>
+<blockquote>
+<p>Linux 部署 postgreSQL 辅助文档</p>
+</blockquote>
 ]]></content:encoded>
+      <enclosure url="https://hub-apac-1.lobeobjects.space/landing/images/home/overview-dark.webp" type="image/webp"/>
     </item>
     <item>
       <title>01-03-此去一年</title>
       <link>https://weekly.nnxx.me/weekly/2026/01-03-%E6%AD%A4%E5%8E%BB%E4%B8%80%E5%B9%B4.html</link>
       <guid>https://weekly.nnxx.me/weekly/2026/01-03-%E6%AD%A4%E5%8E%BB%E4%B8%80%E5%B9%B4.html</guid>
       <source url="https://weekly.nnxx.me/rss.xml">01-03-此去一年</source>
-      <description>分享、实用、有趣、共勉 AI https://task-demo.canarylab.ai/ 提示词分析工具 随便看看 https://github.com/fxaxg/one-api-hub One API Hub - 中转站管理器，一个开源的浏览器插件，聚合管理AI中转站账号的余额、模型和密钥，告别繁琐登录。 中转站管理器 - One API Hu...</description>
+      <description>分享、实用、有趣、共勉 AI https://task-demo.canarylab.ai/ 提示词分析工具 https://github.com/chaogei/kiro-account-manager kiro 账号管理 https://github.com/lbjlaq/Antigravity-Manager Antigravity Tools ...</description>
       <category>周报</category>
       <pubDate>Sat, 03 Jan 2026 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
@@ -370,6 +481,89 @@ The Fastest local Route. The Strongest Performance.Lightning-fast connectivity f
 <blockquote>
 <p>提示词分析工具</p>
 </blockquote>
+<p><a href="https://github.com/chaogei/kiro-account-manager" target="_blank" rel="noopener noreferrer">https://github.com/chaogei/kiro-account-manager</a></p>
+<blockquote>
+<p>kiro 账号管理</p>
+</blockquote>
+<p><a href="https://github.com/lbjlaq/Antigravity-Manager" target="_blank" rel="noopener noreferrer">https://github.com/lbjlaq/Antigravity-Manager</a></p>
+<blockquote>
+<p><strong>Antigravity Tools</strong>&nbsp;是一个专为开发者和 AI 爱好者设计的全功能桌面应用。它将多账号管理、协议转换和智能请求调度完美结合，为您提供一个稳定、极速且成本低廉的&nbsp;<strong>本地 AI 中转站</strong>。</p>
+</blockquote>
+<figure><img src="https://github.com/lbjlaq/Antigravity-Manager/raw/main/docs/images/accounts-light.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>antigravity-proxy</p>
+<p><a href="https://github.com/yuaotian/antigravity-proxy" target="_blank" rel="noopener noreferrer">https://github.com/yuaotian/antigravity-proxy</a></p>
+<blockquote>
+<p>专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。</p>
+</blockquote>
+<p><a href="https://github.com/AnkRoot/Augment-BYOK" target="_blank" rel="noopener noreferrer">https://github.com/AnkRoot/Augment-BYOK</a></p>
+<p><a href="www.github.com/ankroot/augment-byok">www.github.com/ankroot/augment-byok</a></p>
+<blockquote>
+<p>单一 VSIX：把 Augment 的&nbsp;<strong>13 个 LLM 数据面端点</strong>按路由转到 BYOK（支持 Streaming），其它端点保持官方行为；支持运行时一键回滚（无需 Rust/外部服务）。</p>
+</blockquote>
+<p>ACE</p>
+<p><a href="https://acemcp.heroman.wtf/" target="_blank" rel="noopener noreferrer">https://acemcp.heroman.wtf/</a></p>
+<blockquote>
+<p>Augment Context Engine 请求转发服务</p>
+</blockquote>
+<p>augment-token-mng</p>
+<p><a href="https://github.com/zhaochengcube/augment-token-mng" target="_blank" rel="noopener noreferrer">https://github.com/zhaochengcube/augment-token-mng</a></p>
+<blockquote>
+<p>一个基于 Tauri 构建的跨平台桌面应用程序，用于生成和管理 Augment Code 访问令牌。</p>
+</blockquote>
+<figure><img src="https://github.com/zhaochengcube/augment-token-mng/raw/main/3.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/router-for-me/CLIProxyAPIPlus" target="_blank" rel="noopener noreferrer">https://github.com/router-for-me/CLIProxyAPIPlus</a></p>
+<blockquote>
+<p>The Plus version of CLIProxyAPI</p>
+</blockquote>
+<p><a href="https://github.com/mxyhi/token_proxy" target="_blank" rel="noopener noreferrer">https://github.com/mxyhi/token_proxy</a></p>
+<blockquote>
+<p>适用于 OpenAI / Gemini / Anthropic 的本地 AI API 网关。在您的机器上运行，保持令牌计数 (SQLite)，提供基于优先级的负载平衡，可选的 API 格式转换 (OpenAI Chat/Responses ↔ Anthropic Messages，以及 Gemini ↔ OpenAI/Anthropic，包括 SSE/tools/images)，以及用于 Claude Code / Codex 的一键设置。</p>
+</blockquote>
+<figure><img src="https://github.com/mxyhi/token_proxy/raw/main/images/upstream.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/Dimillian/CodexMonitor" target="_blank" rel="noopener noreferrer">https://github.com/Dimillian/CodexMonitor</a></p>
+<blockquote>
+<p>CodexMonitor 是一个 macOS Tauri 应用程序，用于协调本地工作区中的多个 Codex 代理。它提供一个侧边栏来管理项目、一个用于快速操作的主屏幕以及一个由 Codex 应用程序服务器协议支持的对话视图。</p>
+</blockquote>
+<figure><img src="https://github.com/Dimillian/CodexMonitor/raw/main/screenshot.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/slopus/happy" target="_blank" rel="noopener noreferrer">https://github.com/slopus/happy</a></p>
+<blockquote>
+<p>在您的电脑上，运行 happy 而不是 claude，或者运行 happy codex 而不是 codex，以通过我们的封装器启动您的 AI。当您想通过手机控制您的编码代理时，它会以远程模式重启会话。要切换回您的电脑，只需按下键盘上的任意键即可。</p>
+</blockquote>
+<figure><img src="https://github.com/slopus/happy/raw/main/.github/header.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/zhukunpenglinyutong/idea-claude-code-gui" target="_blank" rel="noopener noreferrer">https://github.com/zhukunpenglinyutong/idea-claude-code-gui</a></p>
+<blockquote>
+<p>一个强大的 IntelliJ IDEA 插件，为 Claude Code 和 OpenAI Codex 双 AI 工具提供可视化界面，使 AI 辅助编程更加高效和直观。</p>
+</blockquote>
+<p>IDEA Claude Code GUI Plugin</p>
+<p><a href="https://github.com/inferera/aihubmix" target="_blank" rel="noopener noreferrer">https://github.com/inferera/aihubmix</a></p>
+<blockquote>
+<p>一个入口，无限模型；一站式请求：OpenAI、Claude、Gemini、DeepSeek、Qwen，以及超过500个AI模型。</p>
+</blockquote>
+<figure><img src="https://camo.githubusercontent.com/54d4a9576cc109830d6382b1e36709a4941c0ac793f8fda2a86cd0e9931782a4/68747470733a2f2f636c61756465636f6465636e2d313235333330323138342e636f732e61702d6265696a696e672e6d7971636c6f75642e636f6d2f696465612f76302e312e302f322e706e67" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>sanshu</p>
+<p><a href="https://github.com/yuaotian/sanshu" target="_blank" rel="noopener noreferrer">https://github.com/yuaotian/sanshu</a></p>
+<blockquote>
+<p>这是一个集百家的二进制MCP，高效、简单、开源是核心。三术MCP.</p>
+<p>定位：面向 Augment Ace 等 AI 编辑器的增强工具集</p>
+</blockquote>
+<p>修改版：
+<a href="https://github.com/agassiz/sanshu" target="_blank" rel="noopener noreferrer">https://github.com/agassiz/sanshu</a></p>
+<blockquote>
+<p>augment调用sanshu mcp时，支持识别图片，在调用mcp的时候。</p>
+</blockquote>
+<figure><img src="https://github.com/agassiz/sanshu/raw/main/screenshots/home.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>WindsurfChat Open</p>
+<p><a href="https://github.com/llt22/windsurf-chat-open" target="_blank" rel="noopener noreferrer">https://github.com/llt22/windsurf-chat-open</a></p>
+<blockquote>
+<p>让 AI 停下来听你说话 - 随时介入对话，精准反馈指令</p>
+</blockquote>
+<p>cc-switch-cli</p>
+<p><a href="https://github.com/SaladDay/cc-switch-cli/blob/main/README_ZH.md" target="_blank" rel="noopener noreferrer">https://github.com/SaladDay/cc-switch-cli/blob/main/README_ZH.md</a></p>
+<blockquote>
+<p><strong>Claude Code、Codex 与 Gemini CLI 的命令行管理工具</strong>
+统一管理 Claude Code、Codex 与 Gemini CLI 的供应商配置、MCP 服务器、Skills 扩展和系统提示词。</p>
+</blockquote>
+<figure><img src="https://github.com/SaladDay/cc-switch-cli/raw/main/assets/screenshots/home-zh.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <h2>随便看看</h2>
 <p><a href="https://github.com/fxaxg/one-api-hub" target="_blank" rel="noopener noreferrer">https://github.com/fxaxg/one-api-hub</a></p>
 <blockquote>
@@ -407,13 +601,36 @@ The Fastest local Route. The Strongest Performance.Lightning-fast connectivity f
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><blockquote>
 <p>一键激活 JetBrains 全家桶方式，不需要手动下载任何文件 (懒人福利)！idea/win/linux/mac</p>
 </blockquote>
+<p><a href="https://credit.linux.do/" target="_blank" rel="noopener noreferrer">https://credit.linux.do/</a></p>
+<p>greasyfork脚本：<a href="https://greasyfork.org/zh-CN/scripts/560312-linux-do-credit-%E7%A7%AF%E5%88%86" target="_blank" rel="noopener noreferrer">https://greasyfork.org/zh-CN/scripts/560312-linux-do-credit-%E7%A7%AF%E5%88%86</a></p>
+<blockquote>
+<p>LINUX DO Credit 积分收入</p>
+</blockquote>
+<p><a href="https://github.com/practicalbinarykraft/VIBEKANBAN" target="_blank" rel="noopener noreferrer">https://github.com/practicalbinarykraft/VIBEKANBAN</a></p>
+<blockquote>
+<p>AI Agent Orchestrator - 用于管理 AI 代理任务的网络平台，具有可视化看板界面。</p>
+</blockquote>
+<p><a href="https://github.com/ericblue/claude-vibekanban" target="_blank" rel="noopener noreferrer">https://github.com/ericblue/claude-vibekanban</a></p>
+<blockquote>
+<p>PRD-to-Tasks Workflow for Claude Code + VibeKanban</p>
+<p>使用 Claude Code 和 VibeKanban MCP 管理开发项目的标准化工作流程。这提供了一组全局命令，可帮助您从 PRD 过渡到具有实时开发计划的可追踪任务。</p>
+</blockquote>
+<p>2FA验证</p>
+<p><a href="https://2fa.run/" target="_blank" rel="noopener noreferrer">https://2fa.run/</a></p>
+<blockquote>
+<p>双重验证码/二步验证码获取工具（相当于谷歌身份验证器的网页版），使用时任选1种方式输入密钥获取即可。</p>
+</blockquote>
 <h2>blog</h2>
 <p><a href="https://www.nasdaddy.com/" target="_blank" rel="noopener noreferrer">https://www.nasdaddy.com/</a></p>
 <blockquote>
 <p>爱折腾，爱收藏，爱思考，终身学习的中年老爹|</p>
 </blockquote>
+<p><a href="/weekly/2026/songshuhezi.com/rpa.html" target="_blank">songshuhezi.com/rpa.html</a></p>
+<blockquote>
+<p>影刀（ RPA）教程</p>
+</blockquote>
 ]]></content:encoded>
-      <enclosure url="https://github.com/fxaxg/one-api-hub/raw/main/docs/docs/static/image/app_show.png" type="image/png"/>
+      <enclosure url="https://github.com/lbjlaq/Antigravity-Manager/raw/main/docs/images/accounts-light.png" type="image/png"/>
     </item>
     <item>
       <title>12-27-一去不返</title>
