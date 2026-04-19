@@ -6,11 +6,158 @@
     <link>https://weekly.nnxx.me/</link>
     <description>行动胜于空谈</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 06 Apr 2026 15:53:53 GMT</pubDate>
-    <lastBuildDate>Mon, 06 Apr 2026 15:53:53 GMT</lastBuildDate>
+    <pubDate>Sun, 19 Apr 2026 16:06:41 GMT</pubDate>
+    <lastBuildDate>Sun, 19 Apr 2026 16:06:41 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>周报</category>
+    <item>
+      <title>04-18-各擅胜场</title>
+      <link>https://weekly.nnxx.me/weekly/2026/04-18-%E5%90%84%E6%93%85%E8%83%9C%E5%9C%BA.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2026/04-18-%E5%90%84%E6%93%85%E8%83%9C%E5%9C%BA.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">04-18-各擅胜场</source>
+      <description>分享、实用、有趣、共勉 AI ui-aesthetics-skill https://github.com/kasonye/ui-aesthetics-skill 一种提高AI在 Web UI 生成、审查和优化方面的审美判断力的技能。 design-skills https://www.typeui.sh/design-skills 探索我们为 Cla...</description>
+      <category>周报</category>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p>ui-aesthetics-skill</p>
+<p><a href="https://github.com/kasonye/ui-aesthetics-skill" target="_blank" rel="noopener noreferrer">https://github.com/kasonye/ui-aesthetics-skill</a></p>
+<blockquote>
+<p>一种提高AI在 Web UI 生成、审查和优化方面的审美判断力的技能。</p>
+</blockquote>
+<p>design-skills</p>
+<p><a href="https://www.typeui.sh/design-skills" target="_blank" rel="noopener noreferrer">https://www.typeui.sh/design-skills</a></p>
+<blockquote>
+<p>探索我们为 Claude、Codex、Cursor、Antigravity 等精心策划的设计技能集合。使用 CLI 将这些作为 skill.md 文件直接拉入您的项目，以用于您的 AI 代理工具。</p>
+</blockquote>
+<p><a href="https://github.com/bergside/design-md-chrome" target="_blank" rel="noopener noreferrer">https://github.com/bergside/design-md-chrome</a></p>
+<blockquote>
+<p>Chrome 扩展程序，用于从任何网站提取样式，并基于 TypeUI 生成 DESIGN.md 文件和 AI 设计技能。</p>
+</blockquote>
+<p>awesome-gpt-image-2-prompts</p>
+<p><a href="https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/README_zh-CN.md" target="_blank" rel="noopener noreferrer">https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/README_zh-CN.md</a></p>
+<blockquote>
+<p><strong>GPT-Image-2 在人像、海报、角色设计、UI 原型及社区实验等场景下的高质量提示词与图像案例</strong></p>
+</blockquote>
+<p><a href="https://veosoragen.com/" target="_blank" rel="noopener noreferrer">https://veosoragen.com/</a></p>
+<blockquote>
+<p>收录 Banana 与 GPT-image-2 的代表性案例、视觉线索与生成语言，像翻阅一座持续更新的创意样本库</p>
+</blockquote>
+<h2>随便看看</h2>
+<p>certimate  ssl 证书自动续签</p>
+<p><a href="https://github.com/certimate-go/certimate" target="_blank" rel="noopener noreferrer">https://github.com/certimate-go/certimate</a></p>
+<blockquote>
+<p>完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。</p>
+</blockquote>
+<figure><img src="https://camo.githubusercontent.com/6a2c7363176b35d2e2a07846a145902263218ff7f9444452ad95b14427620b7b/68747470733a2f2f692e696d6775722e636f6d2f344441554b45452e676966" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://spector.net/" target="_blank" rel="noopener noreferrer">https://spector.net/</a></p>
+<blockquote>
+<p>Instagram 图片下载</p>
+</blockquote>
+<p><a href="https://github.com/algotao/pidoc-site-zhcn" target="_blank" rel="noopener noreferrer">https://github.com/algotao/pidoc-site-zhcn</a></p>
+<p><a href="https://pidoc.cn/" target="_blank" rel="noopener noreferrer">https://pidoc.cn/</a></p>
+<blockquote>
+<p>Raspberry Pi 树莓派中文版文档</p>
+</blockquote>
+<h2>blog</h2>
+<p><a href="https://www.forbes.com/sites/jodiecook/2026/03/20/vibe-coding-has-a-massive-security-problem/" target="_blank" rel="noopener noreferrer">https://www.forbes.com/sites/jodiecook/2026/03/20/vibe-coding-has-a-massive-security-problem/</a></p>
+<blockquote>
+<p>vide-coding 安全问题</p>
+</blockquote>
+<p><a href="https://my.feishu.cn/docx/FGpVd8b92oQejQxNoBBcJ2O4nhf" target="_blank" rel="noopener noreferrer">https://my.feishu.cn/docx/FGpVd8b92oQejQxNoBBcJ2O4nhf</a></p>
+<blockquote>
+<p>一份写给搞钱的人</p>
+</blockquote>
+]]></content:encoded>
+      <enclosure url="https://camo.githubusercontent.com/6a2c7363176b35d2e2a07846a145902263218ff7f9444452ad95b14427620b7b/68747470733a2f2f692e696d6775722e636f6d2f344441554b45452e676966" type="image/"/>
+    </item>
+    <item>
+      <title>04-11-缘木希鱼</title>
+      <link>https://weekly.nnxx.me/weekly/2026/04-11-%E7%BC%98%E6%9C%A8%E5%B8%8C%E9%B1%BC.html</link>
+      <guid>https://weekly.nnxx.me/weekly/2026/04-11-%E7%BC%98%E6%9C%A8%E5%B8%8C%E9%B1%BC.html</guid>
+      <source url="https://weekly.nnxx.me/rss.xml">04-11-缘木希鱼</source>
+      <description>分享、实用、有趣、共勉 AI 赛博算命 Skill https://github.com/jinchenma94/bazi-skill 四柱八字命理分析 https://github.com/kasonye/ui-aesthetics-skill 面向多平台 AI 代理的 UI 审美增强技能包，用于生成、评审和重构更有视觉判断力的 Web UI。 ui...</description>
+      <category>周报</category>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>分享、实用、有趣、共勉</p>
+</blockquote>
+<h2>AI</h2>
+<p>赛博算命 Skill</p>
+<p><a href="https://github.com/jinchenma94/bazi-skill" target="_blank" rel="noopener noreferrer">https://github.com/jinchenma94/bazi-skill</a></p>
+<blockquote>
+<p>四柱八字命理分析</p>
+</blockquote>
+<p><a href="https://github.com/kasonye/ui-aesthetics-skill" target="_blank" rel="noopener noreferrer">https://github.com/kasonye/ui-aesthetics-skill</a></p>
+<blockquote>
+<p>面向多平台 AI 代理的 UI 审美增强技能包，用于生成、评审和重构更有视觉判断力的 Web UI。
+<code>ui-aesthetics</code>&nbsp;可以帮助代理在不盲目扩 scope、也不依赖“假高级感”堆料的前提下，产出更精致、更平衡、更准确、更接近产品级质感的界面。</p>
+</blockquote>
+<h2>随便看看</h2>
+<p>fmhy</p>
+<p><a href="https://fmhy.net/" target="_blank" rel="noopener noreferrer">https://fmhy.net/</a></p>
+<p><a href="https://github.com/fmhy/edit" target="_blank" rel="noopener noreferrer">https://github.com/fmhy/edit</a></p>
+<blockquote>
+<p>各种工具检索</p>
+</blockquote>
+<p><a href="https://vibe-remote.com/" target="_blank" rel="noopener noreferrer">https://vibe-remote.com/</a></p>
+<blockquote>
+<p>面向开发者的专业移动工具，让代码跃动起来。描述你的需求，AI即可在你的开发机上执行，真实的工作流程，不仅仅是远程访问。</p>
+</blockquote>
+<p>NanaZip</p>
+<p><a href="https://github.com/M2Team/NanaZip" target="_blank" rel="noopener noreferrer">https://github.com/M2Team/NanaZip</a></p>
+<p><a href="https://nanazip.org/" target="_blank" rel="noopener noreferrer">https://nanazip.org/</a></p>
+<blockquote>
+<p>适用于现代 Windows 体验的 7-Zip 衍生版本, window 解压软件</p>
+</blockquote>
+<p>paseo</p>
+<p><a href="https://github.com/getpaseo/paseo" target="_blank" rel="noopener noreferrer">https://github.com/getpaseo/paseo</a></p>
+<p>官网：<a href="https://paseo.sh/" target="_blank" rel="noopener noreferrer">https://paseo.sh/</a></p>
+<blockquote>
+<p>所有 Claude Code、Codex 和 OpenCode 代理的统一界面。</p>
+</blockquote>
+<p><img src="https://camo.githubusercontent.com/a9f299d62effea920ab01596a63c38201a07cac0188ebaf53cc30e3d8a2dceba/68747470733a2f2f706173656f2e73682f6865726f2d6d6f636b75702e706e67" alt="" loading="lazy">
+stitch</p>
+<p><a href="https://stitch.withgoogle.com/" target="_blank" rel="noopener noreferrer">https://stitch.withgoogle.com/</a></p>
+<blockquote>
+<p>Stitch 是一款专注于快速生成移动和网页应用界面的工具，现已向AI原生平台演进，支持高效设计迭代与协作。尽管其在多屏幕流程设计上表现不佳且界面一致性存在缺陷，但在原型变体创建方面表现优异。结合Google生态可能提升集成能力，但目前尚无明确证据表明Stitch与Google有直接关联。用户可借助其AI功能加速设计过程，尤其适合初期创意阶段。</p>
+</blockquote>
+<p>pencil</p>
+<p><a href="https://www.pencil.dev/" target="_blank" rel="noopener noreferrer">https://www.pencil.dev/</a></p>
+<blockquote>
+<p>Pencil 是一款集设计与编码于一体的智能工具，支持在代码库中直接进行设计，通过代理驱动的MCP画布实现无缝协作，避免传统设计交接流程。它采用开放的设计格式，适用于开发流程中的高效协作。此外，Pencil 还提供统一编辑器，可生成图像并完成广告制作，提升社交广告创作效率。虽然名称与传统铅笔相似，但其功能远超实体书写工具，聚焦于数字创意与工程协同。</p>
+</blockquote>
+<p>figma</p>
+<p><a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">https://www.figma.com/</a></p>
+<blockquote>
+<p>Figma 是一款领先的协作式设计平台，支持界面设计、原型制作与团队协作，通过网页端及桌面应用（Windows/macOS）实现高效工作。它以实时协同和云端存储为核心优势，广泛应用于产品设计流程。尽管存在竞争工具，但 Figma 仍占据重要市场地位，尤其在远程团队协作中表现突出。其跨平台特性与强大插件生态进一步巩固了其竞争力。</p>
+</blockquote>
+<p>Afilmory</p>
+<p><a href="https://afilmory.art/" target="_blank" rel="noopener noreferrer">https://afilmory.art/</a></p>
+<blockquote>
+<p>Afilmory 是一款基于 React 和 TypeScript 构建的自托管照片管理应用，支持从多个存储源自动同步照片，提供高性能 WebGL 渲染与专业的 EXIF 数据支持。它具备地图浏览功能、离线时间轴同步，并可无缝集成本地文件系统，适合注重隐私与高效管理的用户。其设计聚焦于捕捉生活中的美好瞬间，通过技术手段提升影像整理与回溯体验。</p>
+<p>这功能，我当时想有没有记录图片，根据位置来，没想到就出现了，很符合我想要的。</p>
+</blockquote>
+<p>craft-agents-oss</p>
+<p><a href="https://github.com/lukilabs/craft-agents-oss" target="_blank" rel="noopener noreferrer">https://github.com/lukilabs/craft-agents-oss</a></p>
+<blockquote>
+<p>Craft Agents OSS 是一个开源桌面应用，旨在帮助用户高效协作AI代理。它支持连接任意API或MCP服务器，实现自然的多任务处理，并通过增强的UI提升编码与非编码工作流效率。该工具特别整合了Claude的代码能力，使开发者能无缝融入整个数字工作流程。其开放源码特性允许用户自定义和扩展功能，适合追求灵活性与隐私保护的团队或个人。</p>
+</blockquote>
+<h2>blog</h2>
+<p><a href="https://zhanghandong.github.io/pi-book/" target="_blank" rel="noopener noreferrer">https://zhanghandong.github.io/pi-book/</a></p>
+<blockquote>
+<p>pi 的设计艺术：构建生产级 Coding Agent 的架构决策</p>
+</blockquote>
+<p><a href="https://ursb.me/posts/weekly-31/" target="_blank" rel="noopener noreferrer">https://ursb.me/posts/weekly-31/</a></p>
+<blockquote>
+<p>基于 Claude 的阅读流</p>
+</blockquote>
+]]></content:encoded>
+      <enclosure url="https://camo.githubusercontent.com/a9f299d62effea920ab01596a63c38201a07cac0188ebaf53cc30e3d8a2dceba/68747470733a2f2f706173656f2e73682f6865726f2d6d6f636b75702e706e67" type="image/"/>
+    </item>
     <item>
       <title>04-04-赛博知己</title>
       <link>https://weekly.nnxx.me/weekly/2026/04-04-%E8%B5%9B%E5%8D%9A%E7%9F%A5%E5%B7%B1.html</link>
@@ -91,6 +238,18 @@
 <p>支持Chrome / Edge / Firefox / Arc</p>
 </blockquote>
 <figure><img src="https://github.com/chiimagnus/SyncNos/raw/main/.github/deepwiki/assets/popup-screenshots.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>知识管理方法</p>
+<p><a href="https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f" target="_blank" rel="noopener noreferrer">https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f</a></p>
+<p><a href="https://gist.github.com/garrytan/49c88e83cf8d7ae95e087426368809cb" target="_blank" rel="noopener noreferrer">https://gist.github.com/garrytan/49c88e83cf8d7ae95e087426368809cb</a></p>
+<blockquote>
+<p>LLM 知识管理方法</p>
+</blockquote>
+<p>heptabase</p>
+<p><a href="https://heptabase.com/" target="_blank" rel="noopener noreferrer">https://heptabase.com/</a></p>
+<blockquote>
+<p>Heptabase 是一款专为学生、研究人员和终身学习者设计的智能可视化知识库，帮助用户以图形化方式整理和理解复杂主题。它支持视觉化笔记和知识管理，特别适合需要直观呈现研究内容的学术场景。移动端提供完整功能，可随时访问所有卡片与日记。其核心优势在于将信息结构化与视觉化结合，提升学习效率与知识关联能力。</p>
+</blockquote>
+<figure><img src="https://heptabase.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fai-research-pdf.66ba41c4.png&amp;w=3840&amp;q=75" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <h2>blog</h2>
 <p><a href="https://ursb.me/" target="_blank" rel="noopener noreferrer">https://ursb.me/</a></p>
 <blockquote>
@@ -987,6 +1146,24 @@ Agent Skills Marketplace for Claude Code, Codex &amp; ChatGPT</p>
 <p>通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。</p>
 </blockquote>
 <figure><img src="https://github.com/jlcodes99/cockpit-tools/raw/main/docs/images/antigravity_list.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://github.com/ryfineZ/codex-session-patcher" target="_blank" rel="noopener noreferrer">https://github.com/ryfineZ/codex-session-patcher</a></p>
+<blockquote>
+<p>AI 编码工具会话清理器 &amp; CTF/渗透测试提示词注入工具</p>
+</blockquote>
+<p><a href="https://github.com/cnitlrt/AutoTeam" target="_blank" rel="noopener noreferrer">https://github.com/cnitlrt/AutoTeam</a></p>
+<blockquote>
+<p><strong>面向 ChatGPT Team 的账号轮转与认证同步工具</strong>,
+自动注册账号、获取 Codex 认证、按额度轮转席位，并与&nbsp;<a href="https://github.com/router-for-me/CLIProxyAPI" target="_blank" rel="noopener noreferrer">CLIProxyAPI</a>&nbsp;双向同步认证文件。</p>
+</blockquote>
+<p>sub2api</p>
+<p><a href="https://github.com/Wei-Shaw/sub2api/" target="_blank" rel="noopener noreferrer">https://github.com/Wei-Shaw/sub2api/</a></p>
+<blockquote>
+<p>Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。</p>
+</blockquote>
+<p><a href="https://github.com/xhyqaq/codex-auto" target="_blank" rel="noopener noreferrer">https://github.com/xhyqaq/codex-auto</a></p>
+<blockquote>
+<p>自动codex切号，额度耗尽换下一个</p>
+</blockquote>
 <h2>随便看看</h2>
 <p><a href="https://github.com/yusixian/moe-copy-ai" target="_blank" rel="noopener noreferrer">https://github.com/yusixian/moe-copy-ai</a></p>
 <blockquote>
@@ -10083,340 +10260,6 @@ Redis服务</p>
 <p>国产AI大模型：<a href="https://imnxg.notion.site/31466672e10a4143a3eed402b73b7148?pvs=4" target="_blank" rel="noopener noreferrer">188个可谓遥遥领先</a></p>
 ]]></content:encoded>
       <enclosure url="https://img.nnxx.me/file/495fbb53dee6f3770f14a.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>11-11-浅尝辄止</title>
-      <link>https://weekly.nnxx.me/weekly/2023/11-11-%E6%B5%85%E5%B0%9D%E8%BE%84%E6%AD%A2.html</link>
-      <guid>https://weekly.nnxx.me/weekly/2023/11-11-%E6%B5%85%E5%B0%9D%E8%BE%84%E6%AD%A2.html</guid>
-      <source url="https://weekly.nnxx.me/rss.xml">11-11-浅尝辄止</source>
-      <description>分享、实用、有趣、共勉 AI 在线地址：https://gpthub.nofwl.com/ 107 个 GPT ，支持中英文搜索 在线地址：https://b0lu6tc3r9.feishu.cn/wiki/HY3SwTZ5JiWyG9kh9Q5cLdl4n9s ChatGPT 基础课、ChatGPT 注册流程 和ChatGPT Plus会员购买教程 ...</description>
-      <category>周报</category>
-      <pubDate>Sat, 11 Nov 2023 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<figure><img src="https://img.nnxx.me/file/691b21c45ea675a58a884.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<blockquote>
-<p>分享、实用、有趣、共勉</p>
-</blockquote>
-<h2>AI</h2>
-<blockquote>
-<p>在线地址：<a href="https://gpthub.nofwl.com/" target="_blank" rel="noopener noreferrer">https://gpthub.nofwl.com/</a></p>
-<p>107 个 GPT ，支持中英文搜索</p>
-</blockquote>
-<blockquote>
-<p>在线地址：<a href="https://b0lu6tc3r9.feishu.cn/wiki/HY3SwTZ5JiWyG9kh9Q5cLdl4n9s" target="_blank" rel="noopener noreferrer">https://b0lu6tc3r9.feishu.cn/wiki/HY3SwTZ5JiWyG9kh9Q5cLdl4n9s</a></p>
-<p>ChatGPT 基础课、ChatGPT 注册流程 和ChatGPT Plus会员购买教程</p>
-</blockquote>
-<h2>工具</h2>
-<p>无损音乐下载</p>
-<blockquote>
-<p>在线地址：<a href="https://pan.quark.cn/s/cea69fde47e8#/list/share/d9f81ced8e5d4ce89040a7edc8aaa5a9-%E9%9F%B3%E4%B9%90%E6%90%9C%E7%B4%A250012" target="_blank" rel="noopener noreferrer">https://pan.quark.cn/s/cea69fde47e8#/list/share/d9f81ced8e5d4ce89040a7edc8aaa5a9-%E9%9F%B3%E4%B9%90%E6%90%9C%E7%B4%A250012</a></p>
-<p>免费全网无损音乐下载和播放工具 flac：音乐搜索</p>
-</blockquote>
-<p>Syncthing 文件同步</p>
-<blockquote>
-<p>在线地址：<a href="https://forum.syncthing.net/" target="_blank" rel="noopener noreferrer">https://forum.syncthing.net/</a></p>
-<p>下载地址：<a href="https://syncthing.net/downloads/" target="_blank" rel="noopener noreferrer">https://syncthing.net/downloads/</a></p>
-<p>项目地址：<a href="https://github.com/syncthing/syncthing" target="_blank" rel="noopener noreferrer">https://github.com/syncthing/syncthing</a></p>
-<p>Syncthing 这个强大的跨平台文件同步工具，适用于 Mac/Win/Linux。自从使用 Stable Diffusion 后，越来越多的文件使得我的文件同步流程变得复杂。</p>
-<p>基本支持除了ios的所有系统，分布式传输能联网就能同步，可以ui界面远程访问，支持多版本管理，pattern 同步排除，同步 发送 接收 三种模式。体量还小而且稳定。</p>
-</blockquote>
-<p>在线白版 logseq</p>
-<blockquote>
-<p>在线地址：<a href="https://github.com/logseq/logseq" target="_blank" rel="noopener noreferrer">https://github.com/logseq/logseq</a></p>
-<p>官方地址：<a href="https://logseq.com/" target="_blank" rel="noopener noreferrer">https://logseq.com/</a></p>
-<p>可视化笔记工具</p>
-</blockquote>
-<figure><img src="https://img.nnxx.me/file/27e7c809a89bb2c1cee22.jpg" alt="可视化笔记工具效果" tabindex="0" loading="lazy"><figcaption>可视化笔记工具效果</figcaption></figure>
-<p>win10主题</p>
-<blockquote>
-<p>在线地址：<a href="https://zhutix.com/tools/win-theme-patcher/" target="_blank" rel="noopener noreferrer">https://zhutix.com/tools/win-theme-patcher/</a></p>
-</blockquote>
-<p>Win11-23H2-22631.2506_装机版_</p>
-<blockquote>
-<p>在线地址：<a href="https://twm000.top/2023/11/08/win11-23h2-22631-2506_%e8%a3%85%e6%9c%ba%e7%89%88_%e3%80%902023-11-07%e3%80%91/" target="_blank" rel="noopener noreferrer">https://twm000.top/2023/11/08/win11-23h2-22631-2506_%e8%a3%85%e6%9c%ba%e7%89%88_%e3%80%902023-11-07%e3%80%91/</a></p>
-<p>纯净版包含无UWP内置应用版本：Win11-23H2-企业版、专业版、专业工作站版</p>
-</blockquote>
-<p>lookscanned</p>
-<blockquote>
-<p>在线地址：<a href="https://zh.lookscanned.io/" target="_blank" rel="noopener noreferrer">https://zh.lookscanned.io/</a></p>
-<p>一个能把 pdf 转换成看起来像扫描件的网站 使用场景比较少，但用到的时候是真的好用... 纯前端 + 免费 + 开源</p>
-</blockquote>
-<p>FocuSee</p>
-<blockquote>
-<p>在线地址：<a href="https://gemoo.com/focusee/" target="_blank" rel="noopener noreferrer">https://gemoo.com/focusee/</a></p>
-<p>FocuSee 是一款屏幕录制和视频编辑软件，可以简化专业视频的创作过程。它提供自动化编辑功能、多样化的视频增强工具，并支持多种导出选项。无需复杂的编辑技巧你就可以成为大神。</p>
-</blockquote>
-<h2>扩展</h2>
-<p>美叶</p>
-<blockquote>
-<p>在线地址：<a href="https://www.meiye.art/" target="_blank" rel="noopener noreferrer">https://www.meiye.art/</a></p>
-<p>设计师作品集汇集，包括灵感集、UI、插画师、截屏、Logo、字体、AI绘图咒语等方面。</p>
-</blockquote>
-<p>appmotion</p>
-<blockquote>
-<p>在线地址：<a href="https://appmotion.design/#offset=0" target="_blank" rel="noopener noreferrer">https://appmotion.design/#offset=0</a></p>
-<p>一个经过挑选的 App 动效设计的汇集网站</p>
-</blockquote>
-<p>把一生足迹轨迹匹配到单反照片的小程序</p>
-<blockquote>
-<p>在线地址：<a href="https://github.com/LynMoe/nya-exif" target="_blank" rel="noopener noreferrer">https://github.com/LynMoe/nya-exif</a></p>
-<p><code>nya-exif</code>&nbsp;是一个用于匹配照片 GPS 信息, 并写入文件 EXIF 信息的工具, 支持 JPEG 和 PNG 及各大相机厂商的主流RAW格式. 本工具基于 Rust 编写, 支持全平台使用</p>
-</blockquote>
-<p>Draw-a-UI</p>
-<blockquote>
-<p>在线地址：<a href="https://github.com/SawyerHood/draw-a-ui" target="_blank" rel="noopener noreferrer">https://github.com/SawyerHood/draw-a-ui</a></p>
-<p>Draw-a-UI ：让你像画画一样设计网页。 你只需在草图软件里随手画出你想要的网页界面，如简单的按钮或文本框，基本线框图。 然后它会使用 tldraw 和 GPT-4 Vision API 来根据你绘制的线框图生成 HTML页面。 主要原理是将当前的画布 SVG 转换为 PNG 图像，然后将该图像发送给 GPT-4 Vision，并指示其返回一个包含 Tailwind CSS 的单个 HTML 文件。</p>
-</blockquote>
-<p>vocabulary</p>
-<blockquote>
-<p>在线地址：<a href="https://www.vocabulary.com/" target="_blank" rel="noopener noreferrer">https://www.vocabulary.com/</a></p>
-<p>查英文单词的英文释义用vocabulary这个网站，提供的注释还是比较丰富的，有些带图片和例句帮助加深记忆，最后给一个习题巩固你对单词的理解，培养英语思维</p>
-</blockquote>
-<p>新东方雅思</p>
-<blockquote>
-<p>在线地址：<a href="https://pan.quark.cn/s/4a523fc5dd40#/list/share/cb1fd32849da4bccb1906eb84dd7a8ee-%E8%AF%BE%E7%A8%8B%E5%AE%98%E6%96%B9%E5%94%AE%E4%BB%B74880%E5%85%83%20%E6%96%B0%E4%B8%9C%E6%96%B9%E9%9B%85%E6%80%9D%E5%85%A8%E8%83%BD7%E5%88%86%E6%97%97%E8%88%B0%E5%A4%96%E6%95%99VIP%E5%85%A8%E7%A8%8B%E7%8F%AD/a52ccaeccdbf431e9211ca41022ae9ac-%E9%9B%85%E6%80%9D%E6%97%97%E8%88%B0VIP%E7%9B%B4%E8%BE%BE7%E5%88%86%E7%8F%AD" target="_blank" rel="noopener noreferrer">https://pan.quark.cn/s/4a523fc5dd40#/list/share/cb1fd32849da4bccb1906eb84dd7a8ee-%E8%AF%BE%E7%A8%8B%E5%AE%98%E6%96%B9%E5%94%AE%E4%BB%B74880%E5%85%83%20%E6%96%B0%E4%B8%9C%E6%96%B9%E9%9B%85%E6%80%9D%E5%85%A8%E8%83%BD7%E5%88%86%E6%97%97%E8%88%B0%E5%A4%96%E6%95%99VIP%E5%85%A8%E7%A8%8B%E7%8F%AD/a52ccaeccdbf431e9211ca41022ae9ac-%E9%9B%85%E6%80%9D%E6%97%97%E8%88%B0VIP%E7%9B%B4%E8%BE%BE7%E5%88%86%E7%8F%AD</a></p>
-<p>5000块钱买的 新东方雅思旗舰VIP直达7分班课程</p>
-</blockquote>
-<p>Monaspace</p>
-<blockquote>
-<p>在线地址：<a href="https://github.com/githubnext/monaspace/blob/main/docs/Texture%20Healing.md" target="_blank" rel="noopener noreferrer">https://github.com/githubnext/monaspace/blob/main/docs/Texture%20Healing.md</a></p>
-<p>Github 新出了一篇文章详细描述了它们新出的字体 Monaspace 的一个非常独特的特性 Texture Healing,可以让整个等宽字体的展示更加美观</p>
-</blockquote>
-<p>GG：一个静态博客生成器</p>
-<blockquote>
-<p>在线地址：<a href="https://github.com/lencx/gg" target="_blank" rel="noopener noreferrer">https://github.com/lencx/gg</a></p>
-<p>GG：一个静态博客生成器（基于 GitHub Discussions + Gatsby + GitHub Actions）。Discussions 中的评论也会被生成到 blog 中。只需 Fork 项目，即可部署，不需要写任何代码。 categories 和 labels 会生成文章分类和标签页。</p>
-</blockquote>
-<h2>摘录</h2>
-<blockquote>
-<p>想要快速成为一个领域的专家只需要4个步骤：
-1、主动学习：先钻进去，贪婪学技能
-2、拜访高人：打开眼界，看牛人做事
-3、做出结果：疯狂输出，做事出结果
-4、解决问题：大量帮人，用收费验证
-社会5大圈层的生活状态</p>
-</blockquote>
-<blockquote>
-<p>🔨打工人圈层</p>
-<p>🔸赚钱方式：工资+提成
-🔸思考：吃、穿、完
-🔸主要活动：面对老板和客户</p>
-<p>🧰生意人圈层</p>
-<p>🔸赚钱方式：利润、差价
-🔸思考：下个风口
-🔸主要活动：在市场上奔波</p>
-<p>💻创业者圈层</p>
-<p>🔸赚钱方式：估值
-🔸思考：迭代、升级、需求
-🔸主要活动：人际沟通、保持学习和精进</p>
-<p>💵投资者圈层</p>
-<p>🔸赚钱方式：市值
-🔸思考：人性、社会本质、资本运作
-🔸主要活动：提升认知、商业思维</p>
-<p>💎思想者圈层</p>
-<p>🔸赚：历史名声
-🔸思考：人类文明走向
-🔸主要活动：布局和传道</p>
-</blockquote>
-<p>后续：</p>
-<p>史诗级纪录片TOP10</p>
-<blockquote>
-<p>💡《河西走廊》
-⚒️《伟大的卫国战争》
-👾《天启，第二次世界大战》
-🗼《文明》
-🚀《大国崛起》
-🏄‍♂️《第四公民》
-🕯️《伟大诗人杜甫》
-🛸《超级中国》
-🎮《监守自盗》
-⚖️《楚国800年》</p>
-</blockquote>
-<p>电影：</p>
-<blockquote>
-<p>💡《楚门的世界》评分9.4
-你是真实的，所以大家才怎么爱你
-《寂静人生》评分9.0
-生如夏花之绚烂，死如秋叶之静美
-《美国往事》评分9.0
-当我对所有事情都厌倦的时候我就会想起你
-《狩猎》评分9.1
-你足够虚伪何必害怕魔鬼
-《我不是药神》评分9.0
-有病没有药是天灾有药买不起是人祸
-《超脱》评分9.0
-我的灵魂与我之间的距离如此遥远</p>
-<p>💡《阿甘正传》评分9.5
-生活就像巧克力你永远不知道下一块是什么味道
-《死亡诗社》评分9.2
-大多数人都生活在平静的绝望中
-《美丽人生》评分9.6
-不管受多少伤，都要把最好的留给你
-《闻香识女人》评分9.1
-世界没有坏人，只有在痛苦中的人
-《教父》评分9.3
-永远不要让敌人知道你在想什么
-《永不妥协》评分8.5
-我不需要怜悯.我需要薪水</p>
-<p>💡《步履不停》评分8.8
-你才25岁你可以成为任何你想成为的人
-《海蒂和爷爷》评分9.5
-如果做某些事会让你开心，那么你就只管去做
-《寻梦环游记》评分9.1
-死亡不是生命的终点，遗忘才是
-《伦敦一家人》评分8.8
-胆大不怕路远，技多不怕路绝
-《小森林》评分8.4
-那些静得只能听见呼吸的日子你明白孤独即生活
-《奇迹男孩》评分8.9
-我们要正确的运用力量，用个人魅力去感染他人</p>
-<p>💡《怦然心动》评分9.1
-有时沉默对我们而言，无声胜有声
-《你的名字》评分8.9
-山顶对于半山腰的人来说并不遥远
-《莫娣》评分9.1
-总有一些人看不惯别人的与众不同
-《傲慢与偏见》评分9.3
-太受人器重的时候需要付出很大代价
-《情书》评分8.9
-有病没有药是天灾有药买不起是人祸
-《美丽人生》评分9.6
-为了记住你的笑容我拼命按下心中的快门</p>
-</blockquote>
-<figure><img src="https://img.nnxx.me/file/62ce5e1481b3d7a7460c1.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-]]></content:encoded>
-      <enclosure url="https://img.nnxx.me/file/691b21c45ea675a58a884.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>11-04-血色空间</title>
-      <link>https://weekly.nnxx.me/weekly/2023/11-04-%E8%A1%80%E8%89%B2%E7%A9%BA%E9%97%B4.html</link>
-      <guid>https://weekly.nnxx.me/weekly/2023/11-04-%E8%A1%80%E8%89%B2%E7%A9%BA%E9%97%B4.html</guid>
-      <source url="https://weekly.nnxx.me/rss.xml">11-04-血色空间</source>
-      <description>分享、实用、有趣、共勉 AI LILO 在线论文：https://arxiv.org/abs/2310.19791 项目地址：https://github.com/gabegrand/lilo LILO：迭代地生成、压缩和记录代码，以构建针对特定问题领域的代码库。 LLM（大型语言模型）技术速查手册 在线地址：https://gitee.com/osc...</description>
-      <category>周报</category>
-      <pubDate>Sat, 04 Nov 2023 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<figure><img src="https://img.nnxx.me/file/17f4aafba09d24c20b5a9.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<blockquote>
-<p>分享、实用、有趣、共勉</p>
-</blockquote>
-<h2>AI</h2>
-<p>LILO</p>
-<blockquote>
-<p>在线论文：<a href="https://arxiv.org/abs/2310.19791" target="_blank" rel="noopener noreferrer">https://arxiv.org/abs/2310.19791</a></p>
-<p>项目地址：<a href="https://github.com/gabegrand/lilo" target="_blank" rel="noopener noreferrer">https://github.com/gabegrand/lilo</a></p>
-<p>LILO：迭代地生成、压缩和记录代码，以构建针对特定问题领域的代码库。</p>
-</blockquote>
-<p>LLM（大型语言模型）技术速查手册</p>
-<blockquote>
-<p>在线地址：<a href="https://gitee.com/oschina/llm-map" target="_blank" rel="noopener noreferrer">https://gitee.com/oschina/llm-map</a></p>
-<p>不管你是在研究基础构架、搞大模型开发，还是在做Agent、AI编程，又或者是在找些好用的工具和平台，这份手册上都有最新鲜、最实用的技术干货和一些酷炫的开源项目给你参考</p>
-</blockquote>
-<figure><img src="https://img.nnxx.me/file/0a9ac821f3bf14b8cac37.jpg" alt="LLM" tabindex="0" loading="lazy"><figcaption>LLM</figcaption></figure>
-<p>RAG</p>
-<blockquote>
-<p>项目地址：<a href="https://github.com/ninehills/langeval/blob/main/examples/rag-eval/rag-eval-zh.ipynb" target="_blank" rel="noopener noreferrer">https://github.com/ninehills/langeval/blob/main/examples/rag-eval/rag-eval-zh.ipynb</a></p>
-<p>介绍如何构造数据集和运行评估，使用 Langchain 的RAG 的例子</p>
-</blockquote>
-<p>AI软件可以让chatgpt生成的文案拟人化</p>
-<blockquote>
-<p>在线地址：<a href="https://undetectable.ai/" target="_blank" rel="noopener noreferrer">https://undetectable.ai/</a></p>
-</blockquote>
-<blockquote>
-<p>你可以选择写作风格并选择写作年龄（小学中学大学等） 帮助你一键修改chatgpt的文案</p>
-</blockquote>
-<p>Induced AI</p>
-<blockquote>
-<p>在线地址：<a href="https://www.induced.ai/" target="_blank" rel="noopener noreferrer">https://www.induced.ai/</a></p>
-<p>一个专门为自动化任务而设计的AI原生浏览器RPA平台。</p>
-</blockquote>
-<p>Dot</p>
-<blockquote>
-<p>在线地址：<a href="https://new.computer/" target="_blank" rel="noopener noreferrer">https://new.computer/</a></p>
-<p>一个生动的实例场景展示Dot的使用情况</p>
-</blockquote>
-<p>lumalabs</p>
-<blockquote>
-<p>在线地址：<a href="https://lumalabs.ai/interactive-scenes" target="_blank" rel="noopener noreferrer">https://lumalabs.ai/interactive-scenes</a></p>
-<p>可以用普通照片制作3D模型。然后可以用它们做任何事，甚至可以加载到游戏项目中。</p>
-</blockquote>
-<h2>工具</h2>
-<p>转svg</p>
-<blockquote>
-<p>在线地址：<a href="https://vectorizer.ai/" target="_blank" rel="noopener noreferrer">https://vectorizer.ai/</a></p>
-<p>把任意 jpg/png 转化为真正的 svg 矢量图(最高 2w 像素)</p>
-</blockquote>
-<p>LaTeX 转 HTML</p>
-<blockquote>
-<p>在线地址：<a href="https://math.nist.gov/~BMiller/LaTeXML/get.html" target="_blank" rel="noopener noreferrer">https://math.nist.gov/~BMiller/LaTeXML/get.html</a></p>
-<p>PDF 转 Markdown 没有好用的，但是对于论文来说，不需要从 PDF 转，可以从原始的 LaTeX 转 HTML，然后 HTML 转 Markdown。</p>
-</blockquote>
-<p>4K Video Downloader/plus 中文绿色便携版</p>
-<blockquote>
-<p>在线地址：<a href="https://pan.quark.cn/s/35e669f34562#/list/share" target="_blank" rel="noopener noreferrer">https://pan.quark.cn/s/35e669f34562#/list/share</a></p>
-<p>支持下载B站哔哩哔哩高清视频和音频！<br>
-• 智能下载YouTube高清视频<br>
-• 下载YouTube订阅视频列表<br>
-• 更新获取订阅YouTube频道<br>
-• 下载被限制访问的YouTube视频<br>
-• 采用ZenMate下载被限制的视频<br>
-• 一键下载字幕、分离声音和字幕（独有）<br>
-• 下载60帧360°全景视频、8K/4K超清视频<br>
-• 将YouTube视频文件转换其它多媒体格式</p>
-</blockquote>
-<p>MacKed</p>
-<blockquote>
-<p>在线地址：<a href="https://macked.app/" target="_blank" rel="noopener noreferrer">https://macked.app/</a></p>
-<p>精品MAC软件资源下载 解锁免激活版</p>
-</blockquote>
-<p>Branding Colors —— 品牌配色方案</p>
-<blockquote>
-<p>在线地址：<a href="https://brandingcolors.net" target="_blank" rel="noopener noreferrer">https://brandingcolors.net</a></p>
-<p>精选了 300 多种配色方案，可以按色彩数量、色彩类型、色彩风格筛选。</p>
-</blockquote>
-<h2>扩展</h2>
-<p>SEE+SAW —— 网页设计灵感收集</p>
-<blockquote>
-<p>在线地址：<a href="https://www.seesaw.website/" target="_blank" rel="noopener noreferrer">https://www.seesaw.website/</a></p>
-<p>专门收集优秀网页设计的网站，目前有 113 个案例。</p>
-</blockquote>
-<p>构建外脑 / 智变时代的个人知识管理</p>
-<blockquote>
-<p>在线地址：<a href="https://www.indigox.me/build-exobrain/?ref=indigos-digital-mirror-newsletter" target="_blank" rel="noopener noreferrer">https://www.indigox.me/build-exobrain/?ref=indigos-digital-mirror-newsletter</a></p>
-</blockquote>
-<p>测试数据库题目</p>
-<blockquote>
-<p>在线地址：<a href="https://dalaozhi.org:2053/quiz/" target="_blank" rel="noopener noreferrer">https://dalaozhi.org:2053/quiz/</a></p>
-<p>支持mysql、oracle、sql Server、PostgreSQL</p>
-</blockquote>
-<p>阿里云数据库内核月报</p>
-<blockquote>
-<p>在线地址：<a href="http://mysql.taobao.org/monthly/" target="_blank" rel="noopener noreferrer">http://mysql.taobao.org/monthly/</a></p>
-<p>使是CRUD应用开发工程师而非做db内核的人，也有很多有用的知识值得我们学习和参考</p>
-</blockquote>
-<p>lsp-bridge</p>
-<blockquote>
-<p>在线地址：<a href="https://github.com/manateelazycat/lsp-bridge/pull/765" target="_blank" rel="noopener noreferrer">https://github.com/manateelazycat/lsp-bridge/pull/765</a></p>
-<p>语义高亮已经实现。</p>
-</blockquote>
-<p>Nerd Font 字体项目</p>
-<blockquote>
-<p>在线地址：<a href="https://github.com/ryanoasis/nerd-fonts" target="_blank" rel="noopener noreferrer">https://github.com/ryanoasis/nerd-fonts</a></p>
-<p>下载地址：<a href="https://www.nerdfonts.com/font-downloads" target="_blank" rel="noopener noreferrer">https://www.nerdfonts.com/font-downloads</a></p>
-</blockquote>
-<p>Reminders MenuBar</p>
-<blockquote>
-<p>在线地址：<a href="https://github.com/DamascenoRafael/reminders-menubar" target="_blank" rel="noopener noreferrer">https://github.com/DamascenoRafael/reminders-menubar</a></p>
-<p>一个为 macOS 设计的便捷菜单栏应用，可以让用户直接在菜单栏轻松管理 Apple 提醒事项，如同步、创建、编辑和筛选等操作。</p>
-</blockquote>
-<p>用 RSS 链接快速搭起播客网站</p>
-<blockquote>
-<p>在线地址：<a href="https://github.com/CaliCastle/cali-fm" target="_blank" rel="noopener noreferrer">https://github.com/CaliCastle/cali-fm</a></p>
-</blockquote>
-<p>最后：</p>
-<blockquote>
-<p>从小就被灌输要努力学习和工作的人，潜意识里，一天不学习/工作/挣钱，就会产生一种负罪感，或者不安全感，觉得在荒废光阴。这种潜意识到了极致，就会产生很多荒谬现象，比如很多人牺牲健康去创业挣钱，即使自己知道有问题也无法摆脱。</p>
-</blockquote>
-]]></content:encoded>
-      <enclosure url="https://img.nnxx.me/file/17f4aafba09d24c20b5a9.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
